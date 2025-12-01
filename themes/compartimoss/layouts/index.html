@@ -1,0 +1,92 @@
+{{ define "main" }}
+<!-- Hero Section -->
+<section class="hero">
+  <div class="hero-content container">
+    <h1>Bienvenidos al sitio de CompartiMOSS</h1>
+    <p>La revista digital de habla hispana en la que se escribe sobre la tecnología Microsoft y todo lo relacionado con ésta</p>
+  </div>
+</section>
+
+<!-- Latest Articles Section -->
+<section class="container py-12">
+  <div class="section-header">
+    <h2>Últimos Artículos</h2>
+    <a href="{{ "articulos" | relURL }}" class="section-link">
+      Ver todos
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12,5 19,12 12,19"/></svg>
+    </a>
+  </div>
+
+  <div class="grid grid-cols-1 md-grid-cols-2 lg-grid-cols-3 gap-6">
+    {{ range first 5 (where .Site.RegularPages "Section" "articulos") }}
+    <a href="{{ .Permalink }}" class="article-card">
+      <div class="article-card-image">
+        <img src="{{ .Params.image }}" alt="{{ .Title }}">
+      </div>
+      <div class="article-card-content">
+        <h3 class="article-card-title">{{ .Title }}</h3>
+        <p class="article-card-excerpt">{{ .Params.excerpt }}</p>
+        <div class="article-card-meta">
+          <div class="article-card-meta-item">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+            <span>{{ .Params.author }}</span>
+          </div>
+          <div class="article-card-meta-item">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+            <span>{{ .Date.Format "2 January 2006" }}</span>
+          </div>
+        </div>
+      </div>
+    </a>
+    {{ end }}
+  </div>
+</section>
+
+<!-- Featured Magazines Section -->
+<section class="bg-gray-50 py-12">
+  <div class="container">
+    <div class="section-header">
+      <h2>Revistas Publicadas</h2>
+      <a href="{{ "revistas" | relURL }}" class="section-link">
+        Ver todas
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12,5 19,12 12,19"/></svg>
+      </a>
+    </div>
+    <p class="text-gray-600 mb-6">
+      Explora nuestras revistas digitales con contenido especializado en Microsoft y tecnologías relacionadas.
+    </p>
+    <a href="{{ "revistas" | relURL }}" class="btn btn-orange">
+      Explorar Revistas
+    </a>
+  </div>
+</section>
+
+<!-- Community Section -->
+<section class="container py-12">
+  <div class="grid grid-cols-1 md-grid-cols-3 gap-8">
+    <a href="{{ "podcast" | relURL }}" class="feature-box">
+      <div class="feature-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><line x1="12" y1="19" x2="12" y2="22"/></svg>
+      </div>
+      <h3>Podcast</h3>
+      <p>Escucha nuestras conversaciones con expertos de la comunidad tecnológica.</p>
+    </a>
+
+    <a href="{{ "entrevistas" | relURL }}" class="feature-box">
+      <div class="feature-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="7"/><polyline points="8.21 13.89 7 23 12 20 17 23 15.79 13.88"/></svg>
+      </div>
+      <h3>Entrevistas MVP</h3>
+      <p>Conoce a los Microsoft MVPs y sus historias inspiradoras.</p>
+    </a>
+
+    <a href="{{ "autores" | relURL }}" class="feature-box">
+      <div class="feature-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+      </div>
+      <h3>Autores</h3>
+      <p>Descubre a los expertos que comparten su conocimiento en CompartiMOSS.</p>
+    </a>
+  </div>
+</section>
+{{ end }}

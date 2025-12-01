@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="es">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Power Apps Canvas: Mejores Prácticas | CompartiMOSS</title>
+  <meta name="description" content="La revista digital de habla hispana en la que se escribe sobre la tecnología Microsoft y todo lo relacionado con ésta">
+  <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+  <header class="site-header">
+  <div class="container">
+    <div class="header-content">
+      
+      <a href="/" class="logo">
+        <div class="logo-bars">
+          <div class="logo-bar logo-bar-pink"></div>
+          <div class="logo-bar logo-bar-orange"></div>
+          <div class="logo-bar logo-bar-green"></div>
+        </div>
+        <div class="logo-text">
+          <span>Comparti</span><span>MOSS</span>
+        </div>
+      </a>
+
+      
+      <nav class="nav-desktop">
+        
+        <a href="/" class="nav-link">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9,22 9,12 15,12 15,22"/></svg>
+          
+          <span>Inicio</span>
+        </a>
+        
+        <a href="/articulos/" class="nav-link">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2z"/><polyline points="14,2 14,8 20,8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><line x1="10" y1="9" x2="8" y2="9"/></svg>
+          
+          <span>Artículos</span>
+        </a>
+        
+        <a href="/revistas/" class="nav-link">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
+          
+          <span>Revistas</span>
+        </a>
+        
+        <a href="/autores/" class="nav-link">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+          
+          <span>Autores</span>
+        </a>
+        
+        <a href="/podcast/" class="nav-link">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><line x1="12" y1="19" x2="12" y2="22"/></svg>
+          
+          <span>Podcast</span>
+        </a>
+        
+        <a href="/entrevistas/" class="nav-link">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+          
+          <span>Entrevistas</span>
+        </a>
+        
+        <a href="/nosotros/" class="nav-link">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+          
+          <span>Nosotros</span>
+        </a>
+        
+      </nav>
+
+      
+      <button id="mobile-menu-btn" class="mobile-menu-btn" aria-label="Toggle menu">
+        <svg id="menu-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+        <svg id="close-icon" class="hidden" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+      </button>
+    </div>
+
+    
+    <nav id="mobile-nav" class="nav-mobile hidden">
+      
+      <a href="/" class="nav-link">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9,22 9,12 15,12 15,22"/></svg>
+        
+        <span>Inicio</span>
+      </a>
+      
+      <a href="/articulos/" class="nav-link">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2z"/><polyline points="14,2 14,8 20,8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><line x1="10" y1="9" x2="8" y2="9"/></svg>
+        
+        <span>Artículos</span>
+      </a>
+      
+      <a href="/revistas/" class="nav-link">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
+        
+        <span>Revistas</span>
+      </a>
+      
+      <a href="/autores/" class="nav-link">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+        
+        <span>Autores</span>
+      </a>
+      
+      <a href="/podcast/" class="nav-link">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><line x1="12" y1="19" x2="12" y2="22"/></svg>
+        
+        <span>Podcast</span>
+      </a>
+      
+      <a href="/entrevistas/" class="nav-link">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+        
+        <span>Entrevistas</span>
+      </a>
+      
+      <a href="/nosotros/" class="nav-link">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+        
+        <span>Nosotros</span>
+      </a>
+      
+    </nav>
+  </div>
+</header>
+
+<script>
+  const mobileMenuBtn = document.getElementById('mobile-menu-btn');
+  const mobileNav = document.getElementById('mobile-nav');
+  const menuIcon = document.getElementById('menu-icon');
+  const closeIcon = document.getElementById('close-icon');
+
+  mobileMenuBtn.addEventListener('click', () => {
+    mobileNav.classList.toggle('hidden');
+    menuIcon.classList.toggle('hidden');
+    closeIcon.classList.toggle('hidden');
+  });
+</script>
+
+  
+  <main class="flex-1">
+    
+
+
+
+
+<div class="bg-gradient-pink-orange-horizontal text-white">
+  <div class="container-narrow py-8">
+    <a href="http://localhost:1313/revistas/numero-9/" class="back-link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12,19 5,12 12,5"/></svg>
+      Volver a Revista CompartiMOSS Nº9 - Power Platform
+    </a>
+    
+    <div class="breadcrumb">
+      <a href="/revistas">Revistas</a>
+      <span>/</span>
+      <a href="http://localhost:1313/revistas/numero-9/">Número 9</a>
+    </div>
+    
+    <h1 class="text-white mb-4">Power Apps Canvas: Mejores Prácticas</h1>
+    
+    <div class="article-meta">
+      <div class="article-meta-item">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+        
+        <a href="/autores/ferran-chopo/">Ferran Chopo</a>
+        
+      </div>
+    </div>
+    
+    
+  </div>
+</div>
+
+
+<article class="article-content container-narrow">
+  <p class="excerpt">Optimiza tus aplicaciones Canvas con estas técnicas probadas.</p>
+  <div class="content">
+    <p>Las aplicaciones Canvas de Power Apps ofrecen flexibilidad increíble, pero requieren buenas prácticas para maximizar su rendimiento y mantenibilidad.</p>
+<h2 id="fundamentos-de-diseño">Fundamentos de Diseño</h2>
+<h3 id="organización-de-pantallas">Organización de Pantallas</h3>
+<p>Una buena estructura de pantallas es fundamental:</p>
+<ul>
+<li><strong>Pantalla de inicio</strong>: Punto de entrada claro para los usuarios</li>
+<li><strong>Navegación consistente</strong>: Usa componentes reutilizables</li>
+<li><strong>Flujo lógico</strong>: Los usuarios deben entender cómo moverse</li>
+</ul>
+<h3 id="nomenclatura">Nomenclatura</h3>
+<p>Adopta convenciones de nombres claras:</p>
+<ul>
+<li><code>scr_</code> para pantallas (ej: <code>scr_Home</code>)</li>
+<li><code>btn_</code> para botones (ej: <code>btn_Submit</code>)</li>
+<li><code>txt_</code> para inputs de texto (ej: <code>txt_Email</code>)</li>
+<li><code>gal_</code> para galerías (ej: <code>gal_Products</code>)</li>
+</ul>
+<h2 id="optimización-de-rendimiento">Optimización de Rendimiento</h2>
+<h3 id="delegación">Delegación</h3>
+<p>La delegación es crucial para trabajar con grandes volúmenes de datos:</p>
+<ul>
+<li>Usa funciones delegables como <code>Filter</code>, <code>Sort</code>, <code>Search</code></li>
+<li>Evita <code>Collect</code> para datasets grandes</li>
+<li>Configura el límite de registros apropiadamente</li>
+</ul>
+<h3 id="carga-de-datos">Carga de Datos</h3>
+<p>Optimiza cómo cargas datos:</p>
+<ul>
+<li>Usa <code>Concurrent()</code> para cargas paralelas</li>
+<li>Implementa carga diferida cuando sea posible</li>
+<li>Cachea datos que no cambian frecuentemente</li>
+</ul>
+<h2 id="componentes-reutilizables">Componentes Reutilizables</h2>
+<h3 id="crear-componentes">Crear Componentes</h3>
+<p>Los componentes te permiten:</p>
+<ul>
+<li>Reutilizar lógica y diseño</li>
+<li>Mantener consistencia visual</li>
+<li>Facilitar el mantenimiento</li>
+</ul>
+<h3 id="propiedades-personalizadas">Propiedades Personalizadas</h3>
+<p>Define propiedades para hacer tus componentes flexibles:</p>
+<ul>
+<li>Propiedades de entrada para configuración</li>
+<li>Propiedades de salida para comunicación</li>
+<li>Propiedades de comportamiento para eventos</li>
+</ul>
+<h2 id="manejo-de-errores">Manejo de Errores</h2>
+<h3 id="validación">Validación</h3>
+<p>Implementa validación robusta:</p>
+<ul>
+<li>Valida inputs antes de enviar</li>
+<li>Muestra mensajes de error claros</li>
+<li>Usa <code>IsBlank()</code> y <code>IsError()</code> apropiadamente</li>
+</ul>
+<h3 id="notificaciones">Notificaciones</h3>
+<p>Comunica el estado al usuario:</p>
+<ul>
+<li>Usa <code>Notify()</code> para feedback</li>
+<li>Implementa indicadores de carga</li>
+<li>Maneja errores de conexión graciosamente</li>
+</ul>
+<h2 id="conclusión">Conclusión</h2>
+<p>Seguir estas mejores prácticas te ayudará a crear aplicaciones Canvas más robustas, mantenibles y con mejor rendimiento. La clave está en la planificación y la consistencia.</p>
+
+  </div>
+
+  
+  <div class="magazine-box">
+    <div class="magazine-box-content">
+      <div class="magazine-box-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
+      </div>
+      <div>
+        <h3>De la revista Revista CompartiMOSS Nº9 - Power Platform</h3>
+        <p>Todo sobre Power Platform: Power Apps, Power Automate, Power BI y Copilot Studio.</p>
+        <a href="http://localhost:1313/revistas/numero-9/">Ver más artículos de esta revista →</a>
+      </div>
+    </div>
+  </div>
+</article>
+
+  </main>
+  
+  <footer class="site-footer">
+  <div class="container">
+    <div class="footer-content">
+      <div class="social-links">
+        <a href="https://linkedin.com/company/compartimoss" target="_blank" rel="noopener noreferrer" class="social-link bg-linkedin" aria-label="LinkedIn">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg>
+        </a>
+        <a href="https://twitter.com/compartimoss" target="_blank" rel="noopener noreferrer" class="social-link bg-twitter" aria-label="Twitter">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"/></svg>
+        </a>
+      </div>
+      <div class="footer-text">
+        Powered by <span class="highlight">CompartiMOSS</span>
+      </div>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>

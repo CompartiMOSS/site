@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Revista CompartiMOSS Nº9 - Power Platform on CompartiMOSS</title>
+    <link>http://localhost:1313/revistas/numero-9/</link>
+    <description>Recent content in Revista CompartiMOSS Nº9 - Power Platform on CompartiMOSS</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/revistas/numero-9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Construyendo Flujos Complejos en Power Automate</title>
+      <link>http://localhost:1313/revistas/numero-9/power-automate-flujos-complejos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/revistas/numero-9/power-automate-flujos-complejos/</guid>
+      <description>&lt;p&gt;Power Automate permite crear automatizaciones complejas que integran múltiples sistemas y manejan lógica de negocio sofisticada.&lt;/p&gt;&#xA;&lt;h2 id=&#34;arquitectura-de-flujos&#34;&gt;Arquitectura de Flujos&lt;/h2&gt;&#xA;&lt;h3 id=&#34;flujos-padres-e-hijos&#34;&gt;Flujos Padres e Hijos&lt;/h3&gt;&#xA;&lt;p&gt;Organiza flujos complejos usando el patrón padre-hijo:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Flujo padre&lt;/strong&gt;: Orquesta el proceso general&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Flujos hijos&lt;/strong&gt;: Ejecutan tareas específicas&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Comunicación&lt;/strong&gt;: Usa HTTP o acciones de flujo hijo&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;manejo-de-estados&#34;&gt;Manejo de Estados&lt;/h3&gt;&#xA;&lt;p&gt;Implementa seguimiento de estados:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Usa variables para tracking&lt;/li&gt;&#xA;&lt;li&gt;Almacena estados en SharePoint o Dataverse&lt;/li&gt;&#xA;&lt;li&gt;Implementa lógica de recuperación&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;patrones-avanzados&#34;&gt;Patrones Avanzados&lt;/h2&gt;&#xA;&lt;h3 id=&#34;procesamiento-por-lotes&#34;&gt;Procesamiento por Lotes&lt;/h3&gt;&#xA;&lt;p&gt;Para grandes volúmenes de datos:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Power Apps Canvas: Mejores Prácticas</title>
+      <link>http://localhost:1313/revistas/numero-9/power-apps-canvas-mejores-practicas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/revistas/numero-9/power-apps-canvas-mejores-practicas/</guid>
+      <description>&lt;p&gt;Las aplicaciones Canvas de Power Apps ofrecen flexibilidad increíble, pero requieren buenas prácticas para maximizar su rendimiento y mantenibilidad.&lt;/p&gt;&#xA;&lt;h2 id=&#34;fundamentos-de-diseño&#34;&gt;Fundamentos de Diseño&lt;/h2&gt;&#xA;&lt;h3 id=&#34;organización-de-pantallas&#34;&gt;Organización de Pantallas&lt;/h3&gt;&#xA;&lt;p&gt;Una buena estructura de pantallas es fundamental:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Pantalla de inicio&lt;/strong&gt;: Punto de entrada claro para los usuarios&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Navegación consistente&lt;/strong&gt;: Usa componentes reutilizables&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Flujo lógico&lt;/strong&gt;: Los usuarios deben entender cómo moverse&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;nomenclatura&#34;&gt;Nomenclatura&lt;/h3&gt;&#xA;&lt;p&gt;Adopta convenciones de nombres claras:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;code&gt;scr_&lt;/code&gt; para pantallas (ej: &lt;code&gt;scr_Home&lt;/code&gt;)&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;btn_&lt;/code&gt; para botones (ej: &lt;code&gt;btn_Submit&lt;/code&gt;)&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;txt_&lt;/code&gt; para inputs de texto (ej: &lt;code&gt;txt_Email&lt;/code&gt;)&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;gal_&lt;/code&gt; para galerías (ej: &lt;code&gt;gal_Products&lt;/code&gt;)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;optimización-de-rendimiento&#34;&gt;Optimización de Rendimiento&lt;/h2&gt;&#xA;&lt;h3 id=&#34;delegación&#34;&gt;Delegación&lt;/h3&gt;&#xA;&lt;p&gt;La delegación es crucial para trabajar con grandes volúmenes de datos:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

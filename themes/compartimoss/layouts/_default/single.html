@@ -1,0 +1,15 @@
+{{ define "main" }}
+<div class="container py-12">
+  <article class="container-narrow">
+    <h1 class="mb-8 text-gray-900">{{ .Title }}</h1>
+    
+    {{ with .Params.image }}
+    <img src="{{ . }}" alt="{{ $.Title }}" class="w-full rounded-lg mb-8">
+    {{ end }}
+    
+    <div class="content leading-relaxed text-gray-800">
+      {{ .Content }}
+    </div>
+  </article>
+</div>
+{{ end }}

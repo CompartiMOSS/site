@@ -1,0 +1,12 @@
+name = "CompartiMOSS"
+license = "MIT"
+licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE"
+description = "Custom theme for CompartiMOSS - Spanish Microsoft community website"
+homepage = "https://compartimoss.com"
+tags = ["blog", "magazine", "community", "microsoft"]
+features = ["responsive", "custom-css"]
+min_version = "0.120.0"
+
+[author]
+  name = "CompartiMOSS Team"
+  homepage = "https://compartimoss.com"

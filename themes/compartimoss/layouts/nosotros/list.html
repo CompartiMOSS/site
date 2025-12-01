@@ -1,0 +1,69 @@
+{{ define "main" }}
+<!-- Hero Section -->
+<div class="hero-simple">
+  <div class="container">
+    <h1>Sobre CompartiMOSS</h1>
+    <p>La revista digital de habla hispana dedicada a la tecnología Microsoft y todo lo relacionado con ella.</p>
+  </div>
+</div>
+
+<!-- Main Content -->
+<div class="about-content container-narrow">
+  <h2>Nuestra Misión</h2>
+  <p>CompartiMOSS nace con el objetivo de crear una comunidad de habla hispana dedicada a compartir conocimiento sobre tecnologías Microsoft. Creemos en el poder de la colaboración y el aprendizaje continuo para hacer crecer a la comunidad tecnológica.</p>
+
+  <h2>¿Qué Ofrecemos?</h2>
+  <p>Nuestra plataforma ofrece múltiples formas de acceder a contenido de calidad creado por expertos de la comunidad Microsoft:</p>
+
+  <div class="about-features">
+    <div class="about-feature">
+      <div class="about-feature-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
+      </div>
+      <h3>Revistas Digitales</h3>
+      <p>Publicaciones periódicas con artículos en profundidad sobre tecnologías Microsoft, escritos por expertos de la comunidad.</p>
+    </div>
+
+    <div class="about-feature">
+      <div class="about-feature-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2z"/><polyline points="14,2 14,8 20,8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><line x1="10" y1="9" x2="8" y2="9"/></svg>
+      </div>
+      <h3>Artículos del Blog</h3>
+      <p>Contenido actualizado regularmente con tutoriales, guías y mejores prácticas sobre las últimas tecnologías.</p>
+    </div>
+
+    <div class="about-feature">
+      <div class="about-feature-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><line x1="12" y1="19" x2="12" y2="22"/></svg>
+      </div>
+      <h3>Podcast</h3>
+      <p>Conversaciones con expertos de la comunidad sobre tendencias, tecnologías y experiencias en el ecosistema Microsoft.</p>
+    </div>
+
+    <div class="about-feature">
+      <div class="about-feature-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="7"/><polyline points="8.21 13.89 7 23 12 20 17 23 15.79 13.88"/></svg>
+      </div>
+      <h3>Entrevistas MVP</h3>
+      <p>Conoce a los Microsoft MVPs de la comunidad hispana y aprende de sus experiencias y conocimientos.</p>
+    </div>
+  </div>
+
+  <h2>Nuestra Comunidad</h2>
+  <p>CompartiMOSS es más que una revista digital. Es una comunidad vibrante de profesionales, desarrolladores, administradores y entusiastas de la tecnología Microsoft que comparten una pasión por aprender y ayudar a otros a crecer profesionalmente.</p>
+
+  <p>Nuestros autores son profesionales reconocidos en la comunidad, muchos de ellos Microsoft MVPs, que dedican su tiempo a compartir su experiencia y conocimientos con la comunidad de habla hispana.</p>
+
+  <h2>Únete a Nosotros</h2>
+  <p>Si estás interesado en contribuir con artículos, participar en nuestro podcast, o simplemente quieres ser parte de nuestra comunidad, te invitamos a conectar con nosotros.</p>
+
+  <div class="cta-box mt-12">
+    <h3>Explora Nuestro Contenido</h3>
+    <div class="cta-buttons">
+      <a href="{{ "revistas" | relURL }}" class="btn btn-pink">Ver Revistas</a>
+      <a href="{{ "articulos" | relURL }}" class="btn btn-orange">Leer Artículos</a>
+      <a href="{{ "autores" | relURL }}" class="btn btn-gray">Conocer Autores</a>
+    </div>
+  </div>
+</div>
+{{ end }}

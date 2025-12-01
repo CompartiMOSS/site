@@ -1,0 +1,57 @@
+baseURL = 'https://compartimoss.com/'
+languageCode = 'es'
+title = 'CompartiMOSS'
+theme = 'compartimoss'
+
+[params]
+  description = 'La revista digital de habla hispana en la que se escribe sobre la tecnología Microsoft y todo lo relacionado con ésta'
+  primaryPink = '#E91E63'
+  primaryOrange = '#FF9800'
+  twitterUrl = 'https://twitter.com/compartimoss'
+  linkedinUrl = 'https://linkedin.com/company/compartimoss'
+
+[menu]
+  [[menu.main]]
+    identifier = 'home'
+    name = 'Inicio'
+    url = '/'
+    weight = 1
+  [[menu.main]]
+    identifier = 'articulos'
+    name = 'Artículos'
+    url = '/articulos/'
+    weight = 2
+  [[menu.main]]
+    identifier = 'revistas'
+    name = 'Revistas'
+    url = '/revistas/'
+    weight = 3
+  [[menu.main]]
+    identifier = 'autores'
+    name = 'Autores'
+    url = '/autores/'
+    weight = 4
+  [[menu.main]]
+    identifier = 'podcast'
+    name = 'Podcast'
+    url = '/podcast/'
+    weight = 5
+  [[menu.main]]
+    identifier = 'entrevistas'
+    name = 'Entrevistas'
+    url = '/entrevistas/'
+    weight = 6
+  [[menu.main]]
+    identifier = 'nosotros'
+    name = 'Nosotros'
+    url = '/nosotros/'
+    weight = 7
+
+[taxonomies]
+  category = 'categories'
+  author = 'authors'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

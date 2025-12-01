@@ -1,0 +1,31 @@
+- id: "1"
+  slug: "ep-25-futuro-ia-microsoft-365"
+  title: "Episodio 25: El Futuro de la IA en Microsoft 365"
+  description: "Conversamos sobre las últimas innovaciones en inteligencia artificial dentro del ecosistema Microsoft 365 y cómo están transformando el trabajo."
+  date: "20 de noviembre de 2024"
+  duration: "45:30"
+  audioUrl: "#"
+  guests:
+    - "Juan Carlos González Rodríguez"
+    - "Alberto Díaz Martín"
+
+- id: "2"
+  slug: "ep-24-power-platform-casos-exito"
+  title: "Episodio 24: Power Platform - Casos de Éxito"
+  description: "Exploramos casos reales de empresas que han transformado sus procesos con Power Platform."
+  date: "6 de noviembre de 2024"
+  duration: "52:15"
+  audioUrl: "#"
+  guests:
+    - "Ferran Chopo"
+    - "Santiago Porras Rodríguez"
+
+- id: "3"
+  slug: "ep-23-azure-devops-mejores-practicas"
+  title: "Episodio 23: Azure DevOps - Mejores Prácticas"
+  description: "Discutimos las mejores prácticas para implementar CI/CD con Azure DevOps en proyectos empresariales."
+  date: "23 de octubre de 2024"
+  duration: "48:20"
+  audioUrl: "#"
+  guests:
+    - "Adrián Díaz Cervera"

@@ -1,0 +1,63 @@
+{{ define "main" }}
+{{/* Find the parent magazine - it's the section's _index.md */}}
+{{ $magazine := .Parent }}
+
+<!-- Breadcrumb Header -->
+<div class="bg-gradient-pink-orange-horizontal text-white">
+  <div class="container-narrow py-8">
+    <a href="{{ $magazine.Permalink }}" class="back-link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12,19 5,12 12,5"/></svg>
+      Volver a {{ $magazine.Title }}
+    </a>
+    
+    <div class="breadcrumb">
+      <a href="{{ "revistas" | relURL }}">Revistas</a>
+      <span>/</span>
+      <a href="{{ $magazine.Permalink }}">Número {{ $magazine.Params.number }}</a>
+    </div>
+    
+    <h1 class="text-white mb-4">{{ .Title }}</h1>
+    
+    <div class="article-meta">
+      <div class="article-meta-item">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+        {{ with .Params.authorSlug }}
+        <a href="{{ printf "/autores/%s/" . | relURL }}">{{ $.Params.author }}</a>
+        {{ else }}
+        <span>{{ .Params.author }}</span>
+        {{ end }}
+      </div>
+    </div>
+    
+    {{ with .Params.tags }}
+    <div class="article-tags">
+      {{ range . }}
+      <span class="tag">{{ . }}</span>
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
+</div>
+
+<!-- Article Content -->
+<article class="article-content container-narrow">
+  <p class="excerpt">{{ .Params.excerpt }}</p>
+  <div class="content">
+    {{ .Content }}
+  </div>
+
+  <!-- Magazine Info -->
+  <div class="magazine-box">
+    <div class="magazine-box-content">
+      <div class="magazine-box-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
+      </div>
+      <div>
+        <h3>De la revista {{ $magazine.Title }}</h3>
+        <p>{{ $magazine.Params.description }}</p>
+        <a href="{{ $magazine.Permalink }}">Ver más artículos de esta revista →</a>
+      </div>
+    </div>
+  </div>
+</article>
+{{ end }}
