@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Artículos on CompartiMOSS</title>
-    <link>http://localhost:1313/articulos/</link>
+    <link>https://compartimoss.com/articulos/</link>
     <description>Recent content in Artículos on CompartiMOSS</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Thu, 28 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/articulos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://compartimoss.com/articulos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Administra Microsoft 365 a otro nivel con Copilot por Juan Carlos González Rodríguez</title>
-      <link>http://localhost:1313/articulos/administra-microsoft-365-copilot/</link>
+      <link>https://compartimoss.com/articulos/administra-microsoft-365-copilot/</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/articulos/administra-microsoft-365-copilot/</guid>
-      <description>&lt;p&gt;Copilot para Microsoft 365 representa un cambio fundamental en cómo los administradores gestionan sus entornos. Con capacidades de IA avanzadas, permite automatizar tareas complejas, obtener insights en tiempo real y optimizar la gestión de recursos&amp;hellip;&lt;/p&gt;</description>
+      <guid>https://compartimoss.com/articulos/administra-microsoft-365-copilot/</guid>
+      <description>Copilot para Microsoft 365 representa un cambio fundamental en cómo los administradores gestionan sus entornos. Con capacidades de IA avanzadas, permite automatizar tareas complejas, obtener insights en tiempo real y optimizar la gestión de recursos&amp;hellip;</description>
     </item>
     <item>
       <title>Cómo configurar la autenticación de usuarios final para acciones en Copilot Studio por Ferran Chopo</title>
-      <link>http://localhost:1313/articulos/configurar-autenticacion-usuarios/</link>
+      <link>https://compartimoss.com/articulos/configurar-autenticacion-usuarios/</link>
       <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/articulos/configurar-autenticacion-usuarios/</guid>
-      <description>&lt;p&gt;La autenticación de usuarios es crucial para garantizar la seguridad en Copilot Studio. En este artículo exploramos las mejores prácticas y configuraciones paso a paso&amp;hellip;&lt;/p&gt;</description>
+      <guid>https://compartimoss.com/articulos/configurar-autenticacion-usuarios/</guid>
+      <description>La autenticación de usuarios es crucial para garantizar la seguridad en Copilot Studio. En este artículo exploramos las mejores prácticas y configuraciones paso a paso&amp;hellip;</description>
     </item>
     <item>
       <title>¿Qué son los Datos ROTT? por José Manuel Castillo García</title>
-      <link>http://localhost:1313/articulos/datos-rott-jose-manuel-castillo/</link>
+      <link>https://compartimoss.com/articulos/datos-rott-jose-manuel-castillo/</link>
       <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/articulos/datos-rott-jose-manuel-castillo/</guid>
-      <description>&lt;p&gt;ROTT (Redundant, Obsolete, Trivial, and Temporary) representa un desafío significativo en la gestión de datos empresariales. Comprender y gestionar estos datos es esencial&amp;hellip;&lt;/p&gt;</description>
+      <guid>https://compartimoss.com/articulos/datos-rott-jose-manuel-castillo/</guid>
+      <description>ROTT (Redundant, Obsolete, Trivial, and Temporary) representa un desafío significativo en la gestión de datos empresariales. Comprender y gestionar estos datos es esencial&amp;hellip;</description>
     </item>
     <item>
       <title>Controla tus dependencias sin morir en el intento por Adrián Díaz Cervera</title>
-      <link>http://localhost:1313/articulos/dependencias-sin-morir-adrian-diaz/</link>
+      <link>https://compartimoss.com/articulos/dependencias-sin-morir-adrian-diaz/</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/articulos/dependencias-sin-morir-adrian-diaz/</guid>
-      <description>&lt;p&gt;La gestión de dependencias es uno de los retos más importantes en el desarrollo de software moderno. Aprende técnicas y herramientas para mantener el control&amp;hellip;&lt;/p&gt;</description>
+      <guid>https://compartimoss.com/articulos/dependencias-sin-morir-adrian-diaz/</guid>
+      <description>La gestión de dependencias es uno de los retos más importantes en el desarrollo de software moderno. Aprende técnicas y herramientas para mantener el control&amp;hellip;</description>
     </item>
     <item>
       <title>Entrevista a Mar Pedroche por Mar Pedroche</title>
-      <link>http://localhost:1313/articulos/entrevista-mar-pedroche/</link>
+      <link>https://compartimoss.com/articulos/entrevista-mar-pedroche/</link>
       <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/articulos/entrevista-mar-pedroche/</guid>
-      <description>&lt;p&gt;Mar Pedroche comparte su experiencia, visión y consejos para profesionales que buscan crecer en el ecosistema Microsoft&amp;hellip;&lt;/p&gt;</description>
+      <guid>https://compartimoss.com/articulos/entrevista-mar-pedroche/</guid>
+      <description>Mar Pedroche comparte su experiencia, visión y consejos para profesionales que buscan crecer en el ecosistema Microsoft&amp;hellip;</description>
     </item>
     <item>
       <title>.NET AI Template, primeras impresiones por Santiago Porras Rodríguez</title>
-      <link>http://localhost:1313/articulos/dotnet-template-primeras-impresiones/</link>
+      <link>https://compartimoss.com/articulos/dotnet-template-primeras-impresiones/</link>
       <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/articulos/dotnet-template-primeras-impresiones/</guid>
-      <description>&lt;p&gt;Las nuevas plantillas de .NET con capacidades de IA integradas abren un mundo de posibilidades. Exploramos sus características y casos de uso&amp;hellip;&lt;/p&gt;</description>
+      <guid>https://compartimoss.com/articulos/dotnet-template-primeras-impresiones/</guid>
+      <description>Las nuevas plantillas de .NET con capacidades de IA integradas abren un mundo de posibilidades. Exploramos sus características y casos de uso&amp;hellip;</description>
     </item>
   </channel>
 </rss>

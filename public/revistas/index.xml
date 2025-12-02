@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Revistas on CompartiMOSS</title>
-    <link>http://localhost:1313/revistas/</link>
+    <link>https://compartimoss.com/revistas/</link>
     <description>Recent content in Revistas on CompartiMOSS</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/revistas/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://compartimoss.com/revistas/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

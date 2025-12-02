@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Autores on CompartiMOSS</title>
-    <link>http://localhost:1313/autores/</link>
+    <link>https://compartimoss.com/autores/</link>
     <description>Recent content in Autores on CompartiMOSS</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <atom:link href="http://localhost:1313/autores/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://compartimoss.com/autores/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Adrián Díaz Cervera</title>
-      <link>http://localhost:1313/autores/adrian-diaz-cervera/</link>
+      <link>https://compartimoss.com/autores/adrian-diaz-cervera/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/autores/adrian-diaz-cervera/</guid>
+      <guid>https://compartimoss.com/autores/adrian-diaz-cervera/</guid>
       <description></description>
     </item>
     <item>
       <title>Alberto Díaz Martín</title>
-      <link>http://localhost:1313/autores/alberto-diaz/</link>
+      <link>https://compartimoss.com/autores/alberto-diaz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/autores/alberto-diaz/</guid>
+      <guid>https://compartimoss.com/autores/alberto-diaz/</guid>
       <description></description>
     </item>
     <item>
       <title>Ferran Chopo</title>
-      <link>http://localhost:1313/autores/ferran-chopo/</link>
+      <link>https://compartimoss.com/autores/ferran-chopo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/autores/ferran-chopo/</guid>
+      <guid>https://compartimoss.com/autores/ferran-chopo/</guid>
       <description></description>
     </item>
     <item>
       <title>José Manuel Castillo García</title>
-      <link>http://localhost:1313/autores/jose-manuel-castillo/</link>
+      <link>https://compartimoss.com/autores/jose-manuel-castillo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/autores/jose-manuel-castillo/</guid>
+      <guid>https://compartimoss.com/autores/jose-manuel-castillo/</guid>
       <description></description>
     </item>
     <item>
       <title>Juan Carlos González Rodríguez</title>
-      <link>http://localhost:1313/autores/juan-carlos-gonzalez/</link>
+      <link>https://compartimoss.com/autores/juan-carlos-gonzalez/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/autores/juan-carlos-gonzalez/</guid>
+      <guid>https://compartimoss.com/autores/juan-carlos-gonzalez/</guid>
       <description></description>
     </item>
     <item>
       <title>Mar Pedroche</title>
-      <link>http://localhost:1313/autores/mar-pedroche/</link>
+      <link>https://compartimoss.com/autores/mar-pedroche/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/autores/mar-pedroche/</guid>
+      <guid>https://compartimoss.com/autores/mar-pedroche/</guid>
       <description></description>
     </item>
     <item>
       <title>Santiago Porras Rodríguez</title>
-      <link>http://localhost:1313/autores/santiago-porras/</link>
+      <link>https://compartimoss.com/autores/santiago-porras/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/autores/santiago-porras/</guid>
+      <guid>https://compartimoss.com/autores/santiago-porras/</guid>
       <description></description>
     </item>
   </channel>

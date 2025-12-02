@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Revista CompartiMOSS Nº 62 on CompartiMOSS</title>
-    <link>http://localhost:1313/revistas/numero-62/</link>
+    <link>https://compartimoss.com/revistas/numero-62/</link>
     <description>Recent content in Revista CompartiMOSS Nº 62 on CompartiMOSS</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/revistas/numero-62/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://compartimoss.com/revistas/numero-62/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Agentes de Copilot para Sitios de SharePoint</title>
-      <link>http://localhost:1313/revistas/numero-62/agentes-de-copilot-para-sitios-de-sharepoint/</link>
+      <link>https://compartimoss.com/revistas/numero-62/agentes-de-copilot-para-sitios-de-sharepoint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/revistas/numero-62/agentes-de-copilot-para-sitios-de-sharepoint/</guid>
-      <description>&lt;p&gt;Una de las novedades de la Wave 2 de Microsoft 365 Copilot es la llegada de los &lt;a href=&#34;https://techcommunity.microsoft.com/blog/microsoft365copilotblog/microsoft-365-copilot-wave-2-ai-innovations-in-sharepoint-and-onedrive/4245159&#34;&gt;Agentes de Copilot para Sitios de&#xA;SharePoint&lt;/a&gt;. Se trata de Agentes especializados en el contenido de Sitios de SharePoint y como tal su ámbito de actuación es el relativo a responder a cuestiones relativas a dicho contenido. En este artículo daremos un vistazo a los Agentes de Copilot para Sitios de SharePoint.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Agente de Copilot por defecto en Sitios de SharePoint&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid>https://compartimoss.com/revistas/numero-62/agentes-de-copilot-para-sitios-de-sharepoint/</guid>
+      <description>Una de las novedades de la Wave 2 de Microsoft 365 Copilot es la llegada de los Agentes de Copilot para Sitios de SharePoint. Se trata de Agentes especializados en el contenido de Sitios de SharePoint y como tal su ámbito de actuación es el relativo a responder a cuestiones relativas a dicho contenido. En este artículo daremos un vistazo a los Agentes de Copilot para Sitios de SharePoint.&#xA;Agente de Copilot por defecto en Sitios de SharePoint</description>
     </item>
     <item>
       <title>Argo Rollouts lleva tu CI/CD al siguiente nivel</title>
-      <link>http://localhost:1313/revistas/numero-62/argorollouts/</link>
+      <link>https://compartimoss.com/revistas/numero-62/argorollouts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/revistas/numero-62/argorollouts/</guid>
-      <description>&lt;p&gt;En el número anterior, hablamos de cómo Argo CD/CI puede simplificar&#xA;considerablemente el proceso de despliegue en Kubernetes. Ahora es&#xA;momento de dar un paso más y abordar el siguiente nivel: asegurar la&#xA;calidad de las nuevas versiones desplegadas. La calidad en el desarrollo&#xA;de un producto es fundamental. No se trata solo de evitar errores en&#xA;producción, sino también de minimizar el impacto en los clientes durante&#xA;los despliegues, garantizar rollbacks sencillos en caso de fallos, y&#xA;planificar estrategias de despliegue eficaces. Aquí es donde entra Argo&#xA;Rollouts, una herramienta diseñada para optimizar tus procesos de&#xA;despliegue.&lt;/p&gt;</description>
+      <guid>https://compartimoss.com/revistas/numero-62/argorollouts/</guid>
+      <description>En el número anterior, hablamos de cómo Argo CD/CI puede simplificar considerablemente el proceso de despliegue en Kubernetes. Ahora es momento de dar un paso más y abordar el siguiente nivel: asegurar la calidad de las nuevas versiones desplegadas. La calidad en el desarrollo de un producto es fundamental. No se trata solo de evitar errores en producción, sino también de minimizar el impacto en los clientes durante los despliegues, garantizar rollbacks sencillos en caso de fallos, y planificar estrategias de despliegue eficaces.</description>
     </item>
     <item>
       <title>Entrevista a Nicolás Bello Camilletti</title>
-      <link>http://localhost:1313/revistas/numero-62/entrevista_a_nicolasbellocamilletti/</link>
+      <link>https://compartimoss.com/revistas/numero-62/entrevista_a_nicolasbellocamilletti/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/revistas/numero-62/entrevista_a_nicolasbellocamilletti/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../images/entrevista_a_nicolasbellocamilletti/image1.png#author&#34; alt=&#34;Nicolás Bello Camilletti&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Nicolás es Head of Engineering en Qurable donde lidera un equipo distribuido en el desarrollo de una plataforma SaaS para la próxima generación de programas de fidelización basados en los fundamentos de la web3.&#xA;Además de ser Google Developer Expert y Google for Startups Accelerator Mentor, Nicolás fue Microsoft MVP (Most Valuable Professional) por más de 7 años.&#xA;Le encanta debatir y enseñar sobre tecnologías emergentes, y es un apasionado de Cloud Computing, DevOps y el desarrollo web. Es por eso que participa en varias comunidades de desarrolladores en Buenos Aires, Argentina, así como en varias conferencias en Latam.&#xA;Es Ingeniero en Informática y Licenciado en Sistemas, ambos títulos de la Universidad de Buenos Aires.&lt;/p&gt;</description>
+      <guid>https://compartimoss.com/revistas/numero-62/entrevista_a_nicolasbellocamilletti/</guid>
+      <description>Nicolás es Head of Engineering en Qurable donde lidera un equipo distribuido en el desarrollo de una plataforma SaaS para la próxima generación de programas de fidelización basados en los fundamentos de la web3. Además de ser Google Developer Expert y Google for Startups Accelerator Mentor, Nicolás fue Microsoft MVP (Most Valuable Professional) por más de 7 años. Le encanta debatir y enseñar sobre tecnologías emergentes, y es un apasionado de Cloud Computing, DevOps y el desarrollo web.</description>
     </item>
     <item>
       <title>Mensajes proactivos en Copilot Studio y Power Automate</title>
-      <link>http://localhost:1313/revistas/numero-62/mensajes-proactivos-en-copilot-studio/</link>
+      <link>https://compartimoss.com/revistas/numero-62/mensajes-proactivos-en-copilot-studio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/revistas/numero-62/mensajes-proactivos-en-copilot-studio/</guid>
-      <description>&lt;p&gt;Una vez más, te traigo una buena manera de aprovechar las capacidades de&#xA;automatización y mensajería proactiva a través de Copilot Studio y Power&#xA;Automate. En este artículo, vamos a integrar un agente en Copilot Studio&#xA;con los mensajes proactivos enviados desde Power Automate, y cómo&#xA;configurarlo para responder a cambios en elementos de una lista de&#xA;SharePoint.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;¿Cómo empezamos?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Por una parte, necesitamos un agente de Copilot Studio creado, y&#xA;publicado a través del canal de comunicación de Microsoft Teams.&lt;/p&gt;</description>
+      <guid>https://compartimoss.com/revistas/numero-62/mensajes-proactivos-en-copilot-studio/</guid>
+      <description>Una vez más, te traigo una buena manera de aprovechar las capacidades de automatización y mensajería proactiva a través de Copilot Studio y Power Automate. En este artículo, vamos a integrar un agente en Copilot Studio con los mensajes proactivos enviados desde Power Automate, y cómo configurarlo para responder a cambios en elementos de una lista de SharePoint.&#xA;¿Cómo empezamos?&#xA;Por una parte, necesitamos un agente de Copilot Studio creado, y publicado a través del canal de comunicación de Microsoft Teams.</description>
     </item>
     <item>
       <title>Prueba tus copilotos personalizados con Power CAT Copilot Studio Kit</title>
-      <link>http://localhost:1313/revistas/numero-62/prueba-tus-copilotos-personalizados-con-power-cat-copilot-studio-kit/</link>
+      <link>https://compartimoss.com/revistas/numero-62/prueba-tus-copilotos-personalizados-con-power-cat-copilot-studio-kit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/revistas/numero-62/prueba-tus-copilotos-personalizados-con-power-cat-copilot-studio-kit/</guid>
-      <description>&lt;p&gt;El Microsoft Power Customer Advisory Team (Power CAT) lanzó hace ya unos&#xA;meses una nueva herramienta llamada Power CAT Copilot Studio Kit&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;,&#xA;que es un amplio conjunto de herramientas diseñadas para mejorar las&#xA;capacidades de Microsoft Copilot Studio. El kit incluye una variedad de&#xA;herramientas que nos permiten someter a nuestros copilotos&#xA;personalizados a algunos escenarios de prueba, asegurándonos de que&#xA;funcionan como se espera en aplicaciones en producción.&lt;/p&gt;&#xA;&lt;p&gt;Este artículo te guiará por los pasos necesarios para empezar a probar&#xA;tus copilotos personalizados utilizando esta innovadora herramienta.&lt;/p&gt;</description>
+      <guid>https://compartimoss.com/revistas/numero-62/prueba-tus-copilotos-personalizados-con-power-cat-copilot-studio-kit/</guid>
+      <description>El Microsoft Power Customer Advisory Team (Power CAT) lanzó hace ya unos meses una nueva herramienta llamada Power CAT Copilot Studio Kit1, que es un amplio conjunto de herramientas diseñadas para mejorar las capacidades de Microsoft Copilot Studio. El kit incluye una variedad de herramientas que nos permiten someter a nuestros copilotos personalizados a algunos escenarios de prueba, asegurándonos de que funcionan como se espera en aplicaciones en producción.&#xA;Este artículo te guiará por los pasos necesarios para empezar a probar tus copilotos personalizados utilizando esta innovadora herramienta.</description>
     </item>
   </channel>
 </rss>

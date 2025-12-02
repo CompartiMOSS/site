@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Entrevistas on CompartiMOSS</title>
-    <link>http://localhost:1313/entrevistas/</link>
+    <link>https://compartimoss.com/entrevistas/</link>
     <description>Recent content in Entrevistas on CompartiMOSS</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Sun, 10 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/entrevistas/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://compartimoss.com/entrevistas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Entrevista MVP: Mar Pedroche - Liderando Comunidades Tecnológicas</title>
-      <link>http://localhost:1313/entrevistas/entrevista-mar-pedroche-mvp/</link>
+      <link>https://compartimoss.com/entrevistas/entrevista-mar-pedroche-mvp/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entrevistas/entrevista-mar-pedroche-mvp/</guid>
-      <description>&lt;p&gt;Mar Pedroche es una de las voces más reconocidas en la comunidad tecnológica de habla hispana. Como Microsoft MVP, ha dedicado años a compartir conocimiento y ayudar a otros profesionales a crecer.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;¿Cómo comenzó tu carrera en tecnología?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Comencé hace más de 10 años, inicialmente en desarrollo web, pero rápidamente me apasioné por el ecosistema Microsoft y las posibilidades que ofrecía para resolver problemas empresariales reales.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;¿Qué significa para ti ser MVP?&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid>https://compartimoss.com/entrevistas/entrevista-mar-pedroche-mvp/</guid>
+      <description>Mar Pedroche es una de las voces más reconocidas en la comunidad tecnológica de habla hispana. Como Microsoft MVP, ha dedicado años a compartir conocimiento y ayudar a otros profesionales a crecer.&#xA;¿Cómo comenzó tu carrera en tecnología?&#xA;Comencé hace más de 10 años, inicialmente en desarrollo web, pero rápidamente me apasioné por el ecosistema Microsoft y las posibilidades que ofrecía para resolver problemas empresariales reales.&#xA;¿Qué significa para ti ser MVP?</description>
     </item>
     <item>
       <title>Entrevista MVP: Alberto Díaz - Arquitecturas SharePoint Modernas</title>
-      <link>http://localhost:1313/entrevistas/entrevista-alberto-diaz-mvp/</link>
+      <link>https://compartimoss.com/entrevistas/entrevista-alberto-diaz-mvp/</link>
       <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entrevistas/entrevista-alberto-diaz-mvp/</guid>
-      <description>&lt;p&gt;Alberto Díaz es un referente en el mundo SharePoint con más de 15 años de experiencia diseñando soluciones empresariales.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;¿Cómo ha evolucionado SharePoint en los últimos años?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;SharePoint ha evolucionado tremendamente. Hemos pasado de soluciones on-premise complejas a experiencias modernas en la nube, integradas con todo el ecosistema de Microsoft 365. La introducción de SharePoint Framework y las capacidades de IA con Syntex han sido revolucionarias.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;¿Cuál es tu enfoque para diseñar arquitecturas modernas?&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid>https://compartimoss.com/entrevistas/entrevista-alberto-diaz-mvp/</guid>
+      <description>Alberto Díaz es un referente en el mundo SharePoint con más de 15 años de experiencia diseñando soluciones empresariales.&#xA;¿Cómo ha evolucionado SharePoint en los últimos años?&#xA;SharePoint ha evolucionado tremendamente. Hemos pasado de soluciones on-premise complejas a experiencias modernas en la nube, integradas con todo el ecosistema de Microsoft 365. La introducción de SharePoint Framework y las capacidades de IA con Syntex han sido revolucionarias.&#xA;¿Cuál es tu enfoque para diseñar arquitecturas modernas?</description>
     </item>
     <item>
       <title>Entrevista MVP: Santiago Porras - El Futuro de .NET</title>
-      <link>http://localhost:1313/entrevistas/entrevista-santiago-porras-mvp/</link>
+      <link>https://compartimoss.com/entrevistas/entrevista-santiago-porras-mvp/</link>
       <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entrevistas/entrevista-santiago-porras-mvp/</guid>
-      <description>&lt;p&gt;Santiago Porras es Microsoft MVP especializado en .NET, con un enfoque particular en las últimas innovaciones de la plataforma.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;¿Qué te emociona más de .NET actualmente?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Sin duda, la convergencia de .NET y la velocidad de innovación. Con .NET 8 y las capacidades de IA integradas, estamos viendo una plataforma que no solo es potente sino también moderna y relevante para los desafíos actuales.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;¿Cómo ves la integración de IA en el desarrollo?&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid>https://compartimoss.com/entrevistas/entrevista-santiago-porras-mvp/</guid>
+      <description>Santiago Porras es Microsoft MVP especializado en .NET, con un enfoque particular en las últimas innovaciones de la plataforma.&#xA;¿Qué te emociona más de .NET actualmente?&#xA;Sin duda, la convergencia de .NET y la velocidad de innovación. Con .NET 8 y las capacidades de IA integradas, estamos viendo una plataforma que no solo es potente sino también moderna y relevante para los desafíos actuales.&#xA;¿Cómo ves la integración de IA en el desarrollo?</description>
     </item>
   </channel>
 </rss>

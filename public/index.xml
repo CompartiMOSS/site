@@ -2,193 +2,193 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CompartiMOSS</title>
-    <link>http://localhost:1313/</link>
+    <link>https://compartimoss.com/</link>
     <description>Recent content on CompartiMOSS</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Thu, 28 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://compartimoss.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Administra Microsoft 365 a otro nivel con Copilot por Juan Carlos González Rodríguez</title>
-      <link>http://localhost:1313/articulos/administra-microsoft-365-copilot/</link>
+      <link>https://compartimoss.com/articulos/administra-microsoft-365-copilot/</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/articulos/administra-microsoft-365-copilot/</guid>
-      <description>&lt;p&gt;Copilot para Microsoft 365 representa un cambio fundamental en cómo los administradores gestionan sus entornos. Con capacidades de IA avanzadas, permite automatizar tareas complejas, obtener insights en tiempo real y optimizar la gestión de recursos&amp;hellip;&lt;/p&gt;</description>
+      <guid>https://compartimoss.com/articulos/administra-microsoft-365-copilot/</guid>
+      <description>Copilot para Microsoft 365 representa un cambio fundamental en cómo los administradores gestionan sus entornos. Con capacidades de IA avanzadas, permite automatizar tareas complejas, obtener insights en tiempo real y optimizar la gestión de recursos&amp;hellip;</description>
     </item>
     <item>
       <title>Cómo configurar la autenticación de usuarios final para acciones en Copilot Studio por Ferran Chopo</title>
-      <link>http://localhost:1313/articulos/configurar-autenticacion-usuarios/</link>
+      <link>https://compartimoss.com/articulos/configurar-autenticacion-usuarios/</link>
       <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/articulos/configurar-autenticacion-usuarios/</guid>
-      <description>&lt;p&gt;La autenticación de usuarios es crucial para garantizar la seguridad en Copilot Studio. En este artículo exploramos las mejores prácticas y configuraciones paso a paso&amp;hellip;&lt;/p&gt;</description>
+      <guid>https://compartimoss.com/articulos/configurar-autenticacion-usuarios/</guid>
+      <description>La autenticación de usuarios es crucial para garantizar la seguridad en Copilot Studio. En este artículo exploramos las mejores prácticas y configuraciones paso a paso&amp;hellip;</description>
     </item>
     <item>
       <title>¿Qué son los Datos ROTT? por José Manuel Castillo García</title>
-      <link>http://localhost:1313/articulos/datos-rott-jose-manuel-castillo/</link>
+      <link>https://compartimoss.com/articulos/datos-rott-jose-manuel-castillo/</link>
       <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/articulos/datos-rott-jose-manuel-castillo/</guid>
-      <description>&lt;p&gt;ROTT (Redundant, Obsolete, Trivial, and Temporary) representa un desafío significativo en la gestión de datos empresariales. Comprender y gestionar estos datos es esencial&amp;hellip;&lt;/p&gt;</description>
+      <guid>https://compartimoss.com/articulos/datos-rott-jose-manuel-castillo/</guid>
+      <description>ROTT (Redundant, Obsolete, Trivial, and Temporary) representa un desafío significativo en la gestión de datos empresariales. Comprender y gestionar estos datos es esencial&amp;hellip;</description>
     </item>
     <item>
       <title>Controla tus dependencias sin morir en el intento por Adrián Díaz Cervera</title>
-      <link>http://localhost:1313/articulos/dependencias-sin-morir-adrian-diaz/</link>
+      <link>https://compartimoss.com/articulos/dependencias-sin-morir-adrian-diaz/</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/articulos/dependencias-sin-morir-adrian-diaz/</guid>
-      <description>&lt;p&gt;La gestión de dependencias es uno de los retos más importantes en el desarrollo de software moderno. Aprende técnicas y herramientas para mantener el control&amp;hellip;&lt;/p&gt;</description>
+      <guid>https://compartimoss.com/articulos/dependencias-sin-morir-adrian-diaz/</guid>
+      <description>La gestión de dependencias es uno de los retos más importantes en el desarrollo de software moderno. Aprende técnicas y herramientas para mantener el control&amp;hellip;</description>
     </item>
     <item>
       <title>Entrevista a Mar Pedroche por Mar Pedroche</title>
-      <link>http://localhost:1313/articulos/entrevista-mar-pedroche/</link>
+      <link>https://compartimoss.com/articulos/entrevista-mar-pedroche/</link>
       <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/articulos/entrevista-mar-pedroche/</guid>
-      <description>&lt;p&gt;Mar Pedroche comparte su experiencia, visión y consejos para profesionales que buscan crecer en el ecosistema Microsoft&amp;hellip;&lt;/p&gt;</description>
+      <guid>https://compartimoss.com/articulos/entrevista-mar-pedroche/</guid>
+      <description>Mar Pedroche comparte su experiencia, visión y consejos para profesionales que buscan crecer en el ecosistema Microsoft&amp;hellip;</description>
     </item>
     <item>
       <title>.NET AI Template, primeras impresiones por Santiago Porras Rodríguez</title>
-      <link>http://localhost:1313/articulos/dotnet-template-primeras-impresiones/</link>
+      <link>https://compartimoss.com/articulos/dotnet-template-primeras-impresiones/</link>
       <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/articulos/dotnet-template-primeras-impresiones/</guid>
-      <description>&lt;p&gt;Las nuevas plantillas de .NET con capacidades de IA integradas abren un mundo de posibilidades. Exploramos sus características y casos de uso&amp;hellip;&lt;/p&gt;</description>
+      <guid>https://compartimoss.com/articulos/dotnet-template-primeras-impresiones/</guid>
+      <description>Las nuevas plantillas de .NET con capacidades de IA integradas abren un mundo de posibilidades. Exploramos sus características y casos de uso&amp;hellip;</description>
     </item>
     <item>
       <title>Entrevista MVP: Mar Pedroche - Liderando Comunidades Tecnológicas</title>
-      <link>http://localhost:1313/entrevistas/entrevista-mar-pedroche-mvp/</link>
+      <link>https://compartimoss.com/entrevistas/entrevista-mar-pedroche-mvp/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entrevistas/entrevista-mar-pedroche-mvp/</guid>
-      <description>&lt;p&gt;Mar Pedroche es una de las voces más reconocidas en la comunidad tecnológica de habla hispana. Como Microsoft MVP, ha dedicado años a compartir conocimiento y ayudar a otros profesionales a crecer.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;¿Cómo comenzó tu carrera en tecnología?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Comencé hace más de 10 años, inicialmente en desarrollo web, pero rápidamente me apasioné por el ecosistema Microsoft y las posibilidades que ofrecía para resolver problemas empresariales reales.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;¿Qué significa para ti ser MVP?&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid>https://compartimoss.com/entrevistas/entrevista-mar-pedroche-mvp/</guid>
+      <description>Mar Pedroche es una de las voces más reconocidas en la comunidad tecnológica de habla hispana. Como Microsoft MVP, ha dedicado años a compartir conocimiento y ayudar a otros profesionales a crecer.&#xA;¿Cómo comenzó tu carrera en tecnología?&#xA;Comencé hace más de 10 años, inicialmente en desarrollo web, pero rápidamente me apasioné por el ecosistema Microsoft y las posibilidades que ofrecía para resolver problemas empresariales reales.&#xA;¿Qué significa para ti ser MVP?</description>
     </item>
     <item>
       <title>Entrevista MVP: Alberto Díaz - Arquitecturas SharePoint Modernas</title>
-      <link>http://localhost:1313/entrevistas/entrevista-alberto-diaz-mvp/</link>
+      <link>https://compartimoss.com/entrevistas/entrevista-alberto-diaz-mvp/</link>
       <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entrevistas/entrevista-alberto-diaz-mvp/</guid>
-      <description>&lt;p&gt;Alberto Díaz es un referente en el mundo SharePoint con más de 15 años de experiencia diseñando soluciones empresariales.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;¿Cómo ha evolucionado SharePoint en los últimos años?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;SharePoint ha evolucionado tremendamente. Hemos pasado de soluciones on-premise complejas a experiencias modernas en la nube, integradas con todo el ecosistema de Microsoft 365. La introducción de SharePoint Framework y las capacidades de IA con Syntex han sido revolucionarias.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;¿Cuál es tu enfoque para diseñar arquitecturas modernas?&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid>https://compartimoss.com/entrevistas/entrevista-alberto-diaz-mvp/</guid>
+      <description>Alberto Díaz es un referente en el mundo SharePoint con más de 15 años de experiencia diseñando soluciones empresariales.&#xA;¿Cómo ha evolucionado SharePoint en los últimos años?&#xA;SharePoint ha evolucionado tremendamente. Hemos pasado de soluciones on-premise complejas a experiencias modernas en la nube, integradas con todo el ecosistema de Microsoft 365. La introducción de SharePoint Framework y las capacidades de IA con Syntex han sido revolucionarias.&#xA;¿Cuál es tu enfoque para diseñar arquitecturas modernas?</description>
     </item>
     <item>
       <title>Entrevista MVP: Santiago Porras - El Futuro de .NET</title>
-      <link>http://localhost:1313/entrevistas/entrevista-santiago-porras-mvp/</link>
+      <link>https://compartimoss.com/entrevistas/entrevista-santiago-porras-mvp/</link>
       <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entrevistas/entrevista-santiago-porras-mvp/</guid>
-      <description>&lt;p&gt;Santiago Porras es Microsoft MVP especializado en .NET, con un enfoque particular en las últimas innovaciones de la plataforma.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;¿Qué te emociona más de .NET actualmente?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Sin duda, la convergencia de .NET y la velocidad de innovación. Con .NET 8 y las capacidades de IA integradas, estamos viendo una plataforma que no solo es potente sino también moderna y relevante para los desafíos actuales.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;¿Cómo ves la integración de IA en el desarrollo?&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid>https://compartimoss.com/entrevistas/entrevista-santiago-porras-mvp/</guid>
+      <description>Santiago Porras es Microsoft MVP especializado en .NET, con un enfoque particular en las últimas innovaciones de la plataforma.&#xA;¿Qué te emociona más de .NET actualmente?&#xA;Sin duda, la convergencia de .NET y la velocidad de innovación. Con .NET 8 y las capacidades de IA integradas, estamos viendo una plataforma que no solo es potente sino también moderna y relevante para los desafíos actuales.&#xA;¿Cómo ves la integración de IA en el desarrollo?</description>
     </item>
     <item>
       <title>Administra Microsoft 365 a otro nivel con Copilot</title>
-      <link>http://localhost:1313/revistas/numero-10/administra-microsoft-365-copilot-revista/</link>
+      <link>https://compartimoss.com/revistas/numero-10/administra-microsoft-365-copilot-revista/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/revistas/numero-10/administra-microsoft-365-copilot-revista/</guid>
-      <description>&lt;p&gt;En esta guía completa, exploramos cómo Copilot transforma la administración de Microsoft 365.&lt;/p&gt;&#xA;&lt;h2 id=&#34;introducción-a-copilot-para-administradores&#34;&gt;Introducción a Copilot para Administradores&lt;/h2&gt;&#xA;&lt;p&gt;Microsoft 365 Copilot representa un cambio fundamental en cómo los administradores gestionan sus entornos. Con capacidades de IA avanzadas, permite automatizar tareas complejas, obtener insights en tiempo real y optimizar la gestión de recursos.&lt;/p&gt;&#xA;&lt;h2 id=&#34;principales-funcionalidades&#34;&gt;Principales Funcionalidades&lt;/h2&gt;&#xA;&lt;h3 id=&#34;automatización-de-tareas&#34;&gt;Automatización de Tareas&lt;/h3&gt;&#xA;&lt;p&gt;Copilot puede ayudarte a:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Configurar políticas de seguridad de forma más eficiente&lt;/li&gt;&#xA;&lt;li&gt;Gestionar usuarios y grupos con comandos en lenguaje natural&lt;/li&gt;&#xA;&lt;li&gt;Monitorear el estado del tenant en tiempo real&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;análisis-y-reportes&#34;&gt;Análisis y Reportes&lt;/h3&gt;&#xA;&lt;p&gt;La integración de IA permite:&lt;/p&gt;</description>
+      <guid>https://compartimoss.com/revistas/numero-10/administra-microsoft-365-copilot-revista/</guid>
+      <description>En esta guía completa, exploramos cómo Copilot transforma la administración de Microsoft 365.&#xA;Introducción a Copilot para Administradores Microsoft 365 Copilot representa un cambio fundamental en cómo los administradores gestionan sus entornos. Con capacidades de IA avanzadas, permite automatizar tareas complejas, obtener insights en tiempo real y optimizar la gestión de recursos.&#xA;Principales Funcionalidades Automatización de Tareas Copilot puede ayudarte a:&#xA;Configurar políticas de seguridad de forma más eficiente Gestionar usuarios y grupos con comandos en lenguaje natural Monitorear el estado del tenant en tiempo real Análisis y Reportes La integración de IA permite:</description>
     </item>
     <item>
       <title>Adrián Díaz Cervera</title>
-      <link>http://localhost:1313/autores/adrian-diaz-cervera/</link>
+      <link>https://compartimoss.com/autores/adrian-diaz-cervera/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/autores/adrian-diaz-cervera/</guid>
+      <guid>https://compartimoss.com/autores/adrian-diaz-cervera/</guid>
       <description></description>
     </item>
     <item>
       <title>Agentes de Copilot para Sitios de SharePoint</title>
-      <link>http://localhost:1313/revistas/numero-62/agentes-de-copilot-para-sitios-de-sharepoint/</link>
+      <link>https://compartimoss.com/revistas/numero-62/agentes-de-copilot-para-sitios-de-sharepoint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/revistas/numero-62/agentes-de-copilot-para-sitios-de-sharepoint/</guid>
-      <description>&lt;p&gt;Una de las novedades de la Wave 2 de Microsoft 365 Copilot es la llegada de los &lt;a href=&#34;https://techcommunity.microsoft.com/blog/microsoft365copilotblog/microsoft-365-copilot-wave-2-ai-innovations-in-sharepoint-and-onedrive/4245159&#34;&gt;Agentes de Copilot para Sitios de&#xA;SharePoint&lt;/a&gt;. Se trata de Agentes especializados en el contenido de Sitios de SharePoint y como tal su ámbito de actuación es el relativo a responder a cuestiones relativas a dicho contenido. En este artículo daremos un vistazo a los Agentes de Copilot para Sitios de SharePoint.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Agente de Copilot por defecto en Sitios de SharePoint&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid>https://compartimoss.com/revistas/numero-62/agentes-de-copilot-para-sitios-de-sharepoint/</guid>
+      <description>Una de las novedades de la Wave 2 de Microsoft 365 Copilot es la llegada de los Agentes de Copilot para Sitios de SharePoint. Se trata de Agentes especializados en el contenido de Sitios de SharePoint y como tal su ámbito de actuación es el relativo a responder a cuestiones relativas a dicho contenido. En este artículo daremos un vistazo a los Agentes de Copilot para Sitios de SharePoint.&#xA;Agente de Copilot por defecto en Sitios de SharePoint</description>
     </item>
     <item>
       <title>Alberto Díaz Martín</title>
-      <link>http://localhost:1313/autores/alberto-diaz/</link>
+      <link>https://compartimoss.com/autores/alberto-diaz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/autores/alberto-diaz/</guid>
+      <guid>https://compartimoss.com/autores/alberto-diaz/</guid>
       <description></description>
     </item>
     <item>
       <title>Argo Rollouts lleva tu CI/CD al siguiente nivel</title>
-      <link>http://localhost:1313/revistas/numero-62/argorollouts/</link>
+      <link>https://compartimoss.com/revistas/numero-62/argorollouts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/revistas/numero-62/argorollouts/</guid>
-      <description>&lt;p&gt;En el número anterior, hablamos de cómo Argo CD/CI puede simplificar&#xA;considerablemente el proceso de despliegue en Kubernetes. Ahora es&#xA;momento de dar un paso más y abordar el siguiente nivel: asegurar la&#xA;calidad de las nuevas versiones desplegadas. La calidad en el desarrollo&#xA;de un producto es fundamental. No se trata solo de evitar errores en&#xA;producción, sino también de minimizar el impacto en los clientes durante&#xA;los despliegues, garantizar rollbacks sencillos en caso de fallos, y&#xA;planificar estrategias de despliegue eficaces. Aquí es donde entra Argo&#xA;Rollouts, una herramienta diseñada para optimizar tus procesos de&#xA;despliegue.&lt;/p&gt;</description>
+      <guid>https://compartimoss.com/revistas/numero-62/argorollouts/</guid>
+      <description>En el número anterior, hablamos de cómo Argo CD/CI puede simplificar considerablemente el proceso de despliegue en Kubernetes. Ahora es momento de dar un paso más y abordar el siguiente nivel: asegurar la calidad de las nuevas versiones desplegadas. La calidad en el desarrollo de un producto es fundamental. No se trata solo de evitar errores en producción, sino también de minimizar el impacto en los clientes durante los despliegues, garantizar rollbacks sencillos en caso de fallos, y planificar estrategias de despliegue eficaces.</description>
     </item>
     <item>
       <title>Azure Functions: Arquitectura Serverless</title>
-      <link>http://localhost:1313/revistas/numero-8/azure-functions-arquitectura-serverless/</link>
+      <link>https://compartimoss.com/revistas/numero-8/azure-functions-arquitectura-serverless/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/revistas/numero-8/azure-functions-arquitectura-serverless/</guid>
-      <description>&lt;p&gt;Azure Functions permite crear aplicaciones sin gestionar infraestructura, enfocándote únicamente en el código de negocio.&lt;/p&gt;&#xA;&lt;h2 id=&#34;introducción-a-serverless&#34;&gt;Introducción a Serverless&lt;/h2&gt;&#xA;&lt;h3 id=&#34;qué-es-serverless&#34;&gt;¿Qué es Serverless?&lt;/h3&gt;&#xA;&lt;p&gt;Serverless no significa &amp;ldquo;sin servidores&amp;rdquo;, sino que:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;No gestionas la infraestructura&lt;/li&gt;&#xA;&lt;li&gt;Pagas solo por lo que usas&lt;/li&gt;&#xA;&lt;li&gt;Escalas automáticamente&lt;/li&gt;&#xA;&lt;li&gt;Te enfocas en el código&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;beneficios&#34;&gt;Beneficios&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Reducción de costos&lt;/strong&gt;: Sin servidores ociosos&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Escalabilidad automática&lt;/strong&gt;: Responde a la demanda&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Desarrollo ágil&lt;/strong&gt;: Deploy más rápido&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Menos operaciones&lt;/strong&gt;: Microsoft gestiona la infraestructura&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;triggers-y-bindings&#34;&gt;Triggers y Bindings&lt;/h2&gt;&#xA;&lt;h3 id=&#34;triggers-comunes&#34;&gt;Triggers Comunes&lt;/h3&gt;&#xA;&lt;p&gt;Azure Functions puede activarse por:&lt;/p&gt;</description>
+      <guid>https://compartimoss.com/revistas/numero-8/azure-functions-arquitectura-serverless/</guid>
+      <description>Azure Functions permite crear aplicaciones sin gestionar infraestructura, enfocándote únicamente en el código de negocio.&#xA;Introducción a Serverless ¿Qué es Serverless? Serverless no significa &amp;ldquo;sin servidores&amp;rdquo;, sino que:&#xA;No gestionas la infraestructura Pagas solo por lo que usas Escalas automáticamente Te enfocas en el código Beneficios Reducción de costos: Sin servidores ociosos Escalabilidad automática: Responde a la demanda Desarrollo ágil: Deploy más rápido Menos operaciones: Microsoft gestiona la infraestructura Triggers y Bindings Triggers Comunes Azure Functions puede activarse por:</description>
     </item>
     <item>
       <title>Construyendo Flujos Complejos en Power Automate</title>
-      <link>http://localhost:1313/revistas/numero-9/power-automate-flujos-complejos/</link>
+      <link>https://compartimoss.com/revistas/numero-9/power-automate-flujos-complejos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/revistas/numero-9/power-automate-flujos-complejos/</guid>
-      <description>&lt;p&gt;Power Automate permite crear automatizaciones complejas que integran múltiples sistemas y manejan lógica de negocio sofisticada.&lt;/p&gt;&#xA;&lt;h2 id=&#34;arquitectura-de-flujos&#34;&gt;Arquitectura de Flujos&lt;/h2&gt;&#xA;&lt;h3 id=&#34;flujos-padres-e-hijos&#34;&gt;Flujos Padres e Hijos&lt;/h3&gt;&#xA;&lt;p&gt;Organiza flujos complejos usando el patrón padre-hijo:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Flujo padre&lt;/strong&gt;: Orquesta el proceso general&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Flujos hijos&lt;/strong&gt;: Ejecutan tareas específicas&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Comunicación&lt;/strong&gt;: Usa HTTP o acciones de flujo hijo&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;manejo-de-estados&#34;&gt;Manejo de Estados&lt;/h3&gt;&#xA;&lt;p&gt;Implementa seguimiento de estados:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Usa variables para tracking&lt;/li&gt;&#xA;&lt;li&gt;Almacena estados en SharePoint o Dataverse&lt;/li&gt;&#xA;&lt;li&gt;Implementa lógica de recuperación&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;patrones-avanzados&#34;&gt;Patrones Avanzados&lt;/h2&gt;&#xA;&lt;h3 id=&#34;procesamiento-por-lotes&#34;&gt;Procesamiento por Lotes&lt;/h3&gt;&#xA;&lt;p&gt;Para grandes volúmenes de datos:&lt;/p&gt;</description>
+      <guid>https://compartimoss.com/revistas/numero-9/power-automate-flujos-complejos/</guid>
+      <description>Power Automate permite crear automatizaciones complejas que integran múltiples sistemas y manejan lógica de negocio sofisticada.&#xA;Arquitectura de Flujos Flujos Padres e Hijos Organiza flujos complejos usando el patrón padre-hijo:&#xA;Flujo padre: Orquesta el proceso general Flujos hijos: Ejecutan tareas específicas Comunicación: Usa HTTP o acciones de flujo hijo Manejo de Estados Implementa seguimiento de estados:&#xA;Usa variables para tracking Almacena estados en SharePoint o Dataverse Implementa lógica de recuperación Patrones Avanzados Procesamiento por Lotes Para grandes volúmenes de datos:</description>
     </item>
     <item>
       <title>Entrevista a Nicolás Bello Camilletti</title>
-      <link>http://localhost:1313/revistas/numero-62/entrevista_a_nicolasbellocamilletti/</link>
+      <link>https://compartimoss.com/revistas/numero-62/entrevista_a_nicolasbellocamilletti/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/revistas/numero-62/entrevista_a_nicolasbellocamilletti/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../images/entrevista_a_nicolasbellocamilletti/image1.png#author&#34; alt=&#34;Nicolás Bello Camilletti&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Nicolás es Head of Engineering en Qurable donde lidera un equipo distribuido en el desarrollo de una plataforma SaaS para la próxima generación de programas de fidelización basados en los fundamentos de la web3.&#xA;Además de ser Google Developer Expert y Google for Startups Accelerator Mentor, Nicolás fue Microsoft MVP (Most Valuable Professional) por más de 7 años.&#xA;Le encanta debatir y enseñar sobre tecnologías emergentes, y es un apasionado de Cloud Computing, DevOps y el desarrollo web. Es por eso que participa en varias comunidades de desarrolladores en Buenos Aires, Argentina, así como en varias conferencias en Latam.&#xA;Es Ingeniero en Informática y Licenciado en Sistemas, ambos títulos de la Universidad de Buenos Aires.&lt;/p&gt;</description>
+      <guid>https://compartimoss.com/revistas/numero-62/entrevista_a_nicolasbellocamilletti/</guid>
+      <description>Nicolás es Head of Engineering en Qurable donde lidera un equipo distribuido en el desarrollo de una plataforma SaaS para la próxima generación de programas de fidelización basados en los fundamentos de la web3. Además de ser Google Developer Expert y Google for Startups Accelerator Mentor, Nicolás fue Microsoft MVP (Most Valuable Professional) por más de 7 años. Le encanta debatir y enseñar sobre tecnologías emergentes, y es un apasionado de Cloud Computing, DevOps y el desarrollo web.</description>
     </item>
     <item>
       <title>Ferran Chopo</title>
-      <link>http://localhost:1313/autores/ferran-chopo/</link>
+      <link>https://compartimoss.com/autores/ferran-chopo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/autores/ferran-chopo/</guid>
+      <guid>https://compartimoss.com/autores/ferran-chopo/</guid>
       <description></description>
     </item>
     <item>
       <title>José Manuel Castillo García</title>
-      <link>http://localhost:1313/autores/jose-manuel-castillo/</link>
+      <link>https://compartimoss.com/autores/jose-manuel-castillo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/autores/jose-manuel-castillo/</guid>
+      <guid>https://compartimoss.com/autores/jose-manuel-castillo/</guid>
       <description></description>
     </item>
     <item>
       <title>Juan Carlos González Rodríguez</title>
-      <link>http://localhost:1313/autores/juan-carlos-gonzalez/</link>
+      <link>https://compartimoss.com/autores/juan-carlos-gonzalez/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/autores/juan-carlos-gonzalez/</guid>
+      <guid>https://compartimoss.com/autores/juan-carlos-gonzalez/</guid>
       <description></description>
     </item>
     <item>
       <title>Mar Pedroche</title>
-      <link>http://localhost:1313/autores/mar-pedroche/</link>
+      <link>https://compartimoss.com/autores/mar-pedroche/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/autores/mar-pedroche/</guid>
+      <guid>https://compartimoss.com/autores/mar-pedroche/</guid>
       <description></description>
     </item>
     <item>
       <title>Mensajes proactivos en Copilot Studio y Power Automate</title>
-      <link>http://localhost:1313/revistas/numero-62/mensajes-proactivos-en-copilot-studio/</link>
+      <link>https://compartimoss.com/revistas/numero-62/mensajes-proactivos-en-copilot-studio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/revistas/numero-62/mensajes-proactivos-en-copilot-studio/</guid>
-      <description>&lt;p&gt;Una vez más, te traigo una buena manera de aprovechar las capacidades de&#xA;automatización y mensajería proactiva a través de Copilot Studio y Power&#xA;Automate. En este artículo, vamos a integrar un agente en Copilot Studio&#xA;con los mensajes proactivos enviados desde Power Automate, y cómo&#xA;configurarlo para responder a cambios en elementos de una lista de&#xA;SharePoint.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;¿Cómo empezamos?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Por una parte, necesitamos un agente de Copilot Studio creado, y&#xA;publicado a través del canal de comunicación de Microsoft Teams.&lt;/p&gt;</description>
+      <guid>https://compartimoss.com/revistas/numero-62/mensajes-proactivos-en-copilot-studio/</guid>
+      <description>Una vez más, te traigo una buena manera de aprovechar las capacidades de automatización y mensajería proactiva a través de Copilot Studio y Power Automate. En este artículo, vamos a integrar un agente en Copilot Studio con los mensajes proactivos enviados desde Power Automate, y cómo configurarlo para responder a cambios en elementos de una lista de SharePoint.&#xA;¿Cómo empezamos?&#xA;Por una parte, necesitamos un agente de Copilot Studio creado, y publicado a través del canal de comunicación de Microsoft Teams.</description>
     </item>
     <item>
       <title>Power Apps Canvas: Mejores Prácticas</title>
-      <link>http://localhost:1313/revistas/numero-9/power-apps-canvas-mejores-practicas/</link>
+      <link>https://compartimoss.com/revistas/numero-9/power-apps-canvas-mejores-practicas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/revistas/numero-9/power-apps-canvas-mejores-practicas/</guid>
-      <description>&lt;p&gt;Las aplicaciones Canvas de Power Apps ofrecen flexibilidad increíble, pero requieren buenas prácticas para maximizar su rendimiento y mantenibilidad.&lt;/p&gt;&#xA;&lt;h2 id=&#34;fundamentos-de-diseño&#34;&gt;Fundamentos de Diseño&lt;/h2&gt;&#xA;&lt;h3 id=&#34;organización-de-pantallas&#34;&gt;Organización de Pantallas&lt;/h3&gt;&#xA;&lt;p&gt;Una buena estructura de pantallas es fundamental:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Pantalla de inicio&lt;/strong&gt;: Punto de entrada claro para los usuarios&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Navegación consistente&lt;/strong&gt;: Usa componentes reutilizables&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Flujo lógico&lt;/strong&gt;: Los usuarios deben entender cómo moverse&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;nomenclatura&#34;&gt;Nomenclatura&lt;/h3&gt;&#xA;&lt;p&gt;Adopta convenciones de nombres claras:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;code&gt;scr_&lt;/code&gt; para pantallas (ej: &lt;code&gt;scr_Home&lt;/code&gt;)&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;btn_&lt;/code&gt; para botones (ej: &lt;code&gt;btn_Submit&lt;/code&gt;)&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;txt_&lt;/code&gt; para inputs de texto (ej: &lt;code&gt;txt_Email&lt;/code&gt;)&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;gal_&lt;/code&gt; para galerías (ej: &lt;code&gt;gal_Products&lt;/code&gt;)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;optimización-de-rendimiento&#34;&gt;Optimización de Rendimiento&lt;/h2&gt;&#xA;&lt;h3 id=&#34;delegación&#34;&gt;Delegación&lt;/h3&gt;&#xA;&lt;p&gt;La delegación es crucial para trabajar con grandes volúmenes de datos:&lt;/p&gt;</description>
+      <guid>https://compartimoss.com/revistas/numero-9/power-apps-canvas-mejores-practicas/</guid>
+      <description>Las aplicaciones Canvas de Power Apps ofrecen flexibilidad increíble, pero requieren buenas prácticas para maximizar su rendimiento y mantenibilidad.&#xA;Fundamentos de Diseño Organización de Pantallas Una buena estructura de pantallas es fundamental:&#xA;Pantalla de inicio: Punto de entrada claro para los usuarios Navegación consistente: Usa componentes reutilizables Flujo lógico: Los usuarios deben entender cómo moverse Nomenclatura Adopta convenciones de nombres claras:&#xA;scr_ para pantallas (ej: scr_Home) btn_ para botones (ej: btn_Submit) txt_ para inputs de texto (ej: txt_Email) gal_ para galerías (ej: gal_Products) Optimización de Rendimiento Delegación La delegación es crucial para trabajar con grandes volúmenes de datos:</description>
     </item>
     <item>
       <title>Prueba tus copilotos personalizados con Power CAT Copilot Studio Kit</title>
-      <link>http://localhost:1313/revistas/numero-62/prueba-tus-copilotos-personalizados-con-power-cat-copilot-studio-kit/</link>
+      <link>https://compartimoss.com/revistas/numero-62/prueba-tus-copilotos-personalizados-con-power-cat-copilot-studio-kit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/revistas/numero-62/prueba-tus-copilotos-personalizados-con-power-cat-copilot-studio-kit/</guid>
-      <description>&lt;p&gt;El Microsoft Power Customer Advisory Team (Power CAT) lanzó hace ya unos&#xA;meses una nueva herramienta llamada Power CAT Copilot Studio Kit&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;,&#xA;que es un amplio conjunto de herramientas diseñadas para mejorar las&#xA;capacidades de Microsoft Copilot Studio. El kit incluye una variedad de&#xA;herramientas que nos permiten someter a nuestros copilotos&#xA;personalizados a algunos escenarios de prueba, asegurándonos de que&#xA;funcionan como se espera en aplicaciones en producción.&lt;/p&gt;&#xA;&lt;p&gt;Este artículo te guiará por los pasos necesarios para empezar a probar&#xA;tus copilotos personalizados utilizando esta innovadora herramienta.&lt;/p&gt;</description>
+      <guid>https://compartimoss.com/revistas/numero-62/prueba-tus-copilotos-personalizados-con-power-cat-copilot-studio-kit/</guid>
+      <description>El Microsoft Power Customer Advisory Team (Power CAT) lanzó hace ya unos meses una nueva herramienta llamada Power CAT Copilot Studio Kit1, que es un amplio conjunto de herramientas diseñadas para mejorar las capacidades de Microsoft Copilot Studio. El kit incluye una variedad de herramientas que nos permiten someter a nuestros copilotos personalizados a algunos escenarios de prueba, asegurándonos de que funcionan como se espera en aplicaciones en producción.&#xA;Este artículo te guiará por los pasos necesarios para empezar a probar tus copilotos personalizados utilizando esta innovadora herramienta.</description>
     </item>
     <item>
       <title>Santiago Porras Rodríguez</title>
-      <link>http://localhost:1313/autores/santiago-porras/</link>
+      <link>https://compartimoss.com/autores/santiago-porras/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/autores/santiago-porras/</guid>
+      <guid>https://compartimoss.com/autores/santiago-porras/</guid>
       <description></description>
     </item>
     <item>
       <title>SharePoint Syntex: Inteligencia de Contenido</title>
-      <link>http://localhost:1313/revistas/numero-10/sharepoint-syntex-inteligencia-contenido/</link>
+      <link>https://compartimoss.com/revistas/numero-10/sharepoint-syntex-inteligencia-contenido/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/revistas/numero-10/sharepoint-syntex-inteligencia-contenido/</guid>
-      <description>&lt;p&gt;SharePoint Syntex aporta capacidades de inteligencia artificial para la clasificación y extracción de contenido.&lt;/p&gt;&#xA;&lt;h2 id=&#34;qué-es-sharepoint-syntex&#34;&gt;¿Qué es SharePoint Syntex?&lt;/h2&gt;&#xA;&lt;p&gt;SharePoint Syntex es una solución de Microsoft que utiliza inteligencia artificial avanzada para automatizar el procesamiento de contenido. Permite a las organizaciones transformar contenido no estructurado en conocimiento estructurado y accionable.&lt;/p&gt;&#xA;&lt;h2 id=&#34;capacidades-principales&#34;&gt;Capacidades Principales&lt;/h2&gt;&#xA;&lt;h3 id=&#34;comprensión-de-documentos&#34;&gt;Comprensión de Documentos&lt;/h3&gt;&#xA;&lt;p&gt;Syntex utiliza modelos de IA para:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Clasificar documentos automáticamente&lt;/strong&gt;: Identifica el tipo de documento basándose en su contenido&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Extraer información clave&lt;/strong&gt;: Obtiene datos específicos como fechas, nombres, cantidades&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Aplicar metadatos&lt;/strong&gt;: Enriquece los documentos con información estructurada&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;procesamiento-de-formularios&#34;&gt;Procesamiento de Formularios&lt;/h3&gt;&#xA;&lt;p&gt;La tecnología de AI Builder integrada permite:&lt;/p&gt;</description>
+      <guid>https://compartimoss.com/revistas/numero-10/sharepoint-syntex-inteligencia-contenido/</guid>
+      <description>SharePoint Syntex aporta capacidades de inteligencia artificial para la clasificación y extracción de contenido.&#xA;¿Qué es SharePoint Syntex? SharePoint Syntex es una solución de Microsoft que utiliza inteligencia artificial avanzada para automatizar el procesamiento de contenido. Permite a las organizaciones transformar contenido no estructurado en conocimiento estructurado y accionable.&#xA;Capacidades Principales Comprensión de Documentos Syntex utiliza modelos de IA para:&#xA;Clasificar documentos automáticamente: Identifica el tipo de documento basándose en su contenido Extraer información clave: Obtiene datos específicos como fechas, nombres, cantidades Aplicar metadatos: Enriquece los documentos con información estructurada Procesamiento de Formularios La tecnología de AI Builder integrada permite:</description>
     </item>
   </channel>
 </rss>
