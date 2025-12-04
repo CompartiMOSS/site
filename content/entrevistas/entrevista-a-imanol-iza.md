@@ -1,0 +1,44 @@
+---
+title: "Entrevista: Imanol Iza"
+date: 2020-02-26T00:00:00
+name: "Imanol Iza"
+excerpt: "Imanol Iza comparte su experiencia y visión sobre la tecnología Microsoft."
+image: "./images/imanol-iza.png"
+---
+
+Me llamo Imanol Iza, nací en San Sebastián en el año 82. Aunque soy vasco de raíces y echo mucho de menos mi tierra, mi hogar actual es Madrid desde hace 13 años.
+
+Precisamente esos son los años que llevo trabajando en tecnologías Microsoft, siempre en temas relacionados con SharePoint desde sus orígenes, .Net, C# y a día de hoy Office 365 y Azure.
+
+Actualmente trabajo en NECSIA como Director de Operaciones encargándome del buen funcionamiento de los proyectos y equipos del área de Transformación Digital.
+
+Desde hace algo mas de un año soy MVP de Microsoft y colaboro en las comunidades aportando mi granito de arena. También me encargo de coordinar junto con mis compañeros el grupo de usuarios de SharePoint de Madrid "MadPoint" y algunos eventos importantes como el "SharePoint Saturday Madrid" o el "O365 Developer Bootcamp"
+
+**¿Por qué y cómo empezaste en el mundo de la tecnología?**
+
+Desde bien pequeño siempre tuve claro que quería dedicarme a la tecnología. Siempre he sido una persona muy inquieta y curiosa, recuerdo aquellas tardes en el ático de un amigo, montando nuestras primeras placas electrónicas.
+
+Quizás eso fue lo que me impulsó a hacer Ingeniería técnica Electrónica. Aunque la vida da muchas vueltas y finalmente dejé la carrera para realizar un grado superior de Informatica. ¡La mejor decisión que pude tomar! ¡Era lo que verdaderamente me gustaba!
+
+Tras unas prácticas, decidí marchar un año a Madrid para coger experiencia. Tuve la gran suerte de caer en Medianet Software (actualmente Sngular), donde conocí grandes compañeros que me ayudaron un montón. Aprendí muchísimas cosas y empecé a introducirme en tecnologías Microsoft.
+
+Ese mismo verano conocí a una Vicalvareña de ojos azules que me enamoró e hizo que echara raíces en Madrid hasta el día de hoy. El resto de los años hasta la actualidad ha sido un viaje apasionante lleno de experiencias en diferentes compañías y compañeros de viaje que me han ayudado a ser la persona y el profesional que soy hoy en día.
+
+**¿Cuáles son tus principales actividades tecnológicas hoy en día?**
+
+Mi día a día es muy variado, me encargo de liderar las operaciones, coordinando y gestionando el trabajo del equipo. Llevo el control de las cuentas y las oportunidades participando en la fase de preventa técnica, diseñando soluciones sobre Office 365 y Azure.
+
+Por otro lado, trato de contribuir en las comunidades técnicas siempre que puedo, aportando mi granito de arena y compartiendo mis conocimientos con los demás.
+
+**¿Cuáles son tus principales actividades NO tecnológicas hoy en día?**
+
+Mi prioridad es mi familia. Tengo una hija de un año y disfruto mucho viéndola crecer. Nos encanta pasar tiempo juntos toda la familia, bien sea dando un paseo o viendo una serie de Netflix con manta y palomitas.
+
+**¿Cuáles son tus hobbies?**
+
+Tengo dos hobbies principales. La natación y la fotografía. Desde muy pequeño he sido siempre nadador federado, y es una de mis grandes pasiones. Me encanta hacer travesías de aguas abiertas en el mar en verano. Otra de mis grandes pasiones es la fotografía. Me encanta plasmar en imágenes momentos únicos y poder compartirlos con los demás.
+
+**¿Cuál es tu visión de futuro en la tecnología de acá a los próximos años?**
+
+Estamos viviendo un momento fantástico tecnológicamente. Los avances que se han realizado son asombrosos y los próximos años serán muy prometedores. Veremos como la IA y los servicios contextuales nos facilitarán las tareas cotidianas y se integrarán en nuestras vidas de forma natural. Los servicios Cloud serán sin duda la base de todas las tecnologías y la eclosión de los dispositivos IoT en nuestras vidas marcará la diferencia en un futuro no muy lejano.
+

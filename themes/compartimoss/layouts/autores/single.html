@@ -8,11 +8,13 @@
     </a>
 
     <div class="author-profile-grid">
-      <div class="author-profile-image">
-        <img src="{{ .Params.avatar }}" alt="{{ .Title }}">
+      <div class="md-col-span-1">
+        <div class="author-profile-image">
+          <img src="{{ .Params.avatar }}" alt="{{ .Title }}">
+        </div>
       </div>
 
-      <div class="author-profile-info">
+      <div class="md-col-span-2 author-profile-info">
         <h1>{{ .Title }}</h1>
         <p class="role">{{ .Params.role }}</p>
         <p class="bio">{{ .Params.bio }}</p>
@@ -36,36 +38,19 @@
   </div>
 </div>
 
-<!-- Author's Articles and Magazine Articles -->
+<!-- Author's Articles -->
 <div class="container py-12">
   {{ $authorSlug := .File.ContentBaseName }}
   {{ $authorArticles := where (where .Site.RegularPages "Section" "articulos") ".Params.authorSlug" $authorSlug }}
-  {{ $authorMagazineArticles := where (where .Site.RegularPages "Section" "revistas") ".Params.authorSlug" $authorSlug }}
   
-  {{ $allAuthorContent := union $authorArticles $authorMagazineArticles }}
-  {{ $sortedContent := sort $allAuthorContent ".Date" "desc" }}
-  
-  {{ if $sortedContent }}
+  {{ if $authorArticles }}
   <section class="mb-12">
-    <h2 class="mb-6 text-gray-900">Contribuciones</h2>
+    <h2 class="mb-6 text-gray-900">Artículos del Blog</h2>
     <div class="grid grid-cols-1 md-grid-cols-2 lg-grid-cols-3 gap-6">
-      {{ range $sortedContent }}
+      {{ range $authorArticles }}
       <a href="{{ .Permalink }}" class="article-card">
         <div class="article-card-image">
-          {{ if .Params.image }}
-            {{ $imageURL := .Params.image }}
-            {{ if strings.HasPrefix $imageURL "http" }}
-              <img src="{{ $imageURL }}" alt="{{ .Title }}">
-            {{ else }}
-              {{ $articleDir := path.Dir .Permalink }}
-              {{ $imagePath := path.Join $articleDir $imageURL }}
-              <p> {{ $articleDir }} </p>
-              <p> {{ $imageURL }}</p>
-              <img src="{{ $imagePath }}" alt="{{ .Title }}">
-            {{ end }}
-          {{ else }}
-            <img src="https://images.unsplash.com/photo-1516321318423-f06a2f504a87?w=800&q=80" alt="{{ .Title }}">
-          {{ end }}
+          <img src="{{ .Params.image }}" alt="{{ .Title }}">
         </div>
         <div class="article-card-content">
           <h3 class="article-card-title">{{ .Title }}</h3>
@@ -83,7 +68,7 @@
   </section>
   {{ end }}
 
-  {{ if not $sortedContent }}
+  {{ if not $authorArticles }}
   <div class="text-center py-12 text-gray-500">
     <p>Este autor aún no tiene artículos publicados.</p>
   </div>

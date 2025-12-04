@@ -6,9 +6,9 @@
       <div class="hero-icon">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="7"/><polyline points="8.21 13.89 7 23 12 20 17 23 15.79 13.88"/></svg>
       </div>
-      <h1>Entrevistas MVP</h1>
+      <h1>Entrevistas a nuestros autores</h1>
     </div>
-    <p>Conoce a los Microsoft MVPs de la comunidad hispana. Sus historias, experiencias y consejos para ayudarte a crecer profesionalmente.</p>
+    <p>Conoce a nuestros autores. Sus historias, experiencias y consejos para ayudarte a crecer profesionalmente.</p>
   </div>
 </div>
 
@@ -19,10 +19,6 @@
     <a href="{{ .Permalink }}" class="interview-card">
       <div class="interview-card-image">
         <img src="{{ .Params.image }}" alt="{{ .Params.name }}">
-        <div class="interview-badge">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="7"/><polyline points="8.21 13.89 7 23 12 20 17 23 15.79 13.88"/></svg>
-          <span>MVP</span>
-        </div>
         <div class="interview-card-overlay">
           <h3>{{ .Params.name }}</h3>
           <p>{{ .Params.mvpCategory }}</p>
@@ -41,19 +37,4 @@
   </div>
 </div>
 
-<!-- MVP Info Section -->
-<div class="bg-gray-50 py-12">
-  <div class="container-narrow">
-    <div class="info-box">
-      <div class="info-box-icon">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="7"/><polyline points="8.21 13.89 7 23 12 20 17 23 15.79 13.88"/></svg>
-      </div>
-      <div class="info-box-content">
-        <h3>¿Qué es un Microsoft MVP?</h3>
-        <p>El programa Microsoft Most Valuable Professional (MVP) es un reconocimiento de Microsoft a líderes técnicos de la comunidad que comparten activamente su experiencia con otros.</p>
-        <p>Los MVPs son expertos apasionados por la tecnología que ayudan a otros profesionales a sacar el máximo provecho de las tecnologías Microsoft, compartiendo conocimientos a través de artículos, videos, presentaciones y participación en comunidades.</p>
-      </div>
-    </div>
-  </div>
-</div>
 {{ end }}
