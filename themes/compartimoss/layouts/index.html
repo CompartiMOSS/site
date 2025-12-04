@@ -65,7 +65,7 @@
 <section class="container py-12">
   <div class="section-header">
     <h2>Últimas Entrevistas</h2>
-    <a href="{{ "/entrevistas/" | relURL }}" class="section-link">
+    <a href="{{ "./entrevistas/" | relURL }}" class="section-link">
       Ver todas
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12,5 19,12 12,19"/></svg>
     </a>
@@ -73,25 +73,27 @@
 
   <div class="grid grid-cols-1 md-grid-cols-2 lg-grid-cols-3 gap-6">
     {{ range first 3 (where .Site.RegularPages "Section" "entrevistas") }}
-    <a href="{{ .Permalink }}" class="article-card">
-      <div class="article-card-image">
-        <img src="{{ .Params.image }}" alt="{{ .Title }}">
-      </div>
-      <div class="article-card-content">
-        <h3 class="article-card-title">{{ .Title }}</h3>
-        <p class="article-card-excerpt">{{ .Params.excerpt }}</p>
-        <div class="article-card-meta">
-          <div class="article-card-meta-item">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
-            <span>{{ .Params.name }}</span>
-          </div>
-          <div class="article-card-meta-item">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
-            <span>{{ .Date.Format "2 January 2006" }}</span>
+      {{ $imagePath := path.Join "./entrevistas/" .Params.image }}
+  
+      <a href="{{ .Permalink }}" class="article-card">
+        <div class="article-card-image">
+          <img src="{{ $imagePath }}" alt="{{ .Title }}">
+        </div>
+        <div class="article-card-content">
+          <h3 class="article-card-title">{{ .Title }}</h3>
+          <p class="article-card-excerpt">{{ .Params.excerpt }}</p>
+          <div class="article-card-meta">
+            <div class="article-card-meta-item">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+              <span>{{ .Params.name }}</span>
+            </div>
+            <div class="article-card-meta-item">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+              <span>{{ .Date.Format "2 January 2006" }}</span>
+            </div>
           </div>
         </div>
-      </div>
-    </a>
+      </a>
     {{ end }}
   </div>
 </section>

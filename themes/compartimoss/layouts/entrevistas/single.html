@@ -1,7 +1,11 @@
 {{ define "main" }}
 <!-- Hero Section -->
 <div class="article-hero">
-  <img src="{{ .Params.image }}" alt="{{ .Params.name }}">
+  {{ $imageURL := .Params.image }}
+  {{ $articleDir := path.Dir .Permalink }}
+  {{ $imagePath := path.Join "../" $imageURL }}
+
+  <img src="{{ $imagePath }}" alt="{{ .Params.name }}">
   <div class="article-hero-content">
     <div class="container-narrow">
       <a href="{{ "/entrevistas/" | relURL }}" class="back-link">
