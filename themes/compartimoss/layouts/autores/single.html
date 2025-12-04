@@ -1,6 +1,10 @@
 {{ define "main" }}
 <!-- Author Header -->
 <div class="author-profile-header">
+
+  {{ $imageURL := .Params.avatar }}
+  {{ $imagePath := path.Join "../" $imageURL }}
+
   <div class="container author-profile-content">
     <a href="{{ "/autores/" | relURL }}" class="back-link">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12,19 5,12 12,5"/></svg>
@@ -10,7 +14,7 @@
     <div class="author-profile-grid">
       <div class="author-profile-left">
         <div class="author-profile-image">
-          <img src="{{ .Params.avatar }}" alt="{{ .Title }}">
+          <img src="{{ $imagePath }}" alt="{{ .Title }}">
         </div>
         <div class="author-profile-info">
           <h1>{{ .Title }}</h1>

@@ -1490,9 +1490,12 @@ button {
 }
 
 .author-profile-right .bio {
-  color: rgba(255, 255, 255, 0.9);
-  font-size: 1.125rem;
-  line-height: 1.7;
+  color: #fff !important;
+  font-size: 1.125rem !important;
+  line-height: 1.7 !important;
+  margin-bottom: 0 !important;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif !important;
+  font-weight: 400 !important;
 }
 
 .author-profile-social {
