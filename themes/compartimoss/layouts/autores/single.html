@@ -48,12 +48,14 @@
 <div class="container py-12">
   {{ $authorSlug := .File.ContentBaseName }}
   {{ $authorArticles := where (where .Site.RegularPages "Section" "articulos") ".Params.authorSlug" $authorSlug }}
+  {{ $authorMagazines := where (where .Site.RegularPages "Section" "revistas") ".Params.authorSlug" $authorSlug }}
+  {{ $allContent := union $authorArticles $authorMagazines }}
   
-  {{ if $authorArticles }}
+  {{ if $allContent }}
   <section class="mb-12">
-    <h2 class="mb-6 text-gray-900">Artículos del Blog</h2>
+    <h2 class="mb-6 text-gray-900">Artículos</h2>
     <div class="grid grid-cols-1 md-grid-cols-2 lg-grid-cols-3 gap-6">
-      {{ range $authorArticles }}
+      {{ range $allContent }}
       <a href="{{ .Permalink }}" class="article-card">
         <div class="article-card-image">
           <img src="{{ .Params.image }}" alt="{{ .Title }}">
@@ -74,7 +76,7 @@
   </section>
   {{ end }}
 
-  {{ if not $authorArticles }}
+  {{ if not $allContent }}
   <div class="text-center py-12 text-gray-500">
     <p>Este autor aún no tiene artículos publicados.</p>
   </div>
