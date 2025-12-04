@@ -1442,8 +1442,15 @@ button {
 
 @media (min-width: 768px) {
   .author-profile-grid {
-    grid-template-columns: 1fr 2fr;
+    grid-template-columns: 30% 70%;
+    align-items: start;
   }
+}
+
+.author-profile-left {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
 }
 
 .author-profile-image {
@@ -1461,7 +1468,6 @@ button {
 .author-profile-info {
   display: flex;
   flex-direction: column;
-  justify-content: center;
   color: #fff;
 }
 
@@ -1476,10 +1482,17 @@ button {
   margin-bottom: 1.5rem;
 }
 
-.author-profile-info .bio {
+.author-profile-right {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: #fff;
+}
+
+.author-profile-right .bio {
   color: rgba(255, 255, 255, 0.9);
   font-size: 1.125rem;
-  margin-bottom: 1.5rem;
+  line-height: 1.7;
 }
 
 .author-profile-social {
