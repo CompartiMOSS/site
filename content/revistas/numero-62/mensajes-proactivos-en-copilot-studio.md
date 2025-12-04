@@ -6,7 +6,7 @@ author: "Cristian Dragos Fedotov"
 authorSlug: "cristian-dragos-fedotov"
 keywords: ["Microsoft 365", "Copilot", "Power Automate", "Mensajes proactivos"]
 excerpt: "Aprende a integrar un agente de Copilot Studio con mensajes proactivos enviados desde Power Automate para responder a cambios en elementos de una lista de SharePoint."
-featuredImage: "../images/mensajes-proactivos-en-copilot-studio/image1.png"
+image: "../images/mensajes-proactivos-en-copilot-studio/image1.png"
 ---
 
 Una vez más, te traigo una buena manera de aprovechar las capacidades de
