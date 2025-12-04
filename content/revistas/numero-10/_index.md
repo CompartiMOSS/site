@@ -5,4 +5,5 @@ date: 2024-10-01
 number: 10
 coverImage: "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=800&q=80"
 description: "Edición especial dedicada a Microsoft 365 y las últimas innovaciones en productividad empresarial."
+editorial: "En esta décima edición de CompartiMOSS, exploramos las últimas innovaciones en Microsoft 365. Desde soluciones de administración inteligente con Copilot hasta capacidades avanzadas de gestión de contenidos con SharePoint Syntex, descubre cómo estas tecnologías transforman la productividad empresarial en la era moderna."
 ---

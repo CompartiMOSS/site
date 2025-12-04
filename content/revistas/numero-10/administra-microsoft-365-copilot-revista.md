@@ -5,6 +5,7 @@ magazineSlug: "numero-10"
 author: "Juan Carlos González Rodríguez"
 authorSlug: "juan-carlos-gonzalez"
 excerpt: "Guía completa para aprovechar Copilot en la administración de Microsoft 365."
+keywords: ["Microsoft 365", "Copilot", "Administración"]
 tags: ["Microsoft 365", "Copilot", "Administración"]
 ---
 

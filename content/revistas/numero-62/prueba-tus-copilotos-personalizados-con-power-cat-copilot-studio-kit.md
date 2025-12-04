@@ -6,7 +6,7 @@ author: "Ferran Chopo"
 authorSlug: "ferran-chopo"
 keywords: ["Microsoft 365", "Copilot", "Power CAT", "Pruebas"]
 excerpt: "Guía completa para probar tus copilotos personalizados utilizando Power CAT Copilot Studio Kit, una herramienta diseñada para mejorar las capacidades de Microsoft Copilot Studio."
-featuredImage: "../images/prueba-tus-copilotos-personalizados-con-power-cat-copilot-studio-kit/image1.png"
+image: "../images/prueba-tus-copilotos-personalizados-con-power-cat-copilot-studio-kit/image1.png"
 ---
 
 El Microsoft Power Customer Advisory Team (Power CAT) lanzó hace ya unos

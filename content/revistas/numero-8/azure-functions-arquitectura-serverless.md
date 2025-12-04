@@ -5,6 +5,7 @@ magazineSlug: "numero-8"
 author: "Adrián Díaz Cervera"
 authorSlug: "adrian-diaz-cervera"
 excerpt: "Implementa soluciones escalables con Azure Functions."
+keywords: ["Azure", "Functions", "Serverless"]
 ---
 
 Azure Functions permite crear aplicaciones sin gestionar infraestructura, enfocándote únicamente en el código de negocio.

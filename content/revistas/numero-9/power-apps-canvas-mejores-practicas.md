@@ -5,6 +5,7 @@ magazineSlug: "numero-9"
 author: "Ferran Chopo"
 authorSlug: "ferran-chopo"
 excerpt: "Optimiza tus aplicaciones Canvas con estas técnicas probadas."
+keywords: ["Power Apps", "Canvas", "Desarrollo"]
 ---
 
 Las aplicaciones Canvas de Power Apps ofrecen flexibilidad increíble, pero requieren buenas prácticas para maximizar su rendimiento y mantenibilidad.

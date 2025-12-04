@@ -6,7 +6,7 @@ author: "Juan Carlos González Rodríguez"
 authorSlug: "juan-carlos-gonzalez-rodriguez"
 keywords: ["Microsoft 365", "SharePoint", "Copilot", "Agentes"]
 excerpt: "Descubre los Agentes de Copilot para Sitios de SharePoint, una de las novedades de la Wave 2 de Microsoft 365 Copilot que permite crear agentes especializados en el contenido de sitios de SharePoint."
-featuredImage: "../images/agentes-de-copilot-para-sitios-de-sharepoint/image1.png"
+image: "../images/agentes-de-copilot-para-sitios-de-sharepoint/image1.png"
 ---
 
 Una de las novedades de la Wave 2 de Microsoft 365 Copilot es la llegada de los [Agentes de Copilot para Sitios de

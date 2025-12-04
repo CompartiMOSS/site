@@ -5,6 +5,7 @@ magazineSlug: "numero-9"
 author: "Santiago Porras Rodríguez"
 authorSlug: "santiago-porras"
 excerpt: "Aprende a crear flujos de trabajo avanzados y escalables."
+keywords: ["Power Automate", "Flujos", "Automatización"]
 ---
 
 Power Automate permite crear automatizaciones complejas que integran múltiples sistemas y manejan lógica de negocio sofisticada.

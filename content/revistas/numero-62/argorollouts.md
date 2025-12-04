@@ -6,7 +6,7 @@ author: "Adrian Diaz Cervera"
 authorSlug: "adrian-diaz-cervera"
 keywords: ["Argo Rollouts", "Kubernetes", "Despliegue", "CI/CD"]
 excerpt: "Descubre cómo Argo Rollouts mejora tus procesos de despliegue en Kubernetes con estrategias avanzadas como blue-green y canary, proporcionando control granular y capacidades avanzadas para minimizar riesgos."
-featuredImage: "../images/argorollouts/image1.png"
+image: "../images/argorollouts/image1.png"
 ---
 
 En el número anterior, hablamos de cómo Argo CD/CI puede simplificar

@@ -6,7 +6,7 @@ author: "Nicolás Bello Camilletti"
 authorSlug: "nicolas-bello-camilletti"
 keywords: ["Entrevista"]
 excerpt: "Entrevista a Nicolás Bello Camilletti, Head of Engineering en Qurable, Google Developer Expert y ex-Microsoft MVP, sobre su trayectoria en tecnología, cloud computing y DevOps."
-featuredImage: "../images/entrevista_a_nicolasbellocamilletti/image1.png"
+image: "../images/entrevista_a_nicolasbellocamilletti/image1.png"
 ---
 
 ![Nicolás Bello Camilletti](../images/entrevista_a_nicolasbellocamilletti/image1.png#author)
