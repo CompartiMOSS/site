@@ -1,0 +1,24 @@
+---
+title: Alberto Andrés Rodríguez
+bio: 'Llevo trabajando en el sector TIC desde 2004, lo que me ha proporcionado una
+  amplia visión de los diferentes tipos de soporte y tecnologías que se han ido utilizando
+  a lo largo de los años. Gracias a esta experiencia y los estudios de Ingeniería
+  de Telecomunicación que he realizado, me han proporcionado una base de TI junto
+  con la dirección y gestión de proyectos. <br/> <br /> Actualmente, tengo más de
+  6 años de experiencia en el ámbito Cloud de Microsoft, ya sea sobre Office 365 o
+  bien sobre Microsoft Azure. <br/> <br /> Entre algunas de las características que
+  se pueden destacar son: - Consultoría tecnología - Gestión de proyectos - Planificación
+  financiera <br/> <br /> Gran parte de mi educación universitaria ha estado basada
+  en "Project Learning" lo que me ha proporcionado una elevada comunicación oral,
+  pudiendo adaptarme sin problemas al nivel de conocimiento de la audiencia, así como
+  espíritu de trabajo en equipo, aunque no tengo problema en trabajar en proyectos
+  por cuenta propia. Así mismo considero que soy una persona acostumbrada a trabajar
+  en entornos bajo presión y en los cuales la innovación es una prioridad <br/> <br
+  /> Me considero una persona abierta, que le encanta viajar y conocer otras culturas
+  y su gente. Estoy dispuesto a enfrentarme a nuevos retos ya que considero que de
+  cada oportunidad o proyecto siempre se aprende.'
+avatar: ./images/alberto-andres-rodriguez.png
+role: Cloud Solutions Architect
+twitter: '@albandrod'
+linkedin: ''
+---
