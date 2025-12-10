@@ -1620,15 +1620,44 @@ button {
   padding: 3rem 1rem;
 }
 
+.magazine-header-top {
+  margin-bottom: 2rem;
+}
+
+.magazine-header-top .magazine-number {
+  display: inline-block;
+  background-color: rgba(255, 255, 255, 0.2);
+  color: #fff;
+  padding: 0.5rem 1rem;
+  border-radius: 9999px;
+  margin-bottom: 1rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+}
+
+.magazine-header-top h1 {
+  color: #fff;
+  font-size: 2.5rem;
+  line-height: 1.2;
+}
+
 .magazine-header-grid {
   display: grid;
   grid-template-columns: 1fr;
   gap: 2rem;
+  align-items: start;
 }
 
 @media (min-width: 768px) {
   .magazine-header-grid {
-    grid-template-columns: 1fr 2fr;
+    grid-template-columns: 350px 1fr;
+    gap: 3rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .magazine-header-grid {
+    grid-template-columns: 400px 1fr;
   }
 }
 
@@ -1647,28 +1676,14 @@ button {
 .magazine-info {
   display: flex;
   flex-direction: column;
-  justify-content: center;
-}
-
-.magazine-number {
-  display: inline-block;
-  background-color: rgba(255, 255, 255, 0.2);
-  color: #fff;
-  padding: 0.5rem 1rem;
-  border-radius: 9999px;
-  margin-bottom: 1rem;
-  width: fit-content;
-}
-
-.magazine-info h1 {
-  color: #fff;
-  margin-bottom: 1rem;
+  justify-content: flex-start;
 }
 
 .magazine-info .description {
-  font-size: 1.25rem;
+  font-size: 1rem;
   color: rgba(255, 255, 255, 0.95);
   margin-bottom: 1.5rem;
+  line-height: 1.7;
 }
 
 .magazine-date {
