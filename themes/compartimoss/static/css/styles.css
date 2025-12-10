@@ -1367,6 +1367,10 @@ button {
   line-height: 1.625;
 }
 
+.article-content .content p {
+  margin-bottom: 1.5rem;
+}
+
 .article-content .content ul,
 .article-content .content ol {
   margin: 1rem 0;
@@ -1395,11 +1399,20 @@ button {
 }
 
 .article-content .content img {
-  margin: 1.5rem auto;
+  margin: 0.75rem auto 1.5rem;
   display: block;
   max-width: 100%;
   height: auto;
   border-radius: 0.375rem;
+}
+
+.article-content .content a {
+  color: var(--color-primary-orange);
+  transition: color 0.15s;
+}
+
+.article-content .content a:hover {
+  color: var(--color-primary-pink);
 }
 
 /* Author Box */
@@ -1662,15 +1675,15 @@ button {
 }
 
 .magazine-cover {
-  background-color: #fff;
   border-radius: 0.625rem;
-  overflow: hidden;
-  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+  overflow: visible;
 }
 
 .magazine-cover img {
   width: 100%;
   height: auto;
+  border-radius: 0.625rem;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
 }
 
 .magazine-info {
@@ -1684,6 +1697,24 @@ button {
   color: rgba(255, 255, 255, 0.95);
   margin-bottom: 1.5rem;
   line-height: 1.7;
+}
+
+.magazine-info .description p {
+  margin-bottom: 1.5rem;
+  margin-top: 0;
+}
+
+.magazine-info .description p:last-child {
+  margin-bottom: 0;
+}
+
+.magazine-info .description p:first-child {
+  margin-top: 0;
+}
+
+.magazine-info .description h2 {
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
 }
 
 .magazine-date {

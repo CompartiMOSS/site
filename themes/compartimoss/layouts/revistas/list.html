@@ -11,7 +11,11 @@
     {{ range .Pages }}
     <a href="{{ .Permalink }}" class="magazine-card">
       <div class="magazine-card-image">
-        <img src="{{ .Params.coverImage }}" alt="{{ .Title }}">
+        {{ $coverImage := .Params.coverImage }}
+        {{ if hasPrefix $coverImage "./" }}
+              {{ $coverImage = path.Join .Permalink .Params.coverImage }}
+        {{ end }}
+        <img src="{{ $coverImage }}" alt="{{ .Title }}">
         <div class="magazine-badge">Nº {{ .Params.number }}</div>
       </div>
       <div class="magazine-card-content">
@@ -24,7 +28,7 @@
           </div>
           <div class="magazine-card-meta-item">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
-            <span>{{ len .Params.articles }} artículos</span>
+            <span>{{ len .Pages }} artículos</span>
           </div>
         </div>
       </div>
