@@ -18,7 +18,7 @@ Le encanta debatir y enseñar sobre tecnologías emergentes, y es un apasionado 
 Es Ingeniero en Informática y Licenciado en Sistemas, ambos títulos de la Universidad de Buenos Aires.
 
 
-# ¿Por qué y cómo empezaste en el mundo de la tecnología?
+## ¿Por qué y cómo empezaste en el mundo de la tecnología?
 
 Tuve la suerte de que mi papá trabajara en un banco donde contaba con
 acceso a una computadora. Cuando tenía alrededor de 10 años, fuimos a
@@ -47,7 +47,7 @@ marketing y la administración, así que terminé eligiendo Ingeniería en
 Informática, una carrera que integraba todos estos aspectos. Y creo que
 no me equivoqué.
 
-# ¿Cuáles son tus principales actividades tecnológicas hoy en día?
+## ¿Cuáles son tus principales actividades tecnológicas hoy en día?
 
 Trabajo como Head de Ingeniería en **Qurable**, una plataforma de
 loyalty donde lidero un equipo distribuido de 10 desarrolladores. Mi rol
@@ -62,7 +62,7 @@ Por otra parte, disfruto compartir conocimiento. Me dedico a preparar
 charlas y escribir publicaciones técnicas sobre temas como desarrollo
 web, cloud y DevOps, basándome en mis experiencias profesionales.
 
-# ¿Cuáles son tus principales actividades NO tecnológicas hoy en día?
+## ¿Cuáles son tus principales actividades NO tecnológicas hoy en día?
 
 A nivel laboral, tengo varias reuniones relacionadas a definir el
 producto, tanto internas como externas. A su vez, también estoy
@@ -83,7 +83,7 @@ ciencia ficción; soy fan de los libros de Asimov y los de Dune. Las
 series y películas me encantan, pero desde que nació mi hija, las veo
 con menos frecuencia.
 
-# ¿Cuáles son tus hobbies?
+## ¿Cuáles son tus hobbies?
 
 Siempre me costó hablar de hobbies, porque intento disfrutar de todo lo
 que hago. Todo lo que les estuve contando en las preguntas anteriores
@@ -91,7 +91,7 @@ hace referencia a mis hobbies: desde trabajar en tecnología -lo cual me
 apasiona y disfruto día a día- hasta caminar, disfrutar de viajes, leer,
 ver películas y series, juntarme con amigos y jugar juegos.
 
-# ¿Cuál es tu visión de futuro en la tecnología de acá a los próximos años?
+## ¿Cuál es tu visión de futuro en la tecnología de acá a los próximos años?
 
 Claramente la **inteligencia artificial**, gracias a los LLM, se volvió
 a instalar como uno de los principales temas en tecnología y no solo

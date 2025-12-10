@@ -54,7 +54,7 @@
 <article class="article-content container-narrow">
   <p class="excerpt">{{ .Params.excerpt }}</p>
   <div class="content">
-    {{ .Content }}
+    {{ .Content | markdownify}}
   </div>
 
   <!-- Magazine Info -->
@@ -65,7 +65,7 @@
       </div>
       <div>
         <h3>De la revista {{ $magazine.Title }}</h3>
-        <p>{{ $magazine.Params.editorial }}</p>
+        <p>{{ $magazine.Params.description }}</p>
         <a href="{{ $magazine.Permalink }}">Ver más artículos de esta revista →</a>
       </div>
     </div>
