@@ -1,0 +1,83 @@
+---
+title: "Integración de Powershell local con Powershell de Azure"
+slug: "integracion-de-powershell-local-con-powershell-de-azure"
+magazineSlug: "numero-27"
+author: "Enrique Rhenals Bárcenas"
+authorSlug: "enrique-rhenals-barcenas"
+keywords: ['Azure','PowerShell']
+---
+
+​PowerShell puede ser utilizado tanto de forma local en nuestro equipo haciendo uso de las funciones disponibles, como de forma remota para configurar y administrar servicios OnPremises o en la nube. En este artículo hablaremos de cómo integrar PowerShell local con PowerShell de Azure para poder realizar de manera más ágil nuestras operaciones en Azure.
+
+**Pasos a seguir para la integración**
+
+Para integrar nuestro PowerShell local con PowerShell en Azure hay que seguir los pasos que se indican a continuación:
+
+- Llegamos a la dirección: [http://azure.microsoft.com/en-us/downloads/](http://azure.microsoft.com/en-us/downloads/), en la cual encontramos diferentes herramientas que podemos utilizar para interactuar con Azure. Elegimos la opción: Azure command-line interface, Windows Install (Download .exe )
+
+![Imagen 1.- Microsoft Azure Download.](../images/integracion-de-powershell-local-con-powershell-de-azure/image1.png)
+
+- Procedemos a la instalación del mismo presionando el botón "Instalar"
+
+![Imagen 2.- Instalación de Azure command-line interface.](../images/integracion-de-powershell-local-con-powershell-de-azure/image2.png)
+
+- En requisitos, tomamos la opción Windows Azure PowerShell y aceptar. Se iniciará el proceso de descarga e instalación de los componentes para PowerShell de Azure.
+
+![Imagen 3.- Instalación de Azure command-line interface.](../images/integracion-de-powershell-local-con-powershell-de-azure/image3.png)
+
+![Imagen 4.- Instalación de Azure command-line interface.](../images/integracion-de-powershell-local-con-powershell-de-azure/image4.png)
+
+- Y aquí continuamos con la finalización de la instalación inicial.
+
+![Imagen 5.- Herramienta instalada.](../images/integracion-de-powershell-local-con-powershell-de-azure/image5.png)
+
+- Luego de tener instalada la herramienta procedemos a ir al panel de Windows y elegimos Azure PowerShell y tomamos la opción "ejecutar como administrador".
+
+![Imagen 6.- Acceso a Azure Powershell en nuestro equipo.](../images/integracion-de-powershell-local-con-powershell-de-azure/image6.png)
+
+- Estando en la opción de Azure PowerShell ejecutamos la sentencia Set-ExecutionPolicy RemoteSigned que nos sirve para dar permisos de ejecución de scripts PowerShell en nuestro ambiente.
+
+![Imagen 7.- Ejecución sentencia en Azure Powershell.](../images/integracion-de-powershell-local-con-powershell-de-azure/image7.png)
+
+- Luego de realizar lo anterior procedemos a integrar las herramientas de Azure al ambiente normal de PowerShell ejecutamos lo siguiente:
+
+```
+Import-Module “C:\Program Files (x86)\Microsoft SDKs\Windows Azure\PowerShell\Azure\Azure.psd1″ 
+```
+
+- Allí elegimos la opción "Certificate".
+- Posteriormente nos aparece la opción de loguearnos en Azure, para lo cual entramos con el usuario y contraseña que tenemos asignada para realizar esta operación.
+
+![Imagen 8.- Login en Azure.](../images/integracion-de-powershell-local-con-powershell-de-azure/image8.png)
+
+- Posteriormente procedemos a salvar el archivo que utilizaremos para la suscripción.
+
+![Imagen 11.- Guardar el archivo correspondiente a la suscripción de Azure.](../images/integracion-de-powershell-local-con-powershell-de-azure/image9.png)
+
+- Si queremos establecer una conexión entre nuestra cuenta en la nube de Azure y nuestro equipo debemos instalar un certificado en nuestro PC proveniente de Azure.
+
+```
+Import-AzurePublishSettingsFile-PublishSettingsFile D:\V2\credentials.publishsettings
+```
+
+Donde D:\V2\ es la ubicación del archivo
+
+- Realizamos la verificación de nuestra suscripción del comando PowerShell a nuestro pc con la sentencia: Get-AzureSubscription .
+
+Con la siguiente sentencia verificamos nombre de suscripción que tenemos por PowerShell:
+
+```
+Get-AzureSubscription 
+```
+
+**Conclusiones**
+
+En este artículo vimos como configurar nuestro pc local para poder conectarnos a Windows Azure desde el Shell de sistema, y así poder administrar desde línea de comandos cualquier aspecto de nuestra infraestructura en la nube.
+
+**Enrique Rhenals Bárcenas**
+ MVP Office Servers and Services
+
+MCT
+[erhenalsb@hotmail.com](mailto:erhenalsb@hotmail.com)
+@enriquerhenals
+ [http://enriquerhenalsb.blogspot.com](http://enriquerhenalsb.blogspot.com/)
