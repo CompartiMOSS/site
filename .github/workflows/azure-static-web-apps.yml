@@ -4,10 +4,9 @@ on:
   workflow_dispatch:
 
 jobs:
-  build_and_deploy_job:
+  build:
     runs-on: ubuntu-latest
-    name: Build and Deploy Job
-    environment: DEV
+    name: Build Site
     steps:
       - uses: actions/checkout@v3
         with:
@@ -23,22 +22,73 @@ jobs:
       - name: Build
         run: hugo --minify
       
-      - name: Delete existing files from Azure Storage
+      - name: Upload build artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: public
+          path: ./public
+          retention-days: 1
+
+  deploy_dev:
+    runs-on: ubuntu-latest
+    name: Deploy to DEV
+    needs: build
+    environment: DEV
+    steps:
+      - name: Download build artifacts
+        uses: actions/download-artifact@v3
+        with:
+          name: public
+          path: ./public
+      
+      - name: Delete existing files from Azure Storage (DEV)
         uses: azure/CLI@v1
         with:
           inlineScript: |
             az storage blob delete-batch \
-              --account-name ${{ secrets.AZURE_STORAGE_ACCOUNT_NAME }} \
-              --account-key ${{ secrets.AZURE_STORAGE_ACCOUNT_KEY }} \
+              --account-name ${{ secrets.AZURE_STORAGE_ACCOUNT_NAME_DEV }} \
+              --account-key ${{ secrets.AZURE_STORAGE_ACCOUNT_KEY_DEV }} \
               --source '$web'
       
-      - name: Deploy to Azure Storage Static Website
+      - name: Deploy to Azure Storage Static Website (DEV)
         uses: azure/CLI@v1
         with:
           inlineScript: |
             az storage blob upload-batch \
-              --account-name ${{ secrets.AZURE_STORAGE_ACCOUNT_NAME }} \
-              --account-key ${{ secrets.AZURE_STORAGE_ACCOUNT_KEY }} \
+              --account-name ${{ secrets.AZURE_STORAGE_ACCOUNT_NAME_DEV }} \
+              --account-key ${{ secrets.AZURE_STORAGE_ACCOUNT_KEY_DEV }} \
+              --destination '$web' \
+              --source ./public \
+              --overwrite
+
+  deploy_pro:
+    runs-on: ubuntu-latest
+    name: Deploy to PRO
+    needs: deploy_dev
+    environment: PRO
+    steps:
+      - name: Download build artifacts
+        uses: actions/download-artifact@v3
+        with:
+          name: public
+          path: ./public
+      
+      - name: Delete existing files from Azure Storage (PRO)
+        uses: azure/CLI@v1
+        with:
+          inlineScript: |
+            az storage blob delete-batch \
+              --account-name ${{ secrets.AZURE_STORAGE_ACCOUNT_NAME_PRO }} \
+              --account-key ${{ secrets.AZURE_STORAGE_ACCOUNT_KEY_PRO }} \
+              --source '$web'
+      
+      - name: Deploy to Azure Storage Static Website (PRO)
+        uses: azure/CLI@v1
+        with:
+          inlineScript: |
+            az storage blob upload-batch \
+              --account-name ${{ secrets.AZURE_STORAGE_ACCOUNT_NAME_PRO }} \
+              --account-key ${{ secrets.AZURE_STORAGE_ACCOUNT_KEY_PRO }} \
               --destination '$web' \
               --source ./public \
               --overwrite
