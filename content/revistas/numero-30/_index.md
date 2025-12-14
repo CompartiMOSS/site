@@ -1,7 +1,7 @@
 ---
 title: "Número 30 - Diciembre 2016"
 slug: "numero-30"
-date: 2020-03-29
+date: 2016-12-29
 number: 30
 coverImage: "./images/CompartiMOSS_30.jpg"
 pdfUrl: "./CompartiMOSS_30.pdf"

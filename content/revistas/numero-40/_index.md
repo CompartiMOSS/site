@@ -1,7 +1,7 @@
 ---
 title: "Número 40 - Junio 2019"
 slug: "numero-40"
-date: 2020-03-29
+date: 2019-06-29
 number: 40
 coverImage: "./images/CompartiMOSS_40.jpg"
 pdfUrl: "./CompartiMOSS_40.pdf"

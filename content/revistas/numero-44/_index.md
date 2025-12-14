@@ -1,7 +1,7 @@
 ---
 title: "Número 44 - Junio 2020"
 slug: "numero-44"
-date: 2020-03-29
+date: 2020-06-29
 number: 44
 coverImage: "./images/CompartiMOSS_44.jpg"
 pdfUrl: "./CompartiMOSS_44.pdf"

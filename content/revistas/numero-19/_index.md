@@ -1,7 +1,7 @@
 ---
 title: "Número 19 - Marzo 2014"
 slug: "numero-19"
-date: 2020-03-29
+date: 2014-03-29
 number: 19
 coverImage: "./images/CompartiMOSS_19.jpg"
 pdfUrl: "./CompartiMOSS_19.pdf"

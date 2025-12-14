@@ -1,7 +1,7 @@
 ---
 title: "Número 24 - Junio 2015"
 slug: "numero-24"
-date: 2020-03-29
+date: 2015-06-29
 number: 24
 coverImage: "./images/CompartiMOSS_24.jpg"
 pdfUrl: "./CompartiMOSS_24.pdf"

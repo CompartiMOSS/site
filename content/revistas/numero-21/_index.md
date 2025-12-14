@@ -1,7 +1,7 @@
 ---
 title: "Número 21 - Septiembre 2014"
 slug: "numero-21"
-date: 2020-03-29
+date: 2014-09-29
 number: 21
 coverImage: "./images/CompartiMOSS_21.jpg"
 pdfUrl: "./CompartiMOSS_21.pdf"

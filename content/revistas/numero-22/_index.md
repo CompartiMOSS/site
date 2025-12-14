@@ -1,7 +1,7 @@
 ---
 title: "Número 22 - Diciembre 2014"
 slug: "numero-22"
-date: 2020-03-29
+date: 2014-12-29
 number: 22
 coverImage: "./images/CompartiMOSS_22.jpg"
 pdfUrl: "./CompartiMOSS_22.pdf"

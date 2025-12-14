@@ -1,7 +1,7 @@
 ---
 title: "Número 15 - Marzo 2013"
 slug: "numero-15"
-date: 2020-03-29
+date: 2013-03-29
 number: 15
 coverImage: "./images/CompartiMOSS_15.jpg"
 pdfUrl: "./CompartiMOSS_15.pdf"

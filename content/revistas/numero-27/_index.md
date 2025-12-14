@@ -1,7 +1,7 @@
 ---
 title: "Número 27 - Marzo 2016"
 slug: "numero-27"
-date: 2020-03-29
+date: 2016-03-29
 number: 27
 coverImage: "./images/CompartiMOSS_27.jpg"
 pdfUrl: "./CompartiMOSS_27.pdf"

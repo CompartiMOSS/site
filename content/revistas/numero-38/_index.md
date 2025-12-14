@@ -1,7 +1,7 @@
 ---
 title: "Número 38 - Diciembre 2018"
 slug: "numero-38"
-date: 2020-03-29
+date: 2018-12-29
 number: 38
 coverImage: "./images/CompartiMOSS_38.jpg"
 pdfUrl: "./CompartiMOSS_38.pdf"

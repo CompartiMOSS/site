@@ -1,7 +1,7 @@
 ---
 title: "Número 37 - Septiembre 2018"
 slug: "numero-37"
-date: 2020-03-29
+date: 2018-09-29
 number: 37
 coverImage: "./images/CompartiMOSS_37.jpg"
 pdfUrl: "./CompartiMOSS_37.pdf"

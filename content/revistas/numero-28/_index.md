@@ -1,7 +1,7 @@
 ---
 title: "Número 28 - Junio 2016"
 slug: "numero-28"
-date: 2020-03-29
+date: 2016-06-29
 number: 28
 coverImage: "./images/CompartiMOSS_28.jpg"
 pdfUrl: "./CompartiMOSS_28.pdf"

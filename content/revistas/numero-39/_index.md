@@ -1,7 +1,7 @@
 ---
 title: "Número 39 - Marzo 2019"
 slug: "numero-39"
-date: 2020-03-29
+date: 2019-03-29
 number: 39
 coverImage: "./images/CompartiMOSS_39.jpg"
 pdfUrl: "./CompartiMOSS_39.pdf"

@@ -1,7 +1,7 @@
 ---
 title: "Número 35 - Marzo 2018"
 slug: "numero-35"
-date: 2020-03-29
+date: 2018-03-29
 number: 35
 coverImage: "./images/CompartiMOSS_35.jpg"
 pdfUrl: "./CompartiMOSS_35.pdf"
