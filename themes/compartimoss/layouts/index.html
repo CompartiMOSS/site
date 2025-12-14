@@ -62,7 +62,7 @@
   </div>
 
   <div class="grid grid-cols-1 md-grid-cols-2 lg-grid-cols-3 gap-6">
-    {{ range first 5 (where .Site.RegularPages "Section" "articulos") }}
+    {{ range first 3 (where .Site.RegularPages "Section" "articulos") }}
     <a href="{{ .Permalink }}" class="article-card">
       <div class="article-card-image">
         <img src="{{ .Params.image }}" alt="{{ .Title }}">
