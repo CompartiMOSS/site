@@ -50,3 +50,9 @@ Para proponer artículos o cambios, consulta la guía: `CONTRIBUTING.MD`.
 
 Preguntas frecuentes: [FAQs.md](FAQs.md)
 
+## Personas que han contribuido
+
+Listado dinámico desde GitHub:
+
+[![Contribuidores](https://img.shields.io/github/contributors/CompartiMOSS/site)](https://github.com/CompartiMOSS/site/graphs/contributors)
+
