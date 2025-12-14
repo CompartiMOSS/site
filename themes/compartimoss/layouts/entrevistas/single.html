@@ -13,16 +13,6 @@
         Volver a entrevistas
       </a>
       
-      <div class="flex gap-3 mb-4 flex-wrap">
-        <div class="bg-orange text-white px-4 py-2 rounded-full flex items-center gap-2">
-          <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="7"/><polyline points="8.21 13.89 7 23 12 20 17 23 15.79 13.88"/></svg>
-          <span>Microsoft MVP</span>
-        </div>
-        <div style="background-color: rgba(255,255,255,0.2); backdrop-filter: blur(8px);" class="text-white px-4 py-2 rounded-full">
-          {{ .Params.mvpCategory }}
-        </div>
-      </div>
-      
       <h1>{{ .Title }}</h1>
       
       <div class="article-meta">
@@ -53,13 +43,15 @@
   
   {{ if $otherInterviews }}
   <div class="related-section">
-    <h3>Más Entrevistas MVP</h3>
+    <h3>Más Entrevistas</h3>
     <div class="related-items">
       {{ range first 3 $otherInterviews }}
+        {{ $imageURL := .Params.image }}
+        {{ $imageURL = print "." $imageURL }}
       <a href="{{ .Permalink }}" class="related-item">
         <div class="related-item-content">
           <div class="related-item-image">
-            <img src="{{ .Params.image }}" alt="{{ .Params.name }}">
+            <img src="{{ $imageURL }}" alt="{{ .Params.name }}">
           </div>
           <div class="related-item-info">
             <div class="related-item-category">
