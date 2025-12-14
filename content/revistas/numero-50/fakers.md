@@ -172,7 +172,7 @@ List<Automovil> autosEnParqueadero = generadorDeAutos.Generate(10);
 El resultado en forma tabular es similar al mostrado en la siguiente
 imagen:
 
-![Imagen 1.- Resultado obtenido con el generador.]( ../../../images/numero50/fakers/image1.png)
+![Imagen 1.- Resultado obtenido con el generador.]( ../images/fakers/image1.png)
 
 Nota: para generar la tabla desde una aplicación de consola se ha utilizado el NuGet "ConsoleTable".
 
@@ -266,7 +266,7 @@ internet, nombres, teléfonos, etc..
 El resultado (mostrando datos parciales) del generador es similar al
 mostrado en la siguiente imagen:
 
-![Imagen 2.- Resultado parcial de utilizar el generador.]( ../../../images/numero50/fakers/image2.png)
+![Imagen 2.- Resultado parcial de utilizar el generador.]( ../images/fakers/image2.png)
 
 **Otros Fakers**
 

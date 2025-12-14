@@ -52,7 +52,7 @@ versión anterior, como por ejemplo Minimal API las funcionalidades entre
 6 y 7 son muy diferentes.
 
 ![A close-up of a progress bar Description automatically
-generated](../../../images/numero59/dotnet8/image1.png)
+generated](../images/dotnet8/image1.png)
 
 Una vez ya tenemos claro las fechas en las que tenemos que estar en una
 versión con Soporte, sabemos que la migración a .NET8 es algo que
@@ -158,7 +158,7 @@ inicialización drásticamente.
 ![Chart showing comparison of application size, memory use, and startup
 time metrics of an AOT published app, a runtime app that is trimmed, and
 an untrimmed runtime
-app.](../../../images/numero59/dotnet8//image2.png)
+app.](../images/dotnet8//image2.png)
 
 Pero no es oro todo lo que reduce, si estás haciendo un nuevo desarrollo
 sí que lo puedes utilizar sabiendo que hay algunas librerías como Entity

@@ -58,8 +58,9 @@
       {{ range $allContent }}
         {{ $imageURL := .Params.image }}
         {{ if eq .Section "revistas" }}
-          {{ $imageURL = replace .Params.image "../" (printf "/revistas/%s/" .Params.magazineSlug) }}
+          {{ $imageURL = replace .Params.image "../" (print "/revistas/%s/" .Params.magazineSlug) }}
         {{ end }}
+        <p>{{ .Params.image }}</p>
         <a href="{{ .Permalink }}" class="article-card">
           <div class="article-card-image">
             <img src="{{ $imageURL }}" alt="{{ .Title }}">

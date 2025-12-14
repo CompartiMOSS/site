@@ -26,7 +26,7 @@ de la experiencia de Viva Connections configurada por defecto o bien de
 otras experiencias:
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero58/nueva-home-de-viva-connections/image1.png)
+generated](../images/nueva-home-de-viva-connections/image1.png)
 
 A continuación del carrusel de noticias, se muestra el Dashboard o panel
 que permite acceder a todo aquello que es importante para el usuario
@@ -38,14 +38,14 @@ Extensions) que el Administrador de la experiencia de Viva Connections
 configurada haya añadido:
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero58/nueva-home-de-viva-connections/image2.png)
+generated](../images/nueva-home-de-viva-connections/image2.png)
 
 Después del Dashboard nos encontraremos con una sección de enlaces de
 recursos configurable que mejora la experiencia anterior así como el
 acceso a otros productos de Viva que el usuario tenga disponibles:
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero58/nueva-home-de-viva-connections/image3.png)
+generated](../images/nueva-home-de-viva-connections/image3.png)
 
 Añadir un nuevo enlace en la Home de Viva Connections es bastante
 sencillo:
@@ -57,7 +57,7 @@ sencillo:
     en cualquier momento reordenar los enlaces que se han añadido.
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero58/nueva-home-de-viva-connections/image4.png)
+generated](../images/nueva-home-de-viva-connections/image4.png)
 
 Finalmente, a nivel de la Home de Viva Connections a través de los "..."
 en la esquina superior derecha podemos realizar lo siguiente:
@@ -66,14 +66,14 @@ en la esquina superior derecha podemos realizar lo siguiente:
     seleccionar un tema de SharePoint diferente.
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero58/nueva-home-de-viva-connections/image5.png)
+generated](../images/nueva-home-de-viva-connections/image5.png)
 
 -   Crear un anuncio que se muestre en la parte superior de la Home
     estableciendo el título, una descripción, audiencia objetivo, si
     queremos programar el anuncio y su vigencia:
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero58/nueva-home-de-viva-connections/image6.png)
+generated](../images/nueva-home-de-viva-connections/image6.png)
 
 -   Administrar el acceso a la Experiencia de Viva Connections actual
     que consiste en establecer vía grupos estándar de SharePoint quien
@@ -84,13 +84,13 @@ generated](../../../images/numero58/nueva-home-de-viva-connections/image6.png)
     Connetions actual:
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero58/nueva-home-de-viva-connections/image7.png)
+generated](../images/nueva-home-de-viva-connections/image7.png)
 
 Por supuesto, si hacemos el switch de Experiencia de Viva Connections la
 Home se configurará de acuerdo a dicha Experiencia:
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero58/nueva-home-de-viva-connections/image8.png)
+generated](../images/nueva-home-de-viva-connections/image8.png)
 
 **Feed de Viva Connections**
 
@@ -113,19 +113,19 @@ Con el tiempo, conforme evolucione el Feed de Microsoft 365, de la misma
 forma evolucionará el Feed de Viva Connections.
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero58/nueva-home-de-viva-connections/image9.png)
+generated](../images/nueva-home-de-viva-connections/image9.png)
 
 La gestión de red del usuario permite visualizar las personas a las que
 sigue y seguir a nuevas personas:
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero58/nueva-home-de-viva-connections/image10.png)
+generated](../images/nueva-home-de-viva-connections/image10.png)
 
 Finalmente, en la vista Favorites el usuario puede gestionar la
 información favorita que ha ido etiquetando a lo largo de Microsoft 365.
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero58/nueva-home-de-viva-connections/image11.png)
+generated](../images/nueva-home-de-viva-connections/image11.png)
 
 **Conclusiones**
 

@@ -26,14 +26,14 @@ Como véis, el assessment está pensado para que lo realicen partners de
 Microsoft para sus clientes o directamente esto.
 
 ![A screenshot of a computer error Description automatically
-generated](../../../images/numero59/copilot-for-m365-solution-assessment/image1.png)
+generated](../images/copilot-for-m365-solution-assessment/image1.png)
 
 Tras elegir la opción para responder el assessment, a continuación
 tendremos que especificar una serie de datos antes de comenzar con el
 cuestionario que está organizado por una serie de secciones.
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero59/copilot-for-m365-solution-assessment/image2.png)
+generated](../images/copilot-for-m365-solution-assessment/image2.png)
 
 Como veis, las secciones en las que se divide el Assessment son las
 siguientes:
@@ -47,7 +47,7 @@ siguientes:
     Learn](https://learn.microsoft.com/en-us/microsoft-365-copilot/microsoft-365-copilot-requirements).
 
 ![A screenshot of a computer checklist Description automatically
-generated](../../../images/numero59/copilot-for-m365-solution-assessment/image3.png)
+generated](../images/copilot-for-m365-solution-assessment/image3.png)
 
 -   Perfil de organización, en la que se realizan cuestiones relativas
     al nivel de madurez de la organización para la llegada de la
@@ -55,7 +55,7 @@ generated](../../../images/numero59/copilot-for-m365-solution-assessment/image3.
     365 u otras.
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero59/copilot-for-m365-solution-assessment/image4.png)
+generated](../images/copilot-for-m365-solution-assessment/image4.png)
 
 -   Herramientas de Productividad y Colaboración en la que se realizan
     cuestiones a las herramientas y servicios de productividad en uso.
@@ -67,7 +67,7 @@ generated](../../../images/numero59/copilot-for-m365-solution-assessment/image4.
     mayor partido a Copilot para Microsoft 365.
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero59/copilot-for-m365-solution-assessment/image5.png)
+generated](../images/copilot-for-m365-solution-assessment/image5.png)
 
 -   Seguridad del Dato y Gobierno, sección en la que se realizan
     cuestiones relativas al estado del arte en lo que a compartir
@@ -77,14 +77,14 @@ generated](../../../images/numero59/copilot-for-m365-solution-assessment/image5.
     hacer.
 
 ![A screenshot of a computer error Description automatically
-generated](../../../images/numero59/copilot-for-m365-solution-assessment/image6.png)
+generated](../images/copilot-for-m365-solution-assessment/image6.png)
 
 Una vez contestamos a las 25 preguntas del Assessment, podemos enviar el
 mismo y obtener un resultado preliminar por pantalla de nuestro nivel de
 madurez para la adopción de Copilot para Microsoft 365.
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero59/copilot-for-m365-solution-assessment/image7.png)
+generated](../images/copilot-for-m365-solution-assessment/image7.png)
 
 **Resultados del Assessment**
 
@@ -125,7 +125,7 @@ Además de los resultados de inicio, se envía un documento PDF con:
     para la llegada de Copilot para Microsoft 365.
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero59/copilot-for-m365-solution-assessment/image8.png)
+generated](../images/copilot-for-m365-solution-assessment/image8.png)
 
 **Conclusiones**
 

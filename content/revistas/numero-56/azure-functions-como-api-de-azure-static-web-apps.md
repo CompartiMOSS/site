@@ -29,7 +29,7 @@ características como:
 El modelo que tendríamos con Azure Static Web Apps sería el siguiente:
 
 ![Diagram showing the static Apps overview
-model.](../../../images/numero56/azure-functions-como-api-de-azure-static-web-apps/image1.png)
+model.](../images/azure-functions-como-api-de-azure-static-web-apps/image1.png)
 
 Los servicios que nos permiten esta integración son
 
@@ -125,7 +125,7 @@ dependencias y ejecutar la aplicación:
 > npm run dev.
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero56/azure-functions-como-api-de-azure-static-web-apps/image2.png)
+generated](../images/azure-functions-como-api-de-azure-static-web-apps/image2.png)
 
 ### Crear Azure Function
 
@@ -141,7 +141,7 @@ Azure Functions
 
 ![A screenshot of a computer program Description automatically generated
 with medium
-confidence](../../../images/numero56/azure-functions-como-api-de-azure-static-web-apps/image3.png)
+confidence](../images/azure-functions-como-api-de-azure-static-web-apps/image3.png)
 
 ### Crear repositorio en GitHub
 
@@ -160,7 +160,7 @@ Code, mediante la extensión de Azure SWA:
     Static Web Apps...(Advanced)"
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero56/azure-functions-como-api-de-azure-static-web-apps/image4.png)
+generated](../images/azure-functions-como-api-de-azure-static-web-apps/image4.png)
 
 2.  Completar lo que nos solicita el prompt
 
@@ -186,10 +186,10 @@ complete la operación.
 
 ![A black background with white text Description automatically generated
 with low
-confidence](../../../images/numero56/azure-functions-como-api-de-azure-static-web-apps/image5.png)
+confidence](../images/azure-functions-como-api-de-azure-static-web-apps/image5.png)
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero56/azure-functions-como-api-de-azure-static-web-apps/image6.png)
+generated](../images/azure-functions-como-api-de-azure-static-web-apps/image6.png)
 
 Al terminar la GitHub Action, se habrá desplegado la Azure Static Web
 App con una Api Administrada conformada por nuestra Azure Function.
@@ -205,14 +205,14 @@ CompartiMOSS.
 
 ![A screen shot of a computer screen Description automatically generated
 with low
-confidence](../../../images/numero56/azure-functions-como-api-de-azure-static-web-apps/image7.png)
+confidence](../images/azure-functions-como-api-de-azure-static-web-apps/image7.png)
 
 Después de realizar el cambio, actualizamos el código en GitHub
 mediante:
 
 ![A screen shot of a computer Description automatically generated with
 medium
-confidence](../../../images/numero56/azure-functions-como-api-de-azure-static-web-apps/image8.png)
+confidence](../images/azure-functions-como-api-de-azure-static-web-apps/image8.png)
 
 Al subir cambios a la rama principal, se disparará la GitHub Action que
 se encarga del despliegue de la SWA y de la Azure Function. Tras un
@@ -220,7 +220,7 @@ tiempo de unos 2 minutos, ya habrá terminado y tendremos el resultado
 que podemos observar a continuación.
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero56/azure-functions-como-api-de-azure-static-web-apps/image9.png)
+generated](../images/azure-functions-como-api-de-azure-static-web-apps/image9.png)
 
 Conclusión
 

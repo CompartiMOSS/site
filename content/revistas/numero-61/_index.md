@@ -12,6 +12,7 @@ editorial: "Después de un verano que esperamos haya servido para cargar pilas y
     en el que de nuevo autores y editores hemos estado trabajando con el
     ánimo e ilusión que nos ha caracterizado desde hace más de 15 años.
 
+
 En la era de los Copilots, la tecnología evoluciona cada vez más rápido
     liberando de forma continua innovaciones y nuevas funcionalidades para
     el presente y futuro de la humanidad de la mano no solo de la
@@ -25,9 +26,11 @@ En la era de los Copilots, la tecnología evoluciona cada vez más rápido
     pone a nuestro alcance y sobre todo como seguir en la cresta de la ola
     de la innovación continua.
 
+
 Esperamos que los artículos de este nuevo número de nuevo sean del
     interés de nuestros lectores y que disfruten de su lectura como hemos
     disfrutado al revisarlos.
+
 
 <b>El Equipo Editorial de CompartiMOSS</b>
 

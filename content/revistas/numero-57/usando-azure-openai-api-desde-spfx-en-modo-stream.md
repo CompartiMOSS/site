@@ -53,7 +53,7 @@ con un enlace donde podéis solicitar a Microsoft que os aprueben el uso
 del servicio.
 
 ![A black and white sign with white text Description automatically
-generated](../../../images/numero57/usando-azure-openai-api-desde-spfx-en-modo-stream/image1.png)
+generated](../images/usando-azure-openai-api-desde-spfx-en-modo-stream/image1.png)
 
 Aunque este artículo se va a centrar en Azure OpenAI API, casi todo (o
 todo) lo visto es aplicable a la API de OpenAI.
@@ -72,10 +72,10 @@ AD, o bien usar el cliente de Azure AD proporcionado por SPFx y llamar a
 la API de Azure OpenAI con éste.
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero57/usando-azure-openai-api-desde-spfx-en-modo-stream/image2.png)
+generated](../images/usando-azure-openai-api-desde-spfx-en-modo-stream/image2.png)
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero57/usando-azure-openai-api-desde-spfx-en-modo-stream/image3.png)
+generated](../images/usando-azure-openai-api-desde-spfx-en-modo-stream/image3.png)
 
 Una vez creado el servicio, debemos hacer al menos un "Model
 Deployment". Esto se hará desde el nuevo Azure OpenAI Studio, que tenéis
@@ -84,7 +84,7 @@ el enlace en el mismo portal de Azure, cuando vais a la sección de
 seleccionaremos el modelo base:
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero57/usando-azure-openai-api-desde-spfx-en-modo-stream/image4.png)
+generated](../images/usando-azure-openai-api-desde-spfx-en-modo-stream/image4.png)
 
 Sobre los modelos, tenéis bastante literatura en este enlace:
 https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models
@@ -105,7 +105,7 @@ el mismo conocimiento lo podemos emplear para el endpoint de "*Chat*".
 Aquí tenemos un ejemplo de cómo invocar el endpoint de "Completions":
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero57/usando-azure-openai-api-desde-spfx-en-modo-stream/image5.png)
+generated](../images/usando-azure-openai-api-desde-spfx-en-modo-stream/image5.png)
 
 **Invocando Azure OpenAI API desde SPFx en modo Stream**
 
@@ -146,7 +146,7 @@ le pasamos la URL del endpoint a invocar, y el segundo parámetro nos
 deja personalizar mucho más nuestra request, teniendo:
 
 ![A screen shot of a computer screen Description automatically
-generated](../../../images/numero57/usando-azure-openai-api-desde-spfx-en-modo-stream/image6.png)
+generated](../images/usando-azure-openai-api-desde-spfx-en-modo-stream/image6.png)
 
 Como veis, podemos especificar el HTTP Method, en nuestro caso, POST,
 además, podemos definir el Header y Body de nuestra request, pudiendo
@@ -160,7 +160,7 @@ que se complete toda la respuesta? Es decir, cómo podemos hacer el mismo
 mecanismo de "stop generating" que nos da la web de ChatGPT:
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero57/usando-azure-openai-api-desde-spfx-en-modo-stream/image7.png)
+generated](../images/usando-azure-openai-api-desde-spfx-en-modo-stream/image7.png)
 
 Para hacer esto, haremos uso de otro objecto nativo de JavaScript,
 llamado *AbortController*. Dicho objecto tiene una propiedad *signal*,
@@ -188,7 +188,7 @@ this.\_signal = this.\_controller.signal;
 Ahora pasamos esa *Signal* a nuestra función *fetchEventSource*:
 
 ![A screen shot of a computer program Description automatically
-generated](../../../images/numero57/usando-azure-openai-api-desde-spfx-en-modo-stream/image8.png)
+generated](../images/usando-azure-openai-api-desde-spfx-en-modo-stream/image8.png)
 
 Finalmente, para detener el stream, tendríamos un botón en nuestro
 componente, que haría uso del *AbortController* para llamar a su método
@@ -205,7 +205,7 @@ como la ejecución se ha detenido y no se ha generado una respuesta
 completa:
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero57/usando-azure-openai-api-desde-spfx-en-modo-stream/image9.png)
+generated](../images/usando-azure-openai-api-desde-spfx-en-modo-stream/image9.png)
 
 Y hasta aquí el artículo. Espero que os sea de utilidad.
 

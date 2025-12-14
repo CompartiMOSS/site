@@ -43,7 +43,7 @@ mayor agrupación son:
     misma característica.
 
 ![Setting up a Kubernetes cluster using Docker in Docker |
-Callista](../../../images/numero58/maximizatucluster/image1.jpeg)
+Callista](../images/maximizatucluster/image1.jpeg)
 
 **Creando Nodos y Grupos de Nodos**
 

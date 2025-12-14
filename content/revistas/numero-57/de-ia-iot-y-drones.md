@@ -220,7 +220,7 @@ más allá y veremos cómo:
 A vista de pájaro nuestro código funcionará de la siguiente forma:
 
 ![A diagram of a computer program Description automatically
-generated](../../../images/numero57/de-ia-iot-y-drones/image5.png)
+generated](../images/de-ia-iot-y-drones/image5.png)
 
 **Imports e inicializaciones**
 

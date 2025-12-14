@@ -84,7 +84,7 @@ ha sido creado.
 
 ![A close-up of a computer screen Description automatically generated
 with low
-confidence](../../../images/numero56/polyglot_notebooks/image1.png)
+confidence](../images/polyglot_notebooks/image1.png)
 
 La interfaz en Visual Studio Code ofrece varias posibilidades:
 
@@ -106,14 +106,14 @@ código. El resultado se vera debajo de la celda:
 
 ![A screenshot of a computer Description automatically generated with
 medium
-confidence](../../../images/numero56/polyglot_notebooks/image2.png)
+confidence](../images/polyglot_notebooks/image2.png)
 
 Utilice el botón de "+ Markdown" para agregar otra celda, esta vez de
 código Markdown e introduzca algo de código Markdown en ella:
 
 ![A screenshot of a computer Description automatically generated with
 medium
-confidence](../../../images/numero56/polyglot_notebooks/image3.png)
+confidence](../images/polyglot_notebooks/image3.png)
 
 Las celdas de Markdown se comportan algo diferente que las de código:
 utilice el símbolo de visto buen en la esquina superior derecha de la
@@ -121,7 +121,7 @@ celda para hacer ejecutar el código:
 
 ![A screenshot of a computer Description automatically generated with
 medium
-confidence](../../../images/numero56/polyglot_notebooks/image4.png)
+confidence](../images/polyglot_notebooks/image4.png)
 
 Agregue de nuevo una celda en el Notebook y cambie el tipo de código a
 "Mermaid" (haciendo clic sobre el texto que indica el tipo de código
@@ -144,7 +144,7 @@ C -->|Three| F[fa:fa-car Car]
 Haga ejecutar el código para ver la gráfica generada:
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero56/polyglot_notebooks/image5.png)
+generated](../images/polyglot_notebooks/image5.png)
 
 Mermaid es una sintaxis similar a Markdown que le permite usar texto
 para describir y generar diagramas de flujo, UML, gráficos circulares,
@@ -183,7 +183,7 @@ El resultado es el siguiente:
 
 ![A screenshot of a computer Description automatically generated with
 medium
-confidence](../../../images/numero56/polyglot_notebooks/image6.png)
+confidence](../images/polyglot_notebooks/image6.png)
 
 Visual Studio Code tiene también una ventana para mostrar las variables
 en Polyglot Notebooks en la ventana de salida (Output) que se puede
@@ -191,7 +191,7 @@ activar utilizando "Ctr+Shift+U":
 
 ![A screenshot of a computer Description automatically generated with
 medium
-confidence](../../../images/numero56/polyglot_notebooks/image7.png)
+confidence](../images/polyglot_notebooks/image7.png)
 
 Si olvida la sintaxis mostrada anteriormente para recuperar los valores
 de las variables, utilice el botón indicado con la flecha para generar
@@ -263,7 +263,7 @@ ver el resultado.
 
 ![A screenshot of a computer Description automatically generated with
 medium
-confidence](../../../images/numero56/polyglot_notebooks/image8.png)
+confidence](../images/polyglot_notebooks/image8.png)
 
 De forma similar se puede utilizar PowerShell. El siguiente ejemplo hace
 una llamada a Microsoft Graph para enumerar los Teams a los que un
@@ -294,7 +294,7 @@ foreach($oneTeam in $objTeams.value) {
 
 ![A screenshot of a computer Description automatically generated with
 medium
-confidence](../../../images/numero56/fcbe5ae99380e3c3cc60b7384492d2793e1a3975.png)
+confidence](../images/fcbe5ae99380e3c3cc60b7384492d2793e1a3975.png)
 
 **Conclusiones**
 

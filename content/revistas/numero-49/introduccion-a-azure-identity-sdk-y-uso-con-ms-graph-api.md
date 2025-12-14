@@ -99,7 +99,7 @@ Esta clase intentará autenticar utilizando ciertas variables de Entorno.
 
 ![A screenshot of a computer Description automatically generated with
 medium
-confidence](../../../images/numero49/introduccion-a-azure-identity-sdk-y-uso-con-ms-graph-api/image5.png)
+confidence](../images/introduccion-a-azure-identity-sdk-y-uso-con-ms-graph-api/image5.png)
 
 **ClientSecretCredential**
 
@@ -140,12 +140,12 @@ más relevantes de dicha AAD App.
 **Imagen 2.- URLs de redirección para la App.**
 
 ![Text Description automatically
-generated](../../../images/numero49/introduccion-a-azure-identity-sdk-y-uso-con-ms-graph-api/image7.png)
+generated](../images/introduccion-a-azure-identity-sdk-y-uso-con-ms-graph-api/image7.png)
 
 **Imagen 3.- Configuración de Allow public client flows**
 
 ![A computer screen capture Description automatically generated with low
-confidence](../../../images/numero49/introduccion-a-azure-identity-sdk-y-uso-con-ms-graph-api/image8.png)
+confidence](../images/introduccion-a-azure-identity-sdk-y-uso-con-ms-graph-api/image8.png)
 
 **Imagen 4.- Configuración de Client Secrets.**
 
@@ -157,7 +157,7 @@ Una vez la app ha sido registrada, podemos obtener la información de un
 usuario con el siguiente snippet:
 
 ![Text Description automatically
-generated](../../../images/numero49/introduccion-a-azure-identity-sdk-y-uso-con-ms-graph-api/image10.png)
+generated](../images/introduccion-a-azure-identity-sdk-y-uso-con-ms-graph-api/image10.png)
 
 Recordad que, al usar este tipo de credenciales, se utiliza el OAuth2
 flow "Client Credentials", por lo que la petición se realiza con
@@ -170,7 +170,7 @@ autenticados, la petición a Graph se hará con el contexto de ese
 usuario, y, por lo tanto, permisos delegados.
 
 ![Text Description automatically
-generated](../../../images/numero49/introduccion-a-azure-identity-sdk-y-uso-con-ms-graph-api/image11.png)
+generated](../images/introduccion-a-azure-identity-sdk-y-uso-con-ms-graph-api/image11.png)
 
 Para acabar, en el siguiente snippet vemos cómo podemos autenticar
 usando el Device Code Flow de OAuth2, a través de la clase

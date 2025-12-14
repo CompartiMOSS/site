@@ -73,7 +73,7 @@ entornos, pero idealmente 4, que son:
     entorno de pruebas y validación.
 
 ![Diagrama Descripción generada
-automáticamente](../../../images/numero60/power-platform-pipelines/image3.png)
+automáticamente](../images/power-platform-pipelines/image3.png)
 
 Como se puede apreciar en el esquema, el flujo de despliegue va siempre
 desde el entorno DEV hacia UAT y luego hacia PRO. El sistema de
@@ -127,7 +127,7 @@ pipelines de Power Platform, vamos a estudiar el modelo de datos que
 hace funcionar todo el sistema.
 
 ![Diagram showing relationship between pipeline
-tables](../../../images/numero60/power-platform-pipelines/image4.png)
+tables](../images/power-platform-pipelines/image4.png)
 
 La entidad **DeploymentEnvionment** almacena la información sobre los
 entornos que conforman las fases de despliegue, tanto entornos de
@@ -180,7 +180,7 @@ comandos disponibles en la CLI de Power Platform, dentro del comando pac
 pipeline.
 
 ![Texto Descripción generada
-automáticamente](../../../images/numero60/power-platform-pipelines/image6.png)
+automáticamente](../images/power-platform-pipelines/image6.png)
 
 ```
 pac pipeline list
@@ -197,7 +197,7 @@ parámetros, podemos indicarle:
     configuración del pipeline, etc.
 
 ![Texto Descripción generada
-automáticamente](../../../images/numero60/power-platform-pipelines/image7.png)
+automáticamente](../images/power-platform-pipelines/image7.png)
 
 ```
 pac pipeline deploy
@@ -225,7 +225,7 @@ actual. Como parámetros, podemos indicarle:
     de desplegar.
 
 ![Texto Descripción generada
-automáticamente](../../../images/numero60/power-platform-pipelines/image8.png)
+automáticamente](../images/power-platform-pipelines/image8.png)
 
 Mediante el uso de la CLI podemos, entre otras cosas, añadir este tipo
 de despliegues en pipelines de CI/CD de Azure DevOps por ejemplo, usando

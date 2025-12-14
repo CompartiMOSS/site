@@ -58,7 +58,7 @@ procesamiento más rápido y una reducción de costos.
  
 
 ![Imagen que contiene Diagrama Descripción generada
-automáticamente](../../../images/numero55/maximizando-el-rendimiento-de-azure-synapse/image1.png)
+automáticamente](../images/maximizando-el-rendimiento-de-azure-synapse/image1.png)
 
  
 

@@ -26,7 +26,7 @@ mundos.
 **Componentes de Semantic Kernel**
 
 ![Semantic Kernel can orchestrate AI plugins from any
-provider](../../../images/numero58/semantic-kernel-azure-openai-para-novatos/image2.png)
+provider](../images/semantic-kernel-azure-openai-para-novatos/image2.png)
 
 Semantic Kernel ha sido desarrollado para permitir a los desarrolladores
 integrar servicios de AI de forma flexible en sus aplicaciones
@@ -60,7 +60,7 @@ barro, que es lo que nos gusta ☺.
 un servicio en Azure OpenAI, en el que se ha desplegado un modelo GPT.
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero58/semantic-kernel-azure-openai-para-novatos/image3.png)
+generated](../images/semantic-kernel-azure-openai-para-novatos/image3.png)
 
 **Inicializando el Kernel**
 
@@ -72,7 +72,7 @@ snippet se muestra una de ellas, donde se configura el Kernel para que
 tenga acceso al servicio de chat de Azure OpenAI:
 
 ![A screenshot of a computer program Description automatically
-generated](../../../images/numero58/semantic-kernel-azure-openai-para-novatos/image4.png)
+generated](../images/semantic-kernel-azure-openai-para-novatos/image4.png)
 
 **Funciones semánticas**
 
@@ -83,7 +83,7 @@ requiera.
 Dicho esto, el siguiente código crearía una Semantic Function en SK:
 
 ![A screen shot of a computer code Description automatically
-generated](../../../images/numero58/semantic-kernel-azure-openai-para-novatos/image5.png)
+generated](../images/semantic-kernel-azure-openai-para-novatos/image5.png)
 
 En el snippet anterior podemos ver el "prompt", así como las diferentes
 settings para la llamada al servicio de AI: Número máximo de tokens para
@@ -97,7 +97,7 @@ Para poder ejecutar dicho prompt + settings contra el servicio de AI,
 haríamos:
 
 ![A screen shot of a computer code Description automatically
-generated](../../../images/numero58/semantic-kernel-azure-openai-para-novatos/image6.png)
+generated](../images/semantic-kernel-azure-openai-para-novatos/image6.png)
 
 De nuevo tiramos del Kernel para ejecutar nuestra función semántica,
 pasándole el "input" (que, si pensamos en la web de chatGPT que todos
@@ -140,7 +140,7 @@ definición de varias funciones semánticas. La idea es poder agrupar
 varias funciones relacionadas en el concepto de "plugin":
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero58/semantic-kernel-azure-openai-para-novatos/image7.png)
+generated](../images/semantic-kernel-azure-openai-para-novatos/image7.png)
 
 Una vez definidas nuestras diferentes funciones semánticas, las podemos
 ejecutar con el siguiente código:
@@ -215,7 +215,7 @@ convertirla en función semántica, simplemente usaremos el decorador
 "**SKFunction**":
 
 ![A screen shot of a computer code Description automatically
-generated](../../../images/numero58/semantic-kernel-azure-openai-para-novatos/image8.png)
+generated](../images/semantic-kernel-azure-openai-para-novatos/image8.png)
 
 A continuación, vamos a crear otra función semántica, que va a hacer uso
 de nuestra nueva función nativa.

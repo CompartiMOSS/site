@@ -31,7 +31,7 @@ empaquetando varios productos como Word, Excel, Outlook, pero en este
 caso apuntada a una solución de datos
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero57/introduccion-a-microsoft-fabric/image2.png)
+generated](../images/introduccion-a-microsoft-fabric/image2.png)
 
 Microsoft Fabric consta de siete componentes principales:
 
@@ -120,7 +120,7 @@ fundamental. Los clientes no necesitan mantener diferentes copias de sus
 datos para poder operar en forma sencilla.
 
 ![Diagram of different experiences all accessing the same OneLake data
-storage.](../../../images/numero57/introduccion-a-microsoft-fabric/image3.png)
+storage.](../images/introduccion-a-microsoft-fabric/image3.png)
 
 En conclusión, Microsoft Fabric se presenta como una opción muy
 prometedora para todo tipo de organizaciones que buscan una solución

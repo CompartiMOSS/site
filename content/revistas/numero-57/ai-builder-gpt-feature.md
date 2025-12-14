@@ -30,17 +30,17 @@ Una vez en el portal de Power Automate "make.powerautomate.com" vamos a
 nuevo y creamos un flujo como muestra la imagen.
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero57/ai-builder-gpt-feature/image1.png)
+generated](../images/ai-builder-gpt-feature/image1.png)
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero57/ai-builder-gpt-feature/image2.png)
+generated](../images/ai-builder-gpt-feature/image2.png)
 
 Una vez creado el flujo, el punto clave es como extraer la información
 relevante del cuerpo y asunto del correo electrónico. Para ello
 agregamos la acción de Power Automate "Create text with GPT".
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero57/ai-builder-gpt-feature/image3.png)
+generated](../images/ai-builder-gpt-feature/image3.png)
 
 Imaginemos que la casilla de correo se utiliza para recibir pedidos de
 productos, entonces vamos a utilizar esta acción para extraer la
@@ -49,16 +49,16 @@ with GPT" el nombre es medio engañoso, por que no es solo para generar
 texto con GPT, es para extraer, resumir, clasificar, etc.
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero57/ai-builder-gpt-feature/image4.png)
+generated](../images/ai-builder-gpt-feature/image4.png)
 
 Una vez agreda la acción necesitamos crear el **prompt** para extraer la
 información que necesitamos del correo electrónico. Entonces hacemos
 click en "Create prompt" ![A hand pointing to a screen Description
 automatically
-generated](../../../images/numero57/ai-builder-gpt-feature/image5.png) y se nos desplegara el siguiente menu.
+generated](../images/ai-builder-gpt-feature/image5.png) y se nos desplegara el siguiente menu.
 
 ![A screenshot of a cell phone Description automatically
-generated](../../../images/numero57/ai-builder-gpt-feature/image6.png)
+generated](../images/ai-builder-gpt-feature/image6.png)
 
 Aquí debemos seleccionar "Extract information from text", se nos abrirá
 un cuadro de texto para crear un **prompt** con un texto de ejemplo,
@@ -66,7 +66,7 @@ vamos a remover el texto y agregar nuestro prompt a continuación como
 muestra la imagen.
 
 ![A screenshot of a test Description automatically
-generated](../../../images/numero57/ai-builder-gpt-feature/image7.png)
+generated](../images/ai-builder-gpt-feature/image7.png)
 
 Algunos puntos a tener en cuenta, la primera frase antes del "\[Start of
 Text\]" es efectivamente nuestro **prompt,** es donde indicamos lo que
@@ -79,23 +79,23 @@ el número de producto como se puede observar a continuación, porque fue
 lo que efectivamente le pedimos.
 
 ![A blue and white rectangle Description automatically
-generated](../../../images/numero57/ai-builder-gpt-feature/image8.png)
+generated](../images/ai-builder-gpt-feature/image8.png)
 
 Claramente funciona, pero es básica la información obtenida, vayamos un
 paso mas y pidámosle el color también.
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero57/ai-builder-gpt-feature/image9.png)
+generated](../images/ai-builder-gpt-feature/image9.png)
 
 Si probamos nuevamente el resultado debería ser:
 
 ![A close up of a computer screen Description automatically
-generated](../../../images/numero57/ai-builder-gpt-feature/image10.png)
+generated](../images/ai-builder-gpt-feature/image10.png)
 
 Ahora también podríamos pedirle el nombre del cliente:
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero57/ai-builder-gpt-feature/image11.png)
+generated](../images/ai-builder-gpt-feature/image11.png)
 
 Así podríamos ir construyendo nuestro **prompt** par extraer los datos
 de interés.
@@ -107,7 +107,7 @@ flow").![](../images/ai-builder-gpt-feature/image12.png)
 Y nos quedara de la siguiente manera.
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero57/ai-builder-gpt-feature/image13.png)
+generated](../images/ai-builder-gpt-feature/image13.png)
 
 En este punto deberíamos tener un **prompt** que satisfaga nuestra
 necesidad y retorne todo lo que necesitamos, pero claro, aun está
@@ -118,12 +118,12 @@ electrónico. Para ello solo basta por remover el texto y agregar del
 menú de contenido dinámico "Dynimic content" el "Body" y "Subject".
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero57/ai-builder-gpt-feature/image14.png)
+generated](../images/ai-builder-gpt-feature/image14.png)
 
 Nos debería quedar nuestra acción configurada de la siguiente manera.
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero57/ai-builder-gpt-feature/image15.png)
+generated](../images/ai-builder-gpt-feature/image15.png)
 
 El siguiente paso ya es parte de lo que se quiera construir, puede ser
 crear un elemento de lista en SharePoint, crear un ticket un sistema de
