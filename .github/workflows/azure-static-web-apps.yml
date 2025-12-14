@@ -1,4 +1,4 @@
-name: Azure Storage Static Website CI/CD
+name: Deploy to Azure
 
 on:
   workflow_dispatch:
@@ -22,6 +22,15 @@ jobs:
       
       - name: Build
         run: hugo --minify
+      
+      - name: Delete existing files from Azure Storage
+        uses: azure/CLI@v1
+        with:
+          inlineScript: |
+            az storage blob delete-batch \
+              --account-name ${{ secrets.AZURE_STORAGE_ACCOUNT_NAME }} \
+              --account-key ${{ secrets.AZURE_STORAGE_ACCOUNT_KEY }} \
+              --source '$web'
       
       - name: Deploy to Azure Storage Static Website
         uses: azure/CLI@v1
