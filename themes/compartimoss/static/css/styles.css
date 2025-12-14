@@ -601,8 +601,21 @@ button {
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-shrink: 0;
   backdrop-filter: blur(4px);
   box-shadow: 0 10px 15px -5px rgba(0, 0, 0, 0.35);
+}
+
+@media (max-width: 560px) {
+  .hero-with-icon {
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .hero-icon {
+    width: 3.25rem;
+    height: 3.25rem;
+  }
 }
 
 .hero-icon svg {
