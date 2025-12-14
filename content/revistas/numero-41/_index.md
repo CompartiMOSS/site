@@ -4,7 +4,7 @@ slug: "numero-41"
 date: 2019-09-29
 number: 41
 coverImage: "./images/CompartiMOSS_41.jpg"
-pdfUrl: "./CompartiMOSS_41.pdf"
+pdfUrl: "https://compartimosssite.blob.core.windows.net/public/CompartiMOSS_41.pdf"
 description: "Edición número 41 de la revista CompartiMOSS."
 editorial: "Nuestro día a día como desarrolladores de software puede llegar a ser bastante complejo, no sólo nos ponemos a tirar líneas de código, si no que tenemos que añadir diversas piezas de un puzle que forma la aplicación. Piezas tan diversas como Microsoft Graph Toolkit, Azure Functions, React Hooks, etc. Nuestros autores lo saben, y es por esto por lo que nos escriben las pinceladas precisas y necesarias para conocer estos componentes y darles un buen uso en nuestras aplicaciones.
 

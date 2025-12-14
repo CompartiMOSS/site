@@ -4,7 +4,7 @@ slug: "numero-42"
 date: 2020-01-29
 number: 42
 coverImage: "./images/CompartiMOSS_42.jpg"
-pdfUrl: "./CompartiMOSS_42.pdf"
+pdfUrl: "https://compartimosssite.blob.core.windows.net/public/CompartiMOSS_42.pdf"
 description: "Edición número 42 de la revista CompartiMOSS."
 editorial: "Este mes, es un mes diferente a todos, un mes que marca el final de un nuevo año y este número, #42, es el último que lanzaremos este 2019. Fue un año con muchas noticias, buenas y malas, se lanzó una nueva versión de nuestro servidor favorito, SharePoint 2019, hemos vistos muchas nuevas funcionalidades en Office 365, Azure y el ecosistema de Microsoft que nos mantiene ocupados como profesionales día a día. Nos entristeció la pérdida de un colega y amigo, Ricardo, que participó activamente como colaborador de la revista y el #40 de este año fue en su homenaje, por su amistad y trayectoria.
 

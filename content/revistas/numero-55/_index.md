@@ -4,7 +4,7 @@ slug: "numero-55"
 date: 2023-03-01
 number: 55
 coverImage: "./images/CompartiMOSS_55.jpg"
-pdfUrl: "./CompartiMOSS_55.pdf"
+pdfUrl: "https://compartimosssite.blob.core.windows.net/public/CompartiMOSS_55.pdf"
 description: "Edición número 55 de la revista CompartiMOSS."
 editorial: "Iniciamos un nuevo año en CompartiMOSS con nuestro compromiso de
     siempre: seguir cada 3 meses publicando un nuevo número de la revista

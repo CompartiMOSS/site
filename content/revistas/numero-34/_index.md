@@ -4,7 +4,7 @@ slug: "numero-34"
 date: 2017-12-29
 number: 34
 coverImage: "./images/CompartiMOSS_34.jpg"
-pdfUrl: "./CompartiMOSS_34.pdf"
+pdfUrl: "https://compartimosssite.blob.core.windows.net/public/CompartiMOSS_34.pdf"
 description: "Edición número 34 de la revista CompartiMOSS."
 editorial: "​​​​​​​​​​​​​​​​​​​​Con el número 34 de CompartiMOSS cerramos el año 2017. Un año en el que, aunque no hemos visto desarrollos que podamos llamar espectaculares, si podemos asegurar que ha sido el año de la consolidación definitiva de las tecnologías en la nube de Microsoft.
 

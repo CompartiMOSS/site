@@ -4,7 +4,7 @@ slug: "numero-15"
 date: 2013-03-29
 number: 15
 coverImage: "./images/CompartiMOSS_15.jpg"
-pdfUrl: "./CompartiMOSS_15.pdf"
+pdfUrl: "https://compartimosssite.blob.core.windows.net/public/CompartiMOSS_15.pdf"
 description: "Edición número 15 de la revista CompartiMOSS."
 editorial: "En esta nueva etapa de CompartiMOSS, iniciada con el número 14, y con la nueva versión de SharePoint completamente asentada en el mercado y disponible de forma global desde el pasado mes de enero, les presentamos la edición 15 de la revista, cargada de artículos de calidad en los que nuestros autores y colaboradores han realizado un excelente trabajo transmitiendo sus conocimientos y su experiencia en los distintos temas tratados.
 

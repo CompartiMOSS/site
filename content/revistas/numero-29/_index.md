@@ -4,7 +4,7 @@ slug: "numero-29"
 date: 2016-09-29
 number: 29
 coverImage: "./images/CompartiMOSS_29.jpg"
-pdfUrl: "./CompartiMOSS_29.pdf"
+pdfUrl: "https://compartimosssite.blob.core.windows.net/public/CompartiMOSS_29.pdf"
 description: "Edición número 29 de la revista CompartiMOSS."
 editorial: "​​​​​​​​​​​​​Siguiendo con el proceso incesante de renovación e innovación que nos hemos impuesto desde el principio en CompartiMOSS, continuamos en este número integrando nuevas tecnologías de Microsoft en nuestro contenido. Como tal, damos la bienvenida a Gastón Cruz que se está encargando de manejar la sección correspondiente a BI (y, por supuesto, de Power BI). Estamos seguros que la revista continuará su ruta informativa con sus aportes y queremos animar a todos nuestros lectores que quieran escribir artículos sobre BI a que tomen contacto con Gastón directamente, o por intermedio de la revista misma (revista@compartimoss.com).
 

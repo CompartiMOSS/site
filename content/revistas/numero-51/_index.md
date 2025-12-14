@@ -4,7 +4,7 @@ slug: "numero-51"
 date: 2022-03-01
 number: 51
 coverImage: "./images/CompartiMOSS_51.jpg"
-pdfUrl: "./CompartiMOSS_51.pdf"
+pdfUrl: "https://compartimosssite.blob.core.windows.net/public/CompartiMOSS_51.pdf"
 description: "Edición número 51 de la revista CompartiMOSS."
 editorial: "Una vez más desde el Equipo Editorial de CompartiMOSS nos complace presentaros un nuevo número de la revista, el 51, que marca sin duda un nuevo hito en la revista de referencia de habla hispana en tecnologías Microsoft.
 

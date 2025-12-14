@@ -4,7 +4,7 @@ slug: "numero-31"
 date: 2017-03-29
 number: 31
 coverImage: "./images/CompartiMOSS_31.jpg"
-pdfUrl: "./CompartiMOSS_31.pdf"
+pdfUrl: "https://compartimosssite.blob.core.windows.net/public/CompartiMOSS_31.pdf"
 description: "Edición número 31 de la revista CompartiMOSS."
 editorial: "​​​​​​​​​​​Siguiendo el plan maestro que nos hemos impuesto para CompartiMOSS, les ofrecemos hoy el número con la mayor cantidad de artículos, y con la mayor variedad de temas que hasta hoy, después de 31 ediciones, hemos producido. Nuestra ambición es convertir a CompartiMOSS en LA revista por excelencia sobre temas relacionados con tecnologías y plataformas de Microsoft. Y ya hemos recorrido un buen camino en esa dirección.
 

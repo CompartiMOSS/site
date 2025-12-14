@@ -4,7 +4,7 @@ slug: "numero-60"
 date: 2024-06-01
 number: 60
 coverImage: "./images/CompartiMOSS_60.jpg"
-pdfUrl: "./CompartiMOSS_60.pdf"
+pdfUrl: "https://compartimosssite.blob.core.windows.net/public/CompartiMOSS_60.pdf"
 description: "Edición número 60 de la revista CompartiMOSS."
 editorial: "Nos encontramos en un punto de inflexión histórico en la evolución de la tecnología. Microsoft Copilot, con su integración de inteligencia artificial, está transformando radicalmente la manera en que trabajamos, creando un entorno donde la creatividad y la eficiencia se potencian como nunca antes. La llegada de Microsoft Copilot ha marcado un antes y un después. En el pasado, las herramientas digitales eran meros asistentes que seguían nuestras instrucciones. Hoy, con Copilot, tenemos un compañero que entiende nuestro contexto, anticipa nuestras necesidades y sugiere soluciones en tiempo real. Esto no solo libera tiempo y recursos, sino que también nos permite enfocarnos en tareas que realmente requieren nuestro ingenio y habilidades únicas.
 

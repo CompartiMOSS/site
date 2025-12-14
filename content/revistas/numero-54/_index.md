@@ -4,7 +4,7 @@ slug: "numero-54"
 date: 2022-12-01
 number: 54
 coverImage: "./images/CompartiMOSS_54.jpg"
-pdfUrl: "./CompartiMOSS_54.pdf"
+pdfUrl: "https://compartimosssite.blob.core.windows.net/public/CompartiMOSS_54.pdf"
 description: "Edición número 54 de la revista CompartiMOSS."
 editorial: "Hemos llegado al final de un año más, con el cuál la revista alcanza 14
     años ininterrumpidos compartiendo conocimiento y novedades tecnológicas.

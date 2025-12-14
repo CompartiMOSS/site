@@ -4,7 +4,7 @@ slug: "numero-24"
 date: 2015-06-29
 number: 24
 coverImage: "./images/CompartiMOSS_24.jpg"
-pdfUrl: "./CompartiMOSS_24.pdf"
+pdfUrl: "https://compartimosssite.blob.core.windows.net/public/CompartiMOSS_24.pdf"
 description: "Edición número 24 de la revista CompartiMOSS."
 editorial: "​Tal como lo prometimos en el número anterior, CompartiMOSS ha comenzado a explorar las fronteras de \"La Nube\" de Microsoft. En el número que estamos presentando hoy hemos incluido varios artículos relacionados tanto con Office 365 (y su implementación de SharePoint 365), como de Azure. Pero por supuesto no nos olvidamos, ni nunca nos olvidaremos de SharePoint OnPremises, aunque Microsoft nos empuja cada vez a que lo dejemos de lado.
 

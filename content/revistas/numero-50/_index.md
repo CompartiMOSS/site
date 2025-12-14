@@ -4,7 +4,7 @@ slug: "numero-50"
 date: 2021-12-01
 number: 50
 coverImage: "./images/CompartiMOSS_50.jpg"
-pdfUrl: "./CompartiMOSS_50.pdf"
+pdfUrl: "https://compartimosssite.blob.core.windows.net/public/CompartiMOSS_50.pdf"
 description: "Edición número 50 de la revista CompartiMOSS."
 editorial: "Este número es especial para todo el equipo de la revista, llegamos al número 50 de la revista y lo queremos festejar con todos nuestros autores y lectores.
 

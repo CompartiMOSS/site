@@ -4,7 +4,7 @@ slug: "numero-56"
 date: 2023-06-01
 number: 56
 coverImage: "./images/CompartiMOSS_56.jpg"
-pdfUrl: "./CompartiMOSS_56.pdf"
+pdfUrl: "https://compartimosssite.blob.core.windows.net/public/CompartiMOSS_56.pdf"
 description: "Edición número 56 de la revista CompartiMOSS."
 editorial: "Con un corazón lleno de entusiasmo y una mente abierta a las posibilidades ilimitadas, el Equipo Editorial de CompartiMOSS les da la bienvenida al número 56 de nuestra revista. 
     El año 2023 ha venido a ser un gran escaparate para las innovaciones tecnológicas, superando incluso nuestras expectativas más ambiciosas. 

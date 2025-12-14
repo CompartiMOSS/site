@@ -4,7 +4,7 @@ slug: "numero-33"
 date: 2017-09-29
 number: 33
 coverImage: "./images/CompartiMOSS_33.jpg"
-pdfUrl: "./CompartiMOSS_33.pdf"
+pdfUrl: "https://compartimosssite.blob.core.windows.net/public/CompartiMOSS_33.pdf"
 description: "Edición número 33 de la revista CompartiMOSS."
 editorial: "​​​​​​​​​​​​​​​​​​​​Desde CompartiMOSS nos complace presentaros la edición 33 de la revista de referencia de habla hispana de tecnologías Microsoft en la que, de nuevo, y gracias al gran trabajo de nuestros autores, contamos con grandes artículos en los que nuestros lectores podrán seguir profundizando y afianzando sus conocimientos en torno a Office 365, Azure, SharePoint o PowerApps.
 

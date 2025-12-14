@@ -4,7 +4,7 @@ slug: "numero-53"
 date: 2022-09-01
 number: 53
 coverImage: "./images/CompartiMOSS_53.jpg"
-pdfUrl: "./CompartiMOSS_53.pdf"
+pdfUrl: "https://compartimosssite.blob.core.windows.net/public/CompartiMOSS_53.pdf"
 description: "Edición número 53 de la revista CompartiMOSS."
 editorial: "Microsoft y su lucha eterna, como todo el mundo de la informática, por seguridad y más seguridad no deja de sorprender y, a veces, divertir.
 

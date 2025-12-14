@@ -4,7 +4,7 @@ slug: "numero-61"
 date: 2024-09-01
 number: 61
 coverImage: "./images/CompartiMOSS_61.jpg"
-pdfUrl: "./CompartiMOSS_61.pdf"
+pdfUrl: "https://compartimosssite.blob.core.windows.net/public/CompartiMOSS_61.pdf"
 description: "Edición número 61 de la revista CompartiMOSS."
 editorial: |
   Después de un verano que esperamos haya servido para cargar pilas y volver con fuerza a nuestro día a día en el mundo de las tecnologías Microsoft, desde CompartiMOSS nos complace presentaros un nuevo número en el que de nuevo autores y editores hemos estado trabajando con el ánimo e ilusión que nos ha caracterizado desde hace más de 15 años.

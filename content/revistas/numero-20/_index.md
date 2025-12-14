@@ -4,7 +4,7 @@ slug: "numero-20"
 date: 2014-06-29
 number: 20
 coverImage: "./images/CompartiMOSS_20.jpg"
-pdfUrl: "./CompartiMOSS_20.pdf"
+pdfUrl: "https://compartimosssite.blob.core.windows.net/public/CompartiMOSS_20.pdf"
 description: "Edición número 20 de la revista CompartiMOSS."
 editorial: "​Cumpliendo con nuestro propósito de innovación y evolución constante para CompartiMOSS, comenzando con este número de la revista estamos comenzando a abrir las puertas a artículos sobre SharePoint en otros idiomas. Después de numerosas discusiones entre las personas que dirigimos la revista, sopesar los pros y los contras y evaluar las diferentes posibilidades, hemos decidido que la evolución de la revista no solo nos permite dar la bienvenida a opiniones y experiencias escritas en un idioma diferente al castellano, sino que también nuestros lectores merecen obtener información valiosa de autores en un idioma diferente.
 

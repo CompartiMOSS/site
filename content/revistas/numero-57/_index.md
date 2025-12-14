@@ -4,7 +4,7 @@ slug: "numero-57"
 date: 2023-09-01
 number: 57
 coverImage: "./images/CompartiMOSS_57.jpg"
-pdfUrl: "./CompartiMOSS_57.pdf"
+pdfUrl: "https://compartimosssite.blob.core.windows.net/public/CompartiMOSS_57.pdf"
 description: "Edición número 57 de la revista CompartiMOSS."
 editorial: "Mientras avanzamos hacia el último tramo del 2023, la revista CompartiMOSS se complace en presentar su edición número 57, una edición que se sumerge 
     en las profundidades de las tecnologías emergentes y establecidas, y en la manera en que estas están redefiniendo nuestro horizonte tecnológico.

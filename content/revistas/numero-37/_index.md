@@ -4,7 +4,7 @@ slug: "numero-37"
 date: 2018-09-29
 number: 37
 coverImage: "./images/CompartiMOSS_37.jpg"
-pdfUrl: "./CompartiMOSS_37.pdf"
+pdfUrl: "https://compartimosssite.blob.core.windows.net/public/CompartiMOSS_37.pdf"
 description: "Edición número 37 de la revista CompartiMOSS."
 editorial: "​​​​​​​​​​​​​​​​​​​​Nos gustaría reflexionar sobre dos frases acerca de los datos y su futuro:
 
