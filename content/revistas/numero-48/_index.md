@@ -4,7 +4,7 @@ slug: "numero-48"
 date: 2021-06-01
 number: 48
 coverImage: "./images/CompartiMOSS_48.jpg"
-pdfUrl: "./CompartiMOSS_48.pdf"
+pdfUrl: "https://compartimosssite.blob.core.windows.net/public/CompartiMOSS_48.pdf"
 description: "Edición número 48 de la revista CompartiMOSS."
 editorial: "Seguimos creciendo dirigidos por nuestro objetivo de compartir conocimiento técnico con la comunidad. Nuestro canal de YouTube será nuestro próximo reto, como complemento a los artículos de nuestra revista.
 

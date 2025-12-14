@@ -4,7 +4,7 @@ slug: "numero-25"
 date: 2015-09-29
 number: 25
 coverImage: "./images/CompartiMOSS_25.jpg"
-pdfUrl: "./CompartiMOSS_25.pdf"
+pdfUrl: "https://compartimosssite.blob.core.windows.net/public/CompartiMOSS_25.pdf"
 description: "Edición número 25 de la revista CompartiMOSS."
 editorial: "​Llegando al momento en el que SharePoint 2016 On-Premises comienza a estar disponible, podemos sacar algunas conclusiones sobre el futuro de SharePoint. Y, para ser honrados, aunque Microsoft nos ha dado algo de esperanzas de que la versión On-Premises seguirá existiendo por algún tiempo más, lo que hemos podido ver de la nueva versión no es precisamente para estar saltando de la alegría.
 

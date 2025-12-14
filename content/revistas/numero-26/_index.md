@@ -4,7 +4,7 @@ slug: "numero-26"
 date: 2016-12-29
 number: 26
 coverImage: "./images/CompartiMOSS_26.jpg"
-pdfUrl: "./CompartiMOSS_26.pdf"
+pdfUrl: "https://compartimosssite.blob.core.windows.net/public/CompartiMOSS_26.pdf"
 description: "Edición número 26 de la revista CompartiMOSS."
 editorial: "​​​​​​​​​​​Un año más, y van 8 desde que apareciese el primer número de la revista allá por el año 2008, desde CompartiMOSS cerramos el año con un nuevo número en el que podrán encontrar artículos de gran calidad e interés en torno a SharePoint, Office 365, Microsoft Azure o Project Server.
 

@@ -4,7 +4,7 @@ slug: "numero-16"
 date: 2013-06-29
 number: 16
 coverImage: "./images/CompartiMOSS_16.jpg"
-pdfUrl: "./CompartiMOSS_16.pdf"
+pdfUrl: "https://compartimosssite.blob.core.windows.net/public/CompartiMOSS_16.pdf"
 description: "Edición número 16 de la revista CompartiMOSS."
 editorial: "La revista quiere cuidar a sus autores y con este número 16, estrenamos una página en la web dedicada a ellos (www.compartimoss.com/autores).  En ella, daremos a conocer al motor que hace que en cada número tengamos artículos, a los verdaderos protagonistas que nos obligaron, indirectamente, a crecer con la versión web, y a mejorar nuestra presencia en las redes sociales con una cuenta de Twitter (@CompartiMOSScom) y un grupo en LinkedIn.
 

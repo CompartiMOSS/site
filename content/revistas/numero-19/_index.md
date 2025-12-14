@@ -4,7 +4,7 @@ slug: "numero-19"
 date: 2014-03-29
 number: 19
 coverImage: "./images/CompartiMOSS_19.jpg"
-pdfUrl: "./CompartiMOSS_19.pdf"
+pdfUrl: "https://compartimosssite.blob.core.windows.net/public/CompartiMOSS_19.pdf"
 description: "Edición número 19 de la revista CompartiMOSS."
 editorial: "Nos adentramos en un nuevo número de CompartiMOSS y ya vamos por 19. 19 números en los que han escrito los que, posiblemente, sean los mejores autores de SharePoint de habla hispana, a los que agradecemos su confianza y tiempo dedicados a la revista.
 

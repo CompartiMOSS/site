@@ -4,7 +4,7 @@ slug: "numero-58"
 date: 2023-12-01
 number: 58
 coverImage: "./images/CompartiMOSS_58.jpg"
-pdfUrl: "./CompartiMOSS_58.pdf"
+pdfUrl: "https://compartimosssite.blob.core.windows.net/public/CompartiMOSS_58.pdf"
 description: "Edición número 58 de la revista CompartiMOSS."
 editorial: "Estamos terminado un año más, para nosotros es un inmenso placer armar
     cada número para compartirlso con nuestros lectores y apasionados de la

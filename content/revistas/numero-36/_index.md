@@ -4,7 +4,7 @@ slug: "numero-36"
 date: 2018-06-29
 number: 36
 coverImage: "./images/CompartiMOSS_36.jpg"
-pdfUrl: "./CompartiMOSS_36.pdf"
+pdfUrl: "https://compartimosssite.blob.core.windows.net/public/CompartiMOSS_36.pdf"
 description: "Edición número 36 de la revista CompartiMOSS."
 editorial: "​​​​​​​​​​​​​​​​​​​​Nos gustaría reflexionar sobre dos frases acerca de los datos y su futuro:
 

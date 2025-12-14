@@ -4,7 +4,7 @@ slug: "numero-38"
 date: 2018-12-29
 number: 38
 coverImage: "./images/CompartiMOSS_38.jpg"
-pdfUrl: "./CompartiMOSS_38.pdf"
+pdfUrl: "https://compartimosssite.blob.core.windows.net/public/CompartiMOSS_38.pdf"
 description: "Edición número 38 de la revista CompartiMOSS."
 editorial: "​​​​​​​​Una nuevo número de la revista, un año más, y tanto Microsoft como CompartiMOSS siguen adelante. Aunque es tradición hacer un resumen del año que se acaba en la edición de diciembre, no es mucho lo que se puede decir en realidad al respecto. Solo algún slogan común, como, por ejemplo \"negocios como de costumbre\" podría describir el año en retrospectiva. Microsoft continua con su transición hacia \"la nube\", teniendo el éxito de costumbre, tanto financiera como tecnológicamente; inclusive, la compañía termina el año siendo la compañía de tecnología mas valiosa del mundo, superando a todos sus rivales tradicionales.
 

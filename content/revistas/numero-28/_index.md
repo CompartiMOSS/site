@@ -4,7 +4,7 @@ slug: "numero-28"
 date: 2016-06-29
 number: 28
 coverImage: "./images/CompartiMOSS_28.jpg"
-pdfUrl: "./CompartiMOSS_28.pdf"
+pdfUrl: "https://compartimosssite.blob.core.windows.net/public/CompartiMOSS_28.pdf"
 description: "Edición número 28 de la revista CompartiMOSS."
 editorial: "Un número más, y ya van 28, desde el Equipo Editorial de CompartiMOSS nos complace compartir con todos nuestros lectores una edición más de la que esperamos que se convierta en la revista de habla hispana de referencia en tecnologías de Microsoft como lo ha sido, y sigue siendo, en la plataforma SharePoint.
 

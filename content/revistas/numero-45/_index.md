@@ -4,7 +4,7 @@ slug: "numero-45"
 date: 2020-09-01
 number: 45
 coverImage: "./images/CompartiMOSS_45.jpg"
-pdfUrl: "./CompartiMOSS_45.pdf"
+pdfUrl: "https://compartimosssite.blob.core.windows.net/public/CompartiMOSS_45.pdf"
 description: "Edición número 45 de la revista CompartiMOSS."
 editorial: "La primera mitad del año 2020 comenzó con buenas perspectivas, y termino dándonos motivos de preocupación. La segunda mitad sigue presentándonos tiempos difíciles a todo nivel: para las personas individualmente, las empresas y las economías en todo el mundo. La estabilidad está muy lejos de ser alcanzada, sea que hablemos de estabilidad política en un mundo cada vez más polarizado, económica cargada con incertidumbres a montón y certezas que no existen, y, de nuevo, personal debido a las otras dos, y por todo lo que hemos tenido que asimilar en cuanto a (deprivación de) relaciones interpersonales, y nuevas formas de interactuar con nuestros amigos, conocidos y colegas de trabajo.
 

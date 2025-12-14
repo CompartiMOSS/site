@@ -4,7 +4,7 @@ slug: "numero-35"
 date: 2018-03-29
 number: 35
 coverImage: "./images/CompartiMOSS_35.jpg"
-pdfUrl: "./CompartiMOSS_35.pdf"
+pdfUrl: "https://compartimosssite.blob.core.windows.net/public/CompartiMOSS_35.pdf"
 description: "Edición número 35 de la revista CompartiMOSS."
 editorial: "​​​​​​​​​​​​​​​​​El número 35 de CompartiMOSS es un número muy especial tanto para el Equipo Editorial de la revista como para sus autores y lectores ya que la revista cumple 10 años durante los que no hemos dejado de hablar de tecnologías Microsoft desde distintos puntos de vistas.
 

@@ -4,7 +4,7 @@ slug: "numero-46"
 date: 2020-12-01
 number: 46
 coverImage: "./images/CompartiMOSS_46.jpg"
-pdfUrl: "./CompartiMOSS_46.pdf"
+pdfUrl: "https://compartimosssite.blob.core.windows.net/public/CompartiMOSS_46.pdf"
 description: "Edición número 46 de la revista CompartiMOSS."
 editorial: "Este año que se está terminando quedará marcado en la historia de todos nosotros. En este 2020 que se está yendo nos azotó una pandemia mundial, el mundo se vio envuelto en una lucha contra un virus que nos desbastó, nos aisló y nos encerró en nuestras propias prisiones, nuestras casas. A lo largo de todos estos meses muchas personas perdieron seres queridos sin poder despedirse, otras se pusieron el uniforme que les correspondía y salieron a dar pelea a este virus que nos estaba ganando, y hoy en día nos sigue ganando; a todos ellos queremos darles las gracias, ¡gracias por su lucha incondicional!
 

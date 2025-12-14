@@ -4,7 +4,7 @@ slug: "numero-30"
 date: 2016-12-29
 number: 30
 coverImage: "./images/CompartiMOSS_30.jpg"
-pdfUrl: "./CompartiMOSS_30.pdf"
+pdfUrl: "https://compartimosssite.blob.core.windows.net/public/CompartiMOSS_30.pdf"
 description: "Edición número 30 de la revista CompartiMOSS."
 editorial: "​​​​​​​​​​​​​​​Para los que llevamos muchos años trabajando con tecnología Microsoft, estamos en un nuevo momento de cambio hacia una nueva estrategia más “Open” y lo podemos ver en las últimas noticias de Microsoft o en las que hemos recibido desde que Satya Nadella ha tomado las riendas del gigante de Redmond.
 

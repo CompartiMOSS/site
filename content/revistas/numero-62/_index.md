@@ -4,7 +4,7 @@ slug: "numero-62"
 date: 2024-12-01
 number: 62
 coverImage: "./images/CompartiMOSS_62.jpg"
-pdfUrl: "./CompartiMOSS_62.pdf"
+pdfUrl: "https://compartimosssite.blob.core.windows.net/public/CompartiMOSS_62.pdf"
 description: "Edición especial dedicada a Microsoft 365 y las últimas innovaciones en productividad empresarial."
 editorial: "Al llegar al final de este 2024, nos encontramos en un punto de inflexión tecnológica que marca el inicio de una nueva era en la colaboración empresarial y personal. Este año hemos visto cómo tecnologías basadas en la nube, como Microsoft SharePoint, Teams y Copilot, han transformado nuestra forma de trabajar y conectar, llevando la productividad a niveles sin precedentes.
 

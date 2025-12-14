@@ -4,7 +4,7 @@ slug: "numero-17"
 date: 2013-09-29
 number: 17
 coverImage: "./images/CompartiMOSS_17.jpg"
-pdfUrl: "./CompartiMOSS_17.pdf"
+pdfUrl: "https://compartimosssite.blob.core.windows.net/public/CompartiMOSS_17.pdf"
 description: "Edición número 17 de la revista CompartiMOSS."
 editorial: "Tiene antes sus ojos el número 17 de la revista, otro gran número donde hemos tratado de superar al anterior y creemos que hemos logrado la meta que nos propusimos, aunque no hubiera sido posible sin la colaboración de los autores que, número a número, proveen artículos de primer nivel para ser publicados.
 

@@ -4,7 +4,7 @@ slug: "numero-14"
 date: 2013-01-29
 number: 14
 coverImage: "./images/CompartiMOSS_14.jpg"
-pdfUrl: "./CompartiMOSS_14.pdf"
+pdfUrl: "https://compartimosssite.blob.core.windows.net/public/CompartiMOSS_14.pdf"
 description: "Edición número 14 de la revista CompartiMOSS."
 editorial: "Con la llegada del nuevo año, no solamente estamos estrenando oficialmente una nueva versión de SharePoint, sino que estamos remodelando por completo a CompartiMOSS. Después de 5 años de existencia, trece números publicados y más de 60.000 descargas, la revista ha conseguido un lugar propio en el mercado y el respeto y aprecio de todos los usuarios de SharePoint en el mundo hispanohablante, gracias a la calidad de los artículos escritos por los colaboradores y la regularidad de la publicación.
 

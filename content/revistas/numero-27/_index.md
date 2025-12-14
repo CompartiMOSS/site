@@ -4,7 +4,7 @@ slug: "numero-27"
 date: 2016-03-29
 number: 27
 coverImage: "./images/CompartiMOSS_27.jpg"
-pdfUrl: "./CompartiMOSS_27.pdf"
+pdfUrl: "https://compartimosssite.blob.core.windows.net/public/CompartiMOSS_27.pdf"
 description: "Edición número 27 de la revista CompartiMOSS."
 editorial: "​​​La revista sigue creciendo un número más y, por su puesto, les tenemos que dar gracias a ustedes los lectores, que trimestre a trimestre dedican un ratito de su preciado tiempo a leer y/o descargar el tan trabajado número que nuestros autores han creado.
 

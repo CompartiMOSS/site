@@ -4,7 +4,7 @@ slug: "numero-49"
 date: 2021-09-01
 number: 49
 coverImage: "./images/CompartiMOSS_49.jpg"
-pdfUrl: "./CompartiMOSS_49.pdf"
+pdfUrl: "https://compartimosssite.blob.core.windows.net/public/CompartiMOSS_49.pdf"
 description: "Edición número 49 de la revista CompartiMOSS."
 editorial: "A partir del dos de agosto, hace ya un mes, Microsoft liberó \"Windows 365\", su ultimo componente en la nube, y, probablemente, el único que le faltaba para completar su estrategia 
     de \"todos en la nube, todos a pagar por mes en lugar de tener licencias perpetuas\" (como si existiera algo perpetuo en nuestro mundo de IT).

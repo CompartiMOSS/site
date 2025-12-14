@@ -4,7 +4,7 @@ slug: "numero-18"
 date: 2013-12-29
 number: 18
 coverImage: "./images/CompartiMOSS_18.jpg"
-pdfUrl: "./CompartiMOSS_18.pdf"
+pdfUrl: "https://compartimosssite.blob.core.windows.net/public/CompartiMOSS_18.pdf"
 description: "Edición número 18 de la revista CompartiMOSS."
 editorial: "En este número de CompartiMOSS, como en cualquier otra actividad al final del año, es irremediable mirar hacia atrás y hacer una evaluación del trabajo realizado en los últimos doce meses. Hace exactamente un año los cuatro encargados de la revista nos pusimos la meta de dar los primeros pasos para \"profesionalizar\" a CompartiMOSS: utilización de un equipo de diseñadores gráficos profesionales para crear la versión de pdf, salir al aire con una versión Web, crear aplicaciones para todo tipo de dispositivos móviles. Y, por supuesto, conseguir el apoyo financiero para poder sufragar todos los gastos que esto conlleva.
 

@@ -4,7 +4,7 @@ slug: "numero-32"
 date: 2017-06-29
 number: 32
 coverImage: "./images/CompartiMOSS_32.jpg"
-pdfUrl: "./CompartiMOSS_32.pdf"
+pdfUrl: "https://compartimosssite.blob.core.windows.net/public/CompartiMOSS_32.pdf"
 description: "Edición número 32 de la revista CompartiMOSS."
 editorial: "​​​​​​​​Cada vez que alcanzamos un nuevo número nos llenamos de alegría por el trabajo y esfuerzo realizado tanto por los autores como por el equipo editorial de CompartiMOSS. Hoy estamos lanzando el número 32 de la revista y la satisfacción es exactamente la misma que tuvimos cuando hicimos el número 1.
 
