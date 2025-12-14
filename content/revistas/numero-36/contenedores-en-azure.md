@@ -1,10 +1,13 @@
 ---
+
 title: "Contenedores en Azure"
 slug: "contenedores-en-azure"
 magazineSlug: "numero-36"
 author: "Alberto Diaz Martin"
 authorSlug: "alberto-diaz-martin"
 keywords: ['Azure','Contenedores']
+image: "../images/contenedores-en-azure/image1.png"
+
 ---
 
 El mundo del desarrollo de aplicaciones no para de evolucionar y las opciones de ejecución aumentan a un ritmo endiablado, tanto que es complicado mantenerse al día y más complicado tener proyectos que hagan uso de la tecnología más adecuada en cada momento.

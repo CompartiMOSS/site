@@ -1,10 +1,13 @@
 ---
+
 title: "Anatomía de una Adaptive Card"
 slug: "anatomia-de-una-adaptive-card"
 magazineSlug: "numero-47"
 author: "Angel Carrillo"
 authorSlug: "angel-carrillo"
 keywords: ['Adaptive Card','Bot Framework','Microsoft Teams']
+image: "../images/anatomia-de-una-adaptive-card/image1.png"
+
 ---
 
 Desde hace unos cuantos meses, las Adaptive Cards se están convirtiendo

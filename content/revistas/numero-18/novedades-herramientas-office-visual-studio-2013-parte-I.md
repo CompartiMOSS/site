@@ -1,10 +1,13 @@
 ---
+
 title: "Novedades en las herramientas de Office para Visual Studio 2013 - Parte I"
 slug: "novedades-herramientas-office-visual-studio-2013-parte-I"
 magazineSlug: "numero-18"
 author: "Juan Carlos Gonzalez Martin"
 authorSlug: "juan-carlos-gonzalez-martin"
 keywords: ['Visual Studio 2013']
+image: "../images/novedades-herramientas-office-visual-studio-2013-parte-I/imagen1.png?renditionid=7"
+
 ---
 
 ​Al igual que en la versión Preview de VS 2013, la versión RTM (Ready To Manufature) del IDE incluye de serie la última versión de las herramientas de desarrollo Office Tools para Visual Studio. Por lo tanto, sin necesidad de instalar componentes adicionales se puede comenzar a crear tanto Soluciones como Aplicaciones tanto para SharePoint 2013 On-Premise como para SharePoint Online en Office 365. Para crear Soluciones de SharePoint, se dispone (Imagen 1) de las mismas plantillas de proyecto existentes en VS 2012.

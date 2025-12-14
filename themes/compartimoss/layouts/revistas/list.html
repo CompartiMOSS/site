@@ -13,9 +13,9 @@
       <div class="magazine-card-image">
         {{ $coverImage := .Params.coverImage }}
         {{ if hasPrefix $coverImage "./" }}
-              {{ $coverImage = path.Join .Permalink .Params.coverImage }}
+              {{ $coverImage = print .Permalink .Params.coverImage }}
         {{ end }}
-        <img src="{{ $coverImage }}" alt="{{ .Title }}">
+        <img src="{{ $coverImage | relURL }}" alt="{{ .Title }}">
         <div class="magazine-badge">Nº {{ .Params.number }}</div>
       </div>
       <div class="magazine-card-content">

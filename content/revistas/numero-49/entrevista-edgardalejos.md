@@ -1,10 +1,13 @@
 ---
+
 title: "Entrevista a Edgard Alejos"
 slug: "entrevista-edgardalejos"
 magazineSlug: "numero-49"
 author: "Edgard Alejos"
 authorSlug: "edgard-alejos"
 keywords: ['Entrevista']
+image: "/../images/autores/edgard-alejos.png#author"
+
 ---
 
 ![Edgard Alejos](/../images/autores/edgard-alejos.png#author) Me llamo Robert Edgard Alejos Reyes, nací en la ciudad de Lima, Perú, donde actualmente vivo y trabajo. Soy el tercero de 4 hermanos y el único dedicado a las TI. 

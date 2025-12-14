@@ -1,10 +1,13 @@
 ---
+
 title: "Uso de Contenedores para un Developer de Office 365"
 slug: "docker-developer-office365"
 magazineSlug: "numero-52"
 author: "Adrian Diaz Cervera"
 authorSlug: "adrian-diaz-cervera"
 keywords: ['Office 365','Developer', 'Docker']
+image: "../images/docker-developerde-office365/image1.png"
+
 ---
 
 Hoy en día el uso de los contenedores está ligado a aplicaciones que

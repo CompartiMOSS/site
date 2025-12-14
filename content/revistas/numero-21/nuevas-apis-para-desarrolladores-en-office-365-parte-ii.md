@@ -1,10 +1,13 @@
 ---
+
 title: "Nuevas API’s para desarrolladores en Office 365 Parte II"
 slug: "nuevas-apis-para-desarrolladores-en-office-365-parte-ii"
 magazineSlug: "numero-21"
 author: "Adrian Diaz Cervera"
 authorSlug: "adrian-diaz-cervera"
 keywords: ['Office 365','REST']
+image: "../images/nuevas-apis-para-desarrolladores-en-office-365-parte-ii/imagen1.png"
+
 ---
 
 ​**Nota:**Estas API's están en fase de Preview y pueden sufrir alguna modificación cuando se lance la versión definitiva. Naturalmente, no se recomienda el uso de ninguna de estas API's en un entorno de producción.

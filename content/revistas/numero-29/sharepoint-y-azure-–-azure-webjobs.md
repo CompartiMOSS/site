@@ -1,10 +1,13 @@
 ---
+
 title: "SharePoint y Azure – Azure WebJobs"
 slug: "sharepoint-y-azure-–-azure-webjobs"
 magazineSlug: "numero-29"
 author: "Gustavo Velez"
 authorSlug: "gustavo-velez"
 keywords: ['SharePoint','Azure','Azure WebJobs']
+image: "../images/sharepoint-y-azure-–-azure-webjobs/image1.png"
+
 ---
 
 Muchos de los servicios ofrecidos por Azure se pueden utilizar para ampliar y mejorar el funcionamiento de SharePoint, tanto on-premises como en la nube. Uno de los servicios que ofrece Azure, parte de Azure Apps, es "Web Apps", que es una solución de Plataforma como Servicio (PaaS) que proporciona toda la infraestructura física más el software de base para servir como host de programas Web. Una de las alternativas de Web Apps es WebJobs, que utiliza toda la infraestructura de Azure Apps para ejecutar programas de forma automática basado en un esquema de tiempo.

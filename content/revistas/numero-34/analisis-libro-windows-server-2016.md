@@ -1,10 +1,13 @@
 ---
+
 title: "Análisis del libro “Windows Server 2016 -  Arquitectura y Administración de los servicios de dominio Active Directory (AD DS)”"
 slug: "analisis-libro-windows-server-2016"
 magazineSlug: "numero-34"
 author: "Juan Ignacio Oller Aznar"
 authorSlug: "juan-ignacio-oller-aznar"
 keywords: ['System Center']
+image: "../images/analisis-libro-windows-server-2016/image1.jpg"
+
 ---
 
 Este libro está escrito por Jean-François Aprea, un MVP francés con amplia experiencia en sistemas Microsoft ya que trabaja como arquitecto en una empresa del país galo. Además, ha sido distinguido durante 10 años consecutivos como MVP de Cloud and Datacenter Management.

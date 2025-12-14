@@ -1,10 +1,13 @@
 ---
+
 title: "Monitoreando SharePoint Server con System Center Operations Manager (SCOM) – Parte I"
 slug: "monitoreando-sharepoint-server-con-system-center-operations-manager–parte-i"
 magazineSlug: "numero-16"
 author: "David Sánchez Aguilar"
 authorSlug: "david-sanchez-aguilar"
 keywords: ['SCOM','Governance']
+image: "../images/monitoreando-sharepoint-server-con-system-center-operations-manager–parte-i/image_1.jpg"
+
 ---
 
 ​En muchas de las organizaciones que con el paso del tiempo han construido una intranet solida basada en SharePoint, se ha convertido para muchos de los usuarios en una de las principales herramientas de trabajo del día a día, por esta razón, como parte de las responsabilidades de un administrador de la plataforma de SharePoint está el brindar alta disponibilidad a la plataforma, dar un mantenimiento adecuado, realizar tareas básicas de recuperación ante fallas como ejecución de respaldos, tanto de bases de datos como de SharePoint, replicación de servicios, entre otras tareas.

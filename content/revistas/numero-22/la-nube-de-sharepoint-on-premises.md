@@ -1,10 +1,13 @@
 ---
+
 title: "La nube de SharePoint On-Premises"
 slug: "la-nube-de-sharepoint-on-premises"
 magazineSlug: "numero-22"
 author: "Alberto Diaz Martin"
 authorSlug: "alberto-diaz-martin"
 keywords: ['Azure','Infrastructura','Máquina Virtual']
+image: "../images/la-nube-de-sharepoint-on-premises/image001.png"
+
 ---
 
 ​Actualmente tenemos dos versiones de SharePoint, SharePoint 2013 y SharePoint Online, con algunas funcionalidades de diferencia, bien porque nos encontramos con ciertos límites del entorno de ejecución en la nube, bien porque se han desarrollado nuevas funcionalidades que no han llegado a la versión On-Premises.

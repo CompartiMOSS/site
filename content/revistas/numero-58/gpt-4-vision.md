@@ -1,10 +1,13 @@
 ---
+
 title: "Azure OpenAI GPT-4 Vision"
 slug: "gpt-4-vision"
 magazineSlug: "numero-58"
 author: "Alberto Diaz Martin"
 authorSlug: "alberto-diaz-martin"
 keywords: ['AI', 'Azure', 'OpenAI', 'GPT-4', 'Vision']
+image: "../images/gpt-4-vision/image1.png"
+
 ---
 
 Imagina poder hacer cualquier pregunta a un potente modelo de IA y obtener una respuesta en lenguaje natural, 

@@ -1,10 +1,13 @@
 ---
+
 title: "Diseño Gráfico en SharePoint Foundation 2010 Parte 3"
 slug: "diseno-grafico-en-sharepoint-foundation-2010-parte-3"
 magazineSlug: "numero-21"
 author: "Juan Pablo Pussacq"
 authorSlug: "juan-pablo-pussacq"
 keywords: ['Diseño']
+image: "../images/diseno-grafico-en-sharepoint-foundation-2010-parte-3/imagen1.png"
+
 ---
 
 ​En artículos anteriores hicimos una introducción acerca de cómo incorporar en SharePoint 2010 los estilos creados por un diseñador gráfico. Nos basamos en algunas hipótesis como el uso de SharePoint Foundation, páginas maestras, hojas de estilo y modelo de objetos de cliente para JavaScript. Se recomienda leer la [parte 1](/revistas/numero-16/diseno-grafico-en-sharepoint-foundation-2010) y la [parte 2](/revistas/numero-19/diseno-grafico-en-sharepoint-foundation-2010-ii) antes de continuar. También les recomiendo leer los [ejemplos de CAML con Client Object Model](/revistas/numero-17/ejemplos-caml-client-object-model-javascript), porque los utilizo para obtener datos de listas.

@@ -1,10 +1,13 @@
 ---
+
 title: "¿Qué son las PowerApps de Microsoft? – Creando nuestra primera aplicación"
 slug: "powerapps-creando-nuestra-primera-aplicacion"
 magazineSlug: "numero-27"
 author: "Sergio Hernandez Mancebo"
 authorSlug: "sergio-hernandez-mancebo"
 keywords: ['PowerApps']
+image: "../images/powerapps-creando-nuestra-primera-aplicacion/image1.png"
+
 ---
 
 ​Si accedemos a la página de Microsoft y buscamos la definición de PowerApp nos encontraremos algo como "Aplicaciones para conectar, crear y compartir aplicaciones que impulsen su negocio". Analizando la definición debemos empezar por el final, ya que, después de trabajar un poco con esta nueva herramienta, he podido observar que  un usuario con conocimientos en office puede hacer uso de las PowerApps y crear una aplicación de forma totalmente autónoma sin necesidad de tener conocimientos en programación por lo que podemos decir desde ya que las PowerApps están pensadas para conseguir una autonomía  de los empleados de negocio respecto a los departamentos de IT en el proceso de creación de este tipo de aplicaciones.

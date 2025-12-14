@@ -1,10 +1,13 @@
 ---
+
 title: "Desarrollando Aplicaciones de Big Data con Cloudera en Azure"
 slug: "desarrollando-aplicaciones-de-big-data-con-cloudera-en-azure"
 magazineSlug: "numero-37"
 author: "Xavier Morera"
 authorSlug: "xavier-morera"
 keywords: ['Azure','Big Data','Hadoop']
+image: "../images/desarrollando-aplicaciones-de-big-data-con-cloudera-en-azure/image1.png"
+
 ---
 
 Desde el inicio de los tiempos, los seres humanos han querido organizar diferentes tipos de información de muchas maneras distintas. Desde pintando en cavernas con piedras de colores, utilizando papiro, haciendo cálculos con un ábaco, y construyendo bibliotecas de proporciones bíblicas. Conforme la humanidad ha ido avanzando, la tecnología ha ido mejorando a pasos de gigante.

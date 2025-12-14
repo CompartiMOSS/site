@@ -1,10 +1,13 @@
 ---
+
 title: "Power BI como Servicio de Self Service BI"
 slug: "power-bi-como-servicio-de-self-service-bi"
 magazineSlug: "numero-26"
 author: "Gaston Cruz"
 authorSlug: "gaston-cruz"
 keywords: ['Power BI']
+image: "../images/power-bi-como-servicio-de-self-service-bi/image1.jpeg"
+
 ---
 
 Dentro del abanico de soluciones Microsoft, surgió una que perfecciona lo que antes generaba Excel a través de varios complementos: Power BI. La herramienta genera informes y visualizaciones interactivas, vinculadas entre sí, con Dashboards que brindan información vital para el negocio al instante, con actualización dinámica, con la facilidad de realizar drill down para mayor detalle de los datos recopilados.

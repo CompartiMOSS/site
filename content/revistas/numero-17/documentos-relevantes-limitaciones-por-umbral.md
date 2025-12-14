@@ -1,10 +1,13 @@
 ---
+
 title: "Documentos Relevantes, limitaciones por umbral"
 slug: "documentos-relevantes-limitaciones-por-umbral"
 magazineSlug: "numero-17"
 author: "Silvina Pizzarulli"
 authorSlug: "silvina-pizzarulli"
 keywords: ['CAML','Threshold']
+image: "../images/documentos-relevantes-limitaciones-por-umbral/figura1.png"
+
 ---
 
 Nos pasa a menudo escuchar hablar de threshold, boundaries y supported limits, pero la realidad es que como programadores o configuradores raras veces nos encontramos con situaciones límites, por un lado sólo por el hecho de trabajar con máquinas virtuales locales o hosteadas donde realizamos las personalizaciones, desplegamos, testeamos, por el otro lado raras veces nos toca trabajar con listas o bibliotecas con tantos elementos como para alcanzar estos valores establecidos.

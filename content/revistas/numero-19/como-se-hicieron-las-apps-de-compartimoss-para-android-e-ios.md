@@ -1,10 +1,13 @@
 ---
+
 title: "Como se hicieron las Apps de CompartiMOSS para Android e iOS"
 slug: "como-se-hicieron-las-apps-de-compartimoss-para-android-e-ios"
 magazineSlug: "numero-19"
 author: "Adrian Diaz Cervera"
 authorSlug: "adrian-diaz-cervera"
 keywords: ['CompartiMOSS','JavaScript','REST']
+image: "../images/como-se-hicieron-las-apps-de-compartimoss-para-android-e-ios/imagen1.png"
+
 ---
 
 ​A la hora de empezar a desarrollar una aplicación para móvil antes de empezar a escribir una línea de código, te tienes que hacer una serie de preguntas: ¿la vas a implementar para más de una plataforma? ¿Nativa, hibrida o HTML5? Dependiendo de las respuestas que obtengas,  optarás por una solución u otra.

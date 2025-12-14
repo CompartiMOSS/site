@@ -1,10 +1,13 @@
 ---
+
 title: "Power BI Embbeded"
 slug: "power-bi-embbeded"
 magazineSlug: "numero-30"
 author: "Gaston Cruz"
 authorSlug: "gaston-cruz"
 keywords: ['Power BI']
+image: "../images/power-bi-embbeded/image1.png"
+
 ---
 
 En el presente artículo vamos a presentar una solución de Power BI Embedded con la finalidad de dejar claro de qué se trata este nuevo servicio que se ofrece sobre la plataforma Azure. En primer lugar, definamos cual es el público objetivo de utilización de este servicio. Soluciones y aplicaciones que deseen mostrar reportabilidad son las que justamente podrán explotar este servicio, con la funcionalidad principal de mostrar reportes en aplicaciones web.

@@ -1,10 +1,13 @@
 ---
+
 title: "Como configurar el Panel de Refinamiento sobre columnas de Metadatos múltiples"
 slug: "como-configurar-el-panel-de-refinamiento-sobre-columnas-de-metadatos-múltiples"
 magazineSlug: "numero-16"
 author: "Luis Mañez"
 authorSlug: "luis-manez"
 keywords: ['Taxonomía']
+image: "../images/como-configurar-panel-refinamiento-columnas-metadatos/image_1.jpg"
+
 ---
 
 ​La WebPart de Panel de Refinamiento es uno de las más utilizadas en SharePoint 2010 cuando se construyen Search Driven Applications. Esta WebPart nos permite realizar filtrados sobre los resultados de una búsqueda.

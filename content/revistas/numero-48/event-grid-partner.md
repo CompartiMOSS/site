@@ -1,10 +1,13 @@
 ---
+
 title: "Event Grid Partner, publicando tu catálogo de Eventos"
 slug: "event-grid-partner"
 magazineSlug: "numero-48"
 author: "Sergiop Hernández Mancebo"
 authorSlug: "sergio-hernandez-mancebo"
 keywords: ['Azure','Event Grid']
+image: "../images/event-grid-partner/image1.png"
+
 ---
 
 **Eventos con dos visiones, consumidor y publicador**

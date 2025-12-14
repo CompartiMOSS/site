@@ -1,10 +1,13 @@
 ---
+
 title: "Un primer vistazo a la nueva experiencia de usuario de bibliotecas de documentos en SharePoint Online"
 slug: "un-primer-vistazo-a-la-nueva-experiencia-de-usuario-de-bibliotecas-de-documentos-en-sharepoint-online"
 magazineSlug: "numero-28"
 author: "Juan Carlos Gonzalez Martin"
 authorSlug: "juan-carlos-gonzalez-martin"
 keywords: ['SharePoint Online']
+image: "../images/un-primer-vistazo-a-la-nueva-experiencia-de-usuario-de-bibliotecas-de-documentos-en-sharepoint-online/image1.png"
+
 ---
 
 En este artículo vamos a hacer un recorrido por la nueva experiencia de usuario en bibliotecas de documentos de SharePoint Online (SPO) disponible para tenants de Office 365 configurados en modo First Release (Primera Versión), lo que permite que probar y testear de forma temprana nuevas funcionalidades y capacidades liberadas por Microsoft en Office 365 antes de que estén disponibles de forma global. Esta nueva experiencia supone, además de los cambios desde el punto de vista de usuario, una unificación en la forma de trabajar con documentos por parte del usuario final independientemente de si está accediendo a una biblioteca de documentos de un sitio de SPO, a los archivos de un Grupo de Office 365 o a los documentos de OneDrive para Empresas (ODFB). El objetivo de Microsoft es dotar al usuario de una experiencia unificada independientemente del entorno de trabajo (Sitios, Grupos de Office 365 u ODFB).

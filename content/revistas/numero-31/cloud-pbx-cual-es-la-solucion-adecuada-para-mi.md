@@ -1,10 +1,13 @@
 ---
+
 title: "Cloud PBX ¿Cuál es la solución adecuada para mí?"
 slug: "cloud-pbx-cual-es-la-solucion-adecuada-para-mi"
 magazineSlug: "numero-31"
 author: "Rodolfo Castro"
 authorSlug: "rodolfo-castro"
 keywords: ['Skype for Business','Cloud PBX']
+image: "../images/cloud-pbx-cual-es-la-solucion-adecuada-para-mi/image1.png"
+
 ---
 
 La voz empresarial con Microsoft es totalmente basada en Voz sobre IP (VoIP por sus siglas en ingles) y se utiliza mediante solución de software, con el cliente de Skype for Business (anteriormente Lync, anteriormente OCS, anteriormente LCS y mejor aquí nos detenemos). Esta solución puede aplicarse 100% OnPremises, ofreciendo una gama amplia de funcionalidades tales como Grupos de Respuesta, Parqueo de Llamadas, etc.

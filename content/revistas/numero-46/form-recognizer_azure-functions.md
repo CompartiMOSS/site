@@ -1,10 +1,13 @@
 ---
+
 title: "Procesando formularios con Form Recognizer y Azure Functions"
 slug: "form-recognizer_azure-functions"
 magazineSlug: "numero-46"
 author: "Sergio Hernández Mancebo"
 authorSlug: "sergio-hernandez-mancebo"
 keywords: ['Form Recognizer', 'Azure Functions', 'Azure']
+image: "../images/form-recognizer_azure-functions/image1.png"
+
 ---
 
 Es evidente que poco a poco va desapareciendo el papel físico en cuanto

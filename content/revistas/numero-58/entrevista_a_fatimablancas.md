@@ -1,10 +1,13 @@
 ---
+
 title: "Entrevista a Fátima Blancas"
 slug: "entrevista_a_fatimablancas"
 magazineSlug: "numero-58"
 author: "Fátima Blancas"
 authorSlug: "fatima-blancas"
 keywords: ['Entrevista']
+image: "../images/entrevista_a_fatimablancas/image1.png#author"
+
 ---
 
 ![Fátima Blancas](../images/entrevista_a_fatimablancas/image1.png#author) Hola a todos, Soy Fátima Blancas, una mexicana de 

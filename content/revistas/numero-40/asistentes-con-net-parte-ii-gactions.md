@@ -1,10 +1,13 @@
 ---
+
 title: "Asistentes con .net – Parte II (gactions)"
 slug: "asistentes-con-net-parte-ii-gactions"
 magazineSlug: "numero-40"
 author: "Diego Zapico"
 authorSlug: "diego-zapico"
 keywords: ['Asistentes']
+image: "../images/asistentes-con-net-parte-ii-gactions/image1.png"
+
 ---
 
 En el anterior artículo vimos cómo era la estructura de un asistente virtual, de que partes estaba formado, recuerda que todos tienen una estructura similar. Te voy a ser sincero, la idea era que en este artículo te iba a enseñar cómo hacer que Dialogflow consultase a tu API y empezar a crear el bot, pero como yo no soy ningún genio y también estoy en proceso de aprendizaje me he estado pegando con Dialogflow hasta que llegué a un punto en el que rompí nuestra relación. Te explico, Google nos dice que la forma de trabajar es la que os conté en el otro artículo, Google Assistant se conecta a Dialogflow y nosotros le indicamos a Dialogflow que en ciertos puntos llame a nuestro endpoint (webhook) para desarrollar más una intención. Google también nos dice que nos brinda todas las herramientas necesarias, nos da ejemplos y nos da el Dialogflow SDK en un montón de lenguajes:

@@ -1,10 +1,13 @@
 ---
+
 title: "Cómo volcar información desde las Azure Table Storage a Microsoft Lists usando Logic Apps"
 slug: "de-azure-table-storage-a-lists-usando-logic-apps"
 magazineSlug: "numero-46"
 author: "Enrique Sánchez"
 authorSlug: "enrique-sanchez"
 keywords: ['Azure','Table Storage','Logic Apps']
+image: "../images/de-azure-table-storage-a-lists-usando-logic-apps/image2.png"
+
 ---
 
 En este artículo os mostraré cómo podemos volcar la información

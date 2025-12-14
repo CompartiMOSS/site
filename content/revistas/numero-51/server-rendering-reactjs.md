@@ -1,10 +1,13 @@
 ---
+
 title: "ReactJS.NET o como aprovechar al máximo React con DotNet"
 slug: "server-rendering-reactjs"
 magazineSlug: "numero-51"
 author: "Adrián Diaz Cervera"
 authorSlug: "adrian-diaz-cervera"
 keywords: ['ReactJS']
+image: "../images/server-rendering-reactjs/image1.png"
+
 ---
 
 A la hora de realizar un desarrollo usando ReactJS la mayor de las

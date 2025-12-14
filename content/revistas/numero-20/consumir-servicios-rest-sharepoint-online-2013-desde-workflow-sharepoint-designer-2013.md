@@ -1,10 +1,13 @@
 ---
+
 title: "Cómo consumir los Servicios REST de SharePoint Online 2013 desde un WorkFlow en SharePoint Designer 2013"
 slug: "consumir-servicios-rest-sharepoint-online-2013-desde-workflow-sharepoint-designer-2013"
 magazineSlug: "numero-20"
 author: "Andrés Ortíz"
 authorSlug: "andres-ortiz"
 keywords: ['SharePoint 2013','Workflow','REST']
+image: "../images/consumir-servicios-rest-sharepoint-online-2013-desde-workflow-sharepoint-designer-2013/imagen1.png"
+
 ---
 
 ​**REST en la Plataforma SharePoint**

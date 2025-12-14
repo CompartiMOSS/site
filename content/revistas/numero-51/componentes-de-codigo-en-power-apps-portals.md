@@ -236,7 +236,7 @@ para comprobar como el campo Coste ya no es un input normal, si no que
 tiene un componente gráfico para editar su valor.
 
 ![Imagen 11.- Campo con componente gráifco que se ha creado.
-](../../../images/numero51/componentes-de-codigo-en-power-apps-portals/image12.png)
+](../images/componentes-de-codigo-en-power-apps-portals/image12.png)
 
 **Insertamos el componente en nuestro Portal**
 
@@ -247,7 +247,7 @@ sitio, y nos creamos un formulario que sea "Form Component", como en la
 siguiente imagen.
 
 ![Imagen 12.- Formulario portals
-](../../../images/numero51/componentes-de-codigo-en-power-apps-portals/image13.png)
+](../images/componentes-de-codigo-en-power-apps-portals/image13.png)
 
 Crear un formulario es sencillo, le debemos dar un nombre, y vincularlo
 a una entidad de Dataverse, en este caso la de Pedidos, y posteriormente

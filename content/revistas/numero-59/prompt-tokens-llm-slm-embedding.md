@@ -1,10 +1,13 @@
 ---
+
 title: "Prompts, tokens, LLM, SLM, embeddings, ..."
 slug: "prompt-tokens-llm-slm-embedding"
 magazineSlug: "numero-59"
 author: "Alberto Diaz Martin"
 authorSlug: "alberto-diaz-martin"
 keywords: ['Prompts', 'Tokens', 'LLM', 'SLM', 'Embeddings', 'Azure OpenAI', 'Azure']
+image: "../images/prompt-tokens-llm-slm-embedding/image1.png"
+
 ---
 
 La IA Generativa es una rama de la inteligencia artificial que se dedica

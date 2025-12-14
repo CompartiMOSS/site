@@ -1,10 +1,13 @@
 ---
+
 title: "Detección de objetos con Custom Vision"
 slug: "deteccion-de-objetos-con-custom-vision"
 magazineSlug: "numero-44"
 author: "Diego Zapico"
 authorSlug: "diego-zapico"
 keywords: ['Azure Cognitive Services']
+image: "../images/deteccion-de-objetos-con-custom-vision/image1.png"
+
 ---
 
 ​Dentro de los servicios cognitivos de Microsoft, en la categoría de visión podemos encontrar *Custom Vision*, sin duda un servicio muy interesante para reconocimiento de objetos dentro de una imagen. En los servicios cognitivos es posible reconocer objetos cotidianos como una bicicleta, un móvil o vehículos, pero para detectar un objeto concreto debemos entrenar un modelo. Primero debemos contar con una suscripción en Azure (recuerda que Azure ofrece unas cuentas trial para probar este servicio entre otros). Una vez en el portal de Azure crearemos un recurso *Custom Vision*, se puede localizar en el Marketplace a través del buscador o en el apartado *IA y Machine Learning*.

@@ -1,10 +1,13 @@
 ---
+
 title: "Migración de Stream Clásico a Stream en SharePoint"
 slug: "migracion-de-stream-clasico-a-stream-en-sharepoint"
 magazineSlug: "numero-54"
 author: "Juan Carlos González Martín"
 authorSlug: "juan-carlos-gonzalez-martin"
 keywords: ['Stream', 'Office 365']
+image: "../images/migracion-de-stream-clasico-a-stream-en-sharepoint/image1.png"
+
 ---
 
 Como sabéis, la nueva versión de Stream está construida sobre SharePoint

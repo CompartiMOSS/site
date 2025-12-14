@@ -1,10 +1,13 @@
 ---
+
 title: "Introducción a los Grupos de Office 365 – Trabaja como una red - Parte I"
 slug: "introduccion-grupos-office-365-trabaja-como-una-red-parte-i-trabaja-como-una-red-parte-i"
 magazineSlug: "numero-22"
 author: "Juan Carlos Gonzalez Martin"
 authorSlug: "juan-carlos-gonzalez-martin"
 keywords: ['Office 365','Grupos']
+image: "../images/introduccion-grupos-office-365-trabaja-como-una-red-parte-i/image001.png"
+
 ---
 
 ​Desde un punto de vista puramente conceptual, un Grupo se define como un espacio de trabajo compartido para e-mail, conversaciones, archivos y eventos de calendario en el que los miembros de un grupo pueden colaborar de forma rápida, productiva y sencilla a través de una interfaz de usuario simple y que permite que el usuario esté en todo momento centrado en la actividad que tiene lugar en el Grupo.

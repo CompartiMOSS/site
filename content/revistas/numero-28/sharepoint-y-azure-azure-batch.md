@@ -1,10 +1,13 @@
 ---
+
 title: "SharePoint y Azure – Azure Batch"
 slug: "sharepoint-y-azure-azure-batch"
 magazineSlug: "numero-28"
 author: "Gustavo Velez"
 authorSlug: "gustavo-velez"
 keywords: ['Azure','Azure Batch']
+image: "../images/sharepoint-y-azure-azure-batch/image1.png"
+
 ---
 
 ​​Muchos de los servicios ofrecidos por Azure se pueden utilizar para ampliar y mejorar el funcionamiento de SharePoint, tanto on-premises como en la nube. Uno de los servicios que ofrece Azure es "Azure Batch", que es una solución de Plataforma como Servicio (PaaS) que proporciona toda la infraestructura física más el software de base para ejecutar programas en grupos, eliminando cargas excesivas de servidores de producción. Azure Batch se encarga de crear Máquinas Virtuales que ejecuten los procesos, repartir la carga entre las diferentes Máquinas Virtuales, manejar los resultados y ponerlos a disposición del sistema que inicia la consulta.

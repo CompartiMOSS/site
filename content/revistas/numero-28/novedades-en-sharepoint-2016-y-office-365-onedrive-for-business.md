@@ -1,10 +1,13 @@
 ---
+
 title: "Novedades en SharePoint 2016 y Office 365 & OneDrive for Business"
 slug: "novedades-en-sharepoint-2016-y-office-365-onedrive-for-business"
 magazineSlug: "numero-28"
 author: "Francisco Ricardo Gil González"
 authorSlug: "francisco-ricardo-gil-gonzalez"
 keywords: ['SharePoint']
+image: "../images/novedades-en-sharepoint-2016-y-office-365-onedrive-for-business/image1.png"
+
 ---
 
 Microsoft anunció el pasado día 4 de Mayo en el Evento llamado The Future of SharePoint**,** celebrado en San Francisco (EE.UU), nuevas características en SharePoint 2016, Office 365 y OneDrive for Business. En el acto se hizo una previsión de lo que SharePoint se convertirá en el futuro. Además del anuncio de la disponibilidad de SharePoint 2016 se mostraron nuevos diseños para sitios de grupo, la página de contenido, página de sitios para Oficina 365, incluida una demo. Otro de los aspectos destacables fueron las novedades en materia de seguridad y "compliance".

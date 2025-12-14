@@ -1,10 +1,13 @@
 ---
+
 title: "Introducing Microsoft PowerApps"
 slug: "introducing-microsoft-powerapps"
 magazineSlug: "numero-31"
 author: "Manpreet Singh"
 authorSlug: "manpreet-singh"
 keywords: ['PowerApps']
+image: "../images/introducing-microsoft-powerapps/image2.png"
+
 ---
 
 Welcome to an article where we will see Microsoft’s new product, “PowerApps”. With just the launch, it has provided an amazing response within our technology organization as it provided an efficient way to create an app or create a flow. Microsoft PowerApps is so promising in its initial phase that once you start working on it, it’s hard to get your hands off.

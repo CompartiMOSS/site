@@ -1,10 +1,13 @@
 ---
+
 title: "Conectar Power Virtual Agents con QnA Maker"
 slug: "power-virtual-agents-qna-maker"
 magazineSlug: "numero-47"
 author: "Alex Rostán"
 authorSlug: "alex-rostan"
 keywords: ['Power Virtual Agents','QnA Maker']
+image: "../images/power-virtual-agents-qna-maker/image1.png"
+
 ---
 
 En el siguiente artículo nos focalizaremos en como conectar Power

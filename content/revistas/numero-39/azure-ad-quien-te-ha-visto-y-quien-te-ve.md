@@ -1,10 +1,13 @@
 ---
+
 title: "Azure AD, quién te ha visto y quién te ve"
 slug: "azure-ad-quien-te-ha-visto-y-quien-te-ve"
 magazineSlug: "numero-39"
 author: "Pablo Ortiz"
 authorSlug: "pablo-ortiz"
 keywords: ['Azure AD']
+image: "../images/azure-ad-quien-te-ha-visto-y-quien-te-ve/image1.png"
+
 ---
 
 ​Al principio era solo "eso que gestiona las identidades de Office 365", donde se asignan las licencias y poco más. Pero Azure AD es a día de hoy un robusto y completo servicio de Identity and Access Management (IdAM), con funcionalidades que le crecen como setas y características avanzadas de integración y seguridad.

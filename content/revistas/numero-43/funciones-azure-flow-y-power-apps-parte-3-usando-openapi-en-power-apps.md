@@ -1,10 +1,13 @@
 ---
+
 title: "Uso de Funciones de Azure con Flow y Power Apps - Parte 3 -  Usando OpenAPI en Power Apps"
 slug: "funciones-azure-flow-y-power-apps-parte-3-usando-openapi-en-power-apps"
 magazineSlug: "numero-43"
 author: "Gustavo Velez"
 authorSlug: "gustavo-velez"
 keywords: ['Azure Functions','Flow','PowerApps']
+image: "../images/funciones-azure-flow-y-power-apps-parte-3-usando-openapi-en-power-apps/image1.png"
+
 ---
 
 Flow es la implementación que Microsoft ha creado para integrar el motor de flujos de Azure, Logic Apps, en Office 365. A su vez, Power Apps es un intento para facilitar la creación de aplicaciones sin necesidad de programación, que pueden ser utilizadas por sí mismas, o integradas en SharePoint Online. Ambos sistemas, aunque fáciles de utilizar y bastante poderosos en cuanto a funcionalidad, carecen de la flexibilidad para agregar nuevas posibilidades de cálculo y procesamiento. Esta falta de los dos sistemas se puede solucionar por medio de las Funciones de Azure.

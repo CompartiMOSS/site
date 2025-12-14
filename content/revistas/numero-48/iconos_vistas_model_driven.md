@@ -1,10 +1,13 @@
 ---
+
 title: "Cómo añadir iconos personalizados en vistas de una Power Apps Model Driven"
 slug: "iconos_vistas_model_driven"
 magazineSlug: "numero-48"
 author: "Mar Pedroche"
 authorSlug: "mar-pedroche"
 keywords: ['Power Apps','Power Platform','Model Driven']
+image: "../images/iconos_vistas_model_driven/image1.png"
+
 ---
 
 **Antes de empezar deberemos saber que es una Power Apps Model driven**

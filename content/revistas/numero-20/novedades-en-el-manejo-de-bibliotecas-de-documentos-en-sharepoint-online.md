@@ -1,10 +1,13 @@
 ---
+
 title: "Novedades en el manejo de Bibliotecas de Documentos en SharePoint Online"
 slug: "novedades-en-el-manejo-de-bibliotecas-de-documentos-en-sharepoint-online"
 magazineSlug: "numero-20"
 author: "Juan Carlos Gonzalez Martin"
 authorSlug: "juan-carlos-gonzalez-martin"
 keywords: ['SharePoint Online','Bibliotecas']
+image: "../images/novedades-en-el-manejo-de-bibliotecas-de-documentos-en-sharepoint-online/imagen1.png"
+
 ---
 
 ​En este artículo se muestran algunas de las últimas novedades incorporadas por Microsoft en la gestión y uso de bibliotecas de documentos y documentos en SharePoint Online como parte de su estrategia de mejora continua e innovación de su plataforma de productividad en la nube. El compromiso de Microsoft consiste en añadir nuevas características y funcionalidades a Office 365 con una periodicidad mensual, así como capacidades de mayor calado cada 3-4 meses. Este compromiso es común para todos los servicios que forman parte de Office 365, por lo que SharePoint Online también se beneficia.

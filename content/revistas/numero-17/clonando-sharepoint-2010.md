@@ -1,10 +1,13 @@
 ---
+
 title: "Clonando SharePoint 2010"
 slug: "clonando-sharepoint-2010"
 magazineSlug: "numero-17"
 author: "Verónica Toranzo"
 authorSlug: "#"
 keywords: ['Infrastructura','Máquina Virtual']
+image: "../images/clonando-sharepoint-2010/figura1.png"
+
 ---
 
 A la hora de instalar SharePoint disponemos de varias opciones,  pero: ¿cuál de ellas es la más apropiada?  La instalación a través de la interfaz gráfica puede parecer sencilla y rápida aunque en ciertos escenarios puede ser poco eficiente. Revisemos que opciones tenemos y cómo podemos rentabilizar nuestro tiempo y esfuerzo.

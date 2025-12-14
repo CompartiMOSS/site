@@ -1,10 +1,13 @@
 ---
+
 title: "El nivel de acceso Archive en Azure"
 slug: "el-nivel-de-acceso-archive-en-azure"
 magazineSlug: "numero-41"
 author: "Javier López González"
 authorSlug: "javier-lopez-gonzalez"
 keywords: ['Azure Storage']
+image: "../images/el-nivel-de-acceso-archive-en-azure/image1.png"
+
 ---
 
 ​En las cuentas de Storage en Azure, disponemos de varios elementos de configuración que influyen directamente en la disponibilidad de la información que vamos a almacenar, el precio de tenerlo guardado, el de acceder a los datos y la latencia que tendremos hasta poder leer el primer byte de información. Entre esos elementos está el propio tipo de cuenta y el nivel de rendimiento, así como el tipo de replicación. Para simplificar todo y no desviarnos del objetivo de este artículo, nos centraremos en las cuentas de tipo propósito general V2 (StorageV2) con nivel de rendimiento estándar y replicación LRS (Locally-redundant storage). De este modo nos podremos centrar en el elemento que nos interesa explicar hoy: el nivel de acceso.

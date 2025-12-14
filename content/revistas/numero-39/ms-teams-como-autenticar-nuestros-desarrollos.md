@@ -1,10 +1,13 @@
 ---
+
 title: "MS-Teams -  Cómo autenticar nuestros desarrollos"
 slug: "ms-teams-como-autenticar-nuestros-desarrollos"
 magazineSlug: "numero-39"
 author: "Adrian Diaz Cervera"
 authorSlug: "adrian-diaz-cervera"
 keywords: ['Teams','Autenticación']
+image: "../images/teams-como-autenticar-nuestros-desarrollos/image1.png"
+
 ---
 
 ​Desde el punto de vista del desarrollo, Teams no se había tenido muy en cuenta debido a que la plataforma de por sí ya contiene una gran cantidad de utilidades que se utilizan en el día a día. Dicho uso ha propiciado que las empresas se encuentren con la tesitura de incluir sus desarrollos dentro de Teams. Seguro que este planteamiento a los más viejos del lugar nos recuerda a lo que pasaba con SharePoint en su versión MOSS 2007. ¿Cuáles son las principales diferencias desde hace una década? Principalmente que los tiempos han cambiado, Microsoft Teams no está atado a un framework, permite mucha más libertad a la hora de elegir la tecnología a utilizar. Está pensado para el cloud. Si miramos lo que podíamos hacer antaño era un “simple” User Control y muchas dificultades para incluirlo con otras aplicaciones de la empresa.  Por esta parte vamos viendo como Microsoft aprende en parte de los errores que se cometieron en el pasado.

@@ -1,10 +1,13 @@
 ---
+
 title: "Uso de Frameworks JavaScript en desarrollos SharePoint - Parte I"
 slug: "uso-de-frameworks-javascript-en-desarrollos-sharepoint-parte-i"
 magazineSlug: "numero-16"
 author: "Adrian Diaz Cervera"
 authorSlug: "adrian-diaz-cervera"
 keywords: ['CSOM','JavaScript']
+image: "../images/uso-frameworks-javascript-desarrollossharepoint-partei/image_1.jpg"
+
 ---
 
 ​La llegada de la nueva versión de SharePoint obliga en cierto modo a que los desarrolladores de anteriores versiones tengan que adaptarse a los cambios del desarrollo en la Web y a familiarizarse con un lenguaje de programación que no levanta las simpatías de la comunidad .NET. Este lenguaje como se deduce es JavaScript. En este artículo se va a introducir el framework JavaScript Kendo UI de Telerik y en un artículo posterior ExtJS de Sencha para facilitar nuestro trabajo en los desarrollos a realizar y sobre todo otorgarles una mayor calidad.

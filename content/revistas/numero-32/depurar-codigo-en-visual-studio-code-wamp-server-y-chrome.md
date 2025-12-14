@@ -1,10 +1,13 @@
 ---
+
 title: "Depurar código en Visual Studio Code, Wamp Server y Chrome"
 slug: "depurar-codigo-en-visual-studio-code-wamp-server-y-chrome"
 magazineSlug: "numero-32"
 author: "María Abrego"
 authorSlug: "maría-abrego"
 keywords: ['Visual Studio Code']
+image: "../images/depurar-codigo-en-visual-studio-code-wamp-server-y-chrome/image1.png"
+
 ---
 
 Para poder depurar nuestro código y visualizarlo en un navegador debemos tener instalada la extensión Debugger for Chrome mostrada en la Imagen 1.

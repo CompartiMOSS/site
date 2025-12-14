@@ -1,10 +1,13 @@
 ---
+
 title: "Orígenes de datos en Power BI. Combinar datos y darles forma en Power BI Desktop"
 slug: "origenes-de-datos-en-power-bi"
 magazineSlug: "numero-32"
 author: "Margarita Curbelo"
 authorSlug: "margarita-curbelo"
 keywords: ['Power BI']
+image: "../images/origenes-de-datos-en-power-bi/image1.png"
+
 ---
 
 Power BI Desktop permite conectarse a muchos tipos diferentes de orígenes de datos y después darles forma a los datos para logar los informes deseados.

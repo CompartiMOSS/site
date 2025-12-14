@@ -1,10 +1,13 @@
 ---
+
 title: "Crear apps de Windows Phone con contenido de SharePoint -Parte I"
 slug: "crear-apps-de-windows-phone-con-contenido-de-sharepoint-parte-i"
 magazineSlug: "numero-16"
 author: "Miguel Tabera Pacheco"
 authorSlug: "miguel-tabera-pacheco"
 keywords: ['Windows Phone','CSOM']
+image: "../images/crear-apps-windows-phone-contenido-sharepoint-partei/image_1.jpg"
+
 ---
 
 Cada vez es más importante la movilidad en nuestro día a día. Los dispositivos móviles se están convirtiendo en herramientas casi imprescindibles en nuestro trabajo. El mundo de las aplicaciones móviles permite a los usuarios empresariales poder acceder a sus sistemas, documentos e información estén donde estén.

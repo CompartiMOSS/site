@@ -1,10 +1,13 @@
 ---
+
 title: "Un gran paso para los Diseñadores Web, el Design Manager de SharePoint 2013"
 slug: "design-manager-de-sharepoint-2013"
 magazineSlug: "numero-14"
 author: "Alberto Diaz Martin"
 authorSlug: "alberto-diaz-martin"
 keywords: ['SharePoint 2013','Sitios Web','Administrador de Diseño']
+image: "../images/design-manager-sharepoint-2013/image1.png"
+
 ---
 
 En las versiones anteriores de SharePoint, crear una página maestra o un diseño de página no era tarea para diseñadores Web, ya que necesitaban tener los conocimientos técnicos necesarios para integrar su solución HTML en SharePoint. Los diseñadores necesitaban conocer los aspectos técnicos de las páginas maestras y los componentes necesarios que estas necesitaban para que se renderizaran correctamente.

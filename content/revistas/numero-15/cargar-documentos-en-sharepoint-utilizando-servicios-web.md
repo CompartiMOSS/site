@@ -1,10 +1,13 @@
 ---
+
 title: "Cargar documentos en SharePoint utilizando Servicios Web"
 slug: "cargar-documentos-en-sharepoint-utilizando-servicios-web"
 magazineSlug: "numero-15"
 author: "Miguel Ángel García Rodríguez"
 authorSlug: "miguel-angel-garcia-rodriguez"
 keywords: ['Servicios Web']
+image: "../images/cargar-documentos-sharepoint-utilizando-servicios-web/image2.png"
+
 ---
 
 **Objetivo y Alcance**

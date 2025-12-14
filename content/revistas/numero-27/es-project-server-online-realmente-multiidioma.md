@@ -1,10 +1,13 @@
 ---
+
 title: "¿Es Project Server / Online realmente multiidioma?"
 slug: "es-project-server-online-realmente-multiidioma"
 magazineSlug: "numero-27"
 author: "José Rafael García"
 authorSlug: "jose-rafael-garcia"
 keywords: ['Project 2013']
+image: "../images/es-project-server-online-realmente-multiidioma/image1.png"
+
 ---
 
 ​En un proyecto para un cliente que tenía sedes en varios países se planteó la posibilidad de hacer que el sitio de PWA fuese multiidioma y no desplegarlo todo sólo en inglés. Según Microsoft, Project Server (y, por lo tanto, Project Online) soporta el multiidioma: se pueden instalar los Language Packs correspondientes tanto para SharePoint como para Project Server y, de esta forma, la interfaz se adaptará al idioma por defecto del usuario:

@@ -1,10 +1,13 @@
 ---
+
 title: "De Inteligencia Artificial, IoT y Drones - II"
 slug: "de-ia-iot-y-drones-parte-2"
 magazineSlug: "numero-58"
 author: "Javier Menendez Pallo"
 authorSlug: "javier-menendez-pallo"
 keywords: ['AI', 'IoT']
+image: "../images/de-ia-iot-y-drones-parte-2/image1.png"
+
 ---
 
 Os presento la segunda y última parte de este artículo donde veíamos una
@@ -67,7 +70,7 @@ del artículo te compartiré todo el código para que simplemente tengas
 que ejecutarlo, no siendo necesario que escribas cada línea.
 
 ![A screenshot of a computer code Description automatically
-generated](../../../images/numero58/de-ia-iot-y-drones-parte-2/image1.png)
+generated](../images/de-ia-iot-y-drones-parte-2/image1.png)
 
 Como puedes ver hemos agregado cosas a nuestra función que detecta las
 caras.
@@ -97,7 +100,7 @@ Antes que nada, agreguemos unas variables que utilizaremos de forma
 global, en mi caso las he agregado al principio:
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero58/de-ia-iot-y-drones-parte-2/image2.png)
+generated](../images/de-ia-iot-y-drones-parte-2/image2.png)
 
 Acto seguido debemos agregar nuestra función de seguimiento, y aquí la
 tienes:
@@ -106,7 +109,7 @@ Tampoco esta función es muy compleja como puedes ver, pero vamos a
 analizarla de todas formas.
 
 ![A screenshot of a computer program Description automatically
-generated](../../../images/numero58/de-ia-iot-y-drones-parte-2/image3.png)
+generated](../images/de-ia-iot-y-drones-parte-2/image3.png)
 Recibe como parámetros los arrays de
 posición, el ancho de imagen con el que está trabajando, un corrector de
 error que hemos definido como variable (el valor de estas variables
@@ -147,7 +150,7 @@ actualizar nuestro programa principal para llamar a las nuevas funciones
 y probar todo. Aquí la modificación:
 
 ![A screenshot of a computer program Description automatically
-generated](../../../images/numero58/de-ia-iot-y-drones-parte-2/image4.png)
+generated](../images/de-ia-iot-y-drones-parte-2/image4.png)
 
 Tal como te prometí, no era necesario que fueses copiando y pegando cada
 trozo de código, porque aquí lo tienes completo y tal como lo hemos

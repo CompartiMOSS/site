@@ -1,10 +1,13 @@
 ---
+
 title: "OneNote API en profundidad"
 slug: "onenote-api-en-profundidad"
 magazineSlug: "numero-32"
 author: "Adrian Diaz Cervera"
 authorSlug: "adrian-diaz-cervera"
 keywords: ['OneNote','API']
+image: "../images/onenote-api-en-profundidad/image2.png"
+
 ---
 
 OneNote es una herramienta muy útil para el uso diario a nivel profesional esto ha provocado su creciente impulso. Como desarrolladores tenemos una multitud de escenarios en la que podemos sacarle todo el partido a esta herramienta de productividad, pero para ello debemos de tener claro cómo empezar a utilizarla. La siguiente imagen aclara dicho escenario:

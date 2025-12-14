@@ -1,10 +1,13 @@
 ---
+
 title: "Integración de SharePoint y Wordpress mediante web hooks, Azure y el API de Wordpress.com (I)"
 slug: "integracion-sharepoint-wordpress-web-hooks-I"
 magazineSlug: "numero-30"
 author: "José Ángel Bolaño"
 authorSlug: "jose-angel-bolano"
 keywords: ['SharePoint','Azure','Web Hooks']
+image: "../images/integracion-sharepoint-wordpress-web-hooks-I/image1.png"
+
 ---
 
 SharePoint Online es una plataforma madura y en continua evolución que ofrece un amplio abanico de soluciones para la colaboración de personas.     Por diversos motivos Microsoft abandonó la posibilidad de disponer de un Sitio Web público ( [https://support.microsoft.com/en-us/kb/3027254](https://support.microsoft.com/en-us/kb/3027254) ), lo que obliga a emplear otras herramientas para poder dar solución a la publicación de contenidos en internet (usuarios anónimos).

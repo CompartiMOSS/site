@@ -161,7 +161,7 @@ calculadora de Azure:
 
 ![Example screenshot showing the Azure pricing calculator monthly
 compute charge value
-example.](../../../images/numero55/descifrando-los-azure-saving-plan/image6.png)
+example.](../images/descifrando-los-azure-saving-plan/image6.png)
 
 **¿Una vez he realizado un commitment con ASP, tengo posibilidad de cancelarlo y/o cambiarlo?**
 

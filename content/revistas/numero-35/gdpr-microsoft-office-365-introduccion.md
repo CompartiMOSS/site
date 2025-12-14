@@ -1,10 +1,13 @@
 ---
+
 title: "GDPR Microsoft Office 365 -  Introducción"
 slug: "gdpr-microsoft-office-365-introduccion"
 magazineSlug: "numero-35"
 author: "Martin Luis Lopez Requena"
 authorSlug: "martin-luis-lopez-requena"
 keywords: ['Office 365']
+image: "../images/gdpr-microsoft-office-365-introduccion/image1.jpeg"
+
 ---
 
 El nuevo **Reglamento Europeo de Protección de Datos** (**RGPD** o más conocido por sus siglas en inglés **GDPR**) entró en vigor en mayo de 2016 y es aplicable a partir de mayo de 2018, es decir se ha incluido un período de transición de dos años.

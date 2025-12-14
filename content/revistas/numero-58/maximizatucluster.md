@@ -1,10 +1,13 @@
 ---
+
 title: "Como aprovechar al máximo tus clústers en Kubernetes"
 slug: "maximizatucluster"
 magazineSlug: "numero-58"
 author: "Adrian Diaz Cervera"
 authorSlug: "adrian-diaz-cervera"
 keywords: [Kubernetes, AKS]
+image: "../images/maximizatucluster/image1.jpeg"
+
 ---
 
 Está claro que uno de los productos/servicios de moda que se está
@@ -43,7 +46,7 @@ mayor agrupación son:
     misma característica.
 
 ![Setting up a Kubernetes cluster using Docker in Docker |
-Callista](../../../images/numero58/maximizatucluster/image1.jpeg)
+Callista](../images/maximizatucluster/image1.jpeg)
 
 **Creando Nodos y Grupos de Nodos**
 

@@ -1,10 +1,13 @@
 ---
+
 title: "SharePoint Designer 2013 y Flujos de Trabajo"
 slug: "sharepoint-designer-2013-y-flujos-de-trabajo"
 magazineSlug: "numero-16"
 author: "Cristina Quesada Calderón"
 authorSlug: "cristina-quesada-calderon"
 keywords: ['SharePoint Designer','Workflow']
+image: "../images/sharepoint-designer-2013-flujos-trabajo/image_1.jpg"
+
 ---
 
 ​Por un lado, SharePoint Designer brinda a usuarios especializados la posibilidad de crear soluciones sin código que contengan una variedad de casos comunes, para ser trabajados en sitios colaborativos y/o Páginas Web. A través de esta herramienta se pueden brindar soluciones de inteligencia empresarial y flujos de trabajo en un entorno fácil de usar.

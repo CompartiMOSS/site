@@ -20,12 +20,12 @@ nuestra Power App vamos a la configuración(settings) y allí vamos a
 "Upcoming Features".
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero59/powerapps-user-functions/image1.png)
+generated](../images/powerapps-user-functions/image1.png)
 
 Una vez allí nos dirigimos a la sección de Upcoming features
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero59/powerapps-user-functions/image2.png)
+generated](../images/powerapps-user-functions/image2.png)
 
 Como mencionaba anteriormente esta feature aún está en experimental así
 que debemos ir a la pestaña o Tab de "Experimental" y allí buscar esta
@@ -37,7 +37,7 @@ o ninguna. Normalmente la feature que no tenemos activada es la llamada
 activamos y luego volvemos a activar la feature de funciones de usuario
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero59/powerapps-user-functions/image3.png)
+generated](../images/powerapps-user-functions/image3.png)
 
 Una vez activadas las features debemos regresar al estudio, "GUARDAR" la
 aplicación y recargar la página. Este paso es super importante pues sino
@@ -48,7 +48,7 @@ combo de acciones la opción "Formulas" y luego en la función "fx"
 definimos la función.
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero59/powerapps-user-functions/image4.png)
+generated](../images/powerapps-user-functions/image4.png)
 
 La sintaxis de las funciones de usuario es:
 
@@ -91,7 +91,7 @@ formula Multiplicar(2,5) y eso nos multiplicará 2 \* 5 y nos pondrá el
 resultado en el campo de texto o label.
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero59/powerapps-user-functions/image7.png)
+generated](../images/powerapps-user-functions/image7.png)
 
 Esto es simplemente un ejemplo ilustrativo, pero imaginemos que podemos
 generar funciones para calcular ganancias y cálculos complejos que luego

@@ -1,10 +1,13 @@
 ---
+
 title: "CRM, Dynamics 365, CDS y Power Apps"
 slug: "crm-dynamics-365-cds-y-power-apps"
 magazineSlug: "numero-43"
 author: "Demian Adolfo Raschkovan"
 authorSlug: "demian-adolfo-raschkovan"
 keywords: ['Dynamics 365','CDS','PowerApps']
+image: "../images/crm-dynamics-365-cds-y-power-apps/image1.png"
+
 ---
 
 Las soluciones de negocio están de moda. Una vez consolidada la ola del salto al Cloud, ya casi nadie la discute. Es el momento de apuntar hacia el nuevo hito. Ahora mismo buena parte de la industria ve la oportunidad de negocio en las soluciones de negocio. Creo que es la evolución natural, ya que los equipos de I+D de los diferentes fabricantes tienen más y mejor control de las nuevas soluciones, lo que permite implementar soluciones de forma muchísima más acelerada.

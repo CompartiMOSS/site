@@ -1,10 +1,13 @@
 ---
+
 title: "Entrevista a Pablo Ariel Di Loreto"
 slug: "entrevista_pablo_di_loreto"
 magazineSlug: "numero-56"
 author: "Pablo Ariel Di Loreto"
 authorSlug: "pablo-di-loreto"
 keywords: ['Entrevista']
+image: "../images/entrevista_pdiloreto/image1.jpeg#author"
+
 ---
 
 ![Pablo Ariel Di Loreto](../images/entrevista_pdiloreto/image1.jpeg#author) 

@@ -1,10 +1,13 @@
 ---
+
 title: "Como utilizar las API’s de Office 365 en aplicaciones móviles multiplataformas desarrolladas con Xamarin"
 slug: "Como-utilizar-API-Office-365-aplicaciones-multiplataformas-Xamarin"
 magazineSlug: "numero-22"
 author: "Adrian Diaz Cervera"
 authorSlug: "adrian-diaz-cervera"
 keywords: ['Office 365','Aplicaciones']
+image: "../images/Como-utilizar-API-Office-365-aplicaciones-multiplataformas-Xamarin/imagen1.png"
+
 ---
 
 ​Si echamos la vista al evento Connect() de Microsoft (evento en el que se presentó la nueva versión de Visual Studio) hay dos grandes novedades en cuanto a desarrollo. La primera las mejoras incluidas en Visual Studio para realizar aplicaciones multiplataforma ya sea a través de Apache Cordova (HTML5, JavaScript y CSS3) o bien a través de Xamarin (realizando aplicaciones nativas haciendo uso de C#/F#). La segunda de las novedades es tener preparados nuestros desarrollos para que sean fácilmente escalables.

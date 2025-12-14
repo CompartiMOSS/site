@@ -1,10 +1,13 @@
 ---
+
 title: "Cómo migrar tu File Server a SharePoint utilizando la SPMT"
 slug: "como-migrar-tu-file-server-a-sharepoint-utilizando-la-spmt"
 magazineSlug: "numero-51"
 author: "Enrique Sánchez Moreno"
 authorSlug: "enrique-sanchez"
 keywords: ['SharePoint', 'File Server', 'Migration', 'SPMT']
+image: "../images/como-migrar-tu-file-server-a-sharepoint-utilizando-la-spmt/image1.png"
+
 ---
 
 He decidido realizar este artículo después de hacer (y sufrir) una

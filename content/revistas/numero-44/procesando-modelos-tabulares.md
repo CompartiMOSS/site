@@ -1,10 +1,13 @@
 ---
+
 title: "Procesando Modelos Tabulares"
 slug: "procesando-modelos-tabulares"
 magazineSlug: "numero-44"
 author: "Gaston Cruz"
 authorSlug: "gaston-cruz"
 keywords: ['Power BI']
+image: "../images/procesando-modelos-tabulares/image1.jpg"
+
 ---
 
 En el presente artículo nos centraremos en formas de procesamiento sobre modelos tabulares. Desde un tiempo atrás y en diversos proyectos me he encontrado con casos en los que nuestra capa semántica esta diferenciada de nuestra capa de reportabilidad.

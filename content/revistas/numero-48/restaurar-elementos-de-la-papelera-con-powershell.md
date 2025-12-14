@@ -1,10 +1,13 @@
 ---
+
 title: "Restaurar miles de elementos de la papelera de reciclaje de SharePoint Online con PowerShell"
 slug: "restaurar-elementos-de-la-papelera-con-powershell"
 magazineSlug: "numero-48"
 author: "Enrique Sánchez Moreno"
 authorSlug: "enrique-sanchez"
 keywords: ['PowerShell','SharePoint Online']
+image: "../images/restaurar-elementos-de-la-papelera-con-powershell/image1.png"
+
 ---
 
 En este artículo os quiero mostrar cómo podemos recuperar determinados

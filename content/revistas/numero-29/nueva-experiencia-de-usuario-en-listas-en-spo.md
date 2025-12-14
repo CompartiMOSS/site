@@ -1,10 +1,13 @@
 ---
+
 title: "Nueva Experiencia de Usuario en Listas en SPO"
 slug: "nueva-experiencia-de-usuario-en-listas-en-spo"
 magazineSlug: "numero-29"
 author: "Juan Carlos Gonzalez Martin"
 authorSlug: "juan-carlos-gonzalez-martin"
 keywords: ['SharePoint Online']
+image: "../images/nueva-experiencia-de-usuario-en-listas-en-spo/image1.png"
+
 ---
 
 Al igual que ha sucedido con las Bibliotecas de Documentos en SPO, Microsoft ha comenzado a liberar (para tenants de Office 365 en las que esté habilitado First Release) desde comienzos de agosto de 2016 la nueva experiencia de usuario para Listas de SPO completamente alineada con la experiencia ya disponible en Bibliotecas de Documentos. Se trata de una nueva interfaz fluida y rápida que además es responsive e incorpora integración en un solo clic con Microsoft Flow y Microsoft PowerApps. Adicionalmente, las denominadas “Listas modernas” de SPO son más “móviles” gracias a la aplicación móvil para SharePoint OnPremises y Online disponible actualmente para iOS.

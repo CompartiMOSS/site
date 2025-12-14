@@ -1,10 +1,13 @@
 ---
+
 title: "Herramientas para estar al día con los cambios de Office 365"
 slug: "herramientas-estar-al-dia-office-365"
 magazineSlug: "numero-33"
 author: "Juan Carlos Gonzalez Martin"
 authorSlug: "juan-carlos-gonzalez-martin"
 keywords: ['Office 365']
+image: "../images/herramientas-estar-al-dia-office-365/image1.png"
+
 ---
 
 Office 365 es una plataforma que se caracteriza por su constante evolución de manera que de forma continua tenemos nuevas características y capacidades lo que dificulta poder estar al día con los cambios que Microsoft va liberando prácticamente cada día. Si bien es cierto que tenemos una serie de herramientas proporcionadas por Microsoft para poder seguir las novedades de Office 365, la realidad es que no disponemos de una ubicación única o utilidad que nos permita estar mejor preparados para las novedades que se avecinan en la plataforma. En la práctica, poder estar al día de los cambios en Office 365 nos llevará a usar una combinación de herramientas y recursos que nos permitan estar lo más actualizados posible y poder seguir los cambios en la plataforma. En este artículo veremos un resumen de las herramientas y recursos que os recomiendo para estar al día con los cambios en Office 365.

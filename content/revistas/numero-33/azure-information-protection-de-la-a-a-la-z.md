@@ -1,10 +1,13 @@
 ---
+
 title: "Azure Information Protection de la A a la Z"
 slug: "azure-information-protection-de-la-a-a-la-z"
 magazineSlug: "numero-33"
 author: "Pablo Ortiz"
 authorSlug: "pablo-ortiz"
 keywords: ['Azure','Azure Information Protection']
+image: "../images/azure-information-protection-de-la-a-a-la-z/image21.png"
+
 ---
 
 Cuando Microsoft se planteó mejorar su servicio de Rights Management en la nube (Azure RMS o ARMS) con características de etiquetado, clasificación y monitorización, se dió cuenta que había una empresa israelí que ya lo había hecho: Secure Islands. Y además muy bien. Así que Microsoft decidió adquirir Secure Islands y de ahí nació AIP. Sin embargo, aunque AIP lleva tiempo en el mercado, sus características siguen evolucionando casi a diario.

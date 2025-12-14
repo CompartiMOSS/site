@@ -1,10 +1,13 @@
 ---
+
 title: "Entrevista a Adrián de los Reyes"
 slug: "entrevista-a-adrian-de-los-reyes"
 magazineSlug: "numero-59"
 author: "Adrián de los Reyes"
 authorSlug: "adrian-de-los-reyes"
 keywords: ['Entrevista']
+image: "../images/entrevista-a-adrian-de-los-reyes/image1.jpeg#author"
+
 ---
 
 ![Adrián de los Reyes](../images/entrevista-a-adrian-de-los-reyes/image1.jpeg#author) 

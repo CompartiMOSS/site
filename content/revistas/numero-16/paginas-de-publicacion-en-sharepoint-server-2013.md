@@ -1,10 +1,13 @@
 ---
+
 title: "Páginas de Publicación en SharePoint Server 2013"
 slug: "paginas-de-publicacion-en-sharepoint-server-2013"
 magazineSlug: "numero-16"
 author: "Miguel Ángel García Rodríguez"
 authorSlug: "miguel-angel-garcia-rodriguez"
 keywords: ['Sitios Web','Publicación']
+image: "../images/paginas-publicacion-sharepoint-server-2013/Captura01.png"
+
 ---
 
 ​Este artículo pretende analizar funcionalmente la relación existente entre el historial de versiones de las Páginas de Publicación, el estado de la aprobación de contenido y los diferentes métodos y características que propone SharePoint para la publicación de páginas.

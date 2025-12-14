@@ -1,10 +1,13 @@
 ---
+
 title: "4 formas de añadir un administrador secundario a ODFB"
 slug: "administrador-secundario-a-odfb"
 magazineSlug: "numero-34"
 author: "Juan Carlos Gonzalez Martin"
 authorSlug: "juan-carlos-gonzalez-martin"
 keywords: ['OneDrive for Business']
+image: "../images/administrador-secundario-a-odfb/image1.png"
+
 ---
 
 Añadir un administrador secundario a OneDrive for Business (ODFB) es una tarea que, como administradores de Office 365, es posible que tengamos que realizar en más de una ocasión como por ejemplo cuando un empleado abandona la compañía y se nos solicita que tomemos el control de los documentos almacenados en su ODFC. Para realizar esta tarea tenemos al menos 4 posibilidades como demostraré en este artículo:

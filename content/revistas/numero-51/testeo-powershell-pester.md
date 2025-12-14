@@ -1,10 +1,13 @@
 ---
+
 title: "Testeo unitario para PowerShell con Pester"
 slug: "testeo-powershell-pester"
 magazineSlug: "numero-51"
 author: "Gustavo Velez"
 authorSlug: "gustavo-velez"
 keywords: ['PowerShell', 'Pester', 'Testing']
+image: "../images/testeo-powershell-pester/image1.png"
+
 ---
 
 PowerShell es utilizado universalmente en el mundo de software de

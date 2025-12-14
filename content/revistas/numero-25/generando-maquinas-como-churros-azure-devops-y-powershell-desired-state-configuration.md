@@ -1,10 +1,13 @@
 ---
+
 title: "Generando máquinas como churros -  Azure DevOps y Powershell Desired State Configuration (DSC)"
 slug: "generando-maquinas-como-churros-azure-devops-y-powershell-desired-state-configuration"
 magazineSlug: "numero-25"
 author: "Fabian Calvo"
 authorSlug: "fabian-calvo"
 keywords: ['Azure','PowerShell','Machine Learning']
+image: "../images/generando-maquinas-como-churros-azure-devops-y-powershell-desired-state-configuration/image1.png"
+
 ---
 
 Al hilo de los dos últimos artículos de mi blog, sobre Azure Automation Service, descubrí una funcionalidad que se me había pasado por alto hasta ahora, llamada *Desired State Configuration* o DSC. Esta funcionalidad, que forma parte del estándar de Powershell 4.0, y está disponible desde Windows Server 2012 R2, permite a los servidores realizar un auto-aprovisionamiento durante el despliegue y/o un auto-arreglo cuando su configuración se desvía del estándar marcado. Esta funcionalidad está disponible como descarga gratuita para Windows Server 2008 R2 y 2012 dentro del Windows Management Framework 4.0

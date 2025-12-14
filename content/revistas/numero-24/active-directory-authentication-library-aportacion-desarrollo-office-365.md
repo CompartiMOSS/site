@@ -1,10 +1,13 @@
 ---
+
 title: "Active Directory Authentication Library (ADAL) y su aportación al desarrollo en Office 365"
 slug: "active-directory-authentication-library-aportacion-desarrollo-office-365"
 magazineSlug: "numero-24"
 author: "Adrian Diaz Cervera"
 authorSlug: "adrian-diaz-cervera"
 keywords: ['Office 365','Graph']
+image: "../images/active-directory-authentication-library-aportacion-desarrollo-office-365/imagen1.png"
+
 ---
 
 Mucho se está hablando del giro que se está produciendo en Microsoft desde la llegada de Satya Nadella al puesto de CEO de Microsoft. Uno de sus principales objetivos es hacer posible que todos los productos de su marca aumenten la productividad de las empresas desde cualquier dispositivo y en cualquier lugar, lo que bautizó como "MOBILE FIRST, CLOUD FIRST". Esta afirmación radicaba naturalmente en la mejora de su plataforma Cloud (Azure) y en su plataforma de productividad (Office 365).

@@ -1,10 +1,13 @@
 ---
+
 title: "Lo nuevo en SQL Server 2022"
 slug: "lo-nuevo-en-sql-server-2022"
 magazineSlug: "numero-50"
 author: "Javier Villegas"
 authorSlug: "javier-villegas"
 keywords: ['SQL Server 2022','SQL Server']
+image: "../images/lo-nuevo-en-sql-server-2022/image1.png"
+
 ---
 
 Durante el último evento Microsoft Ignite 2021 realizado a principios

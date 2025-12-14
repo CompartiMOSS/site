@@ -1,10 +1,13 @@
 ---
+
 title: "Conociendo a MinRole de SharePoint 2016"
 slug: "conociendo-a-minrole-de-sharepoint-2016"
 magazineSlug: "numero-27"
 author: "Miguel Tabera Pacheco"
 authorSlug: "miguel-tabera-pacheco"
 keywords: ['SharePoint 2016','MinRole']
+image: "../images/conociendo-a-minrole-de-sharepoint-2016/image1.png"
+
 ---
 
 ​Una de las primeras novedades de SharePoint 2016 con la que nos tendremos que enfrentar es el nuevo concepto de la estrategia MinRole, que estará presente desde que comencemos a configurar nuestra primera granja de servidores.

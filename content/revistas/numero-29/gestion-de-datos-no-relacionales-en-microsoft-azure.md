@@ -1,10 +1,13 @@
 ---
+
 title: "Gestión de datos no relacionales en Microsoft Azure"
 slug: "gestion-de-datos-no-relacionales-en-microsoft-azure"
 magazineSlug: "numero-29"
 author: "Victor Moreno"
 authorSlug: "victor-moreno"
 keywords: ['Azure','NoSQL']
+image: "../images/gestion-de-datos-no-relacionales-en-microsoft-azure/image1.png"
+
 ---
 
 Cuando una persona se adentra en el mundo de tecnologías de información se dará cuenta que, en los proyectos de software, por lo general siempre existen estos dos componentes:

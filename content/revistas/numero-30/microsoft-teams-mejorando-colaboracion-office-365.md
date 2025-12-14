@@ -1,10 +1,13 @@
 ---
+
 title: "Microsoft Teams -  mejorando aún más la colaboración en Office 365"
 slug: "microsoft-teams-mejorando-colaboracion-office-365"
 magazineSlug: "numero-30"
 author: "Miguel Tabera Pacheco"
 authorSlug: "miguel-tabera-pacheco"
 keywords: ['Office 365','Teams']
+image: "../images/microsoft-teams-mejorando-colaboracion-office-365/image1.png"
+
 ---
 
 **Nuevas necesidades de colaboración**

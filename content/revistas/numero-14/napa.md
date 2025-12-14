@@ -1,10 +1,13 @@
 ---
+
 title: "Napa. La nueva plataforma de desarrollo en la nube"
 slug: "napa"
 magazineSlug: "numero-14"
 author: "Guillermo Bas"
 authorSlug: "guillermo-bas"
 keywords: ['SharePoint 2013','Napa']
+image: "../images/napa/image1_0.png"
+
 ---
 
 ​Una de las grandes bazas de la nueva versión de SharePoint, y en especial su nuevo modelo de desarrollo de aplicaciones, es que no haya diferencias entre lo que se puede hacer en la Nube y en nuestros propios servidores locales. En este contexto de empeño por parte de Microsoft de equiparar los servicios en la Nube a los servicios locales, nace una plataforma de desarrollo de SharePoint y Office apps cuyo nombre en clave es Napa. Este nombre, para aquellos que no somos naturales de Estados Unidos, nos suena más bien pintoresco (a mí personalmente me recuerda a un personaje del mismo nombre en la serie de dibujos Dragon Ball), pero en realidad no tiene mucho misterio, es el nombre de una región llamada Valle de Napa (Napa Valley) situada en el estado de California, en los Estados Unidos, que es famoso por sus viñedos y la producción de vino (ver Imagen 1).

@@ -1,10 +1,13 @@
 ---
+
 title: "Optimizando tu Cosmos DB, mejorando tus consultas con Change Feed"
 slug: "optimizando-tu-cosmos-db-mejorando-tus-consultas-con-change-feed"
 magazineSlug: "numero-42"
 author: "Sergio Hernandez Mancebo"
 authorSlug: "sergio-hernandez-mancebo"
 keywords: ['CosmosDB']
+image: "../images/optimizando-tu-cosmos-db-mejorando-tus-consultas-con-change-feed/image1.png"
+
 ---
 
 Para los que no lo conozcan, aunque creo serán cada vez menos, Cosmos DB es un servicio de base de datos en Azure, que se distribuye globalmente en las distintas regiones, nos permite a golpe de clic un escalado elástico y es la máxima representación de un modelo de datos no relacional dentro del mundo Azure.

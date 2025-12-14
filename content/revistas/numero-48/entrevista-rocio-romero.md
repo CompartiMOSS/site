@@ -1,10 +1,13 @@
 ---
+
 title: "Entrevista a Rocío Romero"
 slug: "entrevista-rocio-romero"
 magazineSlug: "numero-48"
 author: "Rocío Romero"
 authorSlug: "rocio-romero"
 keywords: ['Entrevista']
+image: "/../images/autores/rocio-romero.png#author"
+
 ---
 
 ![Rocio Romero](/../images/autores/rocio-romero.png#author) Me llamo Rocío Romero López, y tal día como el primero del año en 1985 nací en un pueblecito llamado Puerto de Sagunto, en la provincia de Valencia (España) 

@@ -24,7 +24,7 @@ transcript del mismo o bien que se genere el mismo. Si no hay un
 transcript generado, Copilot aparecerá como deshabilitado:
 
 ![A person wearing headphones Description automatically
-generated](../../../images/numero60/copilot-para-microsoft-stream/image1.png)
+generated](../images/copilot-para-microsoft-stream/image1.png)
 
 Generar un transcript de un video, si no lo tiene, es una tarea
 relativamente sencillo como parte de las opciones disponibles en las
@@ -32,14 +32,14 @@ configuraciones del video. Podemos generar el transcript o bien
 cargarlo:
 
 ![A person wearing headphones Description automatically
-generated](../../../images/numero60/copilot-para-microsoft-stream/image2.png)
+generated](../images/copilot-para-microsoft-stream/image2.png)
 
 Una vez el transcript está disponible, ya podemos comenzar a utilizar
 Copilot para Microsoft Stream (Nota: A tener en cuenta que tendréis que
 refrescar la página para que Copilot esté operativo).
 
 ![A screenshot of a video chat Description automatically
-generated](../../../images/numero60/copilot-para-microsoft-stream/image3.png)
+generated](../images/copilot-para-microsoft-stream/image3.png)
 
 **Usando Copilot para Microsoft Stream**
 
@@ -65,7 +65,7 @@ resultado:
     específico del resumen del video se trata.
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero60/copilot-para-microsoft-stream/image5.png)
+generated](../images/copilot-para-microsoft-stream/image5.png)
 
 Si seguimos interrogando a Copilot para Stream en este caso por las
 ideas principales del video, este es el resultado:
@@ -76,7 +76,7 @@ ideas principales del video, este es el resultado:
     se trata la idea.
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero60/copilot-para-microsoft-stream/image6.png)
+generated](../images/copilot-para-microsoft-stream/image6.png)
 
 **Conclusiones**
 

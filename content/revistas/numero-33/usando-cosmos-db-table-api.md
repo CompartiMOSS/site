@@ -1,10 +1,13 @@
 ---
+
 title: "Usando Cosmos DB Table API"
 slug: "usando-cosmos-db-table-api"
 magazineSlug: "numero-33"
 author: "Robert Bermejo"
 authorSlug: "robert-bermejo"
 keywords: ['Azure','CosmosDB']
+image: "../images/usando-cosmos-db-table-api/image8.png"
+
 ---
 
 En el Build 2017 Microsoft dio a conocer su nuevo servicio Cosmos DB ([https://docs.microsoft.com/en-us/azure/cosmos-db/](https://docs.microsoft.com/en-us/azure/cosmos-db/)).

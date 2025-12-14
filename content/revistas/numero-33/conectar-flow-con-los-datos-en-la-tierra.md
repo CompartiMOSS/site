@@ -1,10 +1,13 @@
 ---
+
 title: "Conectar Flow con los datos en la tierra"
 slug: "conectar-flow-con-los-datos-en-la-tierra"
 magazineSlug: "numero-33"
 author: "Fabian Imaz"
 authorSlug: "fabian-imaz"
 keywords: ['Flow']
+image: "../images/conectar-flow-con-los-datos-en-la-tierra/image1.png"
+
 ---
 
 Las nuevas funcionalidades y características que Microsoft a liberado en Office 365 en los últimos tiempos ha sido constante. A mediados del año pasado se empezó a probar las primeras versiones de Microsoft Flow y PowerApps, dos características que le permiten a un usuario de negocio poder crear soluciones inteligentes para captar datos y asociarles procesos de negocio a cada aplicación.

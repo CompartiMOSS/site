@@ -1,10 +1,13 @@
 ---
+
 title: "ENMARCHA -  Un Framework Open Source para agilizar el desarrollo en SharePoint"
 slug: "enmarcha-framework-open-source-sharepoint"
 magazineSlug: "numero-27"
 author: "Adrian Diaz Cervera"
 authorSlug: "adrian-diaz-cervera"
 keywords: ['SharePoint 2013','Framework']
+image: "../images/enmarcha-framework-open-source-sharepoint/image1.png"
+
 ---
 
 Este mes de Febrero, en [ENCAMINA](http://www.encamina.com/) hemos liberado como proyecto Open Source, bajo [licencia MIT](https://opensource.org/licenses/MIT), [Enmarcha](https://github.com/encamina), un Framework, Componentes o una serie de librerías para ayudar a los desarrolladores de SharePoint/Office 365 a agilizar los desarrollos y sobre todo estandarizar la forma en la que se desarrolla, de tal forma que desarrollar sobre SharePoint sea exactamente igual que en otras plataformas.

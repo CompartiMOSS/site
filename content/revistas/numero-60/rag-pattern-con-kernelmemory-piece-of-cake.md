@@ -114,7 +114,7 @@ como suelen ser los procesos de pre-procesado e indexado de la
 información para funcionar mejor con el patrón RAG:
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero60/rag-pattern-con-kernelmemory-piece-of-cake/image3.png)
+generated](../images/rag-pattern-con-kernelmemory-piece-of-cake/image3.png)
 
 1.  **Extracción de texto**: En este primer paso, se extrae todo el
     texto del documento. Aquí se aplican técnicas de OCR para, por
@@ -142,7 +142,7 @@ queremos que formen parte de nuestro RAG. La siguiente imagen describe
 el proceso de Retrieval y Augmented:
 
 ![A diagram of a diagram Description automatically
-generated](../../../images/numero60/rag-pattern-con-kernelmemory-piece-of-cake/image4.png)
+generated](../images/rag-pattern-con-kernelmemory-piece-of-cake/image4.png)
 
 1.  El usuario realiza una query.
 
@@ -188,13 +188,13 @@ vectorial, y Azure OpenAI como servicio de AI (con modelos para
 Embeddings y Chat completions):
 
 ![A computer screen shot of text Description automatically
-generated](../../../images/numero60/rag-pattern-con-kernelmemory-piece-of-cake/image7.png)
+generated](../images/rag-pattern-con-kernelmemory-piece-of-cake/image7.png)
 
 En este caso, la configuración de los servicios de Search y AI vendrían
 del fichero de settings.json:
 
 ![A screen shot of a computer program Description automatically
-generated](../../../images/numero60/rag-pattern-con-kernelmemory-piece-of-cake/image8.png)
+generated](../images/rag-pattern-con-kernelmemory-piece-of-cake/image8.png)
 
 Una vez configurado nuestro objeto *Memory*, disponemos de varios
 métodos para indexar documentos/contenido.
@@ -206,7 +206,7 @@ El siguiente snippet indexaría el texto pasado:
 Podemos indexar también un documento desde su path:
 
 ![A black background with text Description automatically
-generated](../../../images/numero60/rag-pattern-con-kernelmemory-piece-of-cake/image10.png)
+generated](../images/rag-pattern-con-kernelmemory-piece-of-cake/image10.png)
 
 Ahora un ejemplo de cómo indexar directamente una página web:
 
@@ -225,7 +225,7 @@ proporciona un par de métodos para poder hacer el *Retieval-Augmented*.
 Por un lado, podemos hacer una query de Search a la DB vectorial:
 
 ![A screen shot of a computer code Description automatically
-generated](../../../images/numero60/rag-pattern-con-kernelmemory-piece-of-cake/image12.png)
+generated](../images/rag-pattern-con-kernelmemory-piece-of-cake/image12.png)
 
 También tenemos la opción de preguntar directamente al modelo, de tal
 forma que KernelMemory de forma interna hará una llamada al método de
@@ -233,10 +233,10 @@ Search, e incluirá los resultados como parte del Prompt, retornando
 directamente la respuesta del Modelo.
 
 ![A black screen with colorful text Description automatically
-generated](../../../images/numero60/rag-pattern-con-kernelmemory-piece-of-cake/image13.png)
+generated](../images/rag-pattern-con-kernelmemory-piece-of-cake/image13.png)
 
 ![A black background with white text Description automatically
-generated](../../../images/numero60/rag-pattern-con-kernelmemory-piece-of-cake/image14.png)
+generated](../images/rag-pattern-con-kernelmemory-piece-of-cake/image14.png)
 
 La siguiente imagen es una captura de *Fiddler* a la petición que KM ha
 hecho al modelo. Fijaos como en el contenido del Prompt, además de la
@@ -246,7 +246,7 @@ hacer chunking al indexarlo, por eso el texto es tal cual lo importado.
 Con un documento más grande, veríamos multiples *chunks*).
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero60/rag-pattern-con-kernelmemory-piece-of-cake/image15.png)
+generated](../images/rag-pattern-con-kernelmemory-piece-of-cake/image15.png)
 
 Y hasta aquí el artículo. Espero que os sea de utilidad.
 

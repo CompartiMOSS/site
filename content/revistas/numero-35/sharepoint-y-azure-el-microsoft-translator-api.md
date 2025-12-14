@@ -1,10 +1,13 @@
 ---
+
 title: "SharePoint y Azure -  El Microsoft Translator API"
 slug: "sharepoint-y-azure-el-microsoft-translator-api"
 magazineSlug: "numero-35"
 author: "Gustavo Velez"
 authorSlug: "gustavo-velez"
 keywords: ['Azure','SharePoint Online']
+image: "../images/sharepoint-y-azure-el-microsoft-translator-api/image1.png"
+
 ---
 
 **Que es el Microsoft Translator API**

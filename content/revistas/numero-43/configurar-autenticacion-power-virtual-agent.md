@@ -1,10 +1,13 @@
 ---
+
 title: "Configurar la Autenticación en Power Virtual Agent"
 slug: "configurar-autenticacion-power-virtual-agent"
 magazineSlug: "numero-43"
 author: "Imanol Iza"
 authorSlug: "imanol-iza"
 keywords: ['Power Virtual Agents','Bot Framework']
+image: "../images/configurar-autenticacion-power-virtual-agent/image1.png"
+
 ---
 
 Como sabréis Microsoft Power Virtual Agent es el nuevo miembro de la familia de la Power Platform. Microsoft ha creado una herramienta fantástica para crear interfaces conversacionales de una forma rápida y fácil. Esta plataforma está construida sobre Azure Bot Service y permite una extensibilidad muy grande utilizando toda la potencia de Power Platform.

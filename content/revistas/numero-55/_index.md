@@ -16,11 +16,13 @@ editorial: "Iniciamos un nuevo año en CompartiMOSS con nuestro compromiso de
     generar en cuanto a sus posibilidades y aplicación en el corto y medio
     plazo se han disipado de un plumazo.
 
+
 Esperamos que de nuevo disfruten de los contenidos que nuestros autores
     han preparado para este nuevo número de la revista y también que se
     animen a incorporarse a nuestro elenco de colaboradores para seguir
     siendo la revista de referencia de habla hispana en tecnologías
     Microsoft.
+
 
 <b>El Equipo Editorial de CompartiMOSS</b>"
 ---

@@ -1,10 +1,13 @@
 ---
+
 title: "Search as a Service"
 slug: "search-as-a-service"
 magazineSlug: "numero-32"
 author: "Robert Bermejo"
 authorSlug: "robert-bermejo"
 keywords: ['Azure','Azure Search']
+image: "../images/search-as-a-service/image6.png"
+
 ---
 
 ¿A quién no le gustaría o no le han pedido tener una búsqueda en su aplicación estilo Google?

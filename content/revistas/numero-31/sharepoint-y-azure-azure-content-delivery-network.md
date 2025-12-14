@@ -1,10 +1,13 @@
 ---
+
 title: "SharePoint y Azure -  Azure Content Delivery Network (CDN)"
 slug: "sharepoint-y-azure-azure-content-delivery-network"
 magazineSlug: "numero-31"
 author: "Gustavo Velez"
 authorSlug: "gustavo-velez"
 keywords: ['Azure','SharePoint','Azure CDN']
+image: "../images/azure-content-delivery-network/image1.png"
+
 ---
 
 **Que es y cómo funciona el Azure CDN**

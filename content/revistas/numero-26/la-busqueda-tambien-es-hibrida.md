@@ -1,10 +1,13 @@
 ---
+
 title: "La búsqueda también es híbrida"
 slug: "la-busqueda-tambien-es-hibrida"
 magazineSlug: "numero-26"
 author: "Fabian Calvo"
 authorSlug: "fabian-calvo"
 keywords: ['SharePoint','Búsqueda','Híbrido']
+image: "../images/la-busqueda-tambien-es-hibrida/image1.png"
+
 ---
 
 Un paso que siempre ha parecido natural en el roadmap de SharePoint y su alineación con el stack Cloud de Microsoft, en especial con SharePoint Online, con el lanzamiento de SharePoint 2016 y con la capacidad de consumir y servir recursos a/desde Azure, ha sido por qué tener todos los componentes de una granja en un entorno OnPremise. A estas alturas muchas organizaciones han detectado las ventajas de llevar servicios hacia la nube, tanto a nivel de coste como a nivel de disponibilidad del servicio. Por ello, la posibilidad de subir a la nube uno de los servicios más importantes de cara al trabajo de los usuarios como es la búsqueda adquiere una gran relevancia, y con la nueva implementación de *Hybrid Search* hay que reconocer que Microsoft se ha salido, simplificando el establecimiento del servicio y con unos resultados realmente espectaculares. Adicionalmente, esta capacidad nos trae de regalo la capacidad de usar Delve con la información sin importar que esta se encuentre en el entorno OnPremise… ¡Todo son ganancias!

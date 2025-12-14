@@ -1,10 +1,13 @@
 ---
+
 title: "Trabajando programáticamente con tipos de contenido en C#"
 slug: "trabajando-programaticamente-con-tipos-de-contenido"
 magazineSlug: "numero-25"
 author: "Juan Pablo Pussacq"
 authorSlug: "juan-pablo-pussacq"
 keywords: ['SharePoint','Tipos de Contenido']
+image: "../images/trabajando-programaticamente-con-tipos-de-contenido/image1.png"
+
 ---
 
 ​Los tipos de contenido de SharePoint nos permiten crear listas basadas en estructuras de datos. Facilitan la replicación de cambios dentro de la colección de sitios. Por ejemplo, podemos crear listas en distintos sitios, que hereden su estructura de un tipo de contenido del sitio raíz. De esta forma, un cambio en una columna del tipo de contenido, se replica en todas las listas que lo consumen.

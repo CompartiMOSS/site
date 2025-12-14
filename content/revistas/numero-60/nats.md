@@ -122,7 +122,7 @@ lado tanto como vamos a publicar el mensaje como como lo vamos a
 consumir.
 
 ![A diagram of a diagram Description automatically
-generated](../../../images/numero60/nats/image5.png)
+generated](../images/nats/image5.png)
 
 **Manos a la obra**
 
@@ -141,10 +141,10 @@ docker run -p 4222:4222 -p 8222:8222 -p 6222:6222 \--name nats-server
 A continuación, si todo ha ido bien se visualizará la siguiente pantalla
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero60/nats/image6.png)
+generated](../images/nats/image6.png)
 
 ![A screenshot of a computer program Description automatically
-generated](../../../images/numero60/nats/image7.png)
+generated](../images/nats/image7.png)
 
 Para testar que está funcionando correctamente bastará con abrir un
 telnet al puerto que hemos expuesto en nuestro Docker

@@ -1,10 +1,13 @@
 ---
+
 title: "Diseño Gráfico en SharePoint Foundation 2010"
 slug: "diseno-grafico-en-sharepoint-foundation-2010"
 magazineSlug: "numero-16"
 author: "Juan Pablo Pussacq"
 authorSlug: "juan-pablo-pussacq"
 keywords: ['Intranet','Diseño']
+image: "../images/diseno-grafico-sharepoint-foundation-2010/image_1.jpg"
+
 ---
 
 ​En este artículo se detalla un enfoque de desarrollo orientado a aplicar diseño creado por un diseñador gráfico en SharePoint Foundation 2010. Al final del camino, se busca un sitio como el siguiente:

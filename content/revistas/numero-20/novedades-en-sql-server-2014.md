@@ -1,10 +1,13 @@
 ---
+
 title: "Novedades en SQL Server 2014"
 slug: "novedades-en-sql-server-2014"
 magazineSlug: "numero-20"
 author: "Javier Menéndez Pallo"
 authorSlug: "javier-menendez-pallo"
 keywords: ['SQL Server']
+image: "../images/novedades-en-sql-server-2014/imagen1.png"
+
 ---
 
 ​En este artículo veremos las principales novedades que vienen en la última versión de SQL Server liberada por Microsoft: SQL Server 2014.

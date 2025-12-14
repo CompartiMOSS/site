@@ -68,7 +68,7 @@ implementar la interfaz *IAccessTokenProvider*, y utilizar la clase base
 *BaseBearerTokenAuthenticationProvider*.
 
 ![Text Description automatically
-generated](../../../images/numero56/microsoft-graph-.net-sdk-v5-novedades-y-breaking-changes/image4.png)
+generated](../images/microsoft-graph-.net-sdk-v5-novedades-y-breaking-changes/image4.png)
 
 ![](../images/microsoft-graph-net-sdk-v5-novedades-y-breaking-changes/image5.png)
 
@@ -81,12 +81,12 @@ peticiones a Graph, requiere cambios en código. Es decir, lo siguiente
 ya no es válido:
 
 ![Text Description automatically generated with medium
-confidence](../../../images/numero56/microsoft-graph-.net-sdk-v5-novedades-y-breaking-changes/image6.png)
+confidence](../images/microsoft-graph-.net-sdk-v5-novedades-y-breaking-changes/image6.png)
 
 Ahora podemos hacer lo mismo sin el Request()
 
 ![Graphical user interface, text Description automatically
-generated](../../../images/numero56/microsoft-graph-.net-sdk-v5-novedades-y-breaking-changes/image7.png)
+generated](../images/microsoft-graph-.net-sdk-v5-novedades-y-breaking-changes/image7.png)
 
 **Desaparecen los métodos para queries OData, y aparecen las clases
 xxxxRequestConfiguration**
@@ -98,7 +98,7 @@ eliminado, y ahora mismo todo ese tipo de queries OData, se pueden hacer
 con las clases RequestConfiguration, en el método Get/Post. Por ejemplo:
 
 ![Text Description automatically
-generated](../../../images/numero56/microsoft-graph-.net-sdk-v5-novedades-y-breaking-changes/image8.png)
+generated](../images/microsoft-graph-.net-sdk-v5-novedades-y-breaking-changes/image8.png)
 
 De forma similar, si queremos agregar Headers a la request, podemos
 hacer:
@@ -113,7 +113,7 @@ manera:
 
 ![Graphical user interface, text, application, email Description
 automatically
-generated](../../../images/numero56/microsoft-graph-.net-sdk-v5-novedades-y-breaking-changes/image10.png)
+generated](../images/microsoft-graph-.net-sdk-v5-novedades-y-breaking-changes/image10.png)
 
 **Soporte para OData cast en la misma Request**
 
@@ -123,7 +123,7 @@ manera de hacer casting del objeto en la misma request. Por ejemplo, si
 pedíamos los Members de un Grupo, con algo como:
 
 ![A picture containing chart Description automatically
-generated](../../../images/numero56/microsoft-graph-.net-sdk-v5-novedades-y-breaking-changes/image11.png)
+generated](../images/microsoft-graph-.net-sdk-v5-novedades-y-breaking-changes/image11.png)
 
 Había luego que castear cada Item recibido a un objeto User or
 Application, según quisiéramos, de hecho, si sólo nos interesaban los de
@@ -136,13 +136,13 @@ En la versión 5, ahora podemos hacer el filtro y el cast en la misma
 petición, por ejemplo, si solo queremos los de tipo User, podemos hacer:
 
 ![Graphical user interface, application Description automatically
-generated](../../../images/numero56/microsoft-graph-.net-sdk-v5-novedades-y-breaking-changes/image12.png)
+generated](../images/microsoft-graph-.net-sdk-v5-novedades-y-breaking-changes/image12.png)
 
 Y si sólo nos interesan los Miembros que son de tipo Aplication, podemos
 hacer:
 
 ![Graphical user interface, application Description automatically
-generated](../../../images/numero56/microsoft-graph-.net-sdk-v5-novedades-y-breaking-changes/image13.png)
+generated](../images/microsoft-graph-.net-sdk-v5-novedades-y-breaking-changes/image13.png)
 
 **Haciendo Mock del GraphServiceClient**
 
@@ -156,7 +156,7 @@ mock de una llamada a Graph como:
 Bastaría con hacer:
 
 ![Graphical user interface, text, application Description automatically
-generated](../../../images/numero56/microsoft-graph-.net-sdk-v5-novedades-y-breaking-changes/image15.png)
+generated](../images/microsoft-graph-.net-sdk-v5-novedades-y-breaking-changes/image15.png)
 
 Y hasta aquí las novedades que considero más interesantes de esta nueva
 versión del SDK de Graph. Como veis, bastantes cambios a mejor, y algún

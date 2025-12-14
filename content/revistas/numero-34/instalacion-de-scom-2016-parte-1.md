@@ -1,10 +1,13 @@
 ---
+
 title: "Instalación de SCOM 2016 para la monitorización de nuestra infraestructura (Parte 1)"
 slug: "instalacion-de-scom-2016-parte-1"
 magazineSlug: "numero-34"
 author: "Juan Ignacio Oller Aznar"
 authorSlug: "juan-ignacio-oller-aznar"
 keywords: ['SCOM']
+image: "../images/instalacion-de-scom-2016-parte-1/image1.png"
+
 ---
 
 **¿Qué es SCOM?**

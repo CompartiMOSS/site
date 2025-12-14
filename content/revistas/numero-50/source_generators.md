@@ -1,10 +1,13 @@
 ---
+
 title: "Source Generator"
 slug: "source_generators"
 magazineSlug: "numero-50"
 author: "José Manuel Redondo"
 authorSlug: "jose-manuel-redondo"
 keywords: ['Source Generators','Roslyn']
+image: "../images/source_generators/image2.png"
+
 ---
 
 Desde la incorporación de *Roslyn* como *Compiler as a Service* (*CaaS*)

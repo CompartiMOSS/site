@@ -1,10 +1,13 @@
 ---
+
 title: "Azure Information Protection"
 slug: "azure-information-protection"
 magazineSlug: "numero-29"
 author: "Alberto Diaz Martin"
 authorSlug: "alberto-diaz-martin"
 keywords: ['Azure','ECM','Seguridad']
+image: "../images/azure-information-protection/image1.png"
+
 ---
 
 ​Siguiendo con el continuo crecimiento de servicios en Azure y pensando en facilitar la adopción de la nube a las empresas, Microsoft recién ha publicado un nuevo servicio para ayudarnos a proteger la información corporativa que podemos ver como una actualización de Azure Rights Management y que proviene de la adquisición de la empresa Secure Islands, este servicio se llama Azure Information Protection.

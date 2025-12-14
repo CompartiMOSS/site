@@ -1,10 +1,13 @@
 ---
+
 title: "Clasificación de textos con AI Builder y Power Automate"
 slug: "clasificacion-textos-ai-builder-power-automate"
 magazineSlug: "numero-43"
 author: "Ferran Chopo Garcia"
 authorSlug: "ferran-chopo-garcia"
 keywords: ['Flow','AI Builder']
+image: "../images/clasificacion-textos-ai-builder-power-automate/image1.png"
+
 ---
 
 ​En AI Builder existen cuatro tipos de modelos que podemos elegir según nuestras necesidades:

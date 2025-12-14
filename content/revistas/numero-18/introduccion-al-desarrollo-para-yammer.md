@@ -1,10 +1,13 @@
 ---
+
 title: "Introducción al desarrollo para Yammer"
 slug: "introduccion-al-desarrollo-para-yammer"
 magazineSlug: "numero-18"
 author: "Adrian Diaz Cervera"
 authorSlug: "adrian-diaz-cervera"
 keywords: ['Yammer','Social']
+image: "../images/introduccion-al-desarrollo-para-yammer/imagen1.png"
+
 ---
 
 ​Yammer desde que fue adquirida por Microsoft (por una cantidad cercana  a los 1.000 millones de euros) es uno de los productos que más miradas tiene puestas sobre él, sobre todo, las dudas giran en torno a  cuál va a ser su integración con el resto de productos incluidos dentro de Office 365. Pero más allá de lo que depare el futuro, Yammer ya incorpora una serie de herramientas para poder hacer uso de la información de la plataforma en nuestros desarrollos. Dicha información se puede usar desde cualquier plataforma y dispositivo, pero naturalmente nos vamos a centrar en cómo explotarla en nuestros desarrollos para SharePoint.

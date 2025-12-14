@@ -1,10 +1,13 @@
 ---
+
 title: "Conversión de documentos Word en SharePoint 2013"
 slug: "conversion-documentos-word-sharepoint-2013"
 magazineSlug: "numero-18"
 author: "Alberto Diaz Martin"
 authorSlug: "alberto-diaz-martin"
 keywords: ['ECM']
+image: "../images/conversion-documentos-word-sharepoint-2013/imagen1.jpg"
+
 ---
 
 ​Como novedad en SharePoint 2010 nos encontramos un nuevo servicio de conversión de documentos Word. Este nos permitía convertir documentos entre diferentes versiones de Word o convertirlo los documentos Word a PDF o XPS, todo esto, sin necesidad de tener Office instalado en el servidor.

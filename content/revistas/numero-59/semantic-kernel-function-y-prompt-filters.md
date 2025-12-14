@@ -21,7 +21,7 @@ los filtros. Mas adelante hablaremos también de este otro modelo, para
 que vosotros mismos podáis opinar sobre qué modelo os gusta más.
 
 ![A computer screen with text and images Description automatically
-generated](../../../images/numero59/semantic-kernel-function-y-prompt-filters/a74e5187e7d4a30aff77133c6d0f6609b2c6dc2b.png)
+generated](../images/semantic-kernel-function-y-prompt-filters/a74e5187e7d4a30aff77133c6d0f6609b2c6dc2b.png)
 
 **¿Qué problema resuelve los Function y Prompt filters?**
 
@@ -46,7 +46,7 @@ la Function. Nos referimos al modelo de Hooks, basado en eventos. En
 este modelo, el siguiente código nos muestra cómo funcionaba:
 
 ![A screenshot of a computer program Description automatically
-generated](../../../images/numero59/semantic-kernel-function-y-prompt-filters/4718e1ec1552e4424705111726658c04b4412b52.png)
+generated](../images/semantic-kernel-function-y-prompt-filters/4718e1ec1552e4424705111726658c04b4412b52.png)
 
 Básicamente lo que tenemos es la posibilidad de manejar 2 eventos a
 nivel de Kernel:
@@ -67,7 +67,7 @@ Para crear un filtro de función, debemos implementar la interfaz
 ***IFunctionFilter***, como podemos ver en el siguiente código:
 
 ![A screen shot of a computer program Description automatically
-generated](../../../images/numero59/semantic-kernel-function-y-prompt-filters/3125362041fd01dc8624f1099de9bfe632046ef1.png)
+generated](../images/semantic-kernel-function-y-prompt-filters/3125362041fd01dc8624f1099de9bfe632046ef1.png)
 
 Como te puedes esperar, el método *OnFunctionInvoking* se ejecuta justo
 antes de la ejecución de la función, y el *OnFunctionInvoked*, justo
@@ -77,7 +77,7 @@ ejecutaran en el orden en que los registres. Por ejemplo, aquí tenemos
 otro filtro que, además, altera el resultado final de la función.
 
 ![A screen shot of a computer program Description automatically
-generated](../../../images/numero59/semantic-kernel-function-y-prompt-filters/dfd8c9c8edb0b177fa25b7c737a6290dd4759037.png)
+generated](../images/semantic-kernel-function-y-prompt-filters/dfd8c9c8edb0b177fa25b7c737a6290dd4759037.png)
 
 Y, ¿cómo los registramos?, pues podemos hacerlo de 2 maneras diferentes.
 La primera es directamente sobre la colección de filtros del objeto
@@ -101,7 +101,7 @@ los filtros de Prompt. En este caso, implementaremos la interfaz
 ***IPromptFilter***.
 
 ![A screen shot of a computer program Description automatically
-generated](../../../images/numero59/semantic-kernel-function-y-prompt-filters/3eda09bde7fb3fe27944aa41799a3f5b5cdf5cd6.png)
+generated](../images/semantic-kernel-function-y-prompt-filters/3eda09bde7fb3fe27944aa41799a3f5b5cdf5cd6.png)
 
 De nuevo, OnPromptRendering es ejecutado justo antes de renderizar el
 Prompt, y OnPromptRendered justo después de renderizarlo.

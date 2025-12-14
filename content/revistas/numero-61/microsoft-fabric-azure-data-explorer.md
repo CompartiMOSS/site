@@ -1,10 +1,13 @@
 ---
+
 title: "Microsoft Fabric, Azure Data Explorer aterriza en Fabric con los Eventhouse"
 slug: "microsoft-fabric-azure-data-explorer"
 magazineSlug: "numero-61"
 author: "Javier Iniesta"
 authorSlug: "javier-iniesta"
 keywords: ['Azure', 'Data Explorer', 'Eventhouse', 'Microsoft Fabric']
+image: "../images/microsoft-fabric-azure-data-explorer/image1.png"
+
 ---
 
 En un mundo donde la información en tiempo real es clave para la toma de

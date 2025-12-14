@@ -1,10 +1,13 @@
 ---
+
 title: "Entrevista a Santiago Porras"
 slug: "entrevista-santiago-porras"
 magazineSlug: "numero-61"
 author: "Santiago Porras Rodriguez"
 authorSlug: "santiago-porras-rodriguez"
 keywords: ['Entrevista']
+image: "../images/entrevista-santiago-porras/image1.png#author"
+
 ---
 
 ![Santiago Porras](../images/entrevista-santiago-porras/image1.png#author)¡Hola! 

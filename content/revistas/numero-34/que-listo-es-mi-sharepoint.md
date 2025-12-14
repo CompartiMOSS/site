@@ -1,10 +1,13 @@
 ---
+
 title: "Que listo es mi SharePoint!!!"
 slug: "que-listo-es-mi-sharepoint"
 magazineSlug: "numero-34"
 author: "Sergio Hernandez Mancebo"
 authorSlug: "sergio-hernandez-mancebo"
 keywords: ['SharePoint','Azure']
+image: "../images/que-listo-es-mi-sharepoint/image1.png"
+
 ---
 
 **​Azure para dotar de inteligencia a tus aplicaciones**

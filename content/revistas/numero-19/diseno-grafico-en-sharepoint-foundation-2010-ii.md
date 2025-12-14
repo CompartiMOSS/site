@@ -1,10 +1,13 @@
 ---
+
 title: "Diseño Gráfico en SharePoint Foundation 2010 II"
 slug: "diseno-grafico-en-sharepoint-foundation-2010-ii"
 magazineSlug: "numero-19"
 author: "Juan Pablo Pussacq"
 authorSlug: "juan-pablo-pussacq"
 keywords: ['Diseño','SharePoint 2010']
+image: "../images/diseno-grafico-en-sharepoint-foundation-2010-ii/imagen1.png"
+
 ---
 
 En el artículo anterior hicimos una introducción acerca de cómo incorporar en SharePoint 2010 los estilos creados por un diseñador gráfico. Nos basamos en algunas hipótesis como el uso de SharePoint Foundation, páginas maestras, hojas de estilo y modelo de objetos de cliente para JavaScript. Se recomienda leer la [parte 1](/revistas/numero-16/diseno-grafico-en-sharepoint-foundation-2010) antes de continuar.

@@ -1,10 +1,13 @@
 ---
+
 title: "Novedades en las herramientas de desarrollo de Office para Visual Studio 2013"
 slug: "novedades-herramientas-desarrollo-office-visual-studio-2013"
 magazineSlug: "numero-17"
 author: "Juan Carlos Gonzalez Martin"
 authorSlug: "juan-carlos-gonzalez-martin"
 keywords: ['Aplicaciones','Visual Studio 2013']
+image: "../images/novedades-herramientas-desarrollo-office-visual-studio-2013/figura1.png"
+
 ---
 
 ​Como<br />parte de VS 2013 Preview, los desarrolladores disponen de serie de una nueva<br />versión de las Office Tools para Visual Studio de manera que sin necesidad de<br />instalar componentes adicionales se puede comenzar a crear tanto soluciones<br />como aplicaciones tanto para SharePoint 2013 On-Premise como para SharePoint<br />Online en Office 365. Para crear soluciones de SharePoint, se dispone (Imagen<br />1) de las mismas plantillas de proyecto existentes en Visual Studio 2012 (VS 2012).

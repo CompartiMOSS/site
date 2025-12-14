@@ -158,7 +158,7 @@ Para el caso en donde tengamos que desarrollar una aplicación nueva, la
 recomendación es considerar Azure SQL Database como la primera opción.
 
 ![Cloud migration effort and administration continuum.
-](../../../images/numero45/introduccion-a-azure-sql/image7.png)
+](../images/introduccion-a-azure-sql/image7.png)
 
 **Javier Villegas** <br />
 Global Database Administrator & Design Coordinator @ MSC <br />

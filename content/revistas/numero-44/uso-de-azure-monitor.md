@@ -1,10 +1,13 @@
 ---
+
 title: "Uso de Azure Monitor"
 slug: "uso-de-azure-monitor"
 magazineSlug: "numero-44"
 author: "Alberto Andrés Rodríguez"
 authorSlug: "alberto-andrés-rodríguez"
 keywords: ['Azure','Azure Monitor']
+image: "../images/uso-de-azure-monitor/image1.png"
+
 ---
 
 En este artículo vamos a repasar un par de características que se suelen pasar por alto en las suscripciones de Azure, estas dos características están incluidas dentro del Azure Monitor, y pese a que están actualmente en Preview, nos serán muy útiles para conocer de primera mano toda la información referente a nuestra suscripción.

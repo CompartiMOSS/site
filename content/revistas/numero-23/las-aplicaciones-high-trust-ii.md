@@ -1,10 +1,13 @@
 ---
+
 title: "Las Aplicaciones High-Trust – II"
 slug: "las-aplicaciones-high-trust-ii"
 magazineSlug: "numero-23"
 author: "Edin Kapic"
 authorSlug: "edin-kapic"
 keywords: ['Aplicaciones','SharePoint 2013']
+image: "../images/las-aplicaciones-high-trust-ii/imagen1.png"
+
 ---
 
 ​En el [último artículo para CompartiMOSS](/revistas/numero-22/las-aplicaciones-high-trust-i) hablé sobre el concepto de las aplicaciones High-Trust o de alta confianza (también conocidas como *S2S, server-to-server*) en los entornos de SharePoint 2013. Pues bien, hoy vamos a meternos en la harina y hacer una de ellas.

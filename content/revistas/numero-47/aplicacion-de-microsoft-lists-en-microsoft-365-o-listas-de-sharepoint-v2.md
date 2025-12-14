@@ -1,10 +1,13 @@
 ---
+
 title: "Aplicación de Microsoft Lists en Microsoft 365 o Listas de SharePoint 2.0"
 slug: "aplicacion-de-microsoft-lists-en-microsoft-365-o-listas-de-sharepoint-v2"
 magazineSlug: "numero-47"
 author: "Juan Carlos González Martín"
 authorSlug: "juan-carlos-gonzalez-martin"
 keywords: ['Microsoft List','Office 365','Microsoft 365']
+image: "../images/aplicacion-de-microsoft-lists-en-microsoft-365-o-listas-de-sharepoint-v2/image1.png"
+
 ---
 
 En Ignite 2020 Microsoft introdujo lo que denominó una nueva aplicación

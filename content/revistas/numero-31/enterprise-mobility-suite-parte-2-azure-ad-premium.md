@@ -1,10 +1,13 @@
 ---
+
 title: "Enterprise Mobility Suite Parte 2 – Azure AD Premium"
 slug: "enterprise-mobility-suite-parte-2-azure-ad-premium"
 magazineSlug: "numero-31"
 author: "Jorge Castañeda Cano"
 authorSlug: "jorge-castaneda-cano"
 keywords: ['Enterprise Mobility Suite','Azure AD']
+image: "../images/enterprise-mobility-suite-parte-2-azure-ad-premium/image1.png"
+
 ---
 
 Continuando con el artículo anterior ([EMS Parte 1](http://jorgecastanedac.com/ems-parte-1-introduccin/))  en esta nueva entrega hablaremos sobre el servicio **AAD Premium** que es una solución de administración de identidades y acceso con un conjunto de funcionalidades que tienen como objetivo proteger el acceso a las aplicaciones locales y en la nube, así como ayudar a mantener la seguridad de los datos corporativos.

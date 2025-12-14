@@ -1,10 +1,13 @@
 ---
+
 title: "Convert Classic root sites to Modern SharePoint"
 slug: "convert-classic-root-sites-to-modern-sharepoint"
 magazineSlug: "numero-39"
 author: "Joao Ferreira"
 authorSlug: "joao-ferreira"
 keywords: ['SharePoint Online']
+image: "../images/convert-classic-root-sites-to-modern-sharepoint/image1.png"
+
 ---
 
 Recently I've got a few requests to transform classic root team sites with publishing enabled into modern SharePoint sites. The technic described in this article allows you to keep all your existent content, and at the same time allows you to take advantage of the out of the box responsive layouts and modern web parts.

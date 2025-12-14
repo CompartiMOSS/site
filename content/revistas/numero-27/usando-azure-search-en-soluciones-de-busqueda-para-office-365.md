@@ -1,10 +1,13 @@
 ---
+
 title: "Usando Azure Search en soluciones de búsqueda para Office 365"
 slug: "usando-azure-search-en-soluciones-de-busqueda-para-office-365"
 magazineSlug: "numero-27"
 author: "José Carlos Rodríguez Avilés"
 authorSlug: "jose-carlos-rodriguez-aviles"
 keywords: ['Azure','Azure Search','Office 365']
+image: "../images/usando-azure-search-en-soluciones-de-busqueda-para-office-365/image1.png"
+
 ---
 
 ​Azure ofrece una amplia gama de servicios para los desarrolladores, entre los que se encuentra Azure Search. Este servicio, salido recientemente de su versión preview, permite incorporar una solución completa de búsqueda a las aplicaciones. En este artículo, se va a realizar un overview de este servicio, para adquirir unas nociones básicas de los pasos que hay que seguir para utilizarlo, pero, además, combinándolo con otra de las herramientas que recientemente Microsoft ha puesto a disposición de los desarrolladores, la API Microsoft Graph. En el artículo se tratará:

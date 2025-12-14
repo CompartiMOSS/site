@@ -1,10 +1,13 @@
 ---
+
 title: "El módulo de SecretManagement de PowerShell"
 slug: "secret-management-powershell"
 magazineSlug: "numero-46"
 author: "Gustavo Velez"
 authorSlug: "gustavo-velez"
 keywords: ['PowerShell']
+image: "../images/secret-management-powershell/image8.png"
+
 ---
 
 El SecretManagement es un módulo de PowerShell que almacena "secretos"

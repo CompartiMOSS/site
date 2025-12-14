@@ -1,10 +1,13 @@
 ---
+
 title: "Entrevista a Miguel Llorca"
 slug: "entrevista-miguel-llorca"
 magazineSlug: "numero-51"
 author: "Miguel Llorca"
 authorSlug: "miguel-llorca"
 keywords: ['Entrevista']
+image: "/../images/autores/miguel-llorca.png#author"
+
 ---
 
 ![Miguel Llorca](/../images/autores/miguel-llorca.png#author) Miguel Llorca es un tecnólogo y emprendedor, con más de 20 años de experiencia en el sector TI.

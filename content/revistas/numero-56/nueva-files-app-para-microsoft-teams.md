@@ -1,10 +1,13 @@
 ---
+
 title: "Nueva Files App para Microsoft Teams"
 slug: "nueva-files-app-para-microsoft-teams"
 magazineSlug: "numero-56"
 author: "Juan Carlos Gonzalez Martin"
 authorSlug: "juan-carlos-gonzalez-martin"
 keywords: ['Microsoft Teams', 'Files App', 'Microsoft 365']
+image: "../images/nueva-files-app-para-microsoft-teams/image1.png"
+
 ---
 
 Podemos decir que casi no hay día para los que usamos Microsoft Teams en

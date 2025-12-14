@@ -1,10 +1,13 @@
 ---
+
 title: "Microsoft Teams y SharePoint Online, el matrimonio perfecto"
 slug: "microsoft-teams-y-sharepoint-online-el-matrimonio-perfecto"
 magazineSlug: "numero-38"
 author: "Juan Carlos Gonzalez Martin"
 authorSlug: "juan-carlos-gonzalez-martin"
 keywords: ['SharePoint Online','Teams']
+image: "../images/microsoft-teams-y-sharepoint-online-el-matrimonio-perfecto/image1.png"
+
 ---
 
 SharePoint Online (SPO) es un elemento fundamental en Microsoft Teams que proporciona no solo capacidades de almacenamiento de archivos y gestión documental, sino también características de integración que permiten que cualquier usuario pueda visualizar e interactuar directamente en Teams con páginas de SPO, listas o aplicaciones de la misma forma que lo harían desde un sitio de SPO. En este artículo vamos a revisar las posibilidades de integración entre ambas plataformas.

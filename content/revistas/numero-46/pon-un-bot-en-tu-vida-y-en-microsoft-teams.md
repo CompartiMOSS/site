@@ -1,10 +1,13 @@
 ---
+
 title: "Pon un Bot en tu vida... y en Microsoft Teams"
 slug: "pon-un-bot-en-tu-vida-y-en-microsoft-teams"
 magazineSlug: "numero-46"
 author: "Cristian Dragos Fedotov"
 authorSlug: "cristian-dragos-fedotov"
 keywords: ['Power Virtual Agents', 'Microsoft 365']
+image: "../images/pon-un-bot-en-tu-vida-y-en-microsoft-teams/image10.png"
+
 ---
 
 Cada vez más nos estamos dando cuenta que la "era de la velocidad" nos

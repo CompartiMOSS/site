@@ -1,10 +1,13 @@
 ---
+
 title: "Uso de tarjetas con APIs en el dashboard de Viva Connections"
 slug: "tarjetas-personalizadas-en-viva-connections"
 magazineSlug: "numero-59"
 author: "Cristian Dragos Fedotov"
 authorSlug: "cristian-dragos-fedotov"
 keywords: ['Viva Connections', 'Viva', 'Office 365']
+image: "../images/tarjetas-personalizadas-en-viva-connections/image1.png"
+
 ---
 
 ¿Sabías que puedes crear **tarjetas personalizadas en el dashboard de

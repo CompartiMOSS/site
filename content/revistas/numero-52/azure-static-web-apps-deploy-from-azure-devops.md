@@ -1,10 +1,13 @@
 ---
+
 title: "Azure Static Web Apps - Deploy from Azure DevOps"
 slug: "azure-static-web-apps-deploy-from-azure-devops"
 magazineSlug: "numero-52"
 author: "Santiago Porras Rodríguez"
 authorSlug: "santiago-porras-rodriguez"
 keywords: ['Azure','Azure Static Web Apps', 'Azure DevOps']
+image: " ../images/azure-static-web-apps-deploy-from-azure-devops/image1.png"
+
 ---
 
 Hace algunos días se celebró el [aniversario de Azure Static Web
@@ -26,12 +29,12 @@ Aunque no es el objetivo principal de este artículo, es posible realizar
 el despliegue directamente desde el portal de Azure. Para ello, vamos a
 crear el recurso de tipo "Azure Static Web App".
 
-![Imagen 1 - Creación de Azure Static Web App]( ../../../images/numero52/azure-static-web-apps-deploy-from-azure-devops/image1.png)
+![Imagen 1 - Creación de Azure Static Web App]( ../images/azure-static-web-apps-deploy-from-azure-devops/image1.png)
 
 En la página donde especificamos los datos del recurso, podemos
 seleccionar Azure DevOps como origen del despliegue.
 
-![Imagen 2 - Selección de Azure DevOps como fuente del despliegue]( ../../../images/numero52/azure-static-web-apps-deploy-from-azure-devops/image2.png)
+![Imagen 2 - Selección de Azure DevOps como fuente del despliegue]( ../images/azure-static-web-apps-deploy-from-azure-devops/image2.png)
 
 Lamentablemente, para que esto funcione, es necesario que la cuenta de
 Azure DevOps y el directorio activo de la cuenta de Azure estén
@@ -41,7 +44,7 @@ seleccionar ningún valor.
 > En caso de que a vosotros sí os aparezca, podréis saltaros el
 > siguiente paso
 
-![Imagen 3 - Selección de repositorio de Azure DevOps sin datos]( ../../../images/numero52/azure-static-web-apps-deploy-from-azure-devops/image3.png)
+![Imagen 3 - Selección de repositorio de Azure DevOps sin datos]( ../images/azure-static-web-apps-deploy-from-azure-devops/image3.png)
 
 ## Conectando nuestra organización de Azure DevOps con el Directorio Activo de Azure.
 
@@ -56,13 +59,13 @@ Docs](https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/conne
 
 2.  Ir a configuración de organización
 
-![Imagen 4 - Ir a configuración de organización]( ../../../images/numero52/azure-static-web-apps-deploy-from-azure-devops/image4.png)
+![Imagen 4 - Ir a configuración de organización]( ../images/azure-static-web-apps-deploy-from-azure-devops/image4.png)
 
-![Imagen 5 - Conectar con Directorio Activo]( ../../../images/numero52/azure-static-web-apps-deploy-from-azure-devops/image5.png)
+![Imagen 5 - Conectar con Directorio Activo]( ../images/azure-static-web-apps-deploy-from-azure-devops/image5.png)
 
-![Imagen - Seleccionar Directorio Activo]( ../../../images/numero52/azure-static-web-apps-deploy-from-azure-devops/image6.png)
+![Imagen - Seleccionar Directorio Activo]( ../images/azure-static-web-apps-deploy-from-azure-devops/image6.png)
 
-![Imagen 7 - Directorio Activo conectado]( ../../../images/numero52/azure-static-web-apps-deploy-from-azure-devops/image7.png)
+![Imagen 7 - Directorio Activo conectado]( ../images/azure-static-web-apps-deploy-from-azure-devops/image7.png)
 
 ## Desplegando desde el portal de Azure
 
@@ -72,11 +75,11 @@ proyecto, el repositorio y la rama. Además, debemos especificar el stack
 tecnológico y, al menos, la ubicación del código fuente. También es
 posible seleccionar parámetros de la API, si la tuviéramos.
 
-![Imagen 8 - Configurar repositorio de Azure DevOps para despliegue de Azure Static Web App]( ../../../images/numero52/azure-static-web-apps-deploy-from-azure-devops/image8.png)
+![Imagen 8 - Configurar repositorio de Azure DevOps para despliegue de Azure Static Web App]( ../images/azure-static-web-apps-deploy-from-azure-devops/image8.png)
 
-![Imagen 9 -- Resumen de configuración de Azure Static Web App]( ../../../images/numero52/azure-static-web-apps-deploy-from-azure-devops/image9.png)
+![Imagen 9 -- Resumen de configuración de Azure Static Web App]( ../images/azure-static-web-apps-deploy-from-azure-devops/image9.png)
 
-![Imagen - Azure Static Web App creada]( ../../../images/numero52/azure-static-web-apps-deploy-from-azure-devops/image10.png)
+![Imagen - Azure Static Web App creada]( ../images/azure-static-web-apps-deploy-from-azure-devops/image10.png)
 
 ## Comprobando el resultado
 
@@ -84,14 +87,14 @@ En estos momentos, si navegamos a Azure DevOps y vamos a los pipelines,
 veremos que ha aparecido un nuevo pipeline de compilación y despliegue,
 que se ha creado automáticamente.
 
-![Imagen 11 - Pipeline de despliegue de Azure Static Web App]( ../../../images/numero52/azure-static-web-apps-deploy-from-azure-devops/image11.png)
+![Imagen 11 - Pipeline de despliegue de Azure Static Web App]( ../images/azure-static-web-apps-deploy-from-azure-devops/image11.png)
 
 Sólo debemos esperar a que se complete su ejecución y ya podremos ir a
 nuestra Azure Static Web App y ver el resultado.
 
-![Imagen - Información de Azure Static Web App]( ../../../images/numero52/azure-static-web-apps-deploy-from-azure-devops/image12.png)
+![Imagen - Información de Azure Static Web App]( ../images/azure-static-web-apps-deploy-from-azure-devops/image12.png)
 
-![Imagen 13 - Azure Static Web App en ejecución]( ../../../images/numero52/azure-static-web-apps-deploy-from-azure-devops/image13.png)
+![Imagen 13 - Azure Static Web App en ejecución]( ../images/azure-static-web-apps-deploy-from-azure-devops/image13.png)
 
 # Despliegue desde Azure DevOps pipelines
 
@@ -102,7 +105,7 @@ DevOps. En este caso, tenemos una tercera opción que es seleccionar
 "Otro" en el detalle de implementación a la hora de crear el recurso de
 Azure Static Web Apps.
 
-![Imagen 14 - Creación de Azure Static Web App]( ../../../images/numero52/azure-static-web-apps-deploy-from-azure-devops/image14.png)
+![Imagen 14 - Creación de Azure Static Web App]( ../images/azure-static-web-apps-deploy-from-azure-devops/image14.png)
 
 En este caso, se creará el sitio, pero no se desplegará nada ya que, se
 espera a que lo hagamos manualmente.
@@ -116,69 +119,69 @@ pasos:
 1.  Lo primero que tendremos que hacer es crear un nuevo pipeline desde
     nuestro proyecto en Azure DevOps para poder realizar el despliegue.
 
-![Imagen 15 - Creación de Nuevo Pipeline]( ../../../images/numero52/azure-static-web-apps-deploy-from-azure-devops/image15.png)
+![Imagen 15 - Creación de Nuevo Pipeline]( ../images/azure-static-web-apps-deploy-from-azure-devops/image15.png)
 
 2.  A continuación, seleccionamos Azure Repos Git como fuente del código
 
-![Imagen 16 - Selección de tipo de repositorio]( ../../../images/numero52/azure-static-web-apps-deploy-from-azure-devops/image16.png)
+![Imagen 16 - Selección de tipo de repositorio]( ../images/azure-static-web-apps-deploy-from-azure-devops/image16.png)
 
 3.  Seleccionamos el repositorio
 
-![Imagen - Selección de repositorio]( ../../../images/numero52/azure-static-web-apps-deploy-from-azure-devops/image17.png)
+![Imagen - Selección de repositorio]( ../images/azure-static-web-apps-deploy-from-azure-devops/image17.png)
 
 4.  Seleccionamos, por ejemplo, el Starter pipeline
 
-![Imagen 18 - Selección de tipo de pipeline]( ../../../images/numero52/azure-static-web-apps-deploy-from-azure-devops/image18.png)
+![Imagen 18 - Selección de tipo de pipeline]( ../images/azure-static-web-apps-deploy-from-azure-devops/image18.png)
 
 5.  Eliminamos el contenido de "steps"
 
-![Imagen - Contenido del pipeline]( ../../../images/numero52/azure-static-web-apps-deploy-from-azure-devops/image19.png)
+![Imagen - Contenido del pipeline]( ../images/azure-static-web-apps-deploy-from-azure-devops/image19.png)
 
 6.  Usamos el asistente y añadimos la tarea de despliegue en Azure
     Static Web Apps
 
-![Imagen 20 - Tarea para despliegue en Azure Static Web App]( ../../../images/numero52/azure-static-web-apps-deploy-from-azure-devops/image20.png)
+![Imagen 20 - Tarea para despliegue en Azure Static Web App]( ../images/azure-static-web-apps-deploy-from-azure-devops/image20.png)
 
 7.  Configuramos la tarea con los valores correspondientes, en mi caso,
     los siguientes:
 
-![Imagen 21 - Configuración básica de la tarea de despliegue]( ../../../images/numero52/azure-static-web-apps-deploy-from-azure-devops/image21.png)
+![Imagen 21 - Configuración básica de la tarea de despliegue]( ../images/azure-static-web-apps-deploy-from-azure-devops/image21.png)
 
 8.  Copiamos el token de publicación de la Azure Static Web App que
     podemos encontrar en el propio recurso, en la pestaña de
     información.
 
-![Imagen 22 - Obtención del token de implementación de Azure Static Web App]( ../../../images/numero52/azure-static-web-apps-deploy-from-azure-devops/image22.png)
+![Imagen 22 - Obtención del token de implementación de Azure Static Web App]( ../images/azure-static-web-apps-deploy-from-azure-devops/image22.png)
 
 9.  Lo añadimos en la configuración de la tarea del pipeline y le damos
     a añadir
 
-![Imagen 23 - Configuración del token de implementación en la tarea de despliegue]( ../../../images/numero52/azure-static-web-apps-deploy-from-azure-devops/image23.png)
+![Imagen 23 - Configuración del token de implementación en la tarea de despliegue]( ../images/azure-static-web-apps-deploy-from-azure-devops/image23.png)
 
 10. Finalmente le guardamos y ejecutamos
 
-![Imagen 24 - Resultado de la configuración de la tarea de despliegue]( ../../../images/numero52/azure-static-web-apps-deploy-from-azure-devops/image24.png)
+![Imagen 24 - Resultado de la configuración de la tarea de despliegue]( ../images/azure-static-web-apps-deploy-from-azure-devops/image24.png)
 
 Llegados a este punto, ya sólo tenemos que esperar que acabe la
 ejecución del Job del pipeline y podremos comprobar el resultado.
 
-![Imagen 25 - Pipeline en ejecución]( ../../../images/numero52/azure-static-web-apps-deploy-from-azure-devops/image25.png)
+![Imagen 25 - Pipeline en ejecución]( ../images/azure-static-web-apps-deploy-from-azure-devops/image25.png)
 
 ## Comprobando el resultado
 
 Una vez termine la ejecución del pipeline, ya podremos ir a comprobar el
 despliegue de nuestra Azure Static Web App.
 
-![Imagen 26 - Pipeline ejecutado con éxito]( ../../../images/numero52/azure-static-web-apps-deploy-from-azure-devops/image26.png)
+![Imagen 26 - Pipeline ejecutado con éxito]( ../images/azure-static-web-apps-deploy-from-azure-devops/image26.png)
 
 La url, como siempre, la podemos encontrar en la pestaña de información
 del servicio de Azure Static Web App
 
-![Imagen 27 - Obtención de la url de Azure Static Web App]( ../../../images/numero52/azure-static-web-apps-deploy-from-azure-devops/image27.png)
+![Imagen 27 - Obtención de la url de Azure Static Web App]( ../images/azure-static-web-apps-deploy-from-azure-devops/image27.png)
 
 Y el resultado...
 
-![Imagen 28 - Resultado del despliegue de Azure Static Web App]( ../../../images/numero52/azure-static-web-apps-deploy-from-azure-devops/image28.png)
+![Imagen 28 - Resultado del despliegue de Azure Static Web App]( ../images/azure-static-web-apps-deploy-from-azure-devops/image28.png)
 
 # Resumen
 

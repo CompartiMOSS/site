@@ -1,10 +1,13 @@
 ---
+
 title: "Configurando & Administrando Nano Servers en Microsoft Azure"
 slug: "configurando-administrando-nano-servers-en-microsoft-azure"
 magazineSlug: "numero-28"
 author: "Darwin Castro Marín"
 authorSlug: "darwin-castro-marin"
 keywords: ['Azure','Nano Servers']
+image: "../images/configurando-administrando-nano-servers-en-microsoft-azure/image1.jpeg"
+
 ---
 
 Los beneficios que aporta un Nano Server son los siguientes:

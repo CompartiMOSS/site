@@ -1,10 +1,13 @@
 ---
+
 title: "Agregarle comentarios a las páginas de SharePoint Server 2010"
 slug: "agregarle-comentarios-páginas-sharepoint-server-2010"
 magazineSlug: "numero-16"
 author: "Juan Pablo Capdevilla"
 authorSlug: "#"
 keywords: ['Social']
+image: "../images/agregarle-comentarios-paginas-sharepoint-server-2010/comments_1.jpg"
+
 ---
 
 ​Hace algún tiempo, trabajando en un portal de intranet en el cual se utilizó la plantilla de sito de publicación, me encontré con el siguiente requerimiento: *El cliente nos manifestó la necesidad de contar con un sub sitio de noticias organizacionales. Estas noticias deberían ser visualizadas en diferentes páginas de la intranet, como por ejemplo la home. Para esto se había desarrollado una WebPart que listaba todas las noticias con su imagen y una breve descripción, y al hacer clic en el título de una de ellas, se redirigía al detalle de la misma.*

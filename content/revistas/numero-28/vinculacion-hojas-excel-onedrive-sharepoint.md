@@ -1,10 +1,13 @@
 ---
+
 title: "Vinculación de dos o más hojas de Excel en OneDrive / SharePoint"
 slug: "vinculacion-hojas-excel-onedrive-sharepoint"
 magazineSlug: "numero-28"
 author: "Cristina Quesada Calderón"
 authorSlug: "cristina-quesada-calderon"
 keywords: ['Excel','SharePoint']
+image: "../images/vinculacion-hojas-de-excel-en-onedrive-sharepoint/image1.png"
+
 ---
 
 Lo primero que tenemos que hacer para resolver esta situación es mapear el OneDrive en una unidad de red en la máquina del usuario. Como se detalla a continuación:

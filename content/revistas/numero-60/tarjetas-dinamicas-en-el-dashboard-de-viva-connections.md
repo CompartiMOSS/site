@@ -1,10 +1,13 @@
 ---
+
 title: "Tarjetas dinámicas en el dashboard de Viva Connections"
 slug: "tarjetas-dinamicas-en-el-dashboard-de-viva-connections"
 magazineSlug: "numero-60"
 author: "Cristian Dragos Fedotov"
 authorSlug: "cristian-dragos-fedotov"
 keywords: ['Viva Connections', 'SharePoint Online', 'APIs', 'Microsoft Lists', 'Adaptive Cards']
+image: "../images/tarjetas-dinamicas-en-el-dashboard-de-viva-connections/image1.png"
+
 ---
 
 Una vez más, te traigo una buena manera de sacar información dinámica a

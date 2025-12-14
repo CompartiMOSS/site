@@ -1,10 +1,13 @@
 ---
+
 title: "Buenas prácticas en infraestructura en SharePoint 2013 - Parte II"
 slug: "buenas-practicas-en-infraestructura-en-sharepoint-2013-parte-ii"
 magazineSlug: "numero-20"
 author: "Miguel Tabera Pacheco"
 authorSlug: "miguel-tabera-pacheco"
 keywords: ['Infrastructura','SharePoint 2013']
+image: "../images/buenas-practicas-en-infraestructura-en-sharepoint-2013-parte-ii/imagen1.jpg"
+
 ---
 
 ​Continuando el anterior artículo ([CompartiMOSS nº 19](/revistas/numero-19/buenas-practicas-en-infraestructura-en-sharepoint-2013-parte-1)), vamos a centrarnos en el diseño de una granja de SharePoint. Veremos las diferentes recomendaciones y buenas prácticas a la hora de diseñar la granja, calcular su tamaño y capacidades y configurar. Se ha intentado que el artículo aplique tanto a SharePoint 2010 como a SharePoint 2013, indicando en determinados puntos posibles diferencias.

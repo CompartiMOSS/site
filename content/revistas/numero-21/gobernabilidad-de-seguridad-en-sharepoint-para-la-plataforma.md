@@ -1,10 +1,13 @@
 ---
+
 title: "Gobernabilidad de Seguridad en SharePoint para la Plataforma"
 slug: "gobernabilidad-de-seguridad-en-sharepoint-para-la-plataforma"
 magazineSlug: "numero-21"
 author: "Juan Andrés Valenzuela"
 authorSlug: "juan-andrés-valenzuela"
 keywords: ['Governance','Seguridad']
+image: "../images/gobernabilidad-de-seguridad-en-sharepoint-para-la-plataforma/imagen1.png"
+
 ---
 
 ​Gobernabilidad es uno de los pocos conceptos de la administración de SharePoint que parecen tener muchos adeptos, pero pocos prácticos. A pesar que las organizaciones están seguras que un correcto gobierno de la plataforma, ayudará a su real potencial, son muy pocas las que logran llevar a un nivel madurez adecuado. A pesar que los tópicos del Gobierno en SharePoint nos acercan a tres ejes fundamentales (Gestión de la Información, Gestión del Desarrollo y Gestión de la Infraestructura), es innegable que una forma de acercarnos a este "gobierno adecuado", es a través de la gestión de la seguridad, la que a su vez puede ser transversal a los ejes de gobierno antes mencionados.

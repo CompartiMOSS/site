@@ -1,10 +1,13 @@
 ---
+
 title: "Aspectos que me hubiera gustado saber antes de abordar un proyecto de ReactJS - Parte II"
 slug: "reactjs-parte-iI"
 magazineSlug: "numero-36"
 author: "Adrian Diaz Cervera"
 authorSlug: "adrian-diaz-cervera"
 keywords: ['ReactJS','JavaScript']
+image: "../images/reactjs-parte-iI/image1.png"
+
 ---
 
 En el número anterior vimos como una introducción a ReactJS para poder abordar un proyecto de este tipo. Una vez ya hemos tenido la primera toma de contacto con la librería y vamos a empezar un nuevo desarrollo utilizando este Framework nos van a surgir muchas preguntas y tendremos que tomar algún tipo de decisión (la cual puede ser acertada o no). Hay nuevos elementos nuevos que tendremos que decidir si incorporarlos o no dentro de nuestro desarrollo, su utilización puede cambiar radicalmente nuestra forma de llevar a cabo dicho desarrollo.

@@ -1,10 +1,13 @@
 ---
+
 title: "Introducción al Search Driven Development en SharePoint Online y SharePoint 2013"
 slug: "introduccion-al-search-driven-development-en-sharepoint-online-y-sharepoint-2013"
 magazineSlug: "numero-23"
 author: "José Carlos Rodríguez Avilés"
 authorSlug: "jose-carlos-rodriguez-aviles"
 keywords: ['Búsqueda']
+image: "../images/introduccion-al-search-driven-development-en-sharepoint-online-y-sharepoint-2013/imagen1.png"
+
 ---
 
 ​El presente artículo muestra  un ejemplo de cómo aprovechar algunas de las funcionalidades que ofrecen las búsquedas para implementar un requisito habitual en muchos de nuestros sitios, tanto escenarios Intranet como de internet. Se va a crear una vista de un catálogo y detalles de elementos de ese catálogo, como podría ser por ejemplo un catálogo de noticias y el detalle de cada una de ellas, y lo haremos además usando URLs amigables.  Los conceptos del presente artículo pueden aplicarse en escenarios de BCS o Cross Site Publishing. Con el objetivo de no hacer el artículo demasiado largo y centrarnos en el motivo del mismo, se desarrollará todo en el mismo sitio y con una lista personalizada que se creará para tal fin.

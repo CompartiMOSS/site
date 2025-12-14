@@ -1,10 +1,13 @@
 ---
+
 title: "Tips and tricks en Azure API Management"
 slug: "tips-and-tricks-en-azure-api-management"
 magazineSlug: "numero-51"
 author: "Diego Zapico Ferreiro"
 authorSlug: "diego-zapico"
 keywords: ['Azure', 'Api Management']
+image: " ../images/tips-and-tricks-en-azure-api-management/image1.png"
+
 ---
 
 No voy a comenzar explicando que es Azure API Management (APIM desde
@@ -43,7 +46,7 @@ puedes usar todos los métodos de XDocument menos el Load ¿Qué sentido
 podría tener esto? Yo he tirado de XmlDocument que si nos ofrece todos
 sus métodos.
 
-![Imagen 1.- XDocument.Load excluido de APIM.]( ../../../images/numero51/tips-and-tricks-en-azure-api-management/image1.png)
+![Imagen 1.- XDocument.Load excluido de APIM.]( ../images/tips-and-tricks-en-azure-api-management/image1.png)
 
 Pero ¿Dónde está el problema? Bueno, directamente no lo hay, ambas las
 podemos usar, pero es verdad que en todos los benchmark XDocument

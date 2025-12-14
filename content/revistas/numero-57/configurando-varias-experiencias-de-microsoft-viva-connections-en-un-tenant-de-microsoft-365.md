@@ -1,10 +1,13 @@
 ---
+
 title: "Configurando varias experiencias de Microsoft Viva Connections en un tenant de Microsoft 365"
 slug: "configurando-varias-experiencias-de-microsoft-viva-connections-en-un-tenant-de-microsoft-365"
 magazineSlug: "numero-57"
 author: "Juan Carlos González Martín"
 authorSlug: "juan-carlos-gonzalez-martin"
 keywords: ['Microsft Viva', 'Office 365']
+image: "../images/configurando-varias-experiencias-de-microsoft-viva-connections-en-un-tenant-de-microsoft-365/image1.png"
+
 ---
 
 Uno de los sabores de la suite de Microsoft Viva es Viva Connections que

@@ -1,10 +1,13 @@
 ---
+
 title: "Un vistazo al nuevo Centro de Administración para Microsoft Teams y Skype For Business"
 slug: "nuevo-centro-de-administracion-microsoft-teams-y-skype-for-business"
 magazineSlug: "numero-36"
 author: "Juan Carlos Gonzalez Martin"
 authorSlug: "juan-carlos-gonzalez-martin"
 keywords: ['Office 365','Teams']
+image: "../images/nuevo-centro-de-administracion-microsoft-teams-y-skype-for-business/image1.png"
+
 ---
 
 A principios de abril de este año Microsoft anunció el inicio del rollout en tenants Target Release del [nuevo Centro de Administración para Microsoft Teams y Skype For Business](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Announcing-the-new-Microsoft-Teams-amp-Skype-for-Business-Admin/ba-p/179534) (TSBAC) que a la fecha de redacción de este artículo está todavía en Preview. En este artículo daremos un vistazo a este nuevo y moderno centro de administración.

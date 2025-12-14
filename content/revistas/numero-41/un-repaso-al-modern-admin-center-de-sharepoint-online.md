@@ -1,10 +1,13 @@
 ---
+
 title: "Un repaso al Modern Admin Center de SharePoint Online"
 slug: "un-repaso-al-modern-admin-center-de-sharepoint-online"
 magazineSlug: "numero-41"
 author: "Juan Carlos Gonzalez Martin"
 authorSlug: "juan-carlos-gonzalez-martin"
 keywords: ['Office 365']
+image: "../images/un-repaso-al-modern-admin-center-de-sharepoint-online/image1.png"
+
 ---
 
 Tras las últimas funcionalidades añadidas al Modern Admin Center de SharePoint Online (SPO) por parte de Microsoft, podemos considerar que desde el punto de vista de administración del servicio proporciona todo lo necesario a los administradores de SPO para poder administrar y configurar la plataforma. En este artículo haremos un repaso al estado del arte actual (Julio de 2019) del Modern Admin Center de SharePoint Online

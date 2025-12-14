@@ -1,10 +1,13 @@
 ---
+
 title: "Administración de SharePoint Online mediante PowerShell"
 slug: "administracion-de-sharepoint-online-mediante-powershell"
 magazineSlug: "numero-21"
 author: "Juan Carlos Gonzalez Martin"
 authorSlug: "juan-carlos-gonzalez-martin"
 keywords: ['SharePoint Online','PowerShell']
+image: "../images/administracion-de-sharepoint-online-mediante-powershell/imagen1.png"
+
 ---
 
 En este artículo veremos algunas de las posibilidades de administración de SharePoint Online a través de la interfaz de línea de comandos y el uso de PowerShell. Como se verá en el artículo, a pesar de las "aparentes" limitaciones que el reducido número de comandos PowerShell disponibles para SharePoint Online supone, estas se pueden superar por medio del uso del modelo de objetos en cliente (CSOM) desde PowerShell.

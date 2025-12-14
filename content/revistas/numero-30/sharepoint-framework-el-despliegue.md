@@ -1,10 +1,13 @@
 ---
+
 title: "SharePoint FrameWork -  El Despliegue"
 slug: "sharepoint-framework-el-despliegue"
 magazineSlug: "numero-30"
 author: "Adrian Diaz Cervera"
 authorSlug: "adrian-diaz-cervera"
 keywords: ['SharePoint Framework']
+image: "../images/sharepoint-framework-el-despliegue/image1.png"
+
 ---
 
 El nuevo SharePoint Framework, “SPFX” de aquí en adelante, supone un cambio brutal en cuanto a la forma de desarrollar sobre nuestro servidor preferido. Uno de los puntos más críticos tradicionalmente en SharePoint ha sido llevar una ALM de forma correcta. Ahora con el nuevo SPFX se han facilitado las cosas, de una forma un tanto diferente, facilitando bastante dicho  ciclo  .        Este proceso quedaría de la siguiente forma:

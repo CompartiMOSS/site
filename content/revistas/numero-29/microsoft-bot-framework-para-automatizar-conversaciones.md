@@ -1,10 +1,13 @@
 ---
+
 title: "Microsoft Bot Framework para automatizar conversaciones"
 slug: "microsoft-bot-framework-para-automatizar-conversaciones"
 magazineSlug: "numero-29"
 author: "Santiago Porras Rodríguez"
 authorSlug: "santiago-porras-rodriguez"
 keywords: ['Bot Framework']
+image: "../images/microsoft-bot-framework-para-automatizar-conversaciones/image1.jpeg"
+
 ---
 
 En el pasado //build/ Microsoft presentó Microsoft Bot Framework, una nueva tecnología que ofrece grandes posibilidades tanto para las empresas como para los desarrolladores ya que permitirá automatizar tareas como por ejemplo atención al cliente siendo capaz de interactuar por canales tan diversos como Skype, chat web, Slack, Telegram, etc.

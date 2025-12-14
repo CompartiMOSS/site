@@ -1,10 +1,13 @@
 ---
+
 title: "Renderizado desde el lado de cliente en SharePoint 2013"
 slug: "renderizado-desde-el-lado-de-cliente-en-sharepoint-2013"
 magazineSlug: "numero-19"
 author: "Alberto Diaz Martin"
 authorSlug: "alberto-diaz-martin"
 keywords: ['Diseño','JavaScript','SharePoint 2013']
+image: "../images/renderizado-desde-el-lado-de-cliente-en-sharepoint-2013/imagen1.png"
+
 ---
 
 ​SharePoint 2010 introdujo las plantillas XLST para poder modificar el renderizado de los WebPart desde el lado del servidor, lo que permitía, con más o menos dificultad, definir una plantilla XLST con el comportamiento necesario para pintar los elementos de un WebPart de lista.

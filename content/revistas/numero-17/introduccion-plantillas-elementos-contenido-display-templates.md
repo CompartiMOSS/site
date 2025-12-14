@@ -1,10 +1,13 @@
 ---
+
 title: "Introducción a las plantillas de elementos de contenido (Display templates)"
 slug: "introduccion-plantillas-elementos-contenido-display-templates"
 magazineSlug: "numero-17"
 author: "Santiago Porras Rodríguez"
 authorSlug: "santiago-porras-rodriguez"
 keywords: ['Diseño','JavaScript','Plantillas Elementos de Contenido']
+image: "../images/introduccion-plantillas-elementos-contenido-display-templates/figura1.jpg"
+
 ---
 
 ​En anteriores versiones de SharePoint, para modificar la vista de los elementos de los WebParts, tanto diseñadores como desarrolladores debían tener conocimientos de XSL y XSLT para poder modificar sus “plantillas” y así poder conseguir el resultado visual que buscaban. SharePoint 2013, dentro de su cambio de orientación hacia las nuevas tendencias web, HTML5, introduce un nuevo modelo de plantillas de elementos que han llamado “Display templates” y que vamos a analizar en este artículo.

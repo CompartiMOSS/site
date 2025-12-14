@@ -1,10 +1,13 @@
 ---
+
 title: "Implementando PowerShell con Power BI"
 slug: "implementando-powershell-con-power-bi"
 magazineSlug: "numero-35"
 author: "Gaston Cruz"
 authorSlug: "gaston-cruz"
 keywords: ['Power BI','PowerShell']
+image: "../images/implementando-powershell-con-power-bi/image1.png"
+
 ---
 
 Hay varios requerimientos que surgen en un ambiente corporativo con la finalidad de tener mayor control y poder automatizar ciertas actividades de despliegue. Para comenzar, existen lo que se definen como módulos de PowerShell. Se debe tomar en cuenta que no es muy común hablar de automatizar tareas a través de PowerShell en lo referente a la tecnología Power BI pero veremos durante este artículo que es sumamente potente, y flexible. En primer lugar, como referencia, podemos partir por la siguiente descarga:

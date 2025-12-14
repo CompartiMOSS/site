@@ -8,6 +8,7 @@ pdfUrl: "./CompartiMOSS_53.pdf"
 description: "Edición número 53 de la revista CompartiMOSS."
 editorial: "Microsoft y su lucha eterna, como todo el mundo de la informática, por seguridad y más seguridad no deja de sorprender y, a veces, divertir.
 
+
 Desde el lado trágico del asunto, aunque Microsoft anunció desde hace más de tres años que iba a eliminar todos los esquemas de Autenticación
     Básica en sus productos, todavía asombra ver que, como ocurrió hace algo
     de más de un mes, muchos desarrolladores se dejaron sorprender con miles
@@ -15,6 +16,7 @@ Desde el lado trágico del asunto, aunque Microsoft anunció desde hace más de 
     \"súbitamente\" cuando Microsoft elimino la Autenticación Básica en
     Exchange ActiveSync (EAS), POP, IMAP, Remote PowerShell, Exchange Web
     Services (EWS), Offline Address Book (OAB) y Outlook para Windows y Mac.
+
 
 Y desde el lado divertido de la historia, Microsoft mismo también cayó
     en su propia trampa cuando a principios de julio removió el uso de
@@ -27,11 +29,13 @@ Y desde el lado divertido de la historia, Microsoft mismo también cayó
     semana después tuvo que dar marcha atrás, reactivar los macros, y tomar
     las cosas con más calma.
 
+
 En cualquier caso, entre tragedia y diversión llegamos a un nuevo número
     más de CompartiMOSS, nuestra revista sobre tecnologías de Microsoft.
     Esperamos que ustedes se diviertan tanto leyendo los artículos, como los
     autores lo hicieron escribiéndolos y nosotros, la redacción de la
     revista, publicándolos.
+
 
 <b>El Equipo Editorial de CompartiMOSS</b>"
 ---

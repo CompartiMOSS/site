@@ -1,10 +1,13 @@
 ---
+
 title: "La magia de crear chatbots sin abrir Visual Studio gracias a FormFlow"
 slug: "la-magia-de-crear-chatbots-sin-abrir-visual-studio-gracias-a-formflow"
 magazineSlug: "numero-36"
 author: "Javier López González"
 authorSlug: "javier-lopez-gonzalez"
 keywords: ['Azure','Bot Framework']
+image: "../images/la-magia-de-crear-chatbots-sin-abrir-visual-studio-gracias-a-formflow/image1.png"
+
 ---
 
 ​Los chatbots, las interfaces conversacionales, que empezaron a estar de moda hace un par de años resultan muy divertidos, pero no siempre son útiles. Requiere bastante esfuerzo diseñar una conversación teniendo en cuenta todas las opciones de respuesta que pueden plantear los usuarios. Pero: ¿es necesario controlar todas las posibles entradas para realizar una tarea de negocio? En la mayoría de las aplicaciones, la respuesta es un rotundo “no”. Si así fuese, no se basarían la mayoría de apps en formularios para recoger datos con los que hacer algo.

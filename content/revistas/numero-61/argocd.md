@@ -1,10 +1,13 @@
 ---
+
 title: "Argo CD o como tener Continuos Deployment en tu AKS de manera eficiente"
 slug: "argocd"
 magazineSlug: "numero-61"
 author: "Adrian Diaz Cervera"
 authorSlug: "adrian-diaz-cervera"
 keywords: ['Kubernetes', 'ArgoCD', 'GitOps', 'DevOps']
+image: "../images/argocd/image1.png"
+
 ---
 
 Durante el proceso de adopción de Kubernetes en una empresa, uno de los

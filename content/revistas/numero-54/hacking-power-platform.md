@@ -1,10 +1,13 @@
 ---
+
 title: "Hacking the Power Platform"
 slug: "hacking-power-platform"
 magazineSlug: "numero-54"
 author: "Ferrán Chopo"
 authorSlug: "ferran-chopo"
 keywords: ['Power Platform']
+image: "../images/hacking-power-platform/image1.png"
+
 ---
 
 **Contexto: El entorno "Default" o "Personal Productivity"**

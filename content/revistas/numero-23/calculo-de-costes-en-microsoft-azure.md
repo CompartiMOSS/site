@@ -1,10 +1,13 @@
 ---
+
 title: "Calculo de costes en Microsoft Azure"
 slug: "calculo-de-costes-en-microsoft-azure"
 magazineSlug: "numero-23"
 author: "Fabian Calvo"
 authorSlug: "fabian-calvo"
 keywords: ['Azure']
+image: "../images/calculo-de-costes-en-microsoft-azure/imagen1.png"
+
 ---
 
 ​Cada vez es más habitual entre los clientes que te encuentres con situaciones en las que, o bien quieren establecer entornos de *Disaster Recovery* o bien quieren migrar sus granjas de entornos no productivos a la nube, como forma de conseguir unos entornos "elásticos" que les permitan crecer/decrecer de forma ágil. Esta nueva dinámica normalmente viene seguida de la típica pregunta ¿Y cuánto me va a costar mes a mes?

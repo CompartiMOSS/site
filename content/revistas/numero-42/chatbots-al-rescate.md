@@ -1,10 +1,13 @@
 ---
+
 title: "Chatbots al rescate"
 slug: "chatbots-al-rescate"
 magazineSlug: "numero-42"
 author: "Cristian Dragos Fedotov"
 authorSlug: "cristian-dragos-fedotov"
 keywords: ['Bot Framework','SharePoint Online']
+image: "../images/chatbots-al-rescate/image1.png"
+
 ---
 
 Casi siempre a la hora de buscar información dentro del ámbito empresarial acabamos con dos resultados:

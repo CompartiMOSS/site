@@ -1,10 +1,13 @@
 ---
+
 title: "Como configurar el Content Type Hub de SharePoint 2010"
 slug: "como-configurar-content-type-hub-sharepoint-2010"
 magazineSlug: "numero-17"
 author: "José Gregorio Dorta Luis"
 authorSlug: "josé-gregorio-dorta-luis"
 keywords: ['Tipos de Contenido','ECM']
+image: "../images/como-configurar-content-type-hub-sharepoint-2010/figura1.png"
+
 ---
 
 ​En la mayoría de las organizaciones en las que se implanta SharePoint, en especial en las grandes organizaciones, lo normal es que se tenga la necesidad de definir más de una colección de sitios para cubrir los requerimientos de la organización. En estos casos será necesario que los tipos de contenidos definidos sean accesibles desde todas las colecciones de sitios existentes.

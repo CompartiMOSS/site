@@ -1,10 +1,13 @@
 ---
+
 title: "SharePoint y Azure – Cloud Services"
 slug: "sharepoint-y-azure-cloud-services"
 magazineSlug: "numero-27"
 author: "Gustavo Velez"
 authorSlug: "gustavo-velez"
 keywords: ['SharePoint','Azure']
+image: "../images/sharepoint-y-azure-cloud-services/imagen1.png"
+
 ---
 
 ​Muchos de los servicios ofrecidos por Azure se pueden utilizar para ampliar y mejorar el funcionamiento de SharePoint, tanto on-premises como en la nube. Uno de los servicios que ofrece Azure es "Cloud Services", que es una solución de Plataforma como Servicio (PaaS) que proporciona toda la infraestructura física más el software de base para ejecutar aplicaciones Web personalizadas. Utilizando Azure Cloud Services solamente es necesario construir (desarrollar) la aplicación, compilarla, empaquetarla y desplegarla al servicio; de todo el resto, crear máquinas virtuales, configurarlas, darles mantenimiento y respaldo, se encarga Azure.

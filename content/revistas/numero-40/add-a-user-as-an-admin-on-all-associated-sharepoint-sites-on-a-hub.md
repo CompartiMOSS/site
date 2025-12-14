@@ -1,10 +1,13 @@
 ---
+
 title: "Add a user as an admin on all associated SharePoint Sites on a Hub"
 slug: "add-a-user-as-an-admin-on-all-associated-sharepoint-sites-on-a-hub"
 magazineSlug: "numero-40"
 author: "David Ramalho"
 authorSlug: "david-ramalho"
 keywords: ['SharePoint Online']
+image: "../images/add-a-user-as-an-admin-on-all-associated-sharepoint-sites-on-a-hub/image1.png"
+
 ---
 
 When we are starting or doing development on SharePoint online most of the time, and since the introduction of the Hub Site (hubify), projects are done with this new structure. Adding a new user as admin on each site of the Hub will be very time consuming.  With the PowerShell Script shared here, this task can be done in a few seconds.

@@ -1,10 +1,13 @@
 ---
+
 title: "Introducción a PowerShell para Microsoft Teams"
 slug: "introduccion-a-powershell-para-microsoft-teams"
 magazineSlug: "numero-35"
 author: "Juan Carlos Gonzalez Martin"
 authorSlug: "juan-carlos-gonzalez-martin"
 keywords: ['PowerShell','Microsoft Teams']
+image: "../images/introduccion-a-powershell-para-microsoft-teams/image1.png"
+
 ---
 
 Una de las características más demandadas en Microsoft Teams no disponible hasta hace relativamente poco tiempo es la posibilidad de poder gestionar y administrar la plataforma por medio de PowerShell. Afortunadamente, para dar respuesta a este requerimiento Microsoft liberó en noviembre de 2017 una primera versión de los comandos PowerShell para Microsoft Teams que, aunque actualizada en diciembre del mismo año, aún tiene mucho margen de mejora como veremos en este artículo.

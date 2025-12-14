@@ -1,10 +1,13 @@
 ---
+
 title: "Configuration as a Code. ¿Qué es? ¿Por qué utilizarla? ¿Qué beneficios nos aporta?"
 slug: "configuration-as-code"
 magazineSlug: "numero-49"
 author: "Adrian Diaz Cervera"
 authorSlug: "adrian-diaz-cervera"
 keywords: ['Configuration as a Code','DevOps']
+image: "../images/configuration-as-code/image1.png"
+
 ---
 
 A la hora de llevar el ciclo de vida de un producto o desarrollo, el

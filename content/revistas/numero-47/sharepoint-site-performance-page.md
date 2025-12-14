@@ -1,10 +1,13 @@
 ---
+
 title: "Diagnóstico y medición del rendimiento de sitios de SharePoint (Page Diagnostics for SharePoint)"
 slug: "sharepoint-site-performance-page"
 magazineSlug: "numero-47"
 author: "Gustavo Velez"
 authorSlug: "gustavo-velez"
 keywords: ['SharePoint Online','Office 365']
+image: "../images/sharepoint-site-performance-page/image1.png"
+
 ---
 
 A mediados del 2020 Microsoft presento la herramienta de "Diagnostico

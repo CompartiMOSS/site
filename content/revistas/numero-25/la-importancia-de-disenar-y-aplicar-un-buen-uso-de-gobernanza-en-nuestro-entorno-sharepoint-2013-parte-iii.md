@@ -1,10 +1,13 @@
 ---
+
 title: "La importancia de diseñar y aplicar un buen uso de Gobernanza en nuestro entorno SharePoint 2013 – Parte III"
 slug: "la-importancia-de-disenar-y-aplicar-un-buen-uso-de-gobernanza-en-nuestro-entorno-sharepoint-2013-parte-iii"
 magazineSlug: "numero-25"
 author: "Francisco Ricardo Gil González"
 authorSlug: "francisco-ricardo-gil-gonzalez"
 keywords: ['SharePoint','Governance']
+image: "../images/la-importancia-de-disenar-y-aplicar-un-buen-uso-de-gobernanza-en-nuestro-entorno-sharepoint-2013-parte-iii/image1.png"
+
 ---
 
 ​**Personalizando el servicio.**

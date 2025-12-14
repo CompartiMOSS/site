@@ -1,10 +1,13 @@
 ---
+
 title: "Administrando Microsoft 365 desde Microsoft Teams"
 slug: "administrando-microsoft-365-desde-microsoft-teams"
 magazineSlug: "numero-51"
 author: "Juan Carlos Gonzalez Martin"
 authorSlug: "juan-carlos-gonzalez-martin"
 keywords: ['Microsoft 365','Microsoft Teams']
+image: "../images/administrando-microsoft-365-desde-microsoft-teams/image1.png"
+
 ---
 
 En este artículo os voy a mostrar como podemos realizar ciertas tareas

@@ -1,10 +1,13 @@
 ---
+
 title: "Gestionar roles de seguridad de Dataverse mediante grupos de seguridad o grupos de Microsoft 365."
 slug: "m365-groups-dataverse"
 magazineSlug: "numero-49"
 author: "Mar Pedroche"
 authorSlug: "mar-pedroche"
 keywords: ['Power Apps','Dataverse']
+image: "../images/m365-groups-dataverse/image1.png"
+
 ---
 
 La seguridad en Dataverse se define por roles, estos pueden estar

@@ -1,10 +1,13 @@
 ---
+
 title: "Introducción a Office 365 Management Activity API"
 slug: "introduccion-a-office-365-management-activity-api"
 magazineSlug: "numero-38"
 author: "Ferran Chopo Garcia"
 authorSlug: "ferran-chopo-garcia"
 keywords: ['Office 365','Governance']
+image: "../images/introduccion-a-office-365-management-activity-api/image1.png"
+
 ---
 
 **Conceptos generales**

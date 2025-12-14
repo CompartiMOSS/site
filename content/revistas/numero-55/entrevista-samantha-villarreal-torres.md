@@ -1,10 +1,13 @@
 ---
+
 title: "Entrevista a Samantha Villarreal Torres"
 slug: "entrevista-samantha-villarreal-torres"
 magazineSlug: "numero-55"
 author: "Samantha Villarreal Torres"
 authorSlug: "samantha-villarreal-torres"
 keywords: ['Entrevista']
+image: "../images/entrevista_samantha/image1.jpeg#author"
+
 ---
 
 ![Samantha Villareal Torres](../images/entrevista_samantha/image1.jpeg#author) Soy Samantha Villarreal Torres, 

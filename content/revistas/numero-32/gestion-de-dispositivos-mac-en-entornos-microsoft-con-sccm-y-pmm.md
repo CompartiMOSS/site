@@ -1,10 +1,13 @@
 ---
+
 title: "Gestión de dispositivos Mac en entornos Microsoft con SCCM y PMM"
 slug: "gestion-de-dispositivos-mac-en-entornos-microsoft-con-sccm-y-pmm"
 magazineSlug: "numero-32"
 author: "Juan Ignacio Oller Aznar"
 authorSlug: "juan-ignacio-oller-aznar"
 keywords: ['System Center','Mac']
+image: "../images/gestion-de-dispositivos-mac-en-entornos-microsoft-con-sccm-y-pmm/image1.png"
+
 ---
 
 La empresa, hoy en día se enfrenta a la necesidad de dar cabida a muchos dispositivos que en otras épocas serían impensables. Esto se da, por esa palabra que está tan de moda ahora mismo, el BYOD (Bring Your Own Device) o trae tu propio dispositivo, en la que se permite al empleado que traiga su propio portátil, móvil o tablet y lo conecte a ciertas partes de la red corporativa, que tendrán mayor o menor nivel de acceso y permisibilidad en función de la política del departamento de tecnologías de la información y por supuesto de la dirección de la empresa.

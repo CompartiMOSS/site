@@ -1,10 +1,13 @@
 ---
+
 title: "Manejadores de Eventos Remotos"
 slug: "manejadores-de-eventos-remotos"
 magazineSlug: "numero-15"
 author: "Juan Carlos Gonzalez Martin"
 authorSlug: "juan-carlos-gonzalez-martin"
 keywords: ['SharePoint 2013','Manejador de Evento Remoto']
+image: "../images/manejadores-eventos-remotos/image1.png"
+
 ---
 
 En este artículo vamos a ver cómo crear un manejador de eventos remoto que reaccione ante los cambios qué tengan lugar en una lista personalizada desplegada como parte de una aplicación del nuevo modelo de aplicaciones de SharePoint 2013.

@@ -1,10 +1,13 @@
 ---
+
 title: "Ahorrando código, Funcionalidades de C# para no Programar (de) más (pero programar mejor)"
 slug: "ahorrando-codigo-funcionalidades-de-c-para-no-programar-de-mas"
 magazineSlug: "numero-46"
 author: "Jose Manuel Redondo Lopez"
 authorSlug: "jose-manuel-redondo"
 keywords: ['C#']
+image: "../images/ahorrando_codigo/image1.png"
+
 ---
 
 En un artículo anterior explorábamos una forma de hacer llegar conceptos

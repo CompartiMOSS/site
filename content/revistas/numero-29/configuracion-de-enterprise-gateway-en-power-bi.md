@@ -1,10 +1,13 @@
 ---
+
 title: "Configuración de Enterprise Gateway en Power Bi"
 slug: "configuracion-de-enterprise-gateway-en-power-bi"
 magazineSlug: "numero-29"
 author: "Gaston Cruz"
 authorSlug: "gaston-cruz"
 keywords: ['Power BI']
+image: "../images/configuracion-de-enterprise-gateway-en-power-bi/image1.png"
+
 ---
 
 En el presente artículo se mostrarán los pasos a seguir para la correcta configuración de Gateway en Power BI, y la actualización de información de data sources utilizando dicha Gateway.

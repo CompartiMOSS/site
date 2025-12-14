@@ -1,10 +1,13 @@
 ---
+
 title: "Cómo Crear Tenants de pruebas para Microsoft 365, Intune, PowerPlatform y Azure"
 slug: "como-crear-tenants-de-pruebas-para-microsoft-365-intune-powerplatform-y-azure"
 magazineSlug: "numero-60"
 author: "Alberto Andrés Rodríguez"
 authorSlug: "alberto-andres-rodriguez"
 keywords: ['Microsoft 365', 'Intune', 'PowerPlatform', 'Azure']
+image: "../images/como-crear-tenants-de-pruebas-para-microsoft-365-intune-powerplatform-y-azure/image1.png"
+
 ---
 
 En el desarrollo de software y la administración de sistemas IT, contar
@@ -50,7 +53,7 @@ específicas. (por ejemplo el que tengo yo ya lleva en activo unos
 años...)
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero60/como-crear-tenants-de-pruebas-para-microsoft-365-intune-powerplatform-y-azure/image1.png)
+generated](../images/como-crear-tenants-de-pruebas-para-microsoft-365-intune-powerplatform-y-azure/image1.png)
 
 Algunas de las acciones que puedes realizar para promover la renovación
 automática incluyen:
@@ -72,7 +75,7 @@ Puedes importar paquetes de usuarios y contenido para que no se vean tan
 desangelados, proporcionándote una base para empezar a trabajar:
 
 ![A close up of text Description automatically
-generated](../../../images/numero60/como-crear-tenants-de-pruebas-para-microsoft-365-intune-powerplatform-y-azure/image2.png)
+generated](../images/como-crear-tenants-de-pruebas-para-microsoft-365-intune-powerplatform-y-azure/image2.png)
 
 **Yo soy de workplace y necesito montar un Laboratorio para Intune o
 Pruebas con Equipos de Usuarios**
@@ -93,7 +96,7 @@ descargar el ejecutable (22GB) y montar tu propio entorno de HyperV, el
 que luego lo quieras enganchar con Intune, ya es cosa tuya
 
 ![A white background with black text Description automatically
-generated](../../../images/numero60/como-crear-tenants-de-pruebas-para-microsoft-365-intune-powerplatform-y-azure/image3.png)
+generated](../images/como-crear-tenants-de-pruebas-para-microsoft-365-intune-powerplatform-y-azure/image3.png)
 
 **Si vas a montar el lab en una VM de Azure, ten en cuenta lo
 siguiente:**
@@ -168,7 +171,7 @@ este nombre. A excepción de los dataflows, tendrás acceso a todas las
 características estándar y premium.
 
 ![Power Apps maker
-experience](../../../images/numero60/como-crear-tenants-de-pruebas-para-microsoft-365-intune-powerplatform-y-azure/image4.png)
+experience](../images/como-crear-tenants-de-pruebas-para-microsoft-365-intune-powerplatform-y-azure/image4.png)
 
 No todas las organizaciones tendrán acceso a Dataverse. El uso del plan
 para desarrolladores de Power Apps te dará la oportunidad de descubrir
@@ -189,7 +192,7 @@ Learn](https://learn.microsoft.com/en-us/partner-center/mpn-benefits-visual-stud
 entre otras cosas:
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero60/como-crear-tenants-de-pruebas-para-microsoft-365-intune-powerplatform-y-azure/image5.png)
+generated](../images/como-crear-tenants-de-pruebas-para-microsoft-365-intune-powerplatform-y-azure/image5.png)
 
 Aquí ya es cuestión de hablar con quien maneja el partner center y
 pedirle el favor que te asigne una licencia. Esto mismo es aplicable a

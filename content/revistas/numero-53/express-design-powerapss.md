@@ -1,10 +1,13 @@
 ---
+
 title: "Express Design en PowerApps"
 slug: "express-design-powerapss"
 magazineSlug: "numero-53"
 author: "Alex Rostán"
 authorSlug: "alex-rostan"
 keywords: ['Power Apps', 'Express Design', 'Power Platform']
+image: "../images/express-design-powerapss/image1.png"
+
 ---
 
 Desde hace algunos meses Power Apps nos permite crear aplicaciones de

@@ -1,10 +1,13 @@
 ---
+
 title: "Utiliza directivas para mejorar tus conectores personalizados"
 slug: "custom-connectors"
 magazineSlug: "numero-56"
 author: "Mar Pedroche"
 authorSlug: "mar-pedroche"
 keywords: ['Power Platform', 'Custom Connectors']
+image: "../images/custom-connectors/image1.png"
+
 ---
 
 En entornos empresariales cada vez más dinámicos y complejos, es
@@ -52,7 +55,7 @@ facilitar o hacer más usable el conector a un usuario no desarrollador.
 
 ![Interfaz de usuario gráfica, Texto, Aplicación, Correo electrónico
 Descripción generada
-automáticamente](../../../images/numero56/custom-connectors/image1.png)
+automáticamente](../images/custom-connectors/image1.png)
 
 Dentro de los conectores podemos crear este tipo de directivas basadas
 en las plantillas disponibles:
@@ -77,7 +80,7 @@ en las plantillas disponibles:
 
 ![Interfaz de usuario gráfica, Texto, Aplicación, Correo electrónico
 Descripción generada
-automáticamente](../../../images/numero56/custom-connectors/image2.png)
+automáticamente](../images/custom-connectors/image2.png)
 
 A continuación, vamos a ver unos ejemplos de cómo aplicar estas
 directivas.
@@ -91,13 +94,13 @@ cuál es el host al que vamos a apuntar.
 
 ![Interfaz de usuario gráfica, Texto, Aplicación, Correo electrónico
 Descripción generada
-automáticamente](../../../images/numero56/custom-connectors/image3.png)
+automáticamente](../images/custom-connectors/image3.png)
 
 De esta forma al establecer la conexión nos que le indiquemos la URL del
 host para esa conexión.
 
 ![Interfaz de usuario gráfica, Aplicación Descripción generada
-automáticamente](../../../images/numero56/custom-connectors/image4.png)
+automáticamente](../images/custom-connectors/image4.png)
 
 **Ejemplo 2: Establecer encabezado HTTP**
 
@@ -108,7 +111,7 @@ aplicaremos una directiva para establecer el encabezado
 
 ![Interfaz de usuario gráfica, Texto, Aplicación, Correo electrónico
 Descripción generada
-automáticamente](../../../images/numero56/custom-connectors/image5.png)
+automáticamente](../images/custom-connectors/image5.png)
 
 Esta directiva sustituirá el valor que incluyamos en nuestro parámetro
 de conexión por el mismo añadiéndole delante apikey. Para ello en la
@@ -117,7 +120,7 @@ api_key como veis en la siguiente imagen.
 
 ![Interfaz de usuario gráfica, Texto, Aplicación, Correo electrónico
 Descripción generada
-automáticamente](../../../images/numero56/custom-connectors/image6.png)
+automáticamente](../images/custom-connectors/image6.png)
 
 **Ejemplo 3: Establecer parámetro de cadena de consulta**
 
@@ -132,7 +135,7 @@ requiere que añadamos *video==YOUR_VIDEO_ID*
 
 ![Interfaz de usuario gráfica, Texto, Aplicación, Correo electrónico
 Descripción generada
-automáticamente](../../../images/numero56/custom-connectors/image7.png)
+automáticamente](../images/custom-connectors/image7.png)
 
 Con esta directiva, simplemente añadiendo el ID de la video funcionaria
 correctamente. Después de presentar algunos ejemplos donde se ha

@@ -1,10 +1,13 @@
 ---
+
 title: "Introducción a FastTrack Network Analysis para Office 365"
 slug: "introduccion-a-fasttrack-network-analysis-para-office-365"
 magazineSlug: "numero-31"
 author: "Juan Carlos Gonzalez Martin"
 authorSlug: "juan-carlos-gonzalez-martin"
 keywords: ['Office 365','FastTrack']
+image: "../images/introduccion-a-fasttrack-network-analysis-para-office-365/image1.png"
+
 ---
 
 Para comenzar a utilizar FastTrack Network Analysis para Office 365 no tenéis más que acceder a la dirección Url [http://em1-fasttrack.cloudapp.net/o365nwtest](http://em1-fasttrack.cloudapp.net/o365nwtest) .     Al navegar a esta Url os encontraréis con la primera sorpresa “inesperada” y es que FastTrack Network Analysis para Office 365 está disponible por medio de un applet de Java lo que en la práctica se traduce en que sólo podréis ejecutar la herramienta desde Internet Explorer o Mozilla FireFox. Si tratáis de ejecutarla desde Google Chrome o Microsoft Edge, simplemente no podréis.

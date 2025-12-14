@@ -1,10 +1,13 @@
 ---
+
 title: "Usando R-script en Power BI"
 slug: "usando-r-script-en-power-bi"
 magazineSlug: "numero-30"
 author: "Bruno Torterolo"
 authorSlug: "bruno-torterolo"
 keywords: ['Power BI']
+image: "../images/usando-r-script-en-power-bi/image1.png"
+
 ---
 
 **¿Qué es R-script?**

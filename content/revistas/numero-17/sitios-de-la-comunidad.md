@@ -1,10 +1,13 @@
 ---
+
 title: "Sitios de la Comunidad"
 slug: "sitios-de-la-comunidad"
 magazineSlug: "numero-17"
 author: "Miguel Ángel García Rodríguez"
 authorSlug: "miguel-angel-garcia-rodriguez"
 keywords: ['SharePoint 2013','Comunidad','Social']
+image: "../images/sitios-de-la-comunidad/figura1.png"
+
 ---
 
 "Un lugar donde los miembros de la comunidad conversan sobre temas de interés común. Los miembros pueden examinar y descubrir contenido relevante si exploran las categorías, ordenan las discusiones por popularidad o eligen ver sólo los mensajes que tienen una mejor respuesta. Los miembros pueden obtener puntos de reputación al participar en actividades de la comunidad: iniciando discusiones y respondiendo a ellas, marcando las publicaciones que les gustan o indicando las mejores respuestas, entre otras".

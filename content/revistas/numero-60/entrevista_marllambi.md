@@ -1,10 +1,13 @@
 ---
+
 title: "Entrevista a Mar Llambi"
 slug: "entrevista_marllambi"
 magazineSlug: "numero-60"
 author: "Mar Llambi"
 authorSlug: "mar-llambi"
 keywords: ['Entrevista']
+image: "../images/entrevista_marllambi/image1.png#author"
+
 ---
 
 ![Adrián de los Reyes](../images/entrevista_marllambi/image1.png#author)

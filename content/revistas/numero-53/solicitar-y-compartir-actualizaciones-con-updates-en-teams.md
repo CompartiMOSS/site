@@ -1,10 +1,13 @@
 ---
+
 title: "Solicitar y Compartir Actualizaciones con Updates en Teams"
 slug: "solicitar-y-compartir-actualizaciones-con-updates-en-teams"
 magazineSlug: "numero-53"
 author: "Juan Carlos González Martín"
 authorSlug: "juan-carlos-gonzalez-martin"
 keywords: ['Microsoft Teams', 'Updates']
+image: "../images/solicitar-y-compartir-actualizaciones-con-updates-en-teams/image1.png"
+
 ---
 
 Microsoft 365 y sus servicios principales (SharePoint Online, Exchange

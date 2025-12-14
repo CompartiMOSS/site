@@ -1,10 +1,13 @@
 ---
+
 title: "Novedades en Power BI"
 slug: "novedades-en-power-bi"
 magazineSlug: "numero-23"
 author: "Javier Menéndez Pallo"
 authorSlug: "javier-menendez-pallo"
 keywords: ['BI','Power BI']
+image: "../images/novedades-en-power-bi/imagen1.png"
+
 ---
 
 ​En los últimos días puede que algunos de vosotros hayáis oído que se acercan novedades a Office 365 en lo que respecta a Power BI, y con el objetivo de daros un poco de luz sobre estos rumores aquí os dejo algunas pinceladas de lo que nos vamos a encontrar. Como en toda preview quiero recordaros que todo lo que hoy tenemos disponible es factible de cambio y/o eliminación, por lo que tomar este articulo como una antesala de la realidad a corto plazo.

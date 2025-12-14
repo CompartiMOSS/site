@@ -1,10 +1,13 @@
 ---
+
 title: "Manejando listas de datos en PowerApps"
 slug: "manejando-listas-de-datos-en-powerapps"
 magazineSlug: "numero-47"
 author: "Alberto Escola"
 authorSlug: "alberto-escola-fiz"
 keywords: ['Power Apps','Microsoft Lists']
+image: "../images/manejando-listas-de-datos-en-powerapps/image1.png"
+
 ---
 
 Una de las tareas más frecuentes que nos podemos encontrar al

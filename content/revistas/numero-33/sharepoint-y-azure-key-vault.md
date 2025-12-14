@@ -1,10 +1,13 @@
 ---
+
 title: "SharePoint y Azure -  Azure Key Vault como depósito de claves para SharePoint"
 slug: "sharepoint-y-azure-key-vault"
 magazineSlug: "numero-33"
 author: "Gustavo Velez"
 authorSlug: "gustavo-velez"
 keywords: ['Azure','Azure Key Vault']
+image: "../images/sharepoint-y-azure-key-vault/image1.png"
+
 ---
 
 **Que es y cómo funciona el Azure Key Vault**

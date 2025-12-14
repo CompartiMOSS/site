@@ -1,10 +1,13 @@
 ---
+
 title: "Power BI -  Conexión con SQL y Oracle"
 slug: "power-bi-conexion-con-sql-y-oracle"
 magazineSlug: "numero-29"
 author: "Bruno Torterolo"
 authorSlug: "bruno-torterolo"
 keywords: ['Power BI','SQL Server']
+image: "../images/power-bi-conexion-con-sql-y-oracle/image1.png"
+
 ---
 
 Power BI ofrece múltiples servicios de conexión a diversos orígenes de datos. En este artículo nos centraremos en la conexión a bases de datos *On Premises* de *SQL Server* y *Oracle*. Como es de público conocimiento contamos con dos plataformas de desarrollo para Power BI (*Power BI Desktop* y *Power BI Web*), además del componente de refresco de información (Gateway).

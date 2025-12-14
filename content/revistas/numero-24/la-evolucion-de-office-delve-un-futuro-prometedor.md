@@ -1,10 +1,13 @@
 ---
+
 title: "La evolución de Office Delve, un futuro prometedor"
 slug: "la-evolucion-de-office-delve-un-futuro-prometedor"
 magazineSlug: "numero-24"
 author: "Ignasi Tebé"
 authorSlug: "ignasi-tebe"
 keywords: ['Office 365','Delve']
+image: "../images/la-evolucion-de-office-delve-un-futuro-prometedor/image1.jpeg"
+
 ---
 
 ​A estas alturas la mayoría de nosotros conocemos ya a Office Delve, un actor relativamente nuevo en la nube de aplicaciones de Office 365 que viene a romper el paradigma tradicional de los portales de información, mostrando la información que "el sistema" entiende que es relevante para cada uno de nosotros en forma de "cards" visuales que hacen de Delve una plataforma dinámica y atractiva de navegar.

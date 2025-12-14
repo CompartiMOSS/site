@@ -1,10 +1,13 @@
 ---
+
 title: "Usando el Detector de Anomalías de Azure con Office 365"
 slug: "azure-anomaly-detector"
 magazineSlug: "numero-45"
 author: "Gustavo Velez"
 authorSlug: "gustavo-velez"
 keywords: ['Azure', 'Azure Cognitive Services']
+image: "../images/azure-anomaly-detector/image1.png"
+
 ---
 
 El Anomaly Detector es un servicio de Azure que permite monitorear

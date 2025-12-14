@@ -1,10 +1,13 @@
 ---
+
 title: "SharePoint 2013 sobre Azure IAAS"
 slug: "sharepoint-2013-sobre-azure-iaas"
 magazineSlug: "numero-20"
 author: "Luis Emilio López"
 authorSlug: "luis-emilio-lopez"
 keywords: ['SharePoint 2013','Azure']
+image: "../images/sharepoint-2013-sobre-azure-iaas/imagen1.png"
+
 ---
 
 ​Bien, bien, bien… como decirlo suavemente: SharePoint 2013 y Azure a priori no se llevan bien.

@@ -1,10 +1,13 @@
 ---
+
 title: "Power Virtual Agents en Microsoft Teams"
 slug: "power_virtual_agents_microsoft_teams"
 magazineSlug: "numero-46"
 author: "Alex Rostan"
 authorSlug: "alex-rostan"
 keywords: ['Power Virtual Agents', 'Microsoft 365']
+image: "../images/power_virtual_agents_microsoft_teams/image1.png"
+
 ---
 
 Al comienzo utilizamos Microsoft Bot Framework para desarrollar los

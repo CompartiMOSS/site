@@ -64,7 +64,7 @@ Emplearemos el bloque de invocación de servicio que tiene el siguiente
 esquema
 
 ![Diagram showing the steps of service
-invocation](../../../images/numero55/yarp-y-dapr-creando-un-apigateway-para-nuestros-microservicios/image1.png)
+invocation](../images/yarp-y-dapr-creando-un-apigateway-para-nuestros-microservicios/image1.png)
 
 1.  El servicio A hace una llamada HTTP o gRPC indicando como destino el
     servicio B. Esta llamada se hace al sidecar de Dapr.

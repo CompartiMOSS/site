@@ -1,10 +1,13 @@
 ---
+
 title: "Power BI Premium – Power BI Report Server"
 slug: "power-bi-premium-power-bi-report-server"
 magazineSlug: "numero-32"
 author: "Gaston Cruz"
 authorSlug: "gaston-cruz"
 keywords: ['Power BI']
+image: "../images/power-bi-premium-power-bi-report-server/imaged.png"
+
 ---
 
 Hace pocos días Microsoft lanzó una versión diferente de licenciamiento para Power BI. No voy a avanzar mayormente sobre este tema, pero si me parecía una introducción interesante ya que se agrega a la suite un componente que muchos han estado esperando: la capacidad de realizar despliegue de reportes de Power BI en forma On Premises. Dado que es un componente nuevo, me lance a investigar acerca de sus prestaciones, y requerimientos.

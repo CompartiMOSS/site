@@ -1,10 +1,13 @@
 ---
+
 title: "Introducción a Synapse Analytics -- integración con Power BI"
 slug: "intro-a-synapse-analytics"
 magazineSlug: "numero-46"
 author: "Gastón Cruz"
 authorSlug: "gaston-cruz"
 keywords: ['Azure Synapse', 'Azure']
+image: "../images/intro-a-synapse-analytics/image1.jpg"
+
 ---
 
 En este articulo hablaremos sobre esta plataforma de datos en Azure, que

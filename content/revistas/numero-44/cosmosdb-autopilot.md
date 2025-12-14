@@ -1,10 +1,13 @@
 ---
+
 title: "CosmosDB Autopilot"
 slug: "cosmosdb-autopilot"
 magazineSlug: "numero-44"
 author: "Robert Bermejo"
 authorSlug: "robert-bermejo"
 keywords: ['CosmosDB']
+image: "../images/cosmosdb-autopilot/image1.png"
+
 ---
 
 Cuando trabajamos con CosmosDB, una de las cosas que más cuesta ajustar es la cantidad de *throughput* que necesitamos. En muchas ocasiones te ves obligado a configurar las Requests Units per second (RU/s) por encima de lo que realmente necesitamos porque durante el 5% del tiempo necesitamos tener ese número de RU/s para dar servicio y el 95% de tiempo restante no lo necesitamos. Lógicamente esto hace que el coste de CosmosDB sea más alto de lo necesario por un 5%.

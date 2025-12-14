@@ -1,10 +1,13 @@
 ---
+
 title: "Probando la Wrap Feature de Power Apps"
 slug: "probando-la-wrap-feature"
 magazineSlug: "numero-52"
 author: "Enrique Sánchez Moreno"
 authorSlug: "enrique-sanchez"
 keywords: ['Power Platform','Power Apps', 'Wrpap Feature']
+image: "../images/probando-la-wrap-feature/image1.png"
+
 ---
 
 En este artículo voy a mostrar cómo podéis probar desde cero la nueva

@@ -1,10 +1,13 @@
 ---
+
 title: "Análisis de Logs ULS usando ElasticStack (Beats, Logstash, Elasticsearch y Kibana)"
 slug: "analisis-de-logs-uls-usando-elasticstack"
 magazineSlug: "numero-39"
 author: "Daniel Pérez Aguiar"
 authorSlug: "daniel-perez-aguiar"
 keywords: ['SharePoint']
+image: "../images/analisis-de-logs-uls-usando-elasticstack/image1.png"
+
 ---
 
 ​El stack de Elastic sigue la siguiente estructura:

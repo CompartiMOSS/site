@@ -1,10 +1,13 @@
 ---
+
 title: "Introducción a .NET Aspire"
 slug: "net-aspire-es-un-conjunto-de-herramientas"
 magazineSlug: "numero-59"
 author: "Santiago Porras Rodríguez"
 authorSlug: "santiago-porras-rodriguez"
 keywords: ['.NET', 'Aspire', 'Microservicios']
+image: "../images/net-aspire-es-un-conjunto-de-herramientas/image1.png"
+
 ---
 
 .NET Aspire es un conjunto de herramientas, componentes y patrones que
@@ -46,7 +49,7 @@ muy simple que enruta a cada uno de los elementos orquestados
 gestionando los accesos con "named endpoints".
 
 ![A screenshot of a computer program Description automatically
-generated](../../../images/numero59/net-aspire-es-un-conjunto-de-herramientas/image1.png)
+generated](../images/net-aspire-es-un-conjunto-de-herramientas/image1.png)
 
 ## Componentes
 
@@ -70,13 +73,13 @@ Visual Studio, se puede hacer desde la propia interfaz, o también se
 puede hacer por línea de comandos como con cualquier paquete Nuget.
 
 ![A black background with white text Description automatically
-generated](../../../images/numero59/net-aspire-es-un-conjunto-de-herramientas/image2.png)
+generated](../images/net-aspire-es-un-conjunto-de-herramientas/image2.png)
 
 Una vez instalado, podremos hacer uso de este componente, como en el
 código que vimos anteriormente
 
 ![A screenshot of a computer screen Description automatically
-generated](../../../images/numero59/net-aspire-es-un-conjunto-de-herramientas/image3.png)
+generated](../images/net-aspire-es-un-conjunto-de-herramientas/image3.png)
 
 ## Herramientas
 
@@ -127,10 +130,10 @@ Aspire, ya podremos comenzar a crear proyectos desde Visual Studio o
 desde línea de comandos como podemos ver en las imágenes a continuación.
 
 ![A screenshot of the .NET Aspire Starter Application
-template.](../../../images/numero59/net-aspire-es-un-conjunto-de-herramientas/image4.png)
+template.](../images/net-aspire-es-un-conjunto-de-herramientas/image4.png)
 
 ![Imagen que contiene Texto Descripción generada
-automáticamente](../../../images/numero59/net-aspire-es-un-conjunto-de-herramientas/image5.png)
+automáticamente](../images/net-aspire-es-un-conjunto-de-herramientas/image5.png)
 
 ## Ejecutar la orquestación
 
@@ -139,19 +142,19 @@ proyecto de inicio el AppHost. Si estamos en línea de comandos,
 ejecutando "*dotnet run*" desde el directorio del proyecto AppHost:
 
 ![A black background with white text Description automatically
-generated](../../../images/numero59/net-aspire-es-un-conjunto-de-herramientas/image6.png)
+generated](../images/net-aspire-es-un-conjunto-de-herramientas/image6.png)
 
 También podemos hacerlo desde el proyecto de la solución:
 
 ![Texto Descripción generada automáticamente con confianza
-baja](../../../images/numero59/net-aspire-es-un-conjunto-de-herramientas/image7.png)
+baja](../images/net-aspire-es-un-conjunto-de-herramientas/image7.png)
 
 Si hemos ejecutado desde línea de comandos, podremos observar el log de
 la consola que nos indica en qué ruta local está levantado el Dashboard.
 En este caso "*http://localhost:15174*"
 
 ![Texto Descripción generada
-automáticamente](../../../images/numero59/net-aspire-es-un-conjunto-de-herramientas/image8.png)
+automáticamente](../images/net-aspire-es-un-conjunto-de-herramientas/image8.png)
 
 Si hemos ejecutado el proyecto desde Visual Studio 2022 o si accedemos a
 la ruta que nos indica el log de la consola, podremos ver el dashboard
@@ -159,17 +162,17 @@ de Aspire, en el que se muestran los proyectos que están siendo
 orquestados, su estado, logs, etc.
 
 ![A screenshot of a computer Description automatically
-generated](../../../images/numero59/net-aspire-es-un-conjunto-de-herramientas/image9.png)
+generated](../images/net-aspire-es-un-conjunto-de-herramientas/image9.png)
 
 Algo muy importante del dashboard es la capacidad de poder ver logs y
 métricas, que nos darán información sobre la ejecución y el rendimiento
 de los elementos que componen nuestras soluciones.
 
 ![Captura de pantalla de un celular Descripción generada
-automáticamente](../../../images/numero59/net-aspire-es-un-conjunto-de-herramientas/image10.png)
+automáticamente](../images/net-aspire-es-un-conjunto-de-herramientas/image10.png)
 
 ![Interfaz de usuario gráfica Descripción generada
-automáticamente](../../../images/numero59/net-aspire-es-un-conjunto-de-herramientas/image11.png)
+automáticamente](../images/net-aspire-es-un-conjunto-de-herramientas/image11.png)
 
 ## Resumen
 

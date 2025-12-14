@@ -1,10 +1,13 @@
 ---
+
 title: "Big Data como solución PaaS en Azure -  HDInsight y HBase"
 slug: "big-data-como-solucion-paas-en-azure-hdinsight-y-hbase"
 magazineSlug: "numero-30"
 author: "Sergio Hernandez Mancebo"
 authorSlug: "sergio-hernandez-mancebo"
 keywords: ['Big Data','Azure HDInsight','Azure']
+image: "../images/big-data-como-solucion-paas-en-azure-hdinsight-y-hbase/image1.png"
+
 ---
 
 Es una evidencia que cada vez más tendemos a acumular cantidades muy grandes de datos, y que casi cualquier corporación media está pasando por este proceso. Si bien es muy normal que casi cualquier empresa haya abandonado ya los modelos relacionales, invirtiendo en otros modelos más dinámicos como modelos documentales o analíticos, se hace más complejo ver instaurado un modelo Big Data, bien por desconocimiento, por coste o por cultura.

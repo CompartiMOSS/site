@@ -1,10 +1,13 @@
 ---
+
 title: "Introducción al almacén de conocimiento (Knowledge Store)"
 slug: "introducción-al-almacen-de-conocimiento-knowledge-store"
 magazineSlug: "numero-44"
 author: "Luis Valencia"
 authorSlug: "luis-valencia"
 keywords: ['Knowledge Store']
+image: "../images/introducción-al-almacen-de-conocimiento-knowledge-store/image1.png"
+
 ---
 
 ​En este mundo hiperconectado el almacenar datos es de suma importancia para las empresas, escuelas, instituciones, etc., ya que con ello se realizan investigaciones o toma de decisiones, por ello cada día se busca la manera de encontrar recursos en los cuales la información quede almacenada y segura.

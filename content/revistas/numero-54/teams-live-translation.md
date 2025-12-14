@@ -1,10 +1,13 @@
 ---
+
 title: "Microsoft Teams -- Live Captions y traducción automática"
 slug: "teams-live-translation"
 magazineSlug: "numero-54"
 author: "Alex Rostan"
 authorSlug: "alex-rostan"
 keywords: ['Microsoft Teams', 'Live Captions']
+image: "../images/teams-live-translation/image1.png"
+
 ---
 
 En las últimas actualizaciones de Microsoft Teams podemos observar

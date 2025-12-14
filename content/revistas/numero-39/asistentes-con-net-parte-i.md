@@ -1,10 +1,13 @@
 ---
+
 title: "Asistentes con .net – Parte I"
 slug: "asistentes-con-net-parte-i"
 magazineSlug: "numero-39"
 author: "Diego Zapico"
 authorSlug: "diego-zapico"
 keywords: ['Asistentes','.NET']
+image: "../images/asistentes-con-net-parte-i/image1.png"
+
 ---
 
 Este es el comienzo de una serie de artículos en los que trataré el desarrollo con .net sobre algunos de los asistentes que hay actualmente en el mercado. Creo conveniente comenzar por: *"¿Alexa y Assistant son bots o asistentes?*" Desde mi punto de vista haría más una diferencia en cuanto a su dominio de trabajo y desarrollo de interfaces de comunicación. Tradicionalmente se ha hablado de los bots como sistemas que solo entendían una única entrada de información, texto y con un dominio muy concreto, como Irene, el "*asistente*" de Renfe ([http://consulta.renfe.com](http://consulta.renfe.com/)), que aunque lo llamen asistente no lo deberíamos de confundir con Alexa o Assistant, los que yo considero realmente asistentes, ya que su dominio es mucho mayor y variado.
