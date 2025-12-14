@@ -71,8 +71,8 @@ jobs:
         with:
           inlineScript: |
             az storage blob delete-batch \
-              --account-name ${{ secrets.AZURE_STORAGE_ACCOUNT_NAME_DEV }} \
-              --account-key ${{ secrets.AZURE_STORAGE_ACCOUNT_KEY_DEV }} \
+              --account-name ${{ secrets.AZURE_STORAGE_ACCOUNT_NAME }} \
+              --account-key ${{ secrets.AZURE_STORAGE_ACCOUNT_KEY }} \
               --source '$web'
       
       - name: Deploy to Azure Storage Static Website (DEV)
@@ -80,8 +80,8 @@ jobs:
         with:
           inlineScript: |
             az storage blob upload-batch \
-              --account-name ${{ secrets.AZURE_STORAGE_ACCOUNT_NAME_DEV }} \
-              --account-key ${{ secrets.AZURE_STORAGE_ACCOUNT_KEY_DEV }} \
+              --account-name ${{ secrets.AZURE_STORAGE_ACCOUNT_NAME }} \
+              --account-key ${{ secrets.AZURE_STORAGE_ACCOUNT_KEY }} \
               --destination '$web' \
               --source ./public \
               --overwrite
@@ -103,8 +103,8 @@ jobs:
         with:
           inlineScript: |
             az storage blob delete-batch \
-              --account-name ${{ secrets.AZURE_STORAGE_ACCOUNT_NAME_PRO }} \
-              --account-key ${{ secrets.AZURE_STORAGE_ACCOUNT_KEY_PRO }} \
+              --account-name ${{ secrets.AZURE_STORAGE_ACCOUNT_NAME }} \
+              --account-key ${{ secrets.AZURE_STORAGE_ACCOUNT_KEY }} \
               --source '$web'
       
       - name: Deploy to Azure Storage Static Website (PRO)
@@ -112,8 +112,8 @@ jobs:
         with:
           inlineScript: |
             az storage blob upload-batch \
-              --account-name ${{ secrets.AZURE_STORAGE_ACCOUNT_NAME_PRO }} \
-              --account-key ${{ secrets.AZURE_STORAGE_ACCOUNT_KEY_PRO }} \
+              --account-name ${{ secrets.AZURE_STORAGE_ACCOUNT_NAME }} \
+              --account-key ${{ secrets.AZURE_STORAGE_ACCOUNT_KEY }} \
               --destination '$web' \
               --source ./public \
               --overwrite
