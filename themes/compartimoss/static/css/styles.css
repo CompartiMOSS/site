@@ -461,9 +461,13 @@ button {
 .nav-mobile {
   padding: 1rem 0;
   border-top: 1px solid var(--color-gray-200);
-  display: flex;
+  display: none;
   flex-direction: column;
   gap: 0.5rem;
+}
+
+.nav-mobile.show {
+  display: flex;
 }
 
 @media (min-width: 1024px) {
