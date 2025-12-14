@@ -4,9 +4,9 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  build_dev:
     runs-on: ubuntu-latest
-    name: Build Site
+    name: Build Site for DEV
     steps:
       - uses: actions/checkout@v3
         with:
@@ -19,26 +19,51 @@ jobs:
           hugo-version: 'latest'
           extended: true
       
-      - name: Build
-        run: hugo --minify
+      - name: Build for DEV
+        run: hugo --minify --baseURL https://compartimossweb.z6.web.core.windows.net/
       
-      - name: Upload build artifacts
+      - name: Upload DEV build artifacts
         uses: actions/upload-artifact@v3
         with:
-          name: public
+          name: public-dev
+          path: ./public
+          retention-days: 1
+
+  build_pro:
+    runs-on: ubuntu-latest
+    name: Build Site for PRO
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          submodules: true
+          lfs: false
+      
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          extended: true
+      
+      - name: Build for PRO
+        run: hugo --minify --baseURL https://www.compartimoss.com/
+      
+      - name: Upload PRO build artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: public-pro
           path: ./public
           retention-days: 1
 
   deploy_dev:
     runs-on: ubuntu-latest
     name: Deploy to DEV
-    needs: build
+    needs: build_dev
     environment: DEV
     steps:
       - name: Download build artifacts
         uses: actions/download-artifact@v3
         with:
-          name: public
+          name: public-dev
           path: ./public
       
       - name: Delete existing files from Azure Storage (DEV)
@@ -64,13 +89,13 @@ jobs:
   deploy_pro:
     runs-on: ubuntu-latest
     name: Deploy to PRO
-    needs: deploy_dev
+    needs: [build_pro, deploy_dev]
     environment: PRO
     steps:
       - name: Download build artifacts
         uses: actions/download-artifact@v3
         with:
-          name: public
+          name: public-pro
           path: ./public
       
       - name: Delete existing files from Azure Storage (PRO)

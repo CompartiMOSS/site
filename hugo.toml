@@ -1,4 +1,4 @@
-baseURL = 'https://compartimoss.com/'
+baseURL = 'https://www.compartimoss.com/'
 languageCode = 'es'
 title = 'CompartiMOSS'
 theme = 'compartimoss'
