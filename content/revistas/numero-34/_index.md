@@ -1,7 +1,7 @@
 ---
 title: "Número 34 - Diciembre 2017"
 slug: "numero-34"
-date: 2020-03-29
+date: 2017-12-29
 number: 34
 coverImage: "./images/CompartiMOSS_34.jpg"
 pdfUrl: "./CompartiMOSS_34.pdf"

@@ -1,7 +1,7 @@
 ---
 title: "Número 29 - Septiembre 2016"
 slug: "numero-29"
-date: 2020-03-29
+date: 2016-09-29
 number: 29
 coverImage: "./images/CompartiMOSS_29.jpg"
 pdfUrl: "./CompartiMOSS_29.pdf"

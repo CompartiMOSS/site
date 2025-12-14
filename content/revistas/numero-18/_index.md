@@ -1,7 +1,7 @@
 ---
 title: "Número 18 - Diciembre 2013"
 slug: "numero-18"
-date: 2020-03-29
+date: 2013-12-29
 number: 18
 coverImage: "./images/CompartiMOSS_18.jpg"
 pdfUrl: "./CompartiMOSS_18.pdf"

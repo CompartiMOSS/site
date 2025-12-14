@@ -1,7 +1,7 @@
 ---
 title: "Número 42 - Enero 2020"
 slug: "numero-42"
-date: 2020-03-29
+date: 2020-01-29
 number: 42
 coverImage: "./images/CompartiMOSS_42.jpg"
 pdfUrl: "./CompartiMOSS_42.pdf"

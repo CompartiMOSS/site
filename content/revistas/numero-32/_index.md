@@ -1,7 +1,7 @@
 ---
 title: "Número 32 - Junio 2017"
 slug: "numero-32"
-date: 2020-03-29
+date: 2017-06-29
 number: 32
 coverImage: "./images/CompartiMOSS_32.jpg"
 pdfUrl: "./CompartiMOSS_32.pdf"

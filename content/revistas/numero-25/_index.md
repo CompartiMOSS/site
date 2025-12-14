@@ -1,7 +1,7 @@
 ---
 title: "Número 25 - Septiembre 2015"
 slug: "numero-25"
-date: 2020-03-29
+date: 2015-09-29
 number: 25
 coverImage: "./images/CompartiMOSS_25.jpg"
 pdfUrl: "./CompartiMOSS_25.pdf"

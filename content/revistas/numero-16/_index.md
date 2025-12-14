@@ -1,7 +1,7 @@
 ---
 title: "Número 16 - Junio 2013"
 slug: "numero-16"
-date: 2020-03-29
+date: 2013-06-29
 number: 16
 coverImage: "./images/CompartiMOSS_16.jpg"
 pdfUrl: "./CompartiMOSS_16.pdf"

@@ -1,7 +1,7 @@
 ---
 title: "Número 41 - Septiembre 2019"
 slug: "numero-41"
-date: 2020-03-29
+date: 2019-09-29
 number: 41
 coverImage: "./images/CompartiMOSS_41.jpg"
 pdfUrl: "./CompartiMOSS_41.pdf"

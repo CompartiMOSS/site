@@ -1,7 +1,7 @@
 ---
 title: "Número 14 - Enero 2013"
 slug: "numero-14"
-date: 2020-03-29
+date: 2013-01-29
 number: 14
 coverImage: "./images/CompartiMOSS_14.jpg"
 pdfUrl: "./CompartiMOSS_14.pdf"

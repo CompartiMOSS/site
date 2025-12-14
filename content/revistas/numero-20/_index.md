@@ -1,7 +1,7 @@
 ---
 title: "Número 20 - Junio 2014"
 slug: "numero-20"
-date: 2020-03-29
+date: 2014-06-29
 number: 20
 coverImage: "./images/CompartiMOSS_20.jpg"
 pdfUrl: "./CompartiMOSS_20.pdf"

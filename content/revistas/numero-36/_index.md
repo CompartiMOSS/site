@@ -1,7 +1,7 @@
 ---
 title: "Número 36 - Junio 2018"
 slug: "numero-36"
-date: 2020-03-29
+date: 2018-06-29
 number: 36
 coverImage: "./images/CompartiMOSS_36.jpg"
 pdfUrl: "./CompartiMOSS_36.pdf"

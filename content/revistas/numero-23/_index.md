@@ -1,7 +1,7 @@
 ---
 title: "Número 23 - Marzo 2015"
 slug: "numero-23"
-date: 2020-03-29
+date: 2015-03-29
 number: 23
 coverImage: "./images/CompartiMOSS_23.jpg"
 pdfUrl: "./CompartiMOSS_23.pdf"

@@ -1,7 +1,7 @@
 ---
 title: "Número 33 - Septiembre 2017"
 slug: "numero-33"
-date: 2020-03-29
+date: 2017-09-29
 number: 33
 coverImage: "./images/CompartiMOSS_33.jpg"
 pdfUrl: "./CompartiMOSS_33.pdf"

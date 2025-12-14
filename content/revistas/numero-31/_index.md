@@ -1,7 +1,7 @@
 ---
 title: "Número 31 - Marzo 2017"
 slug: "numero-31"
-date: 2020-03-29
+date: 2017-03-29
 number: 31
 coverImage: "./images/CompartiMOSS_31.jpg"
 pdfUrl: "./CompartiMOSS_31.pdf"

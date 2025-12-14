@@ -1,7 +1,7 @@
 ---
 title: "Número 26 - Diciembre 2016"
 slug: "numero-26"
-date: 2020-03-29
+date: 2016-12-29
 number: 26
 coverImage: "./images/CompartiMOSS_26.jpg"
 pdfUrl: "./CompartiMOSS_26.pdf"

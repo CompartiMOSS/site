@@ -1,7 +1,7 @@
 ---
 title: "Número 17 - Septiembre 2013"
 slug: "numero-17"
-date: 2020-03-29
+date: 2013-09-29
 number: 17
 coverImage: "./images/CompartiMOSS_17.jpg"
 pdfUrl: "./CompartiMOSS_17.pdf"
