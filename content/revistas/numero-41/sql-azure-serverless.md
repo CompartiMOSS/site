@@ -1,10 +1,13 @@
 ---
+
 title: "SQL Azure Serverless"
 slug: "sql-azure-serverless"
 magazineSlug: "numero-41"
 author: "Robert Bermejo"
 authorSlug: "robert-bermejo"
 keywords: ['SQL Database','Azure']
+image: "../images/sql-azure-serverless/image1.png"
+
 ---
 
 El ecosistema serverless de Azure tiene un nuevo servicio: SQL Azure Serverless. Esta opción está en preview y nos permite ahorrar costes ya qué cuando no está en uso no tenemos costes de cálculo.

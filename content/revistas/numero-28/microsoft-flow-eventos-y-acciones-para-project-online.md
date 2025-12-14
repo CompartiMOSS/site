@@ -1,10 +1,13 @@
 ---
+
 title: "Microsoft Flow -  Eventos y acciones para Project Online"
 slug: "microsoft-flow-eventos-y-acciones-para-project-online"
 magazineSlug: "numero-28"
 author: "José Rafael García"
 authorSlug: "jose-rafael-garcia"
 keywords: ['Project Server','Flow']
+image: "../images/microsoft-flow-eventos-y-acciones-para-project-online/image1.png"
+
 ---
 
 Microsoft está tratando de facilitar la creación de aplicaciones multidispositivo y flujos de negocio mediante dos nuevas herramientas: [Microsoft Flow](https://flow.microsoft.com/en-us/documentation/getting-started/) y [Power Apps](https://powerapps.microsoft.com/en-us/tutorials/getting-started/) . Ambas están actualmente en modo “Preview” pero podemos comenzar a usarlas para automatizar de forma sencilla nuestros procesos diarios e integrar varios sistemas.

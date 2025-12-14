@@ -1,10 +1,13 @@
 ---
+
 title: "Dataflows – Desde lo básico, y más allá"
 slug: "dataflows-desde-lo-basico-y-mas-alla"
 magazineSlug: "numero-40"
 author: "Gaston Cruz"
 authorSlug: "gaston-cruz"
 keywords: ['Power BI']
+image: "../images/dataflows-desde-lo-basico-y-mas-alla/image1.png"
+
 ---
 
 Desde hace unos meses, y encontrándose en etapa preliminar apareció en el servicio online de Power BI la capacidad de Dataflows. Hoy en día ya contamos con la disponibilidad general de esta tecnología en el servicio nube de Power BI.

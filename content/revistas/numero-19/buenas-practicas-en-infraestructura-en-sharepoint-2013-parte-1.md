@@ -1,10 +1,13 @@
 ---
+
 title: "Buenas prácticas en infraestructura en SharePoint 2013 - Parte 1"
 slug: "buenas-practicas-en-infraestructura-en-sharepoint-2013-parte-1"
 magazineSlug: "numero-19"
 author: "Miguel Tabera Pacheco"
 authorSlug: "miguel-tabera-pacheco"
 keywords: ['Infrastructura','SharePoint 2013']
+image: "../images/buenas-practicas-en-infraestructura-en-sharepoint-2013-parte-1/imagen1.jpg"
+
 ---
 
 "*¡Maldito SharePoint!*", "*Es una basura*", "*Odio a SharePoint*" … Son frases que solemos escuchar en un ataque de desesperación ante un problema con SharePoint. Los desarrolladores y administradores de IT debemos luchar día a día con extraños problemas que pueden provocar que lleguemos a desesperarnos e incluso a odiar a esta plataforma.

@@ -1,10 +1,13 @@
 ---
+
 title: "Project Cortex -  un Microsoft 365 mucho más inteligente"
 slug: "project-cortex-un-microsoft-365-mucho-mas-inteligente"
 magazineSlug: "numero-44"
 author: "Miguel Tabera Pacheco"
 authorSlug: "miguel-tabera-pacheco"
 keywords: ['Project Cortex','Office 365']
+image: "../images/project-cortex-un-microsoft-365-mucho-mas-inteligente/image1.png"
+
 ---
 
 El pasado mes de noviembre se presentó el que será el mayor lanzamiento de Microsoft 365 desde que, hace tres años, se lanzara Microsoft Teams. Project Cortex permitirá distribuir y mejorar el conocimiento y la experiencia de los usuarios en los servicios más populares que utilizan a diario, dando a SharePoint, a Microsoft Teams y a Office capacidades de IA que permitan generar redes de conocimiento.

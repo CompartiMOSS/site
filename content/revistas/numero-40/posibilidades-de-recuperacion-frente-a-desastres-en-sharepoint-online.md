@@ -1,10 +1,13 @@
 ---
+
 title: "Posibilidades de recuperación frente a desastres en SharePoint Online"
 slug: "posibilidades-de-recuperacion-frente-a-desastres-en-sharepoint-online"
 magazineSlug: "numero-40"
 author: "Juan Carlos Gonzalez Martin"
 authorSlug: "juan-carlos-gonzalez-martin"
 keywords: ['SharePoint Online']
+image: "../images/posibilidades-de-recuperacion-frente-a-desastres-en-sharepoint-online/image1.png"
+
 ---
 
 Una pregunta muy recurrente que he recibido en repetidas ocasiones es la relativa a que opciones proporciona de serie SharePoint Online (SPO) para hacer frente a "desastres" en lo que a perdida de información se refiere. Como os podéis imaginar, en realidad la cuestión de fondo es si Microsoft proporciona algún tipo de mecanismo de Copias de Seguridad y Restauración en SPO. La respuesta a esa pregunta es que "No de forma directa", aunque de forma indirecta si tenemos una serie de herramientas que nos permiten poder recuperar información almacenada en sitios de SPO y en OneDrive For Business (ODFB) en caso de desastre. En este artículo vamos a hacer un repaso a las distintas opciones disponibles.

@@ -1,10 +1,13 @@
 ---
+
 title: "Introduciendo un gestor de paquetes de soluciones para SharePoint"
 slug: "introduciendo-un-gestor-de-paquetes-de-soluciones-para-sharepoint"
 magazineSlug: "numero-28"
 author: "Alexánder Fernández Saúco"
 authorSlug: "alexánder-fernández-saúco"
 keywords: ['Framework']
+image: "../images/introduciendo-un-gestor-de-paquetes-de-soluciones-para-sharepoint/image1.png"
+
 ---
 
 Desde hace algún tiempo me ha inquietado la imposibilidad de distribuir fácilmente soluciones SharePoint - archivos CAB-base con extensión wsp. Preguntas sobre cómo hacerlas disponibles fácilmente para los clientes o distribuidores, así como brindar facilidades de actualización, eventualmente resurgen en mi mente cuando los proyectos entran en etapas de despliegue o mantenimiento.

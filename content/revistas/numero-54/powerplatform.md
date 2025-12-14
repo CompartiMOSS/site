@@ -1,10 +1,13 @@
 ---
+
 title: "Power Platform, Revisión de actualizaciones"
 slug: "powerplatform"
 magazineSlug: "numero-54"
 author: "Daniel Pérez Aguiar"
 authorSlug: "daniel-perez-aguiar"
 keywords: ['Power Platform']
+image: "../images/powerplatform/image1.png"
+
 ---
 
 A medida que pasa el tiempo y a raíz del uso continuado de los productos

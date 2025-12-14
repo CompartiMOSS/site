@@ -1,10 +1,13 @@
 ---
+
 title: "KEDA, qué debemos de saber antes de empezar a utilizarlo"
 slug: "keda"
 magazineSlug: "numero-54"
 author: "Adrian Diaz"
 authorSlug: "adrian-diaz-cervera"
 keywords: ['KEDA', 'Microservicio']
+image: "../images/keda/image1.png"
+
 ---
 
 La gran mayoría de veces cuando hablamos de KEDA, a cualquier

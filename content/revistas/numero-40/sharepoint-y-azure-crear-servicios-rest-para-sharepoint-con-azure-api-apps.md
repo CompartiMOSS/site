@@ -1,10 +1,13 @@
 ---
+
 title: "SharePoint y Azure -  Crear servicios REST para SharePoint con Azure API Apps"
 slug: "sharepoint-y-azure-crear-servicios-rest-para-sharepoint-con-azure-api-apps"
 magazineSlug: "numero-40"
 author: "Gustavo Velez"
 authorSlug: "gustavo-velez"
 keywords: ['API','Azure','SharePoint']
+image: "../images/sharepoint-y-azure-crear-servicios-rest-para-sharepoint-con-azure-api-apps/image1.png"
+
 ---
 
 Cuando se desarrolla software es muy importante considerar la posibilidad de exponer su funcionalidad al mundo exterior, de tal forma que otros programas puedan acceder a la información y procesamiento de datos ofrecidos por el software. Las rutinas, protocolos de comunicación y herramientas para exponer la funcionalidad se conocen como APIs, Application Programming Interfaces. Aunque existen varios Frameworks para definir APIs, el mundo moderno se ha prácticamente unificado en el uso de APIs REST (REpresentational State Transfer). REST es popular debido a su simplicidad y el hecho de que se basa en los sistemas y características existentes del protocolo HTTP de Internet con el fin de lograr sus objetivos, a diferencia de la creación de nuevos estándares, Frameworks y tecnologías. Para encontrar más información sobre REST y SharePoint, revise los artículos publicados anteriormente en CompartiMOSS número 22 "REST, WebAPI 2 y SharePoint 2013 - Introducción" (http://www.compartimoss.com/revistas/numero-22/rest-webapi-2-sharepoint-2013-introduccion) y CompartiMOSS número 23 "REST, WebAPI 2 y SharePoint 2013 – WebAPI y Odata" (http://www.compartimoss.com/revistas/numero-23/rest-webapi-2-y-sharepoint-2013-webapi-y-odata).

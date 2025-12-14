@@ -1,10 +1,13 @@
 ---
+
 title: "Sitios Web Estáticos en Azure Storage"
 slug: "sitios-web-estaticos-en-azure-storage"
 magazineSlug: "numero-39"
 author: "Robert Bermejo"
 authorSlug: "robert-bermejo"
 keywords: ['Azure','Azure Storage']
+image: "../images/sitios-web-estaticos-en-azure-storage/image1.png"
+
 ---
 
 Desde hace muy pocos meses, ya podemos hospedar nuestras webs estáticas en el servicio de Azure Storage GPv2.

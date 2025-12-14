@@ -1,10 +1,13 @@
 ---
+
 title: "ChatGPT Plugins - Ampliando la funcionalidad de Microsoft 365 Copilot"
 slug: "chatgpt-plugins"
 magazineSlug: "numero-56"
 author: "Alberto Diaz Martin"
 authorSlug: "alberto-diaz-martin"
 keywords: []
+image: "../images/chatgpt-plugins/image1.png"
+
 ---
 
 En el mundo actual, donde la inteligencia artificial (IA) juega un papel fundamental en el desarrollo de aplicaciones y servicios, 

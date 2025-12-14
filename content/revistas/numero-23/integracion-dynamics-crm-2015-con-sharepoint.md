@@ -1,10 +1,13 @@
 ---
+
 title: "Integración Dynamics CRM 2015 con SharePoint"
 slug: "integracion-dynamics-crm-2015-con-sharepoint"
 magazineSlug: "numero-23"
 author: "Demian Adolfo Raschkovan"
 authorSlug: "demian-adolfo-raschkovan"
 keywords: ['Dynamics CRM','SharePoint 2013']
+image: "../images/integracion-dynamics-crm-2015-con-sharepoint/imagen1.png"
+
 ---
 
 ​Dynamics CRM y SharePoint son soluciones de Microsoft que tienen una vida ya de más de diez años cada uno. Con el paso del tiempo, estas dos soluciones no solo fueron incrementando funcionalidades, sino que se han convertido en grandes plataformas donde poder implementar cualquier tipo de proceso de negocio. Si bien las posibilidades son ilimitadas en ambas plataformas, por su naturaleza cada una lo hace de otras maneras, y por lo tanto existen escenarios de negocio que se acercan más a una o a otra.

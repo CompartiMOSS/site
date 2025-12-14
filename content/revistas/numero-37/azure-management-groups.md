@@ -1,10 +1,13 @@
 ---
+
 title: "Azure Management Groups"
 slug: "azure-management-groups"
 magazineSlug: "numero-37"
 author: "Pablo Ortiz"
 authorSlug: "pablo-ortiz"
 keywords: ['Azure']
+image: "../images/azure-management-groups/image1.png"
+
 ---
 
 ¿A quién no le ha pasado? Un cliente pide ayuda con el gobierno de Azure, tu vas y le cuentas RBAC, las directivas y el cumplimiento, además de buenas prácticas. Al cliente le va gustando, y como tiene un contrato EA (Enterprise Agreement) pregunta que cómo puede aplicar todo eso a varias suscripciones a la vez. No puedes, tienes que repetirlo todo en cada suscripción. Gesto de decepción. Pasemos a otro tema.

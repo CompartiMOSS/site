@@ -1,10 +1,13 @@
 ---
+
 title: "Crear apps de Windows Phone con contenido de SharePoint -Parte II"
 slug: "crear-apps-windows-phone-contenido-sharepoint-parte-ii"
 magazineSlug: "numero-17"
 author: "Miguel Tabera Pacheco"
 authorSlug: "miguel-tabera-pacheco"
 keywords: ['Windows Phone']
+image: "../images/crear-apps-windows-phone-contenido-sharepoint-parte-ii/figura1.png"
+
 ---
 
 En el anterior [número de CompartiMOSS (nº 16)](/revistas/numero-16/crear-apps-de-windows-phone-con-contenido-de-sharepoint-parte-i) utilizamos las plantillas de Visual Studio Windows Phone SharePoint Application Templates para crear una aplicación de Windows Phone que trabajase con una lista de tareas para SharePoint.

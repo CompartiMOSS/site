@@ -1,10 +1,13 @@
 ---
+
 title: "Enterprise Mobility Suite Parte 1 – Introducción"
 slug: "enterprise-mobility-suite-parte-1-introduccion"
 magazineSlug: "numero-30"
 author: "Jorge Castañeda Cano"
 authorSlug: "jorge-castaneda-cano"
 keywords: ['Enterprise Mobility Suite','Azure']
+image: "../images/enterprise-mobility-suite-parte-1-introduccion/image1.png"
+
 ---
 
 **Enterprise Mobility Suite** (EMS), Es un conjunto de productos hospedados por Microsoft para un mejor precio. Individualmente, la suma del coste de estos servicios asciende a casi 3 veces el coste de tener todo incluido, haciéndolo más atractivo para ir con todo el paquete. Para una buena ejecución de la estrategia de movilidad completa de su cliente, ayudando así a los usuarios a ser productivos en los dispositivos y proteger los activos corporativos.

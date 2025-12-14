@@ -1,10 +1,13 @@
 ---
+
 title: "Introducción a los Grupos de Office 365 – Trabaja como una red - Parte II"
 slug: "Introduccion-Grupos-Office-365-Trabaja-red-Parte-II"
 magazineSlug: "numero-23"
 author: "Juan Carlos Gonzalez Martin"
 authorSlug: "juan-carlos-gonzalez-martin"
 keywords: ['Office 365','Grupos']
+image: "../images/introduccion-grupos-office-365-trabaja-red-parte-ii/imagen1.png"
+
 ---
 
 ​La funcionalidad de Grupos de Office 365 facilita el trabajo colaborativo entre personas de una organización dotándoles de funcionalidad de valor añadido como muro conversacional, experiencia de usuario completamente integrada en Outlook Web App (OWA) en Office 365 y capacidades adicionales como calendario de grupo, sitio de SharePoint Online dónde ir dejando los documentos del grupo, etc. Adicionalmente, los Grupos de Office 365 cuentan con opciones adicionales de configuración como se verá en el presente artículo.

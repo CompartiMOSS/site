@@ -1,10 +1,13 @@
 ---
+
 title: "Overview a Azure Batch AI"
 slug: "overview-a-azure-batch-ai"
 magazineSlug: "numero-38"
 author: "Robert Bermejo"
 authorSlug: "robert-bermejo"
 keywords: ['Azure','Azure Batch']
+image: "../images/overview-a-azure-batch-ai/image1.png"
+
 ---
 
 La inteligencia artificial ya hace un tiempo que están entre nosotros, ¿quién no ha oído hablar de los cognitive services, bots, machine learning o ML.Net entre otros? La base de la AI son los modelos de datos que la alimentan, estos modelos suelen ser diseñados por expertos en AI o Data Scientists. Pero estos modelos hay que entrenarlos y para hacerlo se requiere de mucho hardware y tiempo.

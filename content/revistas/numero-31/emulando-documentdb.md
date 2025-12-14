@@ -1,10 +1,13 @@
 ---
+
 title: "Emulando DocumentDB"
 slug: "emulando-documentdb"
 magazineSlug: "numero-31"
 author: "Robert Bermejo"
 authorSlug: "robert-bermejo"
 keywords: ['Azure','DocumentDB']
+image: "../images/emulando-documentdb/image1.png"
+
 ---
 
 Cuando desarrollamos aplicaciones que serán hospedadas en Azure y utilizarán sus servicios, son de mucha utilidad los emuladores. Estos nos permiten desarrollar en nuestro entorno local sin necesidad de tener que montar la infraestructura necesaria en Azure, así como no depender de tener conexión para realizar los desarrollos.

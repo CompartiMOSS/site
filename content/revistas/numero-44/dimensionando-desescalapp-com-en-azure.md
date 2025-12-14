@@ -1,10 +1,13 @@
 ---
+
 title: "Dimensionando desescalapp.com en Azure"
 slug: "dimensionando-desescalapp-com-en-azure"
 magazineSlug: "numero-44"
 author: "Alberto Diaz Martin"
 authorSlug: "alberto-diaz-martin"
 keywords: ['Azure']
+image: "../images/dimensionando-desescalapp-com-en-azure/image1.png"
+
 ---
 
 Todo empieza cuando te llaman porque han publicado [desescalapp.com](https://www.desescalapp.com/) en Azure y, de repente, aparecen **1000 usuarios concurrentes** usando las funcionalidades que has publicado.

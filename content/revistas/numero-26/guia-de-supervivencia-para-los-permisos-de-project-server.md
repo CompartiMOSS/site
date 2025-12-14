@@ -1,10 +1,13 @@
 ---
+
 title: "Guía de supervivencia para los permisos de Project Server"
 slug: "guia-de-supervivencia-para-los-permisos-de-project-server"
 magazineSlug: "numero-26"
 author: "José Rafael García"
 authorSlug: "jose-rafael-garcia"
 keywords: ['Project Server']
+image: "../images/guia-de-supervivencia-para-los-permisos-de-project-server/image1.png"
+
 ---
 
 Sinceramente, configurar los permisos de Project en el modo clásico no es una tarea fácil. Así que Microsoft trató de simplificar el proceso creando un nuevo modelo de seguridad más sencillo y basado únicamente en los grupos de SharePoint correspondientes a los grupos de seguridad de Project. Y, para impulsarlo, este es el modelo por defecto en cualquier instalación de Project, tanto en OnPremises como Online. No obstante, su sencillez y su rigidez son su mayor hándicap. En la vida real, la mayoría de proyectos requieren del modelo de seguridad clásico ya que ofrece mucha más flexibilidad.

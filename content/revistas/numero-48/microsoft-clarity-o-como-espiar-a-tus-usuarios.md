@@ -1,10 +1,13 @@
 ---
+
 title: "Microsoft Clarity o cómo espiar a tus usuarios"
 slug: "microsoft-clarity-o-como-espiar-a-tus-usuarios"
 magazineSlug: "numero-48"
 author: "Cristian Dragos Fedotov"
 authorSlug: "cristian-dragos-fedotov"
 keywords: ['Microsoft Clarity']
+image: "../images/microsoft-clarity-o-como-espiar-a-tus-usuarios/image1.png"
+
 ---
 
 No conocer los hábitos/preferencias de los usuarios y dar por hecho que

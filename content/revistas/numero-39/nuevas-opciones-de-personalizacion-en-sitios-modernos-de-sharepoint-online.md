@@ -1,10 +1,13 @@
 ---
+
 title: "Nuevas opciones de personalización en sitios modernos de SharePoint Online"
 slug: "nuevas-opciones-de-personalizacion-en-sitios-modernos-de-sharepoint-online"
 magazineSlug: "numero-39"
 author: "Juan Carlos Gonzalez Martin"
 authorSlug: "juan-carlos-gonzalez-martin"
 keywords: ['SharePoint Online']
+image: "../images/nuevas-opciones-de-personalizacion-en-sitios-modernos-de-sharepoint-online/image1.png"
+
 ---
 
 Desde hace un par de años estamos asistiendo a la "modernización" de la plataforma SharePoint de la mano de una serie de innovaciones que Microsoft ha ido liberando en la versión cloud de la plataforma: páginas modernas, listas y bibliotecas modernas, WebParts de SharePoint Framework, etc. Sin embargo, esta "modernización" tenía (y sigue teniendo) un punto débil: las posibilidades de personalización de caja y sin recurrir a desarrollo son muy limitadas. Afortunadamente, uno de los puntos fuertes de SharePoint Online (SPO) es que continuamente tenemos mejoras y novedades en la plataforma como la reciente incorporación de opciones de personalización por defecto en sitios modernos. Como veremos en este artículo, las posibilidades de personalización siguen siendo reducidas, pero apuntan en la buena dirección.

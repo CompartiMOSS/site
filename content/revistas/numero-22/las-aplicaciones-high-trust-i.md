@@ -1,10 +1,13 @@
 ---
+
 title: "Las aplicaciones High-Trust - I"
 slug: "las-las-aplicaciones-high-trust-i-i"
 magazineSlug: "numero-22"
 author: "Edin Kapic"
 authorSlug: "edin-kapic"
 keywords: ['Aplicaciones','SharePoint 2013']
+image: "../images/las-aplicaciones-high-trust-i/image001.png"
+
 ---
 
 ​A estas alturas todos sabemos más o menos que es el modelo de aplicaciones en la nube (*cloud* *app model*) que trajo SharePoint 2013. Se trata de que el código de las aplicaciones de SharePoint ya no se ejecuta en el proceso de SharePoint (uno de los procesos w3wp.exe de IIS) sino en otra ubicación, fuera de SharePoint. De esta manera se asegura la estabilidad de la granja de SharePoint, ya que el código a medida está físicamente separado de SharePoint.

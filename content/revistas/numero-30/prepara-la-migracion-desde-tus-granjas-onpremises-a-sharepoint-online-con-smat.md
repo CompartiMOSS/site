@@ -1,10 +1,13 @@
 ---
+
 title: "Prepara la migración desde tus granjas OnPremises a SharePoint Online con SMAT"
 slug: "prepara-la-migracion-desde-tus-granjas-onpremises-a-sharepoint-online-con-smat"
 magazineSlug: "numero-30"
 author: "Juan Carlos Gonzalez Martin"
 authorSlug: "juan-carlos-gonzalez-martin"
 keywords: ['SharePoint','SharePoint Online','Migración']
+image: "../images/prepara-la-migracion-desde-tus-granjas-onpremises-a-sharepoint-online-con-smat/image1.png"
+
 ---
 
 La herramienta SharePoint Migration Assesment Tool (SMAT) es una utilidad de línea de comandos que escanea los contenidos y personalizaciones de una Granja de SharePoint 2013 con el objetivo de identificar posibles problemas que se pueden dar, así como elementos no soportados en un escenario de migración a SharePoint Online. SMAT realiza un escaneo con impacto mínimo sobre la Granja y genera una serie de informes detallados sobre los posibles impactos en una migración potencial a SharePoint Online.

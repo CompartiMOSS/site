@@ -1,10 +1,13 @@
 ---
+
 title: "Cuando un nivel no es suficiente"
 slug: "cuando-un-nivel-no-es-suficiente"
 magazineSlug: "numero-19"
 author: "Bruno Torterolo"
 authorSlug: "bruno-torterolo"
 keywords: ['Columnas']
+image: "../images/cuando-un-nivel-no-es-suficiente/imagen1.png"
+
 ---
 
 ​**La visión del cliente**

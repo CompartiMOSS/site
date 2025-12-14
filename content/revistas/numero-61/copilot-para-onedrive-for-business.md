@@ -1,10 +1,13 @@
 ---
+
 title: "Copilot para OneDrive for Business"
 slug: "copilot-para-onedrive-for-business"
 magazineSlug: "numero-61"
 author: "Juan Carlos González Martín"
 authorSlug: "juan-carlos-gonzalez-martin"
 keywords: ['copilot', 'onedrive', 'business']
+image: "../images/copilot-para-onedrive-for-business/image1.png"
+
 ---
 
 En la era de los Copilots, desde hace unas semanas ya tenemos disponible

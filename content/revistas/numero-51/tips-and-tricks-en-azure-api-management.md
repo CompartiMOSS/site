@@ -1,10 +1,13 @@
 ---
+
 title: "Tips and tricks en Azure API Management"
 slug: "tips-and-tricks-en-azure-api-management"
 magazineSlug: "numero-51"
 author: "Diego Zapico Ferreiro"
 authorSlug: "diego-zapico"
 keywords: ['Azure', 'Api Management']
+image: " ../images/tips-and-tricks-en-azure-api-management/image1.png"
+
 ---
 
 No voy a comenzar explicando que es Azure API Management (APIM desde

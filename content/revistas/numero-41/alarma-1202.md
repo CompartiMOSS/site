@@ -1,10 +1,13 @@
 ---
+
 title: "¡Alarma 1202!"
 slug: "alarma-1202"
 magazineSlug: "numero-41"
 author: "Alberto Escola Fiz"
 authorSlug: "alberto-escola-fiz"
 keywords: ['Historia']
+image: "../images/alarma-1202/image1.jpeg"
+
 ---
 
 ​Este artículo no trata de SharePoint, Office 365, ni nada de lo habitualmente expuesto en CompartiMOSS. Trata sobre la computadora de guiado de las misiones Apolo, dado que en Julio se cumplieron 50 años del primer alunizaje.

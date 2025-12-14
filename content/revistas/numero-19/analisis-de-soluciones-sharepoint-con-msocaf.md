@@ -1,10 +1,13 @@
 ---
+
 title: "Análisis de soluciones SharePoint con MSOCAF"
 slug: "analisis-de-soluciones-sharepoint-con-msocaf"
 magazineSlug: "numero-19"
 author: "Juan Carlos Gonzalez Martin"
 authorSlug: "juan-carlos-gonzalez-martin"
 keywords: ['Análisis de código']
+image: "../images/analisis-de-soluciones-sharepoint-con-msocaf/imagen1.png"
+
 ---
 
 En este artículo vamos a ver cómo podemos utilizar MSOCAF para determinar la calidad de las soluciones para SharePoint 2013 que se han desarrollado a partir del análisis de esta herramienta que proporciona información a distintos niveles:

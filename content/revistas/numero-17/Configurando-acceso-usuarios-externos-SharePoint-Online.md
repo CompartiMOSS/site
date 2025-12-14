@@ -1,10 +1,13 @@
 ---
+
 title: "Configurando el acceso a usuarios externos en nuestro sitio de colaboración de SharePoint Online"
 slug: "Configurando-acceso-usuarios-externos-SharePoint-Online"
 magazineSlug: "numero-17"
 author: "Haaron Gonzalez"
 authorSlug: "haaron-gonzalez"
 keywords: ['SharePoint Online','Usuarios externos']
+image: "../images/configurando-acceso-usuarios-externos-sharepoint-online/figura1.png"
+
 ---
 
 ​Es increíble el poder que tenemos en nuestras manos para dar soluciones técnicas a problemas de negocio de una forma rápida y sencilla. Una extranet es aquel tipo de portal que permite el acceso a personas externas a la organización para soporta un escenario de colaboración entre usuarios internos y externos. SharePoint Online de Office 365 nos permite otorgar el acceso a usuarios externos mediante el uso de cuentas de Windows Live permitiéndonos crear una solución de extranet para nuestra empresa o clientes.

@@ -1,10 +1,13 @@
 ---
+
 title: "Evolución de SQL Server en múltiples plataformas"
 slug: "sql-server-everywhere"
 magazineSlug: "numero-46"
 author: "Javier Villegas"
 authorSlug: "javier-villegas"
 keywords: ['SQL Server']
+image: "../images/sql-server-everywhere/image4.jpg"
+
 ---
 
 **SQL Server "Everywhere"**

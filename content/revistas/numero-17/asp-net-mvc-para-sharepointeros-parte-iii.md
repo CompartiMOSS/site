@@ -1,10 +1,13 @@
 ---
+
 title: "ASP.NET MVC para SharePointeros - Parte III"
 slug: "asp-net-mvc-para-sharepointeros-parte-iii"
 magazineSlug: "numero-17"
 author: "Edin Kapic"
 authorSlug: "edin-kapic"
 keywords: ['MVC']
+image: "../images/asp-net-mvp-para-sharepointeros-parte-iii/figura1.png"
+
 ---
 
 ​En los artículos previos vimos cómo crear aplicaciones de SharePoint con la tecnología ASP.NET MVC, introduciendo conceptos como las vistas, los controladores o las acciones. En este artículo cerraremos la serie con inyección de dependencia y pruebas unitarias, conceptos muy importantes para el desarrollo web fácil de mantener y extender.

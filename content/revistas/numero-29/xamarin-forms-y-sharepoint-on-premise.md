@@ -1,10 +1,13 @@
 ---
+
 title: "Xamarin Forms y Sharepoint On Premise"
 slug: "xamarin-forms-y-sharepoint-on-premise"
 magazineSlug: "numero-29"
 author: "Luis Molina"
 authorSlug: "luis-molina"
 keywords: ['SharePoint','Xamarin']
+image: "../images/xamarin-forms-y-sharepoint-on-premise/image1.png"
+
 ---
 
 Los desarrolladores de aplicaciones multiplataforma para móvil estamos de enhorabuena, tenemos una plataforma como Xamarin y el Framework de Xamarin Forms que nos facilita el desarrollo para diferentes plataformas. Imaginemos que un cliente nos pide una aplicación para el móvil en la que se muestren datos procesados de su SharePoint On-Premises y que funcione en Android, en iOS y en Windows Phone. Ahora esto es una tarea bastante fácil y en este artículo vamos a ver un ejemplo de cómo acceder a datos de On-Premises desde una app Xamarin.

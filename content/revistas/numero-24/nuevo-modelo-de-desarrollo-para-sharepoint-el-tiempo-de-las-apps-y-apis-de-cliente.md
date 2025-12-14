@@ -1,10 +1,13 @@
 ---
+
 title: "Nuevo modelo de desarrollo para SharePoint -  El tiempo de las apps y APIs de cliente."
 slug: "nuevo-modelo-de-desarrollo-para-sharepoint-el-tiempo-de-las-apps-y-apis-de-cliente"
 magazineSlug: "numero-24"
 author: "José Carlos Rodríguez Avilés"
 authorSlug: "jose-carlos-rodriguez-aviles"
 keywords: ['Aplicaciones']
+image: "../images/nuevo-modelo-de-desarrollo-para-sharepoint-el-tiempo-de-las-apps-y-apis-de-cliente/imagen1.png"
+
 ---
 
 ​**¿Por qué este nuevo modelo de desarrollo?**

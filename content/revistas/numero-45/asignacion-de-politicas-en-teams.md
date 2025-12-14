@@ -1,10 +1,13 @@
 ---
+
 title: "Asignación de políticas en Microsoft Teams"
 slug: "asignacion-de-politicas-en-teams"
 magazineSlug: "numero-45"
 author: "Enrique Sanchez Moreno"
 authorSlug: "enrique-sanchez"
 keywords: ['Azure','Azure Policy']
+image: "../images/asignacion-de-politicas-en-teams/image1.png"
+
 ---
 
 Hace poco he tenido que preparar un tenant para el correcto despliegue

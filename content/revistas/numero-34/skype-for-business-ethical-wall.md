@@ -1,10 +1,13 @@
 ---
+
 title: "Skype for Business Ethical Wall"
 slug: "skype-for-business-ethical-wall"
 magazineSlug: "numero-34"
 author: "Rodolfo Castro"
 authorSlug: "rodolfo-castro"
 keywords: ['Skype for Business']
+image: "../images/skype-for-business-ethical-wall/image1.png"
+
 ---
 
 Cuantas veces un cliente les pide restringir la comunicación entre OU’s , o que nadie pueda enviar IM al CIO. O en las compañías bancarias y financieras solamente permitir que los cajeros o usuarios reciban IM únicamente, que no hagan otra acción.

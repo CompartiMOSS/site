@@ -1,10 +1,13 @@
 ---
+
 title: "Búsqueda de datos empresariales en SharePoint 2013 – Parte II"
 slug: "busqueda-de-datos-empresariales-en-sharepoint-2013-parte-ii"
 magazineSlug: "numero-24"
 author: "Martin Luis Lopez Requena"
 authorSlug: "martin-luis-lopez-requena"
 keywords: ['SharePoint 2013','Búsqueda']
+image: "../images/busqueda-de-datos-empresariales-en-sharepoint-2013-parte-ii/image1.png"
+
 ---
 
 ​En muchas ocasiones necesitamos presentar en nuestro sitio de búsqueda datos empresariales de otros orígenes (fuera de SharePoint) como pueden ser base de datos (SQL Server, Oracle, MySQL),  ERP (Dynamics, SAP, ECI, NetSuite), ECi's M1ECi's M1  CRM( Dinamics, SAP, Sugar), etc.

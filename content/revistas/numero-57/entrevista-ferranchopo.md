@@ -1,10 +1,13 @@
 ---
+
 title: "Entrevista a Ferran Chopo"
 slug: "entrevista-ferranchopo"
 magazineSlug: "numero-57"
 author: "Ferran Chopo"
 authorSlug: "ferran-chopo"
 keywords: ['Entrevista']
+image: "../images/entrevista-ferranchopo/image1.jpeg#author"
+
 ---
 
 ![Ferran Chopo](../images/entrevista-ferranchopo/image1.jpeg#author) ¡Hola! Me llamo Ferran Chopo, tengo 49 años y soy de Barcelona, 

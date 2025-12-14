@@ -1,10 +1,13 @@
 ---
+
 title: "Esquema de sitios y permisos"
 slug: "esquema-de-sitios-y-permisos"
 magazineSlug: "numero-22"
 author: "Fernando Chiquiza"
 authorSlug: "fernando-chiquiza"
 keywords: ['Infrastructura','Seguridad']
+image: "../images/esquema-de-sitios-y-permisos/image001.png"
+
 ---
 
 ​Cuando<br />ingresa a SharePoint (intranet, portal, extranet, etc…) a su sitio de trabajo<br />habitual, está ingresando a la colección de sitios que lo contiene, muchas<br />veces navega por el sitio principal de la colección, todas las colecciones de<br />sitios deben tener un sitio principal, en la mayoría de ocasiones es llamado<br />Home, Casa, Inicio, el nombre de la compañía, etc... Este sitio de nivel superior<br />es la raíz de la colección de sitios.

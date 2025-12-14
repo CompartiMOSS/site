@@ -1,10 +1,13 @@
 ---
+
 title: "SharePoint 2010 Deferred site collection upgrade with custom SharePoint solutions"
 slug: "sharepoint-2010-deferred-site-collection-upgrade-with-custom-sharepoint-solutions"
 magazineSlug: "numero-20"
 author: "Shai Petel"
 authorSlug: "shai-petel"
 keywords: ['SharePoint 2010','Actualización']
+image: "../images/sharepoint-2010-deferred-site-collection-upgrade-with-custom-sharepoint-solutions/imagen1.png"
+
 ---
 
 ​We have been struggling with this concept for a while, being an ISV with many customers who use our products on SharePoint 2007/2010 and are interested in upgrading to SharePoint 2013, but using the deferred site collection upgrade approach. You see, in this approach you upgrade to a SharePoint 2013 farm but still run your 2010 sites in SharePoint 2010 user interface, while allowing site owners to gradually upgrade to 2013 interface gradually.

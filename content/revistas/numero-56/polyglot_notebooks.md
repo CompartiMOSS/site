@@ -1,10 +1,13 @@
 ---
+
 title: "Polyglot Notebooks"
 slug: "polyglot_notebooks"
 magazineSlug: "numero-56"
 author: "Gustavo Velez"
 authorSlug: "gustavo-velez"
 keywords: ['Polyglot Notebooks', 'Jupyter Notebooks', 'Python', 'Microsoft', 'Visual Studio Code', '.NET Interactive']
+image: "../images/polyglot_notebooks/image1.png"
+
 ---
 
 **Comencemos con Jupyter Notebooks**

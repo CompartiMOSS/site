@@ -1,10 +1,13 @@
 ---
+
 title: "Apply a consistent branding to all SharePoint sites"
 slug: "apply-a-consistent-branding-to-all-sharepoint-sites"
 magazineSlug: "numero-36"
 author: "Joao Ferreira"
 authorSlug: "joao-ferreira"
 keywords: ['SharePoint']
+image: "../images/apply-a-consistent-branding-to-all-sharepoint-sites/image1.png"
+
 ---
 
 SharePoint modern experience is available for Lists, Document Libraries and Pages and while it delivers new functionalities to the end users it lacks some of the customization options available in the classic SharePoint.

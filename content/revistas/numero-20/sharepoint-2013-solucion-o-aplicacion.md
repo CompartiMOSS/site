@@ -1,10 +1,13 @@
 ---
+
 title: "SharePoint 2013 -  ¿Solución o Aplicación?"
 slug: "sharepoint-2013-solucion-o-aplicacion"
 magazineSlug: "numero-20"
 author: "Alberto Diaz Martin"
 authorSlug: "alberto-diaz-martin"
 keywords: ['SharePoint 2013','Aplicaciones']
+image: "../images/sharepoint-2013-solucion-o-aplicacion/imagen1.png"
+
 ---
 
 ​SharePoint es una plataforma empresarial con diversas funcionalidades como puede ser Gestión Documental, Social Enterprise, Comunidades y sitios, Gestión de Contenido, Búsquedas, Inteligencia de negocio, desarrollo de soluciones, aplicaciones, flujos de trabajo, etc.

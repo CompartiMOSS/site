@@ -1,10 +1,13 @@
 ---
+
 title: "Hub Sites en Office 365, acceso vía REST"
 slug: "hub-sites-en-office-365-acceso-via-rest"
 magazineSlug: "numero-38"
 author: "Fabian Imaz"
 authorSlug: "fabian-imaz"
 keywords: ['Office 365','SharePoint Online']
+image: "../images/hub-sites-en-office-365-acceso-via-rest/image1.png"
+
 ---
 
 Nadie puede negar que el crecimiento de Office 365 en los últimos años ha sido exponencial y cada vez son más las organizaciones, públicas, privadas y educativas que están adoptando la plataforma colaborativa como la solución integral para el manejo de información y procesos. También es bien sabido que cuanto más grande es la organización, la gobernabilidad se hace una tarea titánica e incluso a los usuarios no se les hace nada fácil acceder a la información que necesitan debido a que no conocen en que sitio/área/departamento, o como se llamé dentro de la organización a la que pertenezca, se encuentra guardada. Bueno para facilitar la tarea de brindar acceso a los sitios, es que llegaron los Hub Sites.

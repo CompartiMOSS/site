@@ -1,10 +1,13 @@
 ---
+
 title: "Canales compartidos en Microsoft Teams - Por donde empezar"
 slug: "canales-compartidos-microsoft-teams-parte-i"
 magazineSlug: "numero-52"
 author: "Juan Carlos Gonzalez Martin"
 authorSlug: "juan-carlos-gonzalez-martin"
 keywords: ['Microsoft Teams','Canales compartidos']
+image: "../images/canales-compartidos-microsoft-teams-parte-i/image1.png"
+
 ---
 
 Los Canales Compartidos (actualmente en Preview) en Microsoft Teams

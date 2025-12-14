@@ -1,10 +1,13 @@
 ---
+
 title: "¿Cómo enviar una Adaptive Card por Teams y esperar su respuesta?"
 slug: "enviar-una-adaptive-card-por-teams-y-esperar-su-respuestav3"
 magazineSlug: "numero-52"
 author: "Juan Emilio Martínez"
 authorSlug: "juan-emilio-martinez"
 keywords: ['Microsoft Teams','Adaptive Card']
+image: "../images/enviar-una-adaptive-card-por-teams-y-esperar-su-respuestav3/image1.png"
+
 ---
 
 En el siguiente artículo veremos cómo utilizar Power Automate a fin de

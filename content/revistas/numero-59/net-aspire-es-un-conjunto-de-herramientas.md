@@ -1,10 +1,13 @@
 ---
+
 title: "Introducción a .NET Aspire"
 slug: "net-aspire-es-un-conjunto-de-herramientas"
 magazineSlug: "numero-59"
 author: "Santiago Porras Rodríguez"
 authorSlug: "santiago-porras-rodriguez"
 keywords: ['.NET', 'Aspire', 'Microservicios']
+image: "../images/net-aspire-es-un-conjunto-de-herramientas/image1.png"
+
 ---
 
 .NET Aspire es un conjunto de herramientas, componentes y patrones que

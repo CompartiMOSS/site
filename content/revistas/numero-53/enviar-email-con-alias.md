@@ -1,10 +1,13 @@
 ---
+
 title: "Enviar Email con Exchange usando un Alias"
 slug: "enviar-email-con-alias"
 magazineSlug: "numero-53"
 author: "Gustavo Velez"
 authorSlug: "gustavo-velez"
 keywords: ['Exchange Online']
+image: "../images/enviar-email-con-alias/image1.png"
+
 ---
 
 Exchange Online en Microsoft 365 siempre ha permitido la creación de

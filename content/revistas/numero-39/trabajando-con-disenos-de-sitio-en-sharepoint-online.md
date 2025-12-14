@@ -1,10 +1,13 @@
 ---
+
 title: "Trabajando con diseños de sitio en SharePoint Online"
 slug: "trabajando-con-disenos-de-sitio-en-sharepoint-online"
 magazineSlug: "numero-39"
 author: "Rubén Ramos Mateo"
 authorSlug: "rubén-ramos-mateo"
 keywords: ['SharePoint Online']
+image: "../images/trabajando-con-disenos-de-sitio-en-sharepoint-online/image1.png"
+
 ---
 
 **¿Qué son los diseños y scripts del sitio de SharePoint?**

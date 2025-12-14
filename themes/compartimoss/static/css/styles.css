@@ -1511,6 +1511,14 @@ button {
   font-weight: 400 !important;
 }
 
+.author-profile-right .bio p {
+  margin-bottom: 1rem !important;
+}
+
+.author-profile-right .bio p:last-child {
+  margin-bottom: 0 !important;
+}
+
 .author-profile-social {
   display: flex;
   align-items: center;

@@ -1,10 +1,13 @@
 ---
+
 title: "MVC para SharePointeros Parte I"
 slug: "mvc-para-sharepointeros-parte-i"
 magazineSlug: "numero-15"
 author: "Edin Kapic"
 authorSlug: "edin-kapic"
 keywords: ['MVC']
+image: "../images/mvc-para-sharepointeros/image1.png"
+
 ---
 
 Los programadores SharePoint estamos tan acostumbrados a programar con ASP.NET Web Forms que no nos solemos preocupar por aprender otras tecnologías de programación ya que no se pueden aplicar directamente a SharePoint. Sin embargo, desde la versión 2010 de SharePoint, con el modelo de objetos de cliente (CSOM) podemos acceder a SharePoint desde cualquier aplicación .NET, incluyendo también el framework ASP.NET MVC, que vamos a introducir en este artículo.

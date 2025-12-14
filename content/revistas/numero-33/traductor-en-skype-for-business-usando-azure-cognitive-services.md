@@ -1,10 +1,13 @@
 ---
+
 title: "Traductor en Skype for Business usando Azure Cognitive Services"
 slug: "traductor-en-skype-for-business-usando-azure-cognitive-services"
 magazineSlug: "numero-33"
 author: "Rodolfo Castro"
 authorSlug: "rodolfo-castro"
 keywords: ['Skype for Business']
+image: "../images/traductor-en-skype-for-business-usando-azure-cognitive-services/image1.png"
+
 ---
 
 Mediante el uso de Powershell y la posibilidad de conectarse a los Azure Cognitive Services, es que fue posible la traducción con el cliente de Skype for Business. Y utilizando el Lync SDK el cual nos permite igualmente mediante Powershell tener control directamente desde el cliente, sin depender de algún servicio o conectarnos al UCWA, podemos enviar los mensajes al destino que elijamos.

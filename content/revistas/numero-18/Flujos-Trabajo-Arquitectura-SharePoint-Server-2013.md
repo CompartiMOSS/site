@@ -1,10 +1,13 @@
 ---
+
 title: "Flujos de Trabajo y Arquitectura en SharePoint Server 2013"
 slug: "Flujos-Trabajo-Arquitectura-SharePoint-Server-2013"
 magazineSlug: "numero-18"
 author: "Fabian Imaz"
 authorSlug: "fabian-imaz"
 keywords: ['Workflow','SharePoint 2013']
+image: "../images/Flujos-Trabajo-Arquitectura-SharePoint-Server-2013/imagen1.jpg"
+
 ---
 
 ​La versión anterior de SharePoint, 2010, implementa el motor de flujos de trabajo implícitamente cuando la plataforma es instalada y está basado en el motor de flujos de Microsoft .Net Framework 3.5. Toda la carga necesaria para el funcionamiento de un flujo de trabajo, el proceso de hidratación y deshidratación de la misma esta provista por los mismos servidores que hospedaban SharePoint.  Por defecto, el motor de flujos en SharePoint 2010 viene pre-configurado con una serie de configuraciones que preservaban el uso de recursos en la granja, una de estas configuraciones limitaba a 15 la cantidad de instancias de flujos que podían ejecutarse simultáneamente en una implementación. La escalabilidad del motor de flujos, es decir, aumentar la capacidad de recursos disponibles en la granja para contar con mayor capacidad para ejecutar flujos estaba directamente relacionada con colocar más nodos de SharePoint, con lo cual diseñar una infraestructura para hospedar procesos de negocios basados en flujos de trabajo de SharePoint 2010 requería adicionar servidores. El estado de un flujo, es decir todo los valores de sus variables y configuración de ejecución son persistidos en la base de datos de contenido utilizada por la colección de sitios donde es asociado. En la siguiente figura podemos ver la arquitectura del motor de flujos de SharePoint 2010 disponible también como parte de SharePoint 2013 por cuestiones de compatibilidad hacia atrás.

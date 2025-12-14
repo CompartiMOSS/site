@@ -1,10 +1,13 @@
 ---
+
 title: "Temperatura en tiempo real, aplicación web con Raspberry, Azure IoT Hub y SignalR"
 slug: "temperatura-en-tiempo-real-aplicacion-web-con-raspberry-azure-iot-hub-y-signalr"
 magazineSlug: "numero-31"
 author: "Luis Valencia"
 authorSlug: "luis-valencia"
 keywords: ['Azure','Azure IoT Hub']
+image: "../images/temperatura-en-tiempo-real-aplicacion-web-con-raspberry-azure-iot-hub-y-signalr/image1.png"
+
 ---
 
 El IoT (Internet de las cosas) está explotando y todo el mundo está hablando de ello. Las fuentes de Twitter están zumbando, y los mensajes de blog están inundados de información. Sin embargo, para muchos de nosotros simples mortales, parece algo de otro mundo.

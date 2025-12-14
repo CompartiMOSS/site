@@ -1,10 +1,13 @@
 ---
+
 title: "Introducción a Azure Purview"
 slug: "intro-a-purview"
 magazineSlug: "numero-50"
 author: "Gastón Cruz"
 authorSlug: "gaston-cruz"
 keywords: ['Azure Purview','Data']
+image: "../images/intro-a-purview/image1.jpg"
+
 ---
 
 En este articulo hablaremos sobre esta plataforma de gobernabilidad y

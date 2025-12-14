@@ -1,10 +1,13 @@
 ---
+
 title: "Como mostrar un mensaje de procesamiento en un EventReceiver"
 slug: "como-mostrar-mensaje-procesamiento-eventreceiver"
 magazineSlug: "numero-18"
 author: "Alberto Escola Fiz"
 authorSlug: "alberto-escola-fiz"
 keywords: ['Event Receiver']
+image: "../images/como-mostrar-mensaje-procesamiento-eventreceiver/imagen1.png"
+
 ---
 
 ​En ocasiones cuando estamos efectuando alguna operación en SharePoint de manera programática dicha operación lleva un tiempo considerable en efectuarse, si la operación se está efectuando de forma síncrona el usuario verá que su navegador queda "congelado" mientras la operación se completa. Si en cambio, se está efectuando de forma asíncrona el usuario puede no percibir que se haya efectuado la operación.

@@ -1,10 +1,13 @@
 ---
+
 title: "Mapas y más mapas - Un ventanal al mundo"
 slug: "mapas-y-mas-mapas"
 magazineSlug: "numero-49"
 author: "Gustavo Velez"
 authorSlug: "gustavo-velez"
 keywords: ['Azure Maps','Azure']
+image: "../images/mapas-y-mas-mapas/image1.png"
+
 ---
 
 **Introducción**

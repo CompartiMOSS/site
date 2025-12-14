@@ -1,10 +1,13 @@
 ---
+
 title: "Cambios de licenciamiento para AzureAD External Identities"
 slug: "cambios-de-licenciamiento-para-azuread-external-identities"
 magazineSlug: "numero-49"
 author: "Alberto Andrés Rodríguez"
 authorSlug: "alberto-andres-rodriguez"
 keywords: ['Azure AD','Azure']
+image: "../images/cambios-de-licenciamiento-para-azuread-external-identities/image1.png"
+
 ---
 
 Ya en 2020 Microsoft anunció un cambio en el modelo de precios para las

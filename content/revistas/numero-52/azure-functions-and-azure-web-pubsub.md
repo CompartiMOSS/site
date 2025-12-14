@@ -1,10 +1,13 @@
 ---
+
 title: "Azure Functions y Azure Web PubSub. Unidos por el tiempo real"
 slug: "azure-functions-and-azure-web-pubsub"
 magazineSlug: "numero-52"
 author: "Sergio Parra"
 authorSlug: "sergio-parra"
 keywords: ['Azure','Azure Functions', 'Azure Web PubSub']
+image: "../images/azure-functions-and-azure-web-pubsub/image1.png"
+
 ---
 
 Antes de leer el siguiente artículo te recomiendo visualices la charla

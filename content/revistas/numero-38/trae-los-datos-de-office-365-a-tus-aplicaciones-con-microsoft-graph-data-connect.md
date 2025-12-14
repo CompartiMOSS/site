@@ -1,10 +1,13 @@
 ---
+
 title: "Trae los datos de Office 365 a tus aplicaciones con Microsoft Graph Data Connect"
 slug: "trae-los-datos-de-office-365-a-tus-aplicaciones-con-trae-los-datos-de-office-365-a-tus-aplicaciones-con-microsoft-graph-data-connect"
 magazineSlug: "numero-38"
 author: "Rubén Ramos Mateo"
 authorSlug: "rubén-ramos-mateo"
 keywords: ['Office 365','Graph']
+image: "../images/trae-los-datos-de-office-365-a-tus-aplicaciones-con-microsoft-graph-data-connect/image1.png"
+
 ---
 
 Estamos acostumbrados a crear aplicaciones centradas en personas que acceden a sus datos de Office 365 con Microsoft Graph API, pero ¿qué ocurre si queremos utilizar todos los datos de Office 365 para crear, por ejemplo, analíticas o incluso aplicaciones inteligentes? ¿Y si pudiésemos llevar toda esa información a Azure para poder trabajar con ella?

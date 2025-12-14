@@ -1,10 +1,13 @@
 ---
+
 title: "Apply SPFx extensions to SharePoint Hub Sites using PnP PowerShell"
 slug: "apply-spfx-extensions-to-sharepoint-hub-sites-using-pnp-powershell"
 magazineSlug: "numero-37"
 author: "Joao Ferreira"
 authorSlug: "joao-ferreira"
 keywords: ['SharePoint Framework','JavaScript']
+image: "../images/apply-spfx-extensions-to-sharepoint-hub-sites-using-pnp-powershell/image1.png"
+
 ---
 
 Hub sites brig a set of common functions to all sites that belong the hub, but extensions are not propagated to all sites automatically. With PnP PowerShell is possible to automate the installation of Application Customizers through the sites, the script below search for all sites associated with hub and apply the custom action to all of them.

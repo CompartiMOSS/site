@@ -1,10 +1,13 @@
 ---
+
 title: "Lecciones aprendidas de un proyecto de Workflow en Project Server 2010"
 slug: "lecciones-aprendidas-de-un-proyecto-de-workflow-en-project-server-2010"
 magazineSlug: "numero-15"
 author: "Juan Pablo Pussacq"
 authorSlug: "juan-pablo-pussacq"
 keywords: ['Project Server','Workflow']
+image: "../images/lecciones-aprendidas-wf/image1.png"
+
 ---
 
 ​ En este breve artículo voy a resumir algunas lecciones aprendidas en un proyecto de implementación de flujo de trabajo en Project Server 2010. A pesar de que estos proyectos deben desarrollarse en Visual Studio (excepto que usen Nintex), no voy a centrar el artículo en cuestiones técnicas, sino en aspectos funcionales y de arquitectura. Esto se debe a que muchas veces no sabemos cuál es el mejor enfoque para resolver un problema en esta tecnología, debido fundamentalmente a la falta de información. A continuación, mis experiencias en casos reales, que intentan poner un granito más de arena a este mundo, en donde una búsqueda en Google arroja tan pocos resultados que nos hace sentir cierto temor.

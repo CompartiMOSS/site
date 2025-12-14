@@ -1,10 +1,13 @@
 ---
+
 title: "Usando Cosmos DB Gremlin Graph API"
 slug: "usando-cosmos-db-gremlin-graph-api"
 magazineSlug: "numero-34"
 author: "Robert Bermejo"
 authorSlug: "robert-bermejo"
 keywords: ['Azure','Azure CosmosDB']
+image: "../images/usando-cosmos-db-gremlin-graph-api/image1.png"
+
 ---
 
 Una vez que Microsoft anunció en el Build 2017 su nuevo servicio Cosmos DB ([https://docs.microsoft.com/en-us/azure/cosmos-db/](https://docs.microsoft.com/en-us/azure/cosmos-db/)), en el Connect 2017 del 15 al 17 de Noviembre ([https://www.microsoft.com/en-us/connectevent/default.aspx](https://www.microsoft.com/en-us/connectevent/default.aspx)) anunciaron que los servicios de Azure Table Storage y Gremlin (grafos) dejaban de estar en preview.

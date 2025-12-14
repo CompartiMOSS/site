@@ -1,10 +1,13 @@
 ---
+
 title: "Personalización de formularios con Form Customizer en SPFx"
 slug: "spfx-form-customizer"
 magazineSlug: "numero-53"
 author: "Cristian Dragos Fedotov"
 authorSlug: "cristian-dragos-fedotov"
 keywords: ['SPFx', 'SharePoint Online']
+image: "../images/spfx-form-customizer/image1.png"
+
 ---
 
 A partir de la versión de SPFx (SharePoint Framework 1.15), aparece un

@@ -1,10 +1,13 @@
 ---
+
 title: "XSL, o cómo transformar y presentar vistas de datos en SharePoint 2010"
 slug: "XSL-transformar-presentar-vistas-datos-SharePoint-2010"
 magazineSlug: "numero-18"
 author: "Elisa Gutiérrez"
 authorSlug: "elisa-gutierrez"
 keywords: ['SharePoint 2010','XSL']
+image: "../images/XSL-transformar-presentar-vistas-datos-SharePoint-2010/imagen1.jpg"
+
 ---
 
 ​ En SharePoint 2010 es fácil encontrarse con situaciones en las que necesitamos personalizar el diseño de nuestras vistas de datos. La customización de estas vistas pasa por la edición y creación de plantillas en XSLT. En este artículo introduciremos los conceptos básicos sobre este lenguaje y veremos cómo comenzar a trabajar con él para mejorar la presentación de nuestras vistas de datos en SharePoint 2010.

@@ -1,10 +1,13 @@
 ---
+
 title: "Programando la Ribbon en SharePoint 2010"
 slug: "programando-la-ribbon-en-sharepoint-2010"
 magazineSlug: "numero-23"
 author: "Juan Pablo Pussacq"
 authorSlug: "juan-pablo-pussacq"
 keywords: ['SharePoint','Ribbon','JavaScript']
+image: "../images/programando-la-ribbon-en-sharepoint-2010/imagen1.png"
+
 ---
 
 ​Es bastante común que se necesiten agregar botones a la barra de herramientas de SharePoint 2010 (RIBBON). Muchas veces esto se resuelve en forma declarativa o con SharePoint Designer, pero otras veces necesitamos ir un poco más allá, por ejemplo, ejecutar código C# luego de presionar un botón o lograr que el botón este asociado a una lista específica y no a un tipo de lista. En este artículo veremos un ejemplo de cómo lograr este tipo de programación con Visual Studio. ¡Que lo disfruten!

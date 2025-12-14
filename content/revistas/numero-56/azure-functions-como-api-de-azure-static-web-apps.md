@@ -1,10 +1,13 @@
 ---
+
 title: "Azure Static Web Apps con Azure Functions como API integrada"
 slug: "azure-functions-como-api-de-azure-static-web-apps"
 magazineSlug: "numero-56"
 author: "Santiago Porras Rodriguez"
 authorSlug: "santiago-porras-rodriguez"
 keywords: ['Azure', 'Azure Static Web Apps', 'Azure Functions', 'API']
+image: "../images/azure-functions-como-api-de-azure-static-web-apps/image1.png"
+
 ---
 
 En números pasados ya hemos hablado de las [Azure Static Web

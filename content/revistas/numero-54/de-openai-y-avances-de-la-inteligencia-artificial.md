@@ -1,10 +1,13 @@
 ---
+
 title: "De OpenAI y avances de la Inteligencia Artificial"
 slug: "de-openai-y-avances-de-la-inteligencia-artificial"
 magazineSlug: "numero-54"
 author: "Javier Menendez Pallo"
 authorSlug: "javier-menendez-pallo"
 keywords: ['AI','OpenAI', 'GPT-3']
+image: "../images/de-openai-y-avances-de-la-inteligencia-artificial/image1.png"
+
 ---
 
 Hace muy poco tiempo, en una de mis intervenciones como speaker en un

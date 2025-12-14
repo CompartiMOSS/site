@@ -1,10 +1,13 @@
 ---
+
 title: "Configurando Azure Directory Services para Office365"
 slug: "configurando-azure-directory-services-para-office365"
 magazineSlug: "numero-27"
 author: "Darwin Castro Marín"
 authorSlug: "darwin-castro-marin"
 keywords: ['Office 365','Azure','Active Directory']
+image: "../images/configurando-azure-directory-services-para-office365/image1.png"
+
 ---
 
 ​El uso de Azure AD Connect con Office 365 proporciona los siguientes beneficios:

@@ -1,10 +1,13 @@
 ---
+
 title: "Power BI Premium. ¿Es para mí?"
 slug: "power-bi-premium-es-para-mi"
 magazineSlug: "numero-33"
 author: "Gaston Cruz"
 authorSlug: "gaston-cruz"
 keywords: ['Power BI']
+image: "../images/power-bi-premium/image1.png"
+
 ---
 
 ![Imagen 1.- Power BI Premium.](../images/power-bi-premium/image1.png)

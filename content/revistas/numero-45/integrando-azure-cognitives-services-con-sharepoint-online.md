@@ -1,10 +1,13 @@
 ---
+
 title: "Integrando Azure Cognitives Services con SharePoint Online"
 slug: "integrando-azure-cognitives-services-con-sharepoint-online"
 magazineSlug: "numero-45"
 author: "Alex Rostan"
 authorSlug: "alex-rostan"
 keywords: ['SharePoint Online','Azure Cognitives Services']
+image: "../images/integrando-azure-cognitives-services-con-sharepoint-online/image1.png"
+
 ---
 
 En este articulo particular veremos cómo analizar el contenido de

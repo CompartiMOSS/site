@@ -1,10 +1,13 @@
 ---
+
 title: "Trigger serverless en una BBDD no SQL en Azure"
 slug: "trigger-serverless-en-una-bbdd-no-sql-en-azure"
 magazineSlug: "numero-35"
 author: "Sergio Hernandez Mancebo"
 authorSlug: "sergio-hernandez-mancebo"
 keywords: ['Azure','Azure Functions','CosmosDB']
+image: "../images/trigger-serverless-en-una-bbdd-no-sql-en-azure/image1.png"
+
 ---
 
 Durante muchos años los modelos relacionales han sido el pan nuestro de cada día, y alrededor de ellos se han ido incorporando infinidad de procesos para poder tanto insertar como extraer datos de forma sencilla. Hablamos de las famosas ETL, los servicios de Reporting, los Jobs de nuestros SQL Server, procedimientos almacenados y como no nuestros queridos Trigger.

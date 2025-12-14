@@ -1,10 +1,13 @@
 ---
+
 title: "Azure Cognitive Services en un contenedor"
 slug: "azure-cognitive-services-en-un-contenedor"
 magazineSlug: "numero-38"
 author: "Alberto Diaz Martin"
 authorSlug: "alberto-diaz-martin"
 keywords: ['Azure','Azure Cognitive Services','Azure Text Analytics']
+image: "../images/azure-cognitive-services-en-un-contenedor/image1.png"
+
 ---
 
 ​No todo en Inteligencia Artificial es trabajar con Machine Learning definiendo y entrenando nuestros propios algoritmos para resolver el problema que nos plantean desde negocio. Existen diversos servicios con inteligencia artificial pre-construida que nos pueden ayudar a acercarnos a esos escenarios que no necesitan de algún tipo algoritmo específico. Me estoy refiriendo a los servicios cognitivos de Microsoft y las diferentes posibilidades que nos ofrece para hacer nuestras aplicaciones más inteligentes.

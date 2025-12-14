@@ -1,10 +1,13 @@
 ---
+
 title: "Logic Apps y HTTP Actions, ¿Puedo hacer llamadas Async?"
 slug: "logic-apps-y-http-actions-puedo-hacer-llamadas-async"
 magazineSlug: "numero-43"
 author: "Sergio Hernandez Mancebo"
 authorSlug: "sergio-hernandez-mancebo"
 keywords: ['Logic Apps']
+image: "../images/logic-apps-y-http-actions-puedo-hacer-llamadas-async/image1.png"
+
 ---
 
 Primero debemos analizar el problema de Http Time Out, Logic App tiene más potencia de la que parece. Es de todos sabido, que Azure Logic App es una herramienta potente, que no se ciñe solo a procesos de integración, sino que podemos usarlo como verdaderos orquestadores, que complementen de una forma óptima a nuestras queridas Azure Functions.

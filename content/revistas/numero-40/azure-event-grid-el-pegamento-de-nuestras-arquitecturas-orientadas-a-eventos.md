@@ -1,10 +1,13 @@
 ---
+
 title: "Azure Event Grid, el pegamento de nuestras arquitecturas orientadas a eventos"
 slug: "azure-event-grid-el-pegamento-de-nuestras-arquitecturas-orientadas-a-eventos"
 magazineSlug: "numero-40"
 author: "Sergio Hernandez Mancebo"
 authorSlug: "sergio-hernandez-mancebo"
 keywords: ['Azure']
+image: "../images/azure-event-grid-el-pegamento-de-nuestras-arquitecturas-orientadas-a-eventos/image1.png"
+
 ---
 
 **Orquestando y centralizando eventos con Servicios Serverless de Azure**

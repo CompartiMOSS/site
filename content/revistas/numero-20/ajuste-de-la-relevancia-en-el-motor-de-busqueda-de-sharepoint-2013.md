@@ -1,10 +1,13 @@
 ---
+
 title: "Ajuste de la Relevancia en el Motor de Búsqueda de SharePoint 2013"
 slug: "ajuste-de-la-relevancia-en-el-motor-de-busqueda-de-sharepoint-2013"
 magazineSlug: "numero-20"
 author: "Gustavo Velez"
 authorSlug: "gustavo-velez"
 keywords: ['Búsqueda','SharePoint 2013']
+image: "../images/ajuste-de-la-relevancia-en-el-motor-de-busqueda-de-sharepoint-2013/imagen1.png"
+
 ---
 
 ​Cuando se instala y configura correctamente el Motor de Búsqueda de SharePoint, los resultados que genera para una consulta aparecen en el orden que los algoritmos internos determinan. Pero el orden por defecto generado por SharePoint no es necesariamente el orden que los requisitos de la empresa o compañía que utiliza el sistema desean tener. Un ejemplo común es que puede exigir que los productos de la empresa aparezcan en primer lugar en los resultados de búsqueda.

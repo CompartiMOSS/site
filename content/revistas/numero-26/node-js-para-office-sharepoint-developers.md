@@ -1,10 +1,13 @@
 ---
+
 title: "Node.js para Office/SharePoint Developers"
 slug: "node-js-para-office-sharepoint-developers"
 magazineSlug: "numero-26"
 author: "Adrian Diaz Cervera"
 authorSlug: "adrian-diaz-cervera"
 keywords: ['Office 365','SharePoint','node.js']
+image: "../images/node-js-para-office-sharepoint-developers/image1.png"
+
 ---
 
 ​Para todos los que seguimos las novedades que hay en el desarrollo de Office 365, hemos podido observar que desde la división de Office 365 se están realizando muchos esfuerzos en cumplir la hoja de ruta impulsada por Satya Nadella: todo servicio de Microsoft debe de poder ejecutarse en cualquier dispositivo y cualquier plataforma. En un primer lugar, todo lo que estamos viendo son esfuerzos para que todo servicio de Office 365 disponga de una API REST y un sistema de autenticación bastante claro. Esto lo podemos observar en la cantidad de API's disponibles y su posterior unificación en una única API. Para el tema de la Autenticación disponemos de la librería ADAL de la cual ya hemos hablado en anteriores artículos. Recientemente habían pocas novedades en cuanto a poder utilizar herramientas en otras plataformas no Windows, pero desde los últimos meses y propiciado por la salida de Visual Studio Code todo esto está cambiando. En muchos productos de la misma forma que sacan un SDK para Windows, el equipo de producto también proporciona herramientas para los desarrolladores de Android e IOS.

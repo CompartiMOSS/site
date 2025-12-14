@@ -1,10 +1,13 @@
 ---
+
 title: "Flujos y eventos para Project Server con Nintex"
 slug: "flujos-y-eventos-para-project-server-con-nintex"
 magazineSlug: "numero-29"
 author: "José Rafael García"
 authorSlug: "jose-rafael-garcia"
 keywords: ['Project 2013','Workflow']
+image: "../images/flujos-y-eventos-para-project-server-con-nintex/image1.png"
+
 ---
 
 Hace tiempo que tenía ganas de hablar sobre las posibilidades que [Nintex](http://es-es.nintex.com/workflow-platform/nintex-products#Project-Server) ofrece para Project Server. Y es que no solo nos permite realizar flujos de Gestión de la Demanda de manera sencilla, al igual que lo haríamos para SharePoint, sino que, además, permite lanzar flujos que respondan a diversos eventos de Project Server: cuando se ha publicado un proyecto, cuando se ha creado un recurso. Hasta la aparición de [Microsoft Flow](https://flow.microsoft.com/es-es/), sólo Nintex permitía enlazar con estos eventos sin la necesidad de recurrir a desarrollos con Visual Studio.

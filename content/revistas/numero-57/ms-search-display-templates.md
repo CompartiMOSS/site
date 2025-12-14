@@ -1,10 +1,13 @@
 ---
+
 title: "Personalización de resultados de búsqueda en Microsoft Search"
 slug: "ms-search-display-templates"
 magazineSlug: "numero-57"
 author: "Cristian Dragos Fedotov"
 authorSlug: "cristian-dragos-fedotov"
 keywords: ['Microsoft Search', 'Office 365', 'Search Template']
+image: "../images/ms-search-display-templates/image1.png"
+
 ---
 
 Si te digo "search display templates", te recordará a los tiempos de

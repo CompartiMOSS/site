@@ -1,10 +1,13 @@
 ---
+
 title: "Azure OpenAI Service"
 slug: "azure-openai-service"
 magazineSlug: "numero-55"
 author: "Manuel Sánchez Rodríguez"
 authorSlug: "manuel-sanchez"
 keywords: ['Azure','OpenAI']
+image: "../images/azure-openai-service/image1.png"
+
 ---
 
 En este articulo quiero explicaros como podemos usar los servicios de

@@ -1,10 +1,13 @@
 ---
+
 title: "Adaptive Card Extensions en SPFx"
 slug: "adaptive-card-extensions-en-spfx_v2"
 magazineSlug: "numero-50"
 author: "Cristian Dragos Fedotov"
 authorSlug: "cristian-dragos-fedotov"
 keywords: ['Adaptive Card','SPFx']
+image: "../images/adaptive-card-extensions-en-spfx_v2/image1.png"
+
 ---
 
 Con la llegada de la última versión de SPFx (SharePoint Framework 1.13),

@@ -1,10 +1,13 @@
 ---
+
 title: "Introducción al Cumplimiento de Comunicación en Microsoft 365"
 slug: "introduccion-al-cumplimiento-de-comunicacion-en-microsoft-365"
 magazineSlug: "numero-44"
 author: "Ferran Chopo Garcia"
 authorSlug: "ferran-chopo-garcia"
 keywords: ['Office 365']
+image: "../images/introduccion-al-cumplimiento-de-comunicacion-en-microsoft-365/image1.png"
+
 ---
 
 ​Pese a que siempre han existido riesgos en la gestión de la información en las organizaciones, el creciente uso de servicios en la nube y la accesibilidad desde cualquier lugar y dispositivo ha hecho que la gestión de éstos empiece a tomar cierta relevancia dentro las mismas. *Insider Risk Management* surge como una nueva solución en Microsoft 365 para detectar actividades involuntarias y/o intencionadas que pongan en riesgo a la organización: Violaciones de confidencialidad, fugas y robo de información o fraude.

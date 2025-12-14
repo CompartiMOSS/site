@@ -1,10 +1,13 @@
 ---
+
 title: "SharePoint y Azure -  El Microsoft Bing Search API"
 slug: "sharepoint-y-azure-el-microsoft-bing-search-api"
 magazineSlug: "numero-36"
 author: "Gustavo Velez"
 authorSlug: "gustavo-velez"
 keywords: ['Azure','Bing']
+image: "../images/sharepoint-y-azure-el-microsoft-bing-search-api/image1.png"
+
 ---
 
 **Que es el Microsoft Bing Search API**

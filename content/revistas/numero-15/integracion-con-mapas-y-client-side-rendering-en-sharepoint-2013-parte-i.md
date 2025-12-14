@@ -1,10 +1,13 @@
 ---
+
 title: "Integración con Mapas y Client-side Rendering en SharePoint 2013 - Parte I"
 slug: "integracion-con-mapas-y-client-side-rendering-en-sharepoint-2013-parte-i"
 magazineSlug: "numero-15"
 author: "José Quinto Zamora"
 authorSlug: "jose-quinto-zamora"
 keywords: ['Geolocalización']
+image: "../images/integracion-mapas-client-side-rendering/image1.png"
+
 ---
 
 ​SharePoint a lo largo de su historia ha ido añadiendo funcionalidades nuevas, concretamente con cada nueva versión se añaden aquellas funcionalidades que, previo estudio por parte del equipo de producto, creen que tienen más sentido de acuerdo a las necesidades actuales. Y es cierto, que actualmente las tendencias tecnológicas y de mayor adopción son los servicios web, HTML5, JavaScript, AJAX, REST/Odata, Mapas, y todo lo referente a que el procesamiento quede cada vez más del lado de "la nube". Tenemos que tener constancia de la importancia a nivel de desarrollo que están adquiriendo estos conceptos a lo largo de toda la plataforma Microsoft: Windows 8 tiene nueva API basada en JavaScript y permite desarrollar Apps con HTML5, CSS3 y JavaScript; Office y SharePoint 2013 entran en el modelo de "Marketplace" proporcionando las tecnologías citadas como medio de desarrollo de las Apps; y sin dejar de lado que estos lenguajes de desarrollo son multiplataforma y soportado por todos los sistemas operativos del momento. Con todo esto, quiero concientizar a los desarrolladores de la importancia que va adquiriendo lo que hasta ahora era el desarrollo web. Y de la importancia de los servicios externos como puede ser poner en nuestras aplicaciones un mapa de Bing o Google.

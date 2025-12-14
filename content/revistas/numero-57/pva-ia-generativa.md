@@ -1,10 +1,13 @@
 ---
+
 title: "Novedades en Power Virtual Agents"
 slug: "pva-ia-generativa"
 magazineSlug: "numero-57"
 author: "Ferran Chopo"
 authorSlug: "ferran-chopo"
 keywords: ['AI Builder', 'Power Virtual Agent', 'GPT', 'OpenAI']
+image: "../images/pva-ia-generativa/image1.png"
+
 ---
 
 **Licenciamiento**

@@ -1,10 +1,13 @@
 ---
+
 title: "Usando Azure OpenAI Completions API desde SPFx en modo Stream"
 slug: "usando-azure-openai-api-desde-spfx-en-modo-stream"
 magazineSlug: "numero-57"
 author: "Luis Mañez"
 authorSlug: "luis-manez"
 keywords: ['SPFx', 'SharePoint', 'Office 365', 'GPT', 'OpenAI']
+image: "../images/usando-azure-openai-api-desde-spfx-en-modo-stream/image1.png"
+
 ---
 
 En este artículo vamos a ver cómo podemos invocar la API de Azure OpenAI

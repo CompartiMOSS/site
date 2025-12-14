@@ -1,10 +1,13 @@
 ---
+
 title: "Añadiendo Firma Electrónica a Aprobaciones con Approvals en Teams"
 slug: "anadiendo-firma-electronica-a-aprobaciones-con-approvals-en-teams"
 magazineSlug: "numero-50"
 author: "Juan Carlos Gonzalez Martin"
 authorSlug: "juan-carlos-gonzalez-martin"
 keywords: ['Microsoft Teams']
+image: "../images/anadiendo-firma-electronica-a-aprobaciones-con-approvals-en-teams/image1.png"
+
 ---
 
 En el número 48 de CompartiMOSS escribí sobre como [con Approvals en

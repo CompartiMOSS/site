@@ -1,10 +1,13 @@
 ---
+
 title: "Instalación de SCOM 2016 para la monitorización de nuestra infraestructura (Parte 2)"
 slug: "instalacion-de-scom-2016-para-la-monitorizacion-de-nuestra-infraestructura-parte-2"
 magazineSlug: "numero-37"
 author: "Juan Ignacio Oller Aznar"
 authorSlug: "juan-ignacio-oller-aznar"
 keywords: ['SCOM']
+image: "../images/instalacion-de-scom-2016-para-la-monitorizacion-de-nuestra-infraestructura-parte-2/image1.png"
+
 ---
 
 Tras haber visto que es System Center Operations Manager (SCOM) y que ventajas nos aporta su instalación, así como haber tratado brevemente los requisitos que tenemos que instalar previamente para poder desplegar esta solución de monitorización en nuestra infraestructura, en este pequeño artículo vamos a hablar de algunos temas peliagudos que debemos solventar y tener en cuenta para que no nos de problemas la instalación de la solución en sí.

@@ -1,10 +1,13 @@
 ---
+
 title: "PowerShell Cmdlets -  Crearlos o Morir"
 slug: "powershell-cmdlets-crearlos-morir"
 magazineSlug: "numero-17"
 author: "Gustavo Velez"
 authorSlug: "gustavo-velez"
 keywords: ['PowerShell']
+image: "../images/powershell-cmdlets-crearlos-morir/figura1.png"
+
 ---
 
 ​PowerShell es el Framework para automatización de tareas de Microsoft, consistente de un programa para ejecutar comandos y un lenguaje para ejecutar scripts basado en .NET. PowerShell ofrece acceso a todos los objetos de Windows y prácticamente todos sus servidores, incluyendo a SharePoint.

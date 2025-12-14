@@ -1,10 +1,13 @@
 ---
+
 title: "Entrevista a Alex Rostan"
 slug: "entrevista-alex-rostan"
 magazineSlug: "numero-54"
 author: "Alex Rostan"
 authorSlug: "alex-rostan"
 keywords: ['Entrevista']
+image: "../images/entrevista-alex-rostan/image1.png#author"
+
 ---
 
 ![Alex Rostan](../images/entrevista-alex-rostan/image1.png#author) Alex Rostan, nací en Montevideo, Uruguay allá por el año 86.

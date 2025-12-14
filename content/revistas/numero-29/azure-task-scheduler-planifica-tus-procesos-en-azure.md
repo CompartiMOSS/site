@@ -1,10 +1,13 @@
 ---
+
 title: "Azure Task Scheduler -  Planifica tus procesos en Azure"
 slug: "azure-task-scheduler-planifica-tus-procesos-en-azure"
 magazineSlug: "numero-29"
 author: "Robert Bermejo"
 authorSlug: "robert-bermejo"
 keywords: ['Azure','Azure Scheduler']
+image: "../images/azure-task-scheduler-planifica-tus-procesos-en-azure/image1.png"
+
 ---
 
 En el desarrollo de aplicaciones normalmente nos encontramos que debemos implementar tareas que deben ejecutarse periódicamente y que están fuera del entorno de nuestra aplicación. Estas tareas necesitan ser planificadas para su ejecución. En Windows utilizaríamos el Task Scheduler de Windows, y si tuviéramos muchas tareas utilizaríamos Frameworks como Quartz<sup>1</sup> que nos ayudan a planificar todas las tareas desde un solo punto y no una a una.

@@ -1,10 +1,13 @@
 ---
+
 title: "De Office 365 a Employee Experience Platform, pasando por MyAnalytics y Workplace Analytics"
 slug: "de-office-365-a-employee-experience-platform-pasando-por-myanalytics-y-workplace-analytics"
 magazineSlug: "numero-47"
 author: "Alberto Diaz Martin"
 authorSlug: "alberto-diaz-martin"
 keywords: ['MyAnalytics','Workplace Analytics','Microsoft Viva','Microsoft 365','Office 365']
+image: "../images/de-office-365-a-employee-experience-platform-pasando-por-myanalytics-y-workplace-analytics/image1.png"
+
 ---
 
 Los puestos de trabajo han cambiado y las empresas no tienen nada claro

@@ -1,10 +1,13 @@
 ---
+
 title: "Porque fracasan los proyectos de SharePoint"
 slug: "porque-fracasan-los-proyectos-de-sharepoint"
 magazineSlug: "numero-26"
 author: "Fernando Chiquiza"
 authorSlug: "fernando-chiquiza"
 keywords: ['Colaboración','SharePoint']
+image: "../images/porque-fracasan-los-proyectos-de-sharepoint/image1.jpeg"
+
 ---
 
 En esta ocasión quisiera presentarle algunos puntos para que los tengan en cuenta:

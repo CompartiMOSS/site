@@ -1,10 +1,13 @@
 ---
+
 title: "Un vistazo a Microsoft Graph Toolkit -  Web Components con Graph"
 slug: "un-vistazo-a-microsoft-graph-toolkit-web-components-con-graph"
 magazineSlug: "numero-41"
 author: "Rubén Ramos Mateo"
 authorSlug: "rubén-ramos-mateo"
 keywords: ['Graph']
+image: "../images/un-vistazo-a-microsoft-graph-toolkit-web-components-con-graph/image1.png"
+
 ---
 
 En muchos proyectos nos piden funcionalidades como mostrar las tareas de Planner del usuario, o la agenda del usuario, y para ello utilizamos Microsoft Graph. Para facilitar el acceso a estas informaciones, Microsoft ha creado una serie de componentes que podemos utilizar en nuestras aplicaciones web y que de una forma muy sencilla permite implementar estas funcionalidades.

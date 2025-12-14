@@ -1,10 +1,13 @@
 ---
+
 title: "REST, WebAPI 2 y SharePoint 2013 – WebAPI y OData"
 slug: "rest-webapi-2-y-sharepoint-2013-webapi-y-odata"
 magazineSlug: "numero-23"
 author: "Gustavo Velez"
 authorSlug: "gustavo-velez"
 keywords: ['REST','Web Api']
+image: "../images/rest-webapi-2-y-sharepoint-2013-webapi-y-odata/imagen1.png"
+
 ---
 
 ​SharePoint siempre ha sido un sistema abierto a aceptar modificaciones por medio de programación y que expone todos sus componentes e información al mundo exterior por medio de un API (Application Programming Interface) muy poderoso. Ese es, probablemente, uno de los factores más importantes para su aceptación empresarial. Aunque SharePoint siempre ha tenido una API remota (basada en Servicios Web), es decir, que permite crear software que interactúa con el servidor sin que sea indispensable instalar los programas localmente, solamente hasta la versión 2010 Microsoft le incluyo un API remoto basado en REST (Representational State Transfer).

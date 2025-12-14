@@ -1,10 +1,13 @@
 ---
+
 title: "Azure App Configuration"
 slug: "azure-app-configuration"
 magazineSlug: "numero-40"
 author: "Alberto Diaz Martin"
 authorSlug: "alberto-diaz-martin"
 keywords: ['Azure']
+image: "../images/azure-app-configuration/image1.png"
+
 ---
 
 ​Microsoft sigue invirtiendo en Azure con nuevos servicios que ayudan, en este caso, a gobernar las configuraciones de nuestras aplicaciones. App Configuration es un nuevo servicio que nos permite almacenar los parámetros de nuestras aplicaciones de una forma rápida y escalable. Un servicio optimizado para separar totalmente la configuración del código que gestiona los diferentes pares de clave-valor que usamos en las aplicaciones junto con funcionalidades extras de etiquetado, versionado en el tiempo, seguridad basada en identidades administradas de servicios y/o encriptación en transporte y en almacenamiento.

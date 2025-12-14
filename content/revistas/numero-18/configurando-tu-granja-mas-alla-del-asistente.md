@@ -1,10 +1,13 @@
 ---
+
 title: "Configurando tu granja más allá del Asistente"
 slug: "configurando-tu-granja-mas-alla-del-asistente"
 magazineSlug: "numero-18"
 author: "Daniel Seara"
 authorSlug: "#"
 keywords: ['Governance','PowerShell']
+image: "../images/configurando-tu-granja-mas-alla-asistente/imagen1.png"
+
 ---
 
 El proceso de instalación de SharePoint 2013 (aplica también para la versión 2010), es sumamente sencillo. Sin embargo, la utilización del asistente conlleva algunas configuraciones algo espurias y que no en todos los casos resultan adecuadas (por no decir en la mayoría de los entornos de producción). Veremos en este artículo los porqués, y un paso a paso para conseguir mejores resultados de nuestra granja.

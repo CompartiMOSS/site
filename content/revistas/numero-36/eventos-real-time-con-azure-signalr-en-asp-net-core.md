@@ -1,10 +1,13 @@
 ---
+
 title: "Eventos Real-Time con Azure SignalR en ASP.NET Core"
 slug: "eventos-real-time-con-azure-signalr-en-asp-net-core"
 magazineSlug: "numero-36"
 author: "Sergio Hernandez Mancebo"
 authorSlug: "sergio-hernandez-mancebo"
 keywords: ['Azure','SignalR']
+image: "../images/eventos-real-time-con-azure-signalr-en-asp-net-core/image1.png"
+
 ---
 
 Como cambian los tiempos, las personas y los pueblos, no podíamos esperar menos de nuestra amada tecnología, que si cabe evoluciona y se transforma más rápido que nadie. Si hablamos de arquitecturas software, podemos decir que es el momento de potenciar el uso de las librerías cliente (React, Angular,Vue…) y cómo no, el momento de pensar en arquitecturas serverless con objetivos muy ambiciosos de rendimiento y escalado.

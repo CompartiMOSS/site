@@ -1,10 +1,13 @@
 ---
+
 title: "Viva Connections Home - Facilitando el acceso a la Suite de Viva y a la información corporativa"
 slug: "nueva-home-de-viva-connections"
 magazineSlug: "numero-55"
 author: "Juan Carlos González Martín"
 authorSlug: "juan-carlos-gonzalez-martin"
 keywords: ['Microsoft Viva','Microsoft 365']
+image: "../images/nueva-home-de-viva-connections/image1.png"
+
 ---
 
 Llevamos más de 2 años hablando de la propuesta EXP (Employee Experience

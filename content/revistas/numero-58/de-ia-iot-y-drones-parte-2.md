@@ -1,10 +1,13 @@
 ---
+
 title: "De Inteligencia Artificial, IoT y Drones - II"
 slug: "de-ia-iot-y-drones-parte-2"
 magazineSlug: "numero-58"
 author: "Javier Menendez Pallo"
 authorSlug: "javier-menendez-pallo"
 keywords: ['AI', 'IoT']
+image: "../images/de-ia-iot-y-drones-parte-2/image1.png"
+
 ---
 
 Os presento la segunda y última parte de este artículo donde veíamos una

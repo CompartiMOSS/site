@@ -1,10 +1,13 @@
 ---
+
 title: "Workaround para permitir actualizar un término usando RunWithElevatedPrivileges"
 slug: "workaround-para-permitir-actualizar-un-término-usando-runwithelevatedprivileges"
 magazineSlug: "numero-15"
 author: "Luis Mañez"
 authorSlug: "luis-manez"
 keywords: ['Taxonomía']
+image: "../images/workaround-update-term-usando-privilegios/image1.png"
+
 ---
 
 Partimos del siguiente escenario. Tenemos un conjunto de términos *TermSet* abierto, donde utilizando el control estándar de SharePoint, se han creado varios términos. Además, tenemos la necesidad desde código, de poder acceder a un término *Term*, y actualizar alguna de sus propiedades, por ejemplo para añadirle una propiedad personalizada, que podría indicarnos la última fecha/hora en la que se utilizó el término, o el número de veces que ese término se ha utilizado. Para acabar con la descripción del escenario, tenemos una última restricción, y es que el usuario del contexto, con el que se ejecutará nuestro código, no tiene permisos de administración sobre el conjunto de términos *TermSet*.

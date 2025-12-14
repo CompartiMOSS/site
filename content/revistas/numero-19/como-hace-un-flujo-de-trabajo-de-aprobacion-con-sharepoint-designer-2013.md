@@ -1,10 +1,13 @@
 ---
+
 title: "¿Cómo hacer un Flujo de Trabajo de aprobación con SharePoint Designer 2013?"
 slug: "como-hace-un-flujo-de-trabajo-de-aprobacion-con-sharepoint-designer-2013"
 magazineSlug: "numero-19"
 author: "Yurguen Hernández"
 authorSlug: "yurguen-hernandez"
 keywords: ['Workflow','SharePoint 2013']
+image: "../images/como-hace-un-flujo-de-trabajo-de-aprobacion-con-sharepoint-designer-2013/image1.png"
+
 ---
 
 ​Los flujos de trabajo que manejan aprobaciones, son flujos muy útiles porque permiten mantener un control adecuado de las tareas que se realizan dentro de una organización, además de permitir a los más altos mandos que procede y que no lo hace dentro de la empresa, los flujos son una herramienta muy eficaz que con trabajo y bien diseñados nos permiten tener control total sobre lo que ocurre en la organización.

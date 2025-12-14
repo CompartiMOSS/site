@@ -1,10 +1,13 @@
 ---
+
 title: "Creación de bots con Power Virtual Agents y Custom Question Answering"
 slug: "pva-custom-question-answering"
 magazineSlug: "numero-50"
 author: "Ferran Chopo Garcia"
 authorSlug: "ferran-chopo"
 keywords: ['Power Platform','Power Virtual Ageng']
+image: "../images/pva-custom-question-answering/image1.png"
+
 ---
 
 Con la aparición de la *Power Platform* Microsoft apostó fuerte por los

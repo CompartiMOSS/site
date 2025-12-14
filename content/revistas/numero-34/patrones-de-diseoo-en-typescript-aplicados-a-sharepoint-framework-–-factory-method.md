@@ -1,10 +1,13 @@
 ---
+
 title: "Patrones de Diseño en Typescript aplicados a SharePoint Framework – Factory Method"
 slug: "patrones-de-diseoo-en-typescript-aplicados-a-sharepoint-framework-–-factory-method"
 magazineSlug: "numero-34"
 author: "Luis Valencia"
 authorSlug: "luis-valencia"
 keywords: ['SharePoint Framework']
+image: "../images/patrones-de-diseoo-en-typescript-aplicados-a-sharepoint-framework-–-factory-method/image1.png"
+
 ---
 
 Si tus skills vienen del lado del desarrollo del servidor como los del autor de este texto, existe una gran posibilidad de haber utilizado: C # / .NET Farm solutions o servicios de WCF, REST API o ASP.NET WebForms o MVC, principalmente el singleton. El objetivo de este texto es describir el proceso de varios meses utilizando los patrones de diseño de Typescript aplicados a los webparts de SharePoint Framework, tomando en cuenta que SPFx es 100% del lado del cliente, pero eso no significa que se tiene que crear la lógica y la UI y poner todo en solo archivo .TS sin ningún tipo de estructura, como se puede ver en numerosos blogs, artículos e incluso en la documentación oficial de Microsoft.

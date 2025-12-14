@@ -1,10 +1,13 @@
 ---
+
 title: "Introducción a Azure Search"
 slug: "introduccion-a-azure-search"
 magazineSlug: "numero-41"
 author: "Luis Valencia"
 authorSlug: "luis-valencia"
 keywords: ['Azure Search']
+image: "../images/introduccion-a-azure-search/image1.png"
+
 ---
 
 En este artículo se aprenden los conceptos básicos de Azure Search y el procedimiento para una configuración básica del servicio, desde el índice, indexador y fuente de datos, hasta la ejecución de consultas de prueba.

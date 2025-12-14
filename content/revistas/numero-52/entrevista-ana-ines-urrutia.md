@@ -1,10 +1,13 @@
 ---
+
 title: "Entrevista a Ana Inés Urrutia"
 slug: "entrevista-ana-ines-urrutia"
 magazineSlug: "numero-52"
 author: "Ana Inés Urrutia"
 authorSlug: "ana-ines-urrutia"
 keywords: ['Entrevista']
+image: "/../images/autores/ana-ines-urrutia.png#author"
+
 ---
 
 ![Ana Inés Urrutia](/../images/autores/ana-ines-urrutia.png#author) Ana Inés Urrutia es licenciada en Psicología, egresada de la Universidad Católica del Uruguay. 

@@ -1,10 +1,13 @@
 ---
+
 title: "Troubleshooting del networking de Azure mediante Network Watcher"
 slug: "network-watcher"
 magazineSlug: "numero-46"
 author: "Alberto Andrés Rodríguez"
 authorSlug: "alberto-andres-rodriguez"
 keywords: ['Azure', 'Network Watcher']
+image: "../images/network-watcher/imagef.png"
+
 ---
 
 En el número 45 de CompartiMOSS

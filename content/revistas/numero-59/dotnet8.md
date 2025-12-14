@@ -1,10 +1,13 @@
 ---
+
 title: ".NET 8 - What Else?"
 slug: "dotnet8"
 magazineSlug: "numero-59"
 author: "Adrian Diaz Cervera"
 authorSlug: "adrian-diaz-cervera"
 keywords: ['dotnet', 'dotnet 8', '.NET']
+image: "../images/dotnet8/image1.png"
+
 ---
 
 El pasado mes de noviembre salió la versión definitiva de .NET 8. Cada

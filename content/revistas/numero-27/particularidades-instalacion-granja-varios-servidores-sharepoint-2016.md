@@ -1,10 +1,13 @@
 ---
+
 title: "Particularidades de la instalación de una Granja de varios servidores de SharePoint 2016"
 slug: "particularidades-instalacion-granja-varios-servidores-sharepoint-2016"
 magazineSlug: "numero-27"
 author: "Juan Carlos Gonzalez Martin"
 authorSlug: "juan-carlos-gonzalez-martin"
 keywords: ['SharePoint 2016','MinRole']
+image: "../images/particularidades-instalacion-granja-varios-servidores-sharepoint-2016/image1.png"
+
 ---
 
 ​El proceso de instalación de SharePoint Server 2016 viene determinado por el tipo de Granja:

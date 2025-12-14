@@ -1,10 +1,13 @@
 ---
+
 title: "Patrones de Diseno de Typescript aplicados a Sharepoint Framework  -  Contructor (Builder Pattern)"
 slug: "patrones-de-diseno-de-typescript-aplicados-a-sharepoint-framework-contructor"
 magazineSlug: "numero-35"
 author: "Luis Valencia"
 authorSlug: "luis-valencia"
 keywords: ['SharePoint Framework']
+image: "../images/patrones-de-diseno-de-typescript-aplicados-a-sharepoint-framework-contructor/image1.jpeg"
+
 ---
 
 El patrón  constructor nos permite construir objetos complejos usando objetos simples de una manera sencilla y paso a paso.  Este patrón es de la categoría de patrones creaciones y nos provee una de las maneras mas sencillas para simplificar la creación de objetos.

@@ -1,10 +1,13 @@
 ---
+
 title: "Productivity Tips con Microsoft Teams -  Últimas novedades en reuniones, llamadas y videollamadas en Teams"
 slug: "productivity-tips-con-microsoft-teams-ultimas-novedades-en-reuniones-llamadas-y-videollamadas-en-teams"
 magazineSlug: "numero-44"
 author: "Juan Carlos Gonzalez Martin"
 authorSlug: "juan-carlos-gonzalez-martin"
 keywords: ['Teams']
+image: "../images/productivity-tips-con-microsoft-teams-ultimas-novedades-en-reuniones-llamadas-y-videollamadas-en-teams/image1.png"
+
 ---
 
 Con la irrupción de la pandemia del COVID-19 en todo el mundo, durante los últimos 2-3 meses hemos visto como muchas personas de sectores diferentes de la economía han tenido que adaptarse a la situación y pasar a trabajar de forma totalmente remota. En este escenario de trabajo en remoto o teletrabajo, Microsoft Teams está jugando un papel fundamental y también el esfuerzo realizado por Microsoft para ir liberando nuevas características de productividad en la plataforma. En este artículo haremos un repaso a algunas de las últimas novedades incorporadas por Microsoft en reuniones, llamadas y videollamadas en Microsoft Teams.

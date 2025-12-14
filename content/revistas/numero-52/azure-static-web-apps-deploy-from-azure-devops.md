@@ -1,10 +1,13 @@
 ---
+
 title: "Azure Static Web Apps - Deploy from Azure DevOps"
 slug: "azure-static-web-apps-deploy-from-azure-devops"
 magazineSlug: "numero-52"
 author: "Santiago Porras Rodríguez"
 authorSlug: "santiago-porras-rodriguez"
 keywords: ['Azure','Azure Static Web Apps', 'Azure DevOps']
+image: " ../images/azure-static-web-apps-deploy-from-azure-devops/image1.png"
+
 ---
 
 Hace algunos días se celebró el [aniversario de Azure Static Web

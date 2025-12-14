@@ -1,10 +1,13 @@
 ---
+
 title: "Microsoft Identity Manager 2016"
 slug: "microsoft-identity-manager-2016"
 magazineSlug: "numero-36"
 author: "Pablo Ortiz"
 authorSlug: "pablo-ortiz"
 keywords: ['Identity Manager']
+image: "../images/microsoft-identity-manager-2016/image1.png"
+
 ---
 
 Sí, MIM 2016 es la evolución de FIM 2010, con el cual comparte no sólo la funcionalidad, sino que gran parte de la documentación escrita para FIM es válida también para MIM. Sobre todo en cuanto a planificación, requerimientos, e instalación, no hay que preocuparse si no encontramos mucha documentación de MIM 2016, pues la que existe de FIM 2010 es válida.

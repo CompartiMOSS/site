@@ -1,10 +1,13 @@
 ---
+
 title: "Primera aproximación a las Paginas personalizadas de Power Apps (Custom Pages)"
 slug: "primera-aproximacion-a-custom-pages"
 magazineSlug: "numero-49"
 author: "Enrique Sánchez Moreno"
 authorSlug: "enrique-sanchez"
 keywords: ['Power Apps','Custom Pages','Power Platform']
+image: "../images/primera-aproximacion-a-custom-pages/image1.png"
+
 ---
 
 En este artículo os voy a mostrar mis primeros pasos a la hora de

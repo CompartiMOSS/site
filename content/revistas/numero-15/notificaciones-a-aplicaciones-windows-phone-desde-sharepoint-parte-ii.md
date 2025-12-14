@@ -1,10 +1,13 @@
 ---
+
 title: "Notificaciones a Aplicaciones Windows Phone desde SharePoint Parte II"
 slug: "notificaciones-a-aplicaciones-windows-phone-desde-sharepoint-parte-ii"
 magazineSlug: "numero-15"
 author: "Adrian Diaz Cervera"
 authorSlug: "adrian-diaz-cervera"
 keywords: ['Windows Phone','Notificaciones']
+image: "../images/notificaciones-aplicaciones-windows-phone-sharepoint/image1.png"
+
 ---
 
 Este artículo es la continuación del artículo del número pasado en el explicábamos como enviar notificaciones PUSH desde SharePoint. En este número vamos a explicar cómo tenemos que desarrollar una APP de Windows Phone 7.5 y 8 para poder recibir las notificaciones desde SharePoint tanto en su versión 2010 como en la nueva versión 2013.

@@ -1,10 +1,13 @@
 ---
+
 title: "Powerapps, Azure Maps y Geoespatial Features"
 slug: "powerapps-azure-maps"
 magazineSlug: "numero-45"
 author: "Sergio Hernández"
 authorSlug: "sergio-hernandez-mancebo"
 keywords: ['PowerApps','Azure Maps']
+image: "../images/powerapps-azure-maps/image1.png"
+
 ---
 
 En este artículo vamos a revisar la unión de dos Servicios de Microsoft

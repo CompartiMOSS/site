@@ -1,10 +1,13 @@
 ---
+
 title: "SharePoint y Azure – Azure Functions"
 slug: "sharepoint-y-azure-azure-functions"
 magazineSlug: "numero-30"
 author: "Gustavo Velez"
 authorSlug: "gustavo-velez"
 keywords: ['Azure','Azure Functions']
+image: "../images/sharepoint-y-azure-azure-functions/image1.png"
+
 ---
 
 ​​​SharePoint y Azure forman una poderosa combinación. Los dos productos de Microsoft, el uno, SharePoint, que forma el corazón de las herramientas de colaboración y manejo de conocimiento, y el otro, Azure, que representa la estrategia de servicios en la nube de la compañía, se pueden combinar de múltiples formas para solucionar numerosos problemas empresariales. Esta serie de artículos analiza una por una, varias de las posibilidades en las que los dos productos de Microsoft se complementan y amplían su marco de operación.

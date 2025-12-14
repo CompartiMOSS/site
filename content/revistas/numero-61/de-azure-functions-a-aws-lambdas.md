@@ -1,10 +1,13 @@
 ---
+
 title: "De Azure Functions a AWS Lambdas"
 slug: "de-azure-functions-a-aws-lambdas"
 magazineSlug: "numero-61"
 author: "Diego Zapico"
 authorSlug: "diego-zapico"
 keywords: ['azure', 'aws', 'functions', 'lambdas']
+image: "../images/de-azure-functions-a-aws-lambdas/image1.png"
+
 ---
 
 Llevo un tiempo viendo desarrollarse las **Azure Functions**,

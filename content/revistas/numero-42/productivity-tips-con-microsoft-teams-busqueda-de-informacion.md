@@ -1,10 +1,13 @@
 ---
+
 title: "Productivity Tips con Microsoft Teams -  Búsqueda de Información"
 slug: "productivity-tips-con-microsoft-teams-busqueda-de-informacion"
 magazineSlug: "numero-42"
 author: "Juan Carlos Gonzalez Martin"
 authorSlug: "juan-carlos-gonzalez-martin"
 keywords: ['Teams']
+image: "../images/productivity-tips-con-microsoft-teams-busqueda-de-informacion/image1.png"
+
 ---
 
 Este artículo es el primero de una serie de artículos sobre Tips en el uso de Microsoft Teams que faciliten al usuario tareas habituales con la herramienta de Teamwork por excelencia de Microsoft. En este primer artículo vamos a revisar como buscar información en Teams.

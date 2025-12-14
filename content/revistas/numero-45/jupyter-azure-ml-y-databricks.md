@@ -1,10 +1,13 @@
 ---
+
 title: "Jupyter, Azure ML y Databricks"
 slug: "jupyter-azure-ml-y-databricks"
 magazineSlug: "numero-45"
 author: "Alberto Diaz Martin"
 authorSlug: "alberto-diaz-martin"
 keywords: ['Azure Machine Learning','Azure Databricks','JupypterLab']
+image: "../images/jupyter-azure-ml-y-databricks/image1.png"
+
 ---
 
 Cuando ayudamos a nuestros clientes a desarrollar proyectos de

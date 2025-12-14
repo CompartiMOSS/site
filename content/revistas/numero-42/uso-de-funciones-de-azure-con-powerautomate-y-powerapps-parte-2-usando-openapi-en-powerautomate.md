@@ -1,10 +1,13 @@
 ---
+
 title: "Uso de Funciones de Azure con PowerAutomate y PowerApps - Parte 2 -  Usando OpenAPI en PowerAutomate"
 slug: "uso-de-funciones-de-azure-con-powerautomate-y-powerapps-parte-2-usando-openapi-en-powerautomate"
 magazineSlug: "numero-42"
 author: "Gustavo Velez"
 authorSlug: "gustavo-velez"
 keywords: ['Flow','API']
+image: "../images/uso-de-funciones-de-azure-con-powerautomate-y-powerapps-parte-2-usando-openapi-en-powerautomate/image1.png"
+
 ---
 
 PowerAutomate (conocido originalmente como Microsoft Flow) es la implementación que Microsoft ha creado para integrar el motor de flujos de Azure, Logic Apps, en Office 365. A su vez, PowerApps es un intento para facilitar la creación de aplicaciones sin necesidad de programación, que pueden ser utilizadas por sí mismas, o integradas en SharePoint Online. Ambos sistemas, aunque fáciles de utilizar y bastante poderosos en cuanto a funcionalidad, carecen de la flexibilidad para agregar nuevas posibilidades de cálculo y procesamiento. Esta falta de los dos sistemas se puede solucionar por medio de las Funciones de Azure.

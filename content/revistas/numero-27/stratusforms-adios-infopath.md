@@ -1,10 +1,13 @@
 ---
+
 title: "StratusForms – ¿Adios InfoPath?"
 slug: "stratusforms-adios-infopath"
 magazineSlug: "numero-27"
 author: "Luis Molina"
 authorSlug: "luis-molina"
 keywords: ['SharePoint','Forms','Infopath']
+image: "../images/stratusforms-adios-infopath/image1.png"
+
 ---
 
 ​Microsoft no nos ha dado ninguna alternativa a InfoPath y por tanto nosotros seguimos buscando soluciones para poder realizar formularios de la forma más eficiente. Entre las diferentes alternativas que van apareciendo destaca StratusForms, presentando una versión gratuita y otra de pago que además de las características básicas de la versión gratuita nos permitiría enlazar con otros sistemas como SAP.

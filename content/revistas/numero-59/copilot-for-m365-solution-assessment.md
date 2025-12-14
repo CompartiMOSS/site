@@ -1,10 +1,13 @@
 ---
+
 title: "¿Estás preparado para Copilot para Microsoft 365? Compruébalo tu mismo"
 slug: "copilot-for-m365-solution-assessment"
 magazineSlug: "numero-59"
 author: "Juan Carlos González Martín"
 authorSlug: "juan-carlos-gonzalez-martin"
 keywords: ['Microsoft 365', 'Office 365', 'Copilot']
+image: "../images/copilot-for-m365-solution-assessment/image1.png"
+
 ---
 
 Copilot para Microsoft 365 es uno de los "Copilotos" de Microsoft a los

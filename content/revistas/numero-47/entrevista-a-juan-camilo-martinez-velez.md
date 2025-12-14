@@ -1,10 +1,13 @@
 ---
+
 title: "Entrevista a Juan Camilo Martínez Vélez"
 slug: "entrevista-a-juan-camilo-martinez-velez"
 magazineSlug: "numero-47"
 author: "Juan Camilo Martínez Vélez"
 authorSlug: "juan-camilo-martinez-velez"
 keywords: ['Entrevista']
+image: "/../images/autores/juan-camilo-martinez-velez.png#author"
+
 ---
 
 ![Juan Camilo Martínez Vélez](/../images/autores/juan-camilo-martinez-velez.png#author) Mi nombre es Juan Camilo Martínez Vélez, y soy de la hermosa ciudad de

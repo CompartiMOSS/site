@@ -1,10 +1,13 @@
 ---
+
 title: "Microsoft Bookings, Gestión sencilla de citas en tiempos de pandemia y escenarios de Remote Work"
 slug: "microsoft-bookings-gestion-sencilla-de-citas-en-escenarios-de-remote-work"
 magazineSlug: "numero-46"
 author: "Juan Carlos Gonzalez Martin"
 authorSlug: "juan-carlos-gonzalez-martin"
 keywords: ['Microsoft Bookins', 'Microsoft 365', 'Office 365']
+image: "../images/microsoft-bookings-gestion-sencilla-de-citas-en-escenarios-de-remote-work/image1.png"
+
 ---
 
 Microsoft Bookings es una aplicación disponible de serie en distintos

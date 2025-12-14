@@ -1,10 +1,13 @@
 ---
+
 title: "Exchange Online Troubleshooting"
 slug: "exchange-online-troubleshooting"
 magazineSlug: "numero-19"
 author: "Alberto Pascual"
 authorSlug: "alberto-pascual"
 keywords: ['Exchange Online']
+image: "../images/exchange-online-troubleshooting/imagen1.png"
+
 ---
 
 ​**La toma de desiciones**

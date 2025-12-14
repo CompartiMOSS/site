@@ -1,10 +1,13 @@
 ---
+
 title: "Intranet Sociales -  ¿El futuro?"
 slug: "intranet-sociales-el-futuro"
 magazineSlug: "numero-18"
 author: "Mariano Minoli"
 authorSlug: "mariano-minoli"
 keywords: ['Social','Intranet']
+image: "../images/intranet-sociales-el-futuro/imagen1.png"
+
 ---
 
 Mucho se viene hablando en los últimos tiempos sobre el valor que agrega a las empresas disponer de un entorno colaborativo social interno, es decir una "Intranet Social". Las intranets corporativas existen desde hace 20 años y su función principal ha sido la de informar a los empleados, transmitiendo la información usando una modalidad *top-down*. Sin embargo, los cambios culturales en el entorno instan cada vez más a las personas a participar en redes sociales y otros medios caracterizados por su horizontalidad y dinamismo, haciendo que las intranets tradicionales hayan llegado a su fin para dar comienzo a un nuevo tipo de intranet donde la colaboración, la comunicación en todo sentido, la construcción de conocimiento y la innovación son sus fortalezas principales. Esto ya está pasando, las Intranets Sociales ya han salido del laboratorio y de los primeros experimentos y han alcanzado cierto nivel de madurez. En la Iberian SharePoint Conference (iberiansharepointconference.com) celebrada en Madrid en octubre pasado escuchamos a uno de los oradores pronunciar una frase que resume el cambio cultural:

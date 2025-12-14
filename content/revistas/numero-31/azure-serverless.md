@@ -1,10 +1,13 @@
 ---
+
 title: "Azure Serverless"
 slug: "azure-serverless"
 magazineSlug: "numero-31"
 author: "Javier López González"
 authorSlug: "javier-lopez-gonzalez"
 keywords: ['Azure','Azure Functions']
+image: "../images/azure-serverless/image1.png"
+
 ---
 
 No, no es una nueva feature de Azure de la que no te hayas enterado. En este artículo vamos a entender que es "serverless" ese concepto tan en boca de todos, y los componentes de Azure que se pueden considerar parte de esta moda.

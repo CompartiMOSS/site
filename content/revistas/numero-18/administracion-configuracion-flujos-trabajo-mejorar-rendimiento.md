@@ -1,10 +1,13 @@
 ---
+
 title: "Administración y configuración de flujos de trabajo para mejorar su rendimiento"
 slug: "administracion-configuracion-flujos-trabajo-mejorar-rendimiento"
 magazineSlug: "numero-18"
 author: "Diego Campo"
 authorSlug: "#"
 keywords: ['Administración','Workflow']
+image: "../images/administracion-configuracion-flujos-trabajo-mejorar-rendimiento/iamegn1.jpg"
+
 ---
 
 ​​​Los flujos de trabajo ("Workflows") son una herramienta indispensable para diferentes necesidades colaborativas que se desarrollan en la plataforma Microsoft SharePoint. La necesidad de automatizar procesos donde se relacionen adecuadamente eventos, personas, recursos y tareas para lograr un objetivo, hacen necesario que esta plataforma esté configurada y administrada con un alto rendimiento para alcanzar las miles de peticiones que realizan las soluciones colaborativas allí implementadas.

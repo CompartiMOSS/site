@@ -1,10 +1,13 @@
 ---
+
 title: "La arquitectura de SharePoint Online"
 slug: "la-arquitectura-de-sharepoint-online"
 magazineSlug: "numero-42"
 author: "Alberto Diaz Martin"
 authorSlug: "alberto-diaz-martin"
 keywords: ['SharePoint Online','Arquitectura']
+image: "../images/la-arquitectura-de-sharepoint-online/image1.png"
+
 ---
 
 ​Siempre he sido un enamorado de la arquitectura de SharePoint Server, sobre todo cuando en la versión 2010 nació el concepto de aplicación de servicio.

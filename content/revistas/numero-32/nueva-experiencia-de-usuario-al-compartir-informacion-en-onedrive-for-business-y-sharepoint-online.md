@@ -1,10 +1,13 @@
 ---
+
 title: "Nueva experiencia de usuario al compartir información en OneDrive for Business y SharePoint Online"
 slug: "nueva-experiencia-de-usuario-al-compartir-informacion-en-onedrive-for-business-y-sharepoint-online"
 magazineSlug: "numero-32"
 author: "Juan Carlos Gonzalez Martin"
 authorSlug: "juan-carlos-gonzalez-martin"
 keywords: ['Office 365','SharePoint Online']
+image: "../images/nueva-experiencia-de-usuario-al-compartir-informacion-en-onedrive-for-business-y-sharepoint-online/image8.png"
+
 ---
 
 Microsoft está cambiando (otra vez) la experiencia de usuario al compartir archivos y carpetas en OneDrive for Business (ODFB) y SharePoint Online. Con este nuevo cambio, disponible actualmente en tenants de Office 365 con First Release habilitad, Microsoft abandona el clásico PopUp para compartir archivos y carpetas y lo reemplaza por una experiencia tipo "Callout" como veremos en este artículo".

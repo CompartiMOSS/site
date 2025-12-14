@@ -1,10 +1,13 @@
 ---
+
 title: "Azure AD B2C"
 slug: "azure-ad-b2c"
 magazineSlug: "numero-36"
 author: "Robert Bermejo"
 authorSlug: "robert-bermejo"
 keywords: ['Azure','Azure AD','Azure AD B2C']
+image: "../images/azure-ad-b2c/image1.png"
+
 ---
 
 Cuando una empresa desarrolla una aplicación para sus clientes, externos a su organización, uno de los puntos claves es el desarrollo que permitirá el acceso a esta aplicación. ¿Qué puntos se deben tener en cuenta?

@@ -1,10 +1,13 @@
 ---
+
 title: "Introducción a Azure Durable Functions"
 slug: "introduccion-a-azure-durable-functions"
 magazineSlug: "numero-35"
 author: "Robert Bermejo"
 authorSlug: "robert-bermejo"
 keywords: ['Azure','Azure Functions']
+image: "../images/introduccion-a-azure-durable-functions/image1.png"
+
 ---
 
 A estas alturas todo el mundo conoce el concepto *serverless* y conoce que nos ofrecen las **Azure Functions** y también las mayores limitaciones que tienen:

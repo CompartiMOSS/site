@@ -1,10 +1,13 @@
 ---
+
 title: "Creación de un Chat para SharePoint con SignalR"
 slug: "creacion-de-un-chat-para-sharepoint-con-signalr"
 magazineSlug: "numero-23"
 author: "José Antonio Fraga Sánchez"
 authorSlug: "jose-antonio-fraga-sanchez"
 keywords: ['SignalR','SharePoint']
+image: "../images/creacion-de-un-chat-para-sharepoint-con-signalr/imagen1.png"
+
 ---
 
 ​En este artículo vamos a explicar cómo hemos desarrollado un chat para SharePoint usando SignalR, pero, ¿qué es SignalR? SignalR es una librería Open Source que forma parte de la familia de ASP.Net. Mediante SignalR podemos añadir funcionalidad de tipo comunicación en tiempo real entre cliente y servidor, teniendo así una comunicación bidireccional.

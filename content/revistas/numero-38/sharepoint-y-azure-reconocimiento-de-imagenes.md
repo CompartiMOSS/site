@@ -1,10 +1,13 @@
 ---
+
 title: "SharePoint y Azure -  Reconocimiento de imágenes"
 slug: "sharepoint-y-azure-reconocimiento-de-imagenes"
 magazineSlug: "numero-38"
 author: "Gustavo Velez"
 authorSlug: "gustavo-velez"
 keywords: ['Azure','SharePoint']
+image: "../images/sharepoint-y-azure-reconocimiento-de-imagenes/image1.png"
+
 ---
 
 ​

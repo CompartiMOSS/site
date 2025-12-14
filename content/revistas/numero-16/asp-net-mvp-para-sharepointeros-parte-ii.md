@@ -1,10 +1,13 @@
 ---
+
 title: "ASP.NET MVC para SharePointeros - Parte II"
 slug: "asp-net-mvp-para-sharepointeros-parte-ii"
 magazineSlug: "numero-16"
 author: "Edin Kapic"
 authorSlug: "edin-kapic"
 keywords: ['MVC']
+image: "../images/asp-net-mvp-sharepointeros-parteii/mvc_1.jpg"
+
 ---
 
 ​En el artículo previo vimos las bases de la programación de aplicaciones web en ASP.NET MVC conectadas a SharePoint mediante el modelo de objetos de cliente. La aplicación que acabamos haciendo mostraba los detalles de una lista de productos alojada en SharePoint. Sin embargo, nuestra aplicación era de sólo lectura, sin posibilidad de modificar los productos o añadir productos nuevos.

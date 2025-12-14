@@ -1,10 +1,13 @@
 ---
+
 title: "SPFX Extensions -  Personaliza a SharePoint Online"
 slug: "spfx-extensions-personaliza-a-sharepoint-online"
 magazineSlug: "numero-33"
 author: "Adrian Diaz Cervera"
 authorSlug: "adrian-diaz-cervera"
 keywords: ['SharePoint','SharePoint Framework']
+image: "../images/spfx-extensions-personaliza-a-sharepoint-online/image1.png"
+
 ---
 
 Hace poco más de un año cuando se anunció el nuevo modelo de desarrollo para SharePoint. Mucha gente pensaba que era uno más y que estaba llevado por la moda de desarrollo en el lado del FrontEnd: Gulp, NodeJS, ReactJS, etc; y que solamente sería un paso más hacia otro modelo de desarrollo, el cuarto en las últimas tres versiones de SharePoint. Pero lo que está ocurriendo es que esta nueva forma de desarrollo está gustando mucho a los usuarios de SharePoint, está saliendo el sol otra vez en SharePoint como anuncio Jeff Tepper (el "Father" de SharePoint).

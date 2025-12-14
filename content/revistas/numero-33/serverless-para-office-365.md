@@ -1,10 +1,13 @@
 ---
+
 title: "Serverless para Office 365"
 slug: "serverless-para-office-365"
 magazineSlug: "numero-33"
 author: "Alberto Diaz Martin"
 authorSlug: "alberto-diaz-martin"
 keywords: ['Azure','Serverless','Office 365']
+image: "../images/serverless-para-office-365/image1.png"
+
 ---
 
 Hubo un momento en la antigüedad que SharePoint se ejecutaba en los servidores de nuestros Datacenters, los usuarios de negocio nos pedían personalizaciones y desarrollábamos soluciones que aportaban valor a las funcionalidades base de SharePoint. Ahora que todo se está moviendo hacia Office 365, hay cada vez menos personalizaciones que podamos hacer. Aun así, los usuarios siguen necesitando de esas personalizaciones y ese código tiene que ejecutarse en algún lugar. Nos encontramos con el problema de hospedar nuestro propio Timer Job, incluso de tener que encontrar un servidor donde ejecutar esa funcionalidad. ¿Tendremos que aprender Docker? Gracias a la evolución de la tecnología cloud, una nueva arquitectura llamada #Serverless nos puede aportar una solución a muchos de estos problemas y nos permite centrarnos en lo que hacemos mejor, la creación de soluciones, sin tener que preocuparnos de dónde o cómo se ejecuta nuestra solución.

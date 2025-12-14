@@ -1,10 +1,13 @@
 ---
+
 title: "Cómo Crear Tenants de pruebas para Microsoft 365, Intune, PowerPlatform y Azure"
 slug: "como-crear-tenants-de-pruebas-para-microsoft-365-intune-powerplatform-y-azure"
 magazineSlug: "numero-60"
 author: "Alberto Andrés Rodríguez"
 authorSlug: "alberto-andres-rodriguez"
 keywords: ['Microsoft 365', 'Intune', 'PowerPlatform', 'Azure']
+image: "../images/como-crear-tenants-de-pruebas-para-microsoft-365-intune-powerplatform-y-azure/image1.png"
+
 ---
 
 En el desarrollo de software y la administración de sistemas IT, contar

@@ -1,10 +1,13 @@
 ---
+
 title: "Resultados y experiencias del 1º Office & SharePoint App Challenge de España"
 slug: "office-sharepoint-app-challenge-de-espana"
 magazineSlug: "numero-16"
 author: "Juan Carlos Gonzalez Martin"
 authorSlug: "juan-carlos-gonzalez-martin"
 keywords: ['Grupo de Usuarios']
+image: "../images/office-sharepoint-app-challenge-espana/image_1.jpg"
+
 ---
 
 ​Los grupos de usuarios de SharePoint de España ([SUGES](http://www.suges.es/), SUG.CAT, MadPoint y LevaPoint) organizaron los días 26 y 27 de abril el primer Office & SharePoint 2013 Application Challenge. La iniciativa, impulsada desde Microsoft Corporation con el apoyo a nivel organizativo de los Centros de Innovación de Microsoft de España ([CIIN](http://www.ciin.es/) y [CIP](http://www.micproductivity.com/es/Paginas/default.aspx)) y de Microsoft Ibérica, se tradujo en la realización simultánea de 3 hackatons de desarrollo de aplicaciones en las ciudades de Madrid, Barcelona y Valencia.

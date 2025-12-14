@@ -1,10 +1,13 @@
 ---
+
 title: "Nueva Home de Viva Connections"
 slug: "nueva-home-de-viva-connections"
 magazineSlug: "numero-58"
 author: "Juan Carlos González Martín"
 authorSlug: "juan-carlos-gonzalez-martin"
 keywords: ['Viva', 'Viva Connections', 'Office 365']
+image: "../images/nueva-home-de-viva-connections/image1.png"
+
 ---
 
 Viva Connections se concibe como el centro de la experiencia de empleado

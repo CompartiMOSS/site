@@ -1,10 +1,13 @@
 ---
+
 title: "Fingiendo que tenemos datos. Fakers en acción"
 slug: "fakers"
 magazineSlug: "numero-50"
 author: "Gustavo Velez"
 authorSlug: "gustavo-velez"
 keywords: ['Testing','Fakers']
+image: " ../images/fakers/image1.png"
+
 ---
 
 ¿Cuántas veces, cuando está programando o probando una aplicación, ha

@@ -1,10 +1,13 @@
 ---
+
 title: "Power Platform - Trabajo colaborativo en PowerApps"
 slug: "colaborar-en-canvan-powerapss"
 magazineSlug: "numero-51"
 author: "Alex Rostán"
 authorSlug: "alex-rostan"
 keywords: ['Power Apps', 'Power Platform']
+image: "../images/colaborar-en-canvan-powerapss/image1.png"
+
 ---
 
 Ahora con Power Apps podemos trabajar de forma colaborativa sin afectar

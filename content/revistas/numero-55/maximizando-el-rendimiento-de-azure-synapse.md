@@ -1,10 +1,13 @@
 ---
+
 title: "Maximizando el rendimiento de Azure Synapse Analytics"
 slug: "maximizando-el-rendimiento-de-azure-synapse"
 magazineSlug: "numero-55"
 author: "Javier Iniesta"
 authorSlug: "javier-iniesta"
 keywords: ['Azure Synapse','Azure']
+image: "../images/maximizando-el-rendimiento-de-azure-synapse/image1.png"
+
 ---
 
 ¡Hola! En este artículo os voy a contar las diferencias fundamentales

@@ -1,10 +1,13 @@
 ---
+
 title: "SharePoint y Azure -  Azure SQL como Base De Datos de SharePoint"
 slug: "sharepoint-y-azure-azure-sql"
 magazineSlug: "numero-32"
 author: "Gustavo Velez"
 authorSlug: "gustavo-velez"
 keywords: ['Azure','SQL Database']
+image: "../images/sharepoint-y-azure-azure-sql/image7.png"
+
 ---
 
 **Que es y cómo funciona SQL Azure**

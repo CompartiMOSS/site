@@ -1,10 +1,13 @@
 ---
+
 title: "Indexando todo lo que necesites con Azure Search"
 slug: "indexando-todo-lo-que-necesites-con-azure-search"
 magazineSlug: "numero-37"
 author: "Sergio Hernandez Mancebo"
 authorSlug: "sergio-hernandez-mancebo"
 keywords: ['Azure','Azure Search','CosmosDB']
+image: "../images/indexando-todo-lo-que-necesites-con-azure-search/image1.png"
+
 ---
 
 **Múltiples orígenes de datos, múltiples opciones**

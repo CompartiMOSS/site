@@ -1,10 +1,13 @@
 ---
+
 title: "Hybrid Connections + Azure WebJobs -  La solución fácil para usar nuestros datos OnPrem en la nube"
 slug: "hybrid-connections-azure-webjobs"
 magazineSlug: "numero-32"
 author: "Angel Cami"
 authorSlug: "angel-cami"
 keywords: ['Azure','Azure Hybrid Connections']
+image: "../images/hybrid-connections-azure-webjobs/image1.png"
+
 ---
 
 Queremos migrar nuestro actual Project Server a Project Online, pero tenemos un problema. Los recursos que usa el Project Server están alojados en una tabla del SQL Server que se rellena cada noche a través de DTS. Para conseguir nuestro objetivo deberemos automatizar este proceso para que los datos estén disponibles en nuestro Project Online.

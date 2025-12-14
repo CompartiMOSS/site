@@ -1,10 +1,13 @@
 ---
+
 title: "Como se hizo CompartiMOSS - Parte II"
 slug: "como-se-hizo-compartimoss-parte-ii"
 magazineSlug: "numero-16"
 author: "Santiago Porras Rodríguez"
 authorSlug: "santiago-porras-rodriguez"
 keywords: ['CompartiMOSS','Publicación','SharePoint 2013','Sitios Web']
+image: "../images/como-se-hizo-compartimoss-parteii/image_1.jpg"
+
 ---
 
 ​En esta segunda entrega, veremos las secciones que nos quedaron pendientes para terminar un diseño de un sitio de publicación de SharePoint 2013, los diseños de página y las plantillas de elementos, y veremos que crear un diseño personalizado es ahora más fácil que nunca y, que con poco esfuerzo y bastante conocimiento de HTML y JavaScript, podremos tener terminado nuestro sitio, listo para que los editores de contenido comiencen a enriquecerlo.

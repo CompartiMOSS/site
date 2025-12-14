@@ -1,10 +1,13 @@
 ---
+
 title: "SharePoint y Azure -  Azure Automation"
 slug: "sharepoint-y-azure-azure-automation"
 magazineSlug: "numero-39"
 author: "Gustavo Velez"
 authorSlug: "gustavo-velez"
 keywords: ['Azure','SharePoint']
+image: "../images/sharepoint-y-azure-azure-automation/image1.png"
+
 ---
 
 Una de las características más poderosas de Azure como sistema de integración, es su capacidad para ser controlado programáticamente. Azure Automation ofrece un sofisticado servicio de configuración y automatización basado en la nube, que permite administración tanto de Azure mismo como de sistemas no localizados en Azure, tales como Office 365 y SharePoint Online.

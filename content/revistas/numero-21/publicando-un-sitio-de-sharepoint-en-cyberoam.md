@@ -1,10 +1,13 @@
 ---
+
 title: "Publicando un sitio de SharePoint en Cyberoam"
 slug: "publicando-un-sitio-de-sharepoint-en-cyberoam"
 magazineSlug: "numero-21"
 author: "Jorge Luis González Yánez"
 authorSlug: "#"
 keywords: ['Infrastructura']
+image: "../images/publicando-un-sitio-de-sharepoint-en-cyberoam/imagen1.png"
+
 ---
 
 ​Mi parte de este proyecto ha sido preparar la infraestructura de SharePoint de nuestro cliente para que el equipo de desarrollo tenga una buena infraestructura donde trabajar y nuestro cliente tenga además de su sitio Web Publico una intranet corporativa. Esto hace que debamos hilar fino con la infraestructura, un sitio publicado en Internet y los datos internos del cliente en los mismos servidores, sin servidores de DMZ y otras buenas prácticas que deberíamos cuidar al hacer esto, pero bueno… la crisis es así y por suerte SharePoint nos ayuda bastante a poder hacer esto posible.

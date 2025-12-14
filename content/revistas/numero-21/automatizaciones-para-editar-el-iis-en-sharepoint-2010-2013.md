@@ -1,10 +1,13 @@
 ---
+
 title: "Automatizaciones para editar el IIS en SharePoint 2010/2013"
 slug: "automatizaciones-para-editar-el-iis-en-sharepoint-2010-2013"
 magazineSlug: "numero-21"
 author: "Miguel Tabera Pacheco"
 authorSlug: "miguel-tabera-pacheco"
 keywords: ['Infrastructura']
+image: "../images/automatizaciones-para-editar-el-iis-en-sharepoint-2010-2013/imagen1.png"
+
 ---
 
 ​

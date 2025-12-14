@@ -1,10 +1,13 @@
 ---
+
 title: "Utiliza directivas para mejorar tus conectores personalizados"
 slug: "custom-connectors"
 magazineSlug: "numero-56"
 author: "Mar Pedroche"
 authorSlug: "mar-pedroche"
 keywords: ['Power Platform', 'Custom Connectors']
+image: "../images/custom-connectors/image1.png"
+
 ---
 
 En entornos empresariales cada vez más dinámicos y complejos, es

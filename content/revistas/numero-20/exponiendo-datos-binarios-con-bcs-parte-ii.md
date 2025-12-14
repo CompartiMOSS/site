@@ -1,10 +1,13 @@
 ---
+
 title: "Exponiendo datos binarios con BCS - Parte II"
 slug: "exponiendo-datos-binarios-con-bcs-parte-ii"
 magazineSlug: "numero-20"
 author: "Edin Kapic"
 authorSlug: "edin-kapic"
 keywords: ['Business Connectivity Services']
+image: "../images/exponiendo-datos-binarios-con-bcs-parte-ii/imagen1.png"
+
 ---
 
 ​Business Connectivity Services (BCS) es un componente de SharePoint que permite exponer datos provenientes de otros sistemas (bases de datos, aplicaciones corporativas, servicios online…) dentro de SharePoint como listas externas.

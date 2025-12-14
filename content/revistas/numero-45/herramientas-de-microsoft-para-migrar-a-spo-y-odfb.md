@@ -1,10 +1,13 @@
 ---
+
 title: "Un repaso a las herramientas de Microsoft para migrar a SharePoint Online y OneDrive For Business"
 slug: "herramientas-de-microsoft-para-migrar-a-spo-y-odfb"
 magazineSlug: "numero-45"
 author: "Juan Carlos González Martín"
 authorSlug: "juan-carlos-gonzalez-martin"
 keywords: ['SharePoint Online','Migration']
+image: "../images/herramientas-de-microsoft-para-migrar-a-spo-y-odfb/image1.png"
+
 ---
 
 Como parte de su estrategia de facilitar la transición a Microsoft 365 y

@@ -1,10 +1,13 @@
 ---
+
 title: "Un nuevo CSOM, el Mobile Object Model de SharePoint 2013"
 slug: "un-nuevo-csom-el-mobile-object-model-de-sharepoint-2013"
 magazineSlug: "numero-15"
 author: "Alberto Diaz Martin"
 authorSlug: "alberto-diaz-martin"
 keywords: ['Windows Phone','CSOM']
+image: "../images/un-nuevo-csom-mobile-object-model-sharepoint-2013/image1.png"
+
 ---
 
 Un punto diferenciador de SharePoint, con respecto a otras plataformas de colaboración, es la capacidad de ofrecer una capa de abstracción en cliente, permitiendo el desarrollo de aplicaciones o integraciones externas. Desde el primer día, los servicios Web de SharePoint han permitido interactuar con la plataforma de una forma sencilla y universal, permitiendo, sin tener que desarrollar ninguna API de servidor, acceder a cualquier tipo de contenido en SharePoint.

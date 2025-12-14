@@ -1,10 +1,13 @@
 ---
+
 title: "Enmarcha -  Como facilita el Unit Testing en SharePoint / Office 365"
 slug: "unit-testing-en-sharepoint"
 magazineSlug: "numero-29"
 author: "Adrian Diaz Cervera"
 authorSlug: "adrian-diaz-cervera"
 keywords: ['Framework','SharePoint 2013']
+image: "../images/unit-testing-en-sharepoint/image1.png"
+
 ---
 
 ​​​Antes de empezar con el articulo vamos a definir algunos conceptos de Unit Testing para dejar aclarado algunos p​untos.

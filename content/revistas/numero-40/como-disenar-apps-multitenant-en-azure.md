@@ -1,10 +1,13 @@
 ---
+
 title: "Como diseñar Apps Multitenant en Azure"
 slug: "como-disenar-apps-multitenant-en-azure"
 magazineSlug: "numero-40"
 author: "Adrian Diaz Cervera"
 authorSlug: "adrian-diaz-cervera"
 keywords: ['Arquitectura']
+image: "../images/como-disenar-apps-multitenant-en-azure/image1.png"
+
 ---
 
 **Glosario de términos**

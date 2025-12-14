@@ -1,10 +1,13 @@
 ---
+
 title: "Administra mejor tus aplicaciones de servicio"
 slug: "administra-mejor-tus-aplicaciones-de-servicio"
 magazineSlug: "numero-23"
 author: "Miguel Tabera Pacheco"
 authorSlug: "miguel-tabera-pacheco"
 keywords: ['Arquitectura','Infrastructura']
+image: "../images/administra-mejor-tus-aplicaciones-de-servicio/imagen1.png"
+
 ---
 
 ​En SharePoint 2010 y 2013, el modelo de arquitectura de servicios ofrece un marco en el que implementar y administrar servicios dentro de una granja o entre varias. Las llamadas aplicaciones de servicio representan a una instancia de un servicio que se puede ofrecer en SharePoint para ser consumido y que se puede configurar de forma centralizada. Las aplicaciones de servicio nos permiten ofrecer servicios en nuestra granja de SharePoint que pueden ser compartidos y consumidos por distintas aplicaciones web o incluso por distintas granjas (en infraestructuras muy grandes).

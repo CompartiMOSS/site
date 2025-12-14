@@ -1,10 +1,13 @@
 ---
+
 title: "¿Cómo se hizo CompartiMOSS.com? – Parte I"
 slug: "como-se-hizo-compartimoss-com-parte-i"
 magazineSlug: "numero-15"
 author: "Santiago Porras Rodríguez"
 authorSlug: "santiago-porras-rodriguez"
 keywords: ['CompartiMOSS','Sitios Web']
+image: "../images/como-se-hizo-compartimoss/image1.png"
+
 ---
 
 En SharePoint 2013 se ha potenciado la presencia de los sitios de publicación dado el radical cambio que ha sufrido la plataforma en su actualización.

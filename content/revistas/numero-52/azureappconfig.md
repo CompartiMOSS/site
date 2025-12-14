@@ -1,10 +1,13 @@
 ---
+
 title: "El servicio de Azure App Configuration"
 slug: "azureappconfig"
 magazineSlug: "numero-52"
 author: "Gustavo Velez"
 authorSlug: "gustavo-velez"
 keywords: ['Azure','App Configuration']
+image: "../images/azureappconfig/image1.png"
+
 ---
 
 Prácticamente no existe aplicación para computadores que no necesite

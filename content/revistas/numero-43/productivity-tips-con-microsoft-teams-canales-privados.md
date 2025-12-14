@@ -1,10 +1,13 @@
 ---
+
 title: "Productivity Tips con Microsoft Teams -  Canales Privados"
 slug: "productivity-tips-con-microsoft-teams-canales-privados"
 magazineSlug: "numero-43"
 author: "Juan Carlos Gonzalez Martin"
 authorSlug: "juan-carlos-gonzalez-martin"
 keywords: ['Microsoft Teams']
+image: "../images/productivity-tips-con-microsoft-teams-canales-privados/image1.png"
+
 ---
 
 Los canales privados en Microsoft Teams están pensados para facilitar escenarios exclusivos de colaboración dentro de un Team a un subconjunto de sus integrantes. La reserva de un canal privado es tal que ni siquiera los propietarios de un Team que no formen parte del canal pueden acceder a sus conversaciones y archivos. En este artículo vamos a hacer un repaso a las características de los canales privados en cuanto a cómo se crean, como se proporciona acceso, como se administran y como se pueden extender por medio de aplicaciones.

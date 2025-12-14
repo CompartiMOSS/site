@@ -1,10 +1,13 @@
 ---
+
 title: "Autenticando Xamarin Forms con Azure AD"
 slug: "autenticando-xamarin-forms-con-azure-ad"
 magazineSlug: "numero-37"
 author: "Robert Bermejo"
 authorSlug: "robert-bermejo"
 keywords: ['Azure','Azure AD','Xamarin']
+image: "../images/autenticando-xamarin-forms-con-azure-ad/image1.png"
+
 ---
 
 Nuestras aplicaciones móviles para conseguir los datos a mostrar llaman a las APIs que hayamos desarrollado para obtenerlas. Estas APIs están aseguradas para que no todo el mundo pueda consumirlas, sino solo aquellas aplicaciones que tengan permiso para hacerlo.

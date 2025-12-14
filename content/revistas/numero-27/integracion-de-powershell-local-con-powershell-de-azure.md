@@ -1,10 +1,13 @@
 ---
+
 title: "Integración de Powershell local con Powershell de Azure"
 slug: "integracion-de-powershell-local-con-powershell-de-azure"
 magazineSlug: "numero-27"
 author: "Enrique Rhenals Bárcenas"
 authorSlug: "enrique-rhenals-barcenas"
 keywords: ['Azure','PowerShell']
+image: "../images/integracion-de-powershell-local-con-powershell-de-azure/image1.png"
+
 ---
 
 ​PowerShell puede ser utilizado tanto de forma local en nuestro equipo haciendo uso de las funciones disponibles, como de forma remota para configurar y administrar servicios OnPremises o en la nube. En este artículo hablaremos de cómo integrar PowerShell local con PowerShell de Azure para poder realizar de manera más ágil nuestras operaciones en Azure.

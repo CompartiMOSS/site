@@ -1,10 +1,13 @@
 ---
+
 title: "Componentes en Power Apps"
 slug: "componentes-en-powerapps"
 magazineSlug: "numero-48"
 author: "Alberto Escola"
 authorSlug: "alberto-escola-fiz"
 keywords: ['Power Apps','Office 365','Microsoft 365']
+image: "../images/componentes-en-powerapps/image1.png"
+
 ---
 
 Los componentes son un conjunto de controles y propiedades que forman un

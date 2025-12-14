@@ -1,10 +1,13 @@
 ---
+
 title: "Control de Errores en SPFX, Out of the Box y Application Insight"
 slug: "control-errores-spfx-out-of-the-box-application-insight"
 magazineSlug: "numero-31"
 author: "Adrian Diaz Cervera"
 authorSlug: "adrian-diaz-cervera"
 keywords: ['SharePoint Framework','Application Insights']
+image: "../images/control-errores-spfx-out-of-the-box-application-insight/image1.png"
+
 ---
 
 A pesar de que existe una gran cantidad de documentación sobre el SPFx hay algunos elementos que existen, pero los desarrolladores no los utilizamos debido a que no los conocemos. Todo lo que contiene el SPFx lo podemos encontrar en la siguiente dirección: https://sharepoint.github.io/. En la misma se encuentra todos los métodos, clases, funciones que hay disponibles así como la librería en la que se encuentra y la cual deberemos de importar en nuestra solución.

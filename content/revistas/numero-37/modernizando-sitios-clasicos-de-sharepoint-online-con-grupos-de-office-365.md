@@ -1,10 +1,13 @@
 ---
+
 title: "Modernizando sitios clásicos de SharePoint Online con Grupos de Office 365"
 slug: "modernizando-sitios-clasicos-de-sharepoint-online-con-grupos-de-office-365"
 magazineSlug: "numero-37"
 author: "Juan Carlos Gonzalez Martin"
 authorSlug: "juan-carlos-gonzalez-martin"
 keywords: ['SharePoint Online','Grupos']
+image: "../images/modernizando-sitios-clasicos-de-sharepoint-online-con-grupos-de-office-365/image1.png"
+
 ---
 
 Por defecto, en SharePoint Online (SPO) podemos tener distintos tipos de sitios en función del tipo de plantilla que se ha elegido en el momento de creación. Podemos decir que las plantillas disponibles se ubican en dos grandes categorías: plantillas para sitios clásicos de SPO y plantillas para sitios modernos de SPO. En el caso de sitios modernos de SPO, actualmente tenemos dos tipos de plantillas: Sitio moderno de Grupo y Sitio de Comunicación. Ahora bien: ¿Es posible "modernizar" un sitio clásico de SPO de forma rápida de forma que podamos tener todas las características que aportan a los sitios modernos, pero en nuestros sitios clásicos? La respuesta es sí y en este artículo veremos una de las posibilidades de modernización de un sitio clásico de SPO a través de añadir un nuevo Grupo de Office 365.

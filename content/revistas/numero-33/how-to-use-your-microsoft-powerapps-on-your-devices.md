@@ -1,10 +1,13 @@
 ---
+
 title: "How to use your Microsoft PowerApps on your devices"
 slug: "how-to-use-your-microsoft-powerapps-on-your-devices"
 magazineSlug: "numero-33"
 author: "Manpreet Singh"
 authorSlug: "manpreet-singh"
 keywords: ['PowerApps']
+image: "../images/how-to-use-your-microsoft-powerapps-on-your-devices/image1.jpeg"
+
 ---
 
 In my last article we learnt how to create an app using Microsoft PowerApps where we created an app to track our daily tasks and activities. As we are aware the app is performing well on our desktops on the PowerApps studio but as we call it as an app, it should be available in all our tablets and phone isn’t it.

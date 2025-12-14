@@ -1,10 +1,13 @@
 ---
+
 title: "Explorando la programación multi-idioma con SharePoint Framework"
 slug: "multi-idioma-con-sharepoint-framework"
 magazineSlug: "numero-37"
 author: "Haaron Gonzalez"
 authorSlug: "haaron-gonzalez"
 keywords: ['SharePoint Framework','JavaScript']
+image: "../images/multi-idioma-con-sharepoint-framework/image1.png"
+
 ---
 
 Estimados colegas programadores SharePoint es un gusto para mí poder colaborar para esta revista nuevamente después de varios años de ausencia. En fin, vámonos directo al tema en cuestión. Estaremos dando a conocer las características multilenguaje de SharePoint Framework mediante una revisión de los elementos de código necesarios para implementar soporte multi idioma.

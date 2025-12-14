@@ -1,10 +1,13 @@
 ---
+
 title: "Plantillas de Microsoft Graph Toolkit en SPFx"
 slug: "microsoft-graph-toolkit-templating"
 magazineSlug: "numero-51"
 author: "Cristian Dragos Fedotov"
 authorSlug: "cristian-dragos-fedotov"
 keywords: ['SPFx', 'Graph Toolkit', 'Graph']
+image: "../images/microsoft-graph-toolkit-templating/image1.png"
+
 ---
 
 Si quieres una **solución rápida** que te ahorre escribir código, pero

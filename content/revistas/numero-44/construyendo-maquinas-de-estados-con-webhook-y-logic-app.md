@@ -1,10 +1,13 @@
 ---
+
 title: "Construyendo máquinas de estados con Webhook y Logic App"
 slug: "construyendo-maquinas-de-estados-con-webhook-y-logic-app"
 magazineSlug: "numero-44"
 author: "Sergio Hernandez Mancebo"
 authorSlug: "sergio-hernandez-mancebo"
 keywords: ['Azure','Logic Apps']
+image: "../images/construyendo-maquinas-de-estados-con-webhook-y-logic-app/image1.png"
+
 ---
 
 ​Los procesos complejos basados en estados, podemos en un alto porcentaje de casos expresarlos como una máquina de estados o máquina de Moore. Si no recordamos mal una máquina de Moore es un autómata de estados, que nos indica que una salida depende de su estado, y que el siguiente estado depende del estado anterior y de la entrada producida.

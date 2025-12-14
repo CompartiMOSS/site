@@ -1,10 +1,13 @@
 ---
+
 title: "Introducción a Azure API Management"
 slug: "introduccion-a-azure-api-management"
 magazineSlug: "numero-28"
 author: "Javier López González"
 authorSlug: "javier-lopez-gonzalez"
 keywords: ['Azure','Azure Api Management']
+image: "../images/introduccion-a-azure-api-management/image1.png"
+
 ---
 
 Estamos atendiendo a un cambio en el modo de afrontar la incorporación de software externo a un proyecto. Cada día es más habitual el incorporar el uso de APIs externas para suplir funciones en lugar de incorporar el software y los datos necesarios para llevarlas a cabo internamente. Todos hemos oído o leído que el paradigma del futuro cercano son los microservicios y llevamos muchísimo viendo las bondades de las APIs REST. Este cambio, como todos, tiene sus cosas buenas y sus cosas no tan buenas.

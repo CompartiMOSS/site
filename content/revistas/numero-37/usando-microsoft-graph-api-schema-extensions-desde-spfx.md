@@ -1,10 +1,13 @@
 ---
+
 title: "Usando Microsoft Graph API Schema Extensions desde SPFx"
 slug: "usando-microsoft-graph-api-schema-extensions-desde-spfx"
 magazineSlug: "numero-37"
 author: "Luis Mañez"
 authorSlug: "luis-manez"
 keywords: ['Graph','SharePoint Framework']
+image: "../images/usando-microsoft-graph-api-schema-extensions-desde-spfx/image1.png"
+
 ---
 
 En el número anterior de la revista, vimos como podemos extender MS Graph para almacenar nuestros propios datos ([http://www.compartimoss.com/revistas/numero-36/microsoft-graph-api-extensions](/revistas/numero-36/microsoft-graph-api-extensions)). Partiendo de lo que aprendimos en ese artículo, vamos a ver como podemos utilizar una Schema Extension de MS Graph desde una WebPart del SharePoint Framework (SPFx).

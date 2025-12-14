@@ -1,10 +1,13 @@
 ---
+
 title: "Activación de las opciones de guardado de plantilla en SharePoint Online"
 slug: "activacion-opciones-guardado-plantilla-sharepoint-online"
 magazineSlug: "numero-31"
 author: "Alberto Escola Fiz"
 authorSlug: "alberto-escola-fiz"
 keywords: ['SharePoint Online']
+image: "../images/activacion-opciones-guardado-plantilla-sharepoint-online/image1.png"
+
 ---
 
 En SharePoint desde la versión 2007 existe la posibilidad de guardar Sitios, listas o bibliotecas de documentos como plantillas para su posterior reutilización.

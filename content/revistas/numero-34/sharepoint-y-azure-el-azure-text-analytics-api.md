@@ -1,10 +1,13 @@
 ---
+
 title: "SharePoint y Azure -  El Azure Text Analytics API"
 slug: "sharepoint-y-azure-el-azure-text-analytics-api"
 magazineSlug: "numero-34"
 author: "Gustavo Velez"
 authorSlug: "gustavo-velez"
 keywords: ['SharePoint Online','Azure','Azure Text Analytics']
+image: "../images/sharepoint-y-azure-el-azure-text-analytics-api/image1.png"
+
 ---
 
 **Que es el Azure Text Analytics API**

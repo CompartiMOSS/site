@@ -1,10 +1,13 @@
 ---
+
 title: "Introducción básica a las App Forms"
 slug: "introduccion-basica-a-las-app-forms"
 magazineSlug: "numero-21"
 author: "Ignasi Tebé"
 authorSlug: "ignasi-tebe"
 keywords: ['Access 2013','Forms']
+image: "../images/introduccion-basica-a-las-app-forms/imagen1.png"
+
 ---
 
 ​En la SPC14 Microsoft ya anunció la "muerte" de InfoPath, el inicio del "periodo de gestación" de los Forms over SharePoint Lists (FoSL) y las alternativas actuales y futuras a aplicaciones o servicios para la creación de formularios en SharePoint.

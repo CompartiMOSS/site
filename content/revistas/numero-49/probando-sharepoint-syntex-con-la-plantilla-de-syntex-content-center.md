@@ -1,10 +1,13 @@
 ---
+
 title: "Probando SharePoint Syntex con la plantilla de Syntex Content Center"
 slug: "probando-sharepoint-syntex-con-la-plantilla-de-syntex-content-center"
 magazineSlug: "numero-49"
 author: "Juan Carlos González"
 authorSlug: "juan-carlos-gonzalez-martin"
 keywords: ['SharePoint Syntex','Office 365','SharePoint Online']
+image: "../images/probando-sharepoint-syntex-con-la-plantilla-de-syntex-content-center/image1.png"
+
 ---
 
 Como seguramente sabréis, [SharePoint Syntex](https://techcommunity.microsoft.com/t5/project-cortex-blog/announcing-sharepoint-syntex/ba-p/1681139)

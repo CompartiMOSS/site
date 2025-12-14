@@ -1,10 +1,13 @@
 ---
+
 title: "Customización de Data Views con SharePoint Designer 2010 y Visual Studio 2010"
 slug: "customizacion-de-data-views-con-sharepoint-designer-2010-y-visual-studio-2010"
 magazineSlug: "numero-15"
 author: "Silvina Pizzarulli"
 authorSlug: "silvina-pizzarulli"
 keywords: ['SharePoint Designer']
+image: "../images/customizacion-data-views-sharepoint-designer-2010-visual-studio-2010/image1.png"
+
 ---
 
 Cuando nos encontramos ante esta necesidad de crear una vista con cierto look & feel diferente de los elementos de una lista generalmente terminamos utilizando SharePoint Designer 2010, lo que nos resuelve el requerimiento de "ese sitio" de "tal servidor", voy a mencionar 2 problemas que es bastante común que se nos puedan presentar:

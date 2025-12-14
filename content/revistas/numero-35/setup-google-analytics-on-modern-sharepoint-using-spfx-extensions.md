@@ -1,10 +1,13 @@
 ---
+
 title: "Setup Google Analytics on modern SharePoint using SPFx Extensions"
 slug: "setup-google-analytics-on-modern-sharepoint-using-spfx-extensions"
 magazineSlug: "numero-35"
 author: "Joao Ferreira"
 authorSlug: "joao-ferreira"
 keywords: ['SharePoint Framework']
+image: "../images/setup-google-analytics-on-modern-sharepoint-using-spfx-extensions/image1.png"
+
 ---
 
 Having an analytics tool monitoring your intranet is essential to understand the engagement of the users and how they are interacting with the content that is published. Google Analytics is widely used in the internet, it provides a concise analysis with reports of everything that happens in your site as well as real time reports, mostly targeted for public sites it also works on SharePoint intranets. Google Analytics is added to the sites using a script provided by Google, while this is not a problem for classic SharePoint Sites, with the modern no script site things are a bit different.

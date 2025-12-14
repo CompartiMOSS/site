@@ -1,10 +1,13 @@
 ---
+
 title: "El Cómic Como Medio de Enseñanza de Conceptos de Programación en C# en Ámbitos Universitarios"
 slug: "el-comic-como-medio-de-ensenanza-de-conceptos-de-programacion"
 magazineSlug: "numero-44"
 author: "José Manuel Redondo López"
 authorSlug: "jose-manuel-redondo"
 keywords: ['C#']
+image: "../images/el-comic-como-medio-de-ensenanza-de-conceptos-de-programacion/image1.png"
+
 ---
 
 Probablemente la pregunta más repetida por parte de la gente que conoció esta iniciativa al principio de su andadura docente fue ¿y por qué un comic? Lo cierto es que puede resultar chocante introducir algo que en principio parece alejado del mundo docente, y además en un ámbito universitario. No obstante, el uso de comics para explicar temas técnicos no es algo novedoso, sino que se usa con notable éxito en iniciativas como las que llevan a cabo Julia Evans con *Wizard Zines*([https://wizardzines.com/](https://wizardzines.com/)) y Amy Wibowo con una similar llamada *BubbleSort Zines* ([https://shop.bubblesort.io/](https://shop.bubblesort.io/)). Estas iniciativas no solo demuestran que su uso para fines docentes es viable, sino que además prueban que son un vehículo adecuado para explicar conceptos de elevada complejidad. Por otro lado, un comic permite una representación muy visual de la información a transmitir y, por tanto, supone un complemento a los tradicionales apuntes más basados en texto que se usan en las clases habitualmente.
