@@ -7,7 +7,7 @@ theme = 'compartimoss'
   description = 'La revista digital de habla hispana en la que se escribe sobre la tecnología Microsoft y todo lo relacionado con ésta'
   primaryPink = '#E91E63'
   primaryOrange = '#FF9800'
-  twitterUrl = 'https://twitter.com/compartimoss'
+  twitterUrl = 'https://twitter.com/compartimosscom'
   linkedinUrl = 'https://linkedin.com/company/compartimoss'
 
 [menu]
