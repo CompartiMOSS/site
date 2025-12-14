@@ -25,7 +25,9 @@
       {{ range first 3 $xml.channel.item }}
         <a href="{{ .link }}" target="_blank" rel="noopener" class="article-card podcast-card">
           <div class="article-card-content">
-            <h3 class="article-card-title">{{ .title }}</h3>
+            <h3 class="article-card-title">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display: inline-block; width: 1em; height: 1em; vertical-align: -0.125em; margin-right: 0.5rem;"><path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/></svg>{{ .title }}
+            </h3>
             <p class="article-card-excerpt line-clamp-2">{{ .description | htmlUnescape | safeHTML }}</p>
             <div class="article-card-meta">
               <div class="article-card-meta-item">
@@ -144,7 +146,7 @@
   <div class="grid grid-cols-1 md-grid-cols-3 gap-8">
     <a href="{{ "/podcast/" | relURL }}" class="feature-box">
       <div class="feature-icon">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><line x1="12" y1="19" x2="12" y2="22"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/></svg>
       </div>
       <h3>Podcast</h3>
       <p>Escucha nuestras conversaciones con expertos de la comunidad tecnológica.</p>
