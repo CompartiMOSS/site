@@ -1,4 +1,4 @@
-name: Azure Static Web Apps CI/CD
+name: Azure Storage Static Website CI/CD
 
 on:
   workflow_dispatch:
@@ -23,12 +23,13 @@ jobs:
       - name: Build
         run: hugo --minify
       
-      - name: Deploy to Azure Static Web Apps
-        id: builddeploy
-        uses: Azure/static-web-apps-deploy@v1
+      - name: Deploy to Azure Storage Static Website
+        uses: azure/CLI@v1
         with:
-          azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN }}
-          repo_token: ${{ secrets.GITHUB_TOKEN }}
-          action: "upload"
-          app_location: "public"
-          skip_app_build: true
+          inlineScript: |
+            az storage blob upload-batch \
+              --account-name ${{ secrets.AZURE_STORAGE_ACCOUNT_NAME }} \
+              --account-key ${{ secrets.AZURE_STORAGE_ACCOUNT_KEY }} \
+              --destination '$web' \
+              --source ./public \
+              --overwrite
