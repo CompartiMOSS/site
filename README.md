@@ -46,7 +46,7 @@ Notas:
 
 ## Contribuir
 
-Para proponer artículos o cambios, consulta la guía: `CONTRIBUTING.MD`.
+Para proponer artículos o cambios, consulta la guía: [CONTRIBUTING.MD](CONTRIBUTING.MD).
 
 Preguntas frecuentes: [FAQs.md](FAQs.md)
 
