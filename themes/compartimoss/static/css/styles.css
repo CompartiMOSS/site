@@ -461,9 +461,13 @@ button {
 .nav-mobile {
   padding: 1rem 0;
   border-top: 1px solid var(--color-gray-200);
-  display: flex;
+  display: none;
   flex-direction: column;
   gap: 0.5rem;
+}
+
+.nav-mobile.show {
+  display: flex;
 }
 
 @media (min-width: 1024px) {
@@ -597,8 +601,21 @@ button {
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-shrink: 0;
   backdrop-filter: blur(4px);
   box-shadow: 0 10px 15px -5px rgba(0, 0, 0, 0.35);
+}
+
+@media (max-width: 560px) {
+  .hero-with-icon {
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .hero-icon {
+    width: 3.25rem;
+    height: 3.25rem;
+  }
 }
 
 .hero-icon svg {

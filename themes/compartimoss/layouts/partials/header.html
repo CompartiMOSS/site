@@ -38,7 +38,7 @@
     </div>
 
     <!-- Mobile Navigation -->
-    <nav id="mobile-nav" class="nav-mobile hidden">
+    <nav id="mobile-nav" class="nav-mobile">
       {{ range .Site.Menus.main }}
       <a href="{{ .URL | relURL }}" class="nav-link{{ if $.IsMenuCurrent "main" . }} active{{ end }}">
         {{ if eq .Identifier "home" }}
@@ -70,6 +70,7 @@
   const closeIcon = document.getElementById('close-icon');
 
   mobileMenuBtn.addEventListener('click', () => {
+    mobileNav.classList.toggle('show');
     mobileNav.classList.toggle('hidden');
     menuIcon.classList.toggle('hidden');
     closeIcon.classList.toggle('hidden');
