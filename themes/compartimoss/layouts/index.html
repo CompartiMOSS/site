@@ -7,6 +7,47 @@
   </div>
 </section>
 
+<!-- Latest Podcasts Section -->
+<section class="container py-12">
+  <div class="section-header">
+    <h2>Últimos Episodios del Podcast</h2>
+    <a href="{{ "/podcast/" | relURL }}" class="section-link">
+      Ver todos
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12,5 19,12 12,19"/></svg>
+    </a>
+  </div>
+
+  {{ $feedURL := "https://feeds.ivoox.com/feed_fg_f11376815_filtro_1.xml" }}
+  {{ $feed := resources.GetRemote $feedURL }}
+  {{ if $feed }}
+    {{ $xml := $feed.Content | transform.Unmarshal }}
+    <div class="grid grid-cols-1 md-grid-cols-3 gap-6">
+      {{ range first 3 $xml.channel.item }}
+        <a href="{{ .link }}" target="_blank" rel="noopener" class="article-card podcast-card">
+          <div class="article-card-content">
+            <h3 class="article-card-title">{{ .title }}</h3>
+            <p class="article-card-excerpt line-clamp-2">{{ .description | htmlUnescape | safeHTML }}</p>
+            <div class="article-card-meta">
+              <div class="article-card-meta-item">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+                <span>{{ time .pubDate | time.Format "2 January 2006" }}</span>
+              </div>
+              {{ if index . "itunes:duration" }}
+              <div class="article-card-meta-item">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+                <span>{{ index . "itunes:duration" }}</span>
+              </div>
+              {{ end }}
+            </div>
+          </div>
+        </a>
+      {{ end }}
+    </div>
+  {{ else }}
+    <p class="text-gray-600">No se pudo cargar el feed del podcast en este momento.</p>
+  {{ end }}
+</section>
+
 <!-- Latest Articles Section -->
 <section class="container py-12">
   <div class="section-header">

@@ -9,6 +9,24 @@
       <h1>Podcast CompartiMOSS</h1>
     </div>
     <p>Conversaciones con expertos de la comunidad sobre tecnologías Microsoft, tendencias y experiencias profesionales.</p>
+    <div class="platform-links">
+      <a class="platform-link" href="https://podcasts.apple.com/es/podcast/unplugged/id1607356275" target="_blank" rel="noopener">
+        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M16.5 2a4 4 0 0 1-2.71 3.73c-.3.12-.51.02-.68-.2-.14-.18-.15-.4-.07-.6C13.47 4.1 14.1 2.9 15 2.2c.45-.35 1.01-.58 1.5-.2Zm1.48 5.1c-1.02-.07-1.9.6-2.4.6-.5 0-1.24-.58-2.06-.57-1.06.02-2.04.63-2.58 1.58-1.1 1.9-.28 4.73.79 6.28.52.75 1.13 1.58 1.93 1.55.77-.03 1.06-.5 1.99-.5.93 0 1.2.5 2.01.48.83-.02 1.35-.76 1.86-1.52.58-.84.82-1.65.84-1.69-.02-.01-1.61-.62-1.63-2.46-.02-1.53 1.25-2.25 1.31-2.29-.72-1.05-1.84-1.15-2.06-1.16Z"/></svg>
+        Apple Podcasts
+      </a>
+      <a class="platform-link" href="https://open.spotify.com/show/2LjhxhFLOk9UMEULfQjMoc" target="_blank" rel="noopener">
+        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a10 10 0 1 0 .001 20.001A10 10 0 0 0 12 2Zm4.31 14.38a.75.75 0 0 1-1.03.27c-2.82-1.73-6.38-2.12-10.56-1.16a.75.75 0 0 1-.33-1.46c4.57-1.05 8.52-.61 11.66 1.26.36.22.47.69.26 1.09Zm.8-2.72a.9.9 0 0 1-1.24.32c-3.24-1.99-8.18-2.57-12-1.41a.9.9 0 0 1-.52-1.72c4.3-1.3 9.7-.65 13.38 1.6.43.26.58.82.38 1.21Zm.12-2.83C13.72 8.6 8.5 8.4 5.14 9.42a1.05 1.05 0 0 1-.6-2.02c3.83-1.15 9.63-.91 13.7 1.24a1.05 1.05 0 0 1-1.01 1.85Z"/></svg>
+        Spotify
+      </a>
+      <a class="platform-link" href="https://www.ivoox.com/podcast-unplugged_sq_f11376815_1.html" target="_blank" rel="noopener">
+        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M4 4h16a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2Zm3 4v8h2V8H7Zm5 0v8h2V8h-2Zm5 0v8h2V8h-2Z"/></svg>
+        iVoox
+      </a>
+      <a class="platform-link" href="https://www.youtube.com/playlist?list=PLh2Rnb9lpMYhHaWJsw2SMW21Pmn1ATxUB" target="_blank" rel="noopener">
+        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M21.6 7.2s-.2-1.4-.8-2c-.8-.8-1.6-.8-2-0.9C16 4 12 4 12 4h0s-4 0-6.8.3c-.4 0-1.2.1-2 .9-.6.6-.8 2-.8 2S2 8.8 2 10.4v1.2c0 1.6.2 3.2.2 3.2s.2 1.4.8 2c.8.8 1.8.7 2.2.8 1.6.2 6.6.3 6.6.3s4 0 6.8-.3c.4-.1 1.2-.1 2-.9.6-.6.8-2 .8-2s.2-1.6.2-3.2v-1.2c0-1.6-.2-3.2-.2-3.2ZM10 14.8V8.9l5.2 3-5.2 2.9Z"/></svg>
+        YouTube
+      </a>
+    </div>
   </div>
 </div>
 
@@ -16,59 +34,80 @@
 <div class="container-narrow py-12">
   <h2 class="mb-8 text-gray-900">Episodios</h2>
 
-  <div class="space-y-6">
-    {{ range .Site.Data.podcast }}
-    <article class="podcast-episode">
-      <div class="podcast-episode-content">
-        <button class="play-button" aria-label="Reproducir episodio">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="5 3 19 12 5 21 5 3"/></svg>
-        </button>
+  {{ $feedURL := "https://feeds.ivoox.com/feed_fg_f11376815_filtro_1.xml" }}
+  {{ $feed := resources.GetRemote $feedURL }}
+  {{ if $feed }}
+    {{ $xml := $feed.Content | transform.Unmarshal }}
+    <div class="space-y-6" id="episodes-container">
+      {{ range $index, $item := first 10 $xml.channel.item }}
+      <article class="podcast-episode" data-episode-index="{{ $index }}" data-episode-url="{{ $item.link }}">
+        <div class="podcast-episode-content">
+          <a class="play-button" aria-label="Ir al episodio" href="{{ $item.link }}" target="_blank" rel="noopener">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+          </a>
 
-        <div class="podcast-episode-info">
-          <h3 class="podcast-episode-title">{{ .title }}</h3>
-          <p class="podcast-episode-description">{{ .description }}</p>
+          <div class="podcast-episode-info">
+            <h3 class="podcast-episode-title">{{ $item.title }}</h3>
+            <p class="podcast-episode-description line-clamp-3">{{ $item.description | htmlUnescape | safeHTML }}</p>
 
-          <div class="podcast-episode-meta">
-            <div class="podcast-episode-meta-item">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
-              <span>{{ .date }}</span>
-            </div>
-            <div class="podcast-episode-meta-item">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
-              <span>{{ .duration }}</span>
+            <div class="podcast-episode-meta">
+              <div class="podcast-episode-meta-item">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+                <span>{{ time $item.pubDate | time.Format "2 January 2006" }}</span>
+              </div>
+              {{ if index $item "itunes:duration" }}
+              <div class="podcast-episode-meta-item">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+                <span>{{ index $item "itunes:duration" }}</span>
+              </div>
+              {{ end }}
             </div>
           </div>
-
-          {{ if .guests }}
-          <div class="podcast-episode-guests">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
-            <span>Invitados: </span>
-            <span>{{ delimit .guests ", " }}</span>
-          </div>
-          {{ end }}
         </div>
-      </div>
+      </article>
+      {{ end }}
+    </div>
 
-      <!-- Audio Player Placeholder -->
-      <div class="podcast-player">
-        <div class="progress-bar">
-          <div class="progress-bar-fill"></div>
-        </div>
-        <span class="podcast-player-time">00:00 / {{ .duration }}</span>
-      </div>
-    </article>
-    {{ end }}
-  </div>
+  {{ else }}
+    <div class="alert alert-error">
+      <p>No se pudo cargar el feed de podcast. Intenta más tarde.</p>
+    </div>
+  {{ end }}
 
   <!-- Subscription CTA -->
   <div class="cta-box mt-12">
     <h3>Suscríbete al Podcast</h3>
     <p>No te pierdas ningún episodio. Suscríbete en tu plataforma favorita de podcasts.</p>
     <div class="cta-buttons">
-      <a href="#" class="btn btn-pink">Apple Podcasts</a>
-      <a href="#" class="btn btn-orange">Spotify</a>
-      <a href="#" class="btn btn-gray">RSS</a>
+      <a href="https://podcasts.apple.com/es/podcast/unplugged/id1607356275" class="btn btn-pink" target="_blank" rel="noopener">Apple Podcasts</a>
+      <a href="https://open.spotify.com/show/2LjhxhFLOk9UMEULfQjMoc" class="btn btn-orange" target="_blank" rel="noopener">Spotify</a>
+      <a href="https://www.ivoox.com/podcast-unplugged_sq_f11376815_1.html" class="btn btn-gray" target="_blank" rel="noopener">iVoox</a>
+      <a href="https://www.youtube.com/playlist?list=PLh2Rnb9lpMYhHaWJsw2SMW21Pmn1ATxUB" class="btn btn-gray" target="_blank" rel="noopener">YouTube</a>
     </div>
   </div>
 </div>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const episodes = document.querySelectorAll('.podcast-episode');
+
+    episodes.forEach((episode) => {
+      const url = episode.dataset.episodeUrl;
+      if (!url) return;
+
+      // Make whole card clickable
+      episode.style.cursor = 'pointer';
+      episode.addEventListener('click', () => {
+        window.open(url, '_blank');
+      });
+
+      // Prevent bubbling from the play button so it keeps its own behavior
+      const playButton = episode.querySelector('.play-button');
+      if (playButton) {
+        playButton.addEventListener('click', (event) => {
+          event.stopPropagation();
+        });
+      }
+    });
+  });
+</script>
 {{ end }}
