@@ -1697,8 +1697,9 @@ button {
   color: #fff;
 }
 
-.magazine-header-content {
-  padding: 3rem 1rem;
+.magazine-header a {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 
 .magazine-header-top {
@@ -1711,7 +1712,7 @@ button {
   color: #fff;
   padding: 0.5rem 1rem;
   border-radius: 9999px;
-  margin-bottom: 1rem;
+  margin-bottom: 0;
   font-size: 0.875rem;
   font-weight: 500;
 }
