@@ -1,4 +1,5 @@
 baseURL = 'https://www.compartimoss.com/'
+googleAnalytics = "G-TJCZJ7913E"
 languageCode = 'es'
 title = 'CompartiMOSS'
 theme = 'compartimoss'
