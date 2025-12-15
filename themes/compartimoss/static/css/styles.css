@@ -698,6 +698,7 @@ button {
 /* Podcast cards on home */
 .podcast-card {
   border: 1px solid var(--color-gray-200);
+  padding: 1.25rem;
 }
 
 .podcast-card:hover {
