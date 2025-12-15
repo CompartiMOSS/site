@@ -592,6 +592,10 @@ button {
   margin-bottom: 1rem;
 }
 
+.hero-with-icon h1 {
+  margin-bottom: 0;
+}
+
 .hero-icon {
   width: 4rem;
   height: 4rem;
