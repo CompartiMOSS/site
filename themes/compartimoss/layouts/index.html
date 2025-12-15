@@ -23,10 +23,10 @@
     {{ $xml := $feed.Content | transform.Unmarshal }}
     <div class="grid grid-cols-1 md-grid-cols-3 gap-6">
       {{ range first 3 $xml.channel.item }}
-        <div class="article-card podcast-card" style="display: flex; gap: 1rem; align-items: flex-start;">
-          <a class="play-button" aria-label="Ir al episodio" href="{{ .link }}" target="_blank" rel="noopener" style="flex-shrink: 0; width: 3rem; height: 3rem; margin-left: 6px; margin-top: 6px; margin-bottom: 6px;">
+        <a href="{{ .link }}" target="_blank" rel="noopener" class="article-card podcast-card" style="display: flex; gap: 1rem; align-items: flex-start; text-decoration: none; color: inherit;">
+          <div class="play-button" style="flex-shrink: 0; width: 3rem; height: 3rem; margin-left: 6px; margin-top: 6px; margin-bottom: 6px;">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="width: 1.5rem; height: 1.5rem;"><polygon points="5 3 19 12 5 21 5 3"/></svg>
-          </a>
+          </div>
           <div class="article-card-content" style="flex: 1; padding: 0;">
             <h3 class="article-card-title">{{ .title }}</h3>
             <p class="article-card-excerpt line-clamp-2">{{ .description | htmlUnescape | safeHTML }}</p>
@@ -43,7 +43,7 @@
               {{ end }}
             </div>
           </div>
-        </div>
+        </a>
       {{ end }}
     </div>
   {{ else }}
