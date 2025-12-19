@@ -11,7 +11,8 @@
     {{ range .Pages }}
     <a href="{{ .Permalink }}" class="article-card">
       <div class="article-card-image">
-        <img src="{{ .Params.image }}" alt="{{ .Title }}">
+        {{ $img := strings.TrimPrefix "." .Params.image }}
+        <img src="{{ $img }}" alt="{{ .Title }}">
       </div>
       <div class="article-card-content">
         <h3 class="article-card-title">{{ .Title }}</h3>

@@ -60,6 +60,9 @@
         {{ if eq .Section "revistas" }}
           {{ $imageURL = replace .Params.image ".." "" }}
           {{ $imageURL = print "../../revistas/" .Params.magazineSlug $imageURL }}
+        {{ else }}
+          {{ $imageURL = replace .Params.image "../" "" }}
+          {{ $imageURL = print "../../articulos/" $imageURL }}
         {{ end }}
         <a href="{{ .Permalink }}" class="article-card">
           <div class="article-card-image">

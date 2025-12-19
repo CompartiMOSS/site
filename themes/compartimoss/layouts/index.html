@@ -40,7 +40,10 @@
     {{ range first 3 (where .Site.RegularPages "Section" "articulos") }}
     <a href="{{ .Permalink }}" class="article-card">
       <div class="article-card-image">
-        <img src="{{ .Params.image }}" alt="{{ .Title }}">
+        {{ $src := .Params.image }}
+        {{ $fixed := printf "./articulos/%s" (replace $src "../" "") }}
+
+        <img src="{{ $fixed }}" alt="{{ .Title }}">
       </div>
       <div class="article-card-content">
         <h3 class="article-card-title">{{ .Title }}</h3>
