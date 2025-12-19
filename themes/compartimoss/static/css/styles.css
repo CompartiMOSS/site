@@ -1480,6 +1480,90 @@ button {
   color: var(--color-primary-pink);
 }
 
+/* Article tables */
+.article-content .content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+  border: 1px solid var(--color-gray-200);
+}
+
+.article-content .content thead {
+  background: linear-gradient(to right, rgba(233, 30, 99, 0.08), rgba(255, 152, 0, 0.08));
+}
+
+.article-content .content th,
+.article-content .content td {
+  padding: 0.75rem 0.9rem;
+  text-align: left;
+  border: 1px solid var(--color-gray-200);
+}
+
+.article-content .content th {
+  font-weight: 700;
+  color: var(--color-gray-900);
+}
+
+.article-content .content tbody tr:nth-child(odd) {
+  background-color: var(--color-gray-50);
+}
+
+.article-content .content tbody tr:hover {
+  background-color: rgba(233, 30, 99, 0.06);
+}
+
+.article-content .content table caption {
+  caption-side: bottom;
+  text-align: left;
+  color: var(--color-gray-600);
+  font-size: 0.9rem;
+  padding-top: 0.5rem;
+}
+
+/* Responsive table wrapper */
+.article-content .content .table-responsive {
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin: 1.5rem 0;
+}
+
+.article-content .content .table-responsive table {
+  margin: 0;
+}
+
+/* Article headings */
+.article-content .content h2 {
+  color: var(--color-gray-900);
+  font-weight: 700;
+  font-size: 1.5rem; /* 25% smaller than base 2rem */
+  line-height: 1.3;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  padding-left: 0.75rem;
+  position: relative;
+  scroll-margin-top: 5.5rem; /* accommodate sticky header */
+}
+
+.article-content .content h2::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0.2rem;
+  bottom: 0.2rem;
+  width: 4px;
+  border-radius: 2px;
+  background: linear-gradient(to bottom, var(--color-primary-pink), var(--color-primary-orange));
+}
+
+/* Optional: subtle spacing for h3 to keep hierarchy readable */
+.article-content .content h3 {
+  color: var(--color-gray-900);
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
 /* Author Box */
 .author-box {
   margin-top: 3rem;
