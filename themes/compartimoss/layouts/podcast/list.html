@@ -34,45 +34,15 @@
 <div class="container-narrow py-12">
   <h2 class="mb-8 text-gray-900">Episodios</h2>
 
-  {{ $feedURL := "https://feeds.ivoox.com/feed_fg_f11376815_filtro_1.xml" }}
-  {{ $feed := resources.GetRemote $feedURL }}
-  {{ if $feed }}
-    {{ $xml := $feed.Content | transform.Unmarshal }}
-    <div class="space-y-6" id="episodes-container">
-      {{ range $index, $item := first 10 $xml.channel.item }}
-      <article class="podcast-episode" data-episode-index="{{ $index }}" data-episode-url="{{ $item.link }}">
-        <div class="podcast-episode-content">
-          <a class="play-button" aria-label="Ir al episodio" href="{{ $item.link }}" target="_blank" rel="noopener">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="5 3 19 12 5 21 5 3"/></svg>
-          </a>
-
-          <div class="podcast-episode-info">
-            <h3 class="podcast-episode-title">{{ $item.title }}</h3>
-            <p class="podcast-episode-description line-clamp-3">{{ $item.description | htmlUnescape | safeHTML }}</p>
-
-            <div class="podcast-episode-meta">
-              <div class="podcast-episode-meta-item">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
-                <span>{{ time $item.pubDate | time.Format "2 January 2006" }}</span>
-              </div>
-              {{ if index $item "itunes:duration" }}
-              <div class="podcast-episode-meta-item">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
-                <span>{{ index $item "itunes:duration" }}</span>
-              </div>
-              {{ end }}
-            </div>
-          </div>
-        </div>
-      </article>
-      {{ end }}
+  <div class="space-y-6" id="episodes-container">
+    <div class="flex justify-center items-center py-8">
+      <p class="text-gray-600">Cargando episodios...</p>
     </div>
+  </div>
 
-  {{ else }}
-    <div class="alert alert-error">
-      <p>No se pudo cargar el feed de podcast. Intenta más tarde.</p>
-    </div>
-  {{ end }}
+  <div class="alert alert-error hidden" id="error-message">
+    <p>No se pudo cargar el feed de podcast. Intenta más tarde.</p>
+  </div>
 
   <!-- Subscription CTA -->
   <div class="cta-box mt-12">
@@ -86,28 +56,10 @@
     </div>
   </div>
 </div>
+<script src="{{ "/js/podcast-loader.js" | relURL }}"></script>
 <script>
-  document.addEventListener('DOMContentLoaded', function() {
-    const episodes = document.querySelectorAll('.podcast-episode');
-
-    episodes.forEach((episode) => {
-      const url = episode.dataset.episodeUrl;
-      if (!url) return;
-
-      // Make whole card clickable
-      episode.style.cursor = 'pointer';
-      episode.addEventListener('click', () => {
-        window.open(url, '_blank');
-      });
-
-      // Prevent bubbling from the play button so it keeps its own behavior
-      const playButton = episode.querySelector('.play-button');
-      if (playButton) {
-        playButton.addEventListener('click', (event) => {
-          event.stopPropagation();
-        });
-      }
-    });
+  document.addEventListener('DOMContentLoaded', () => {
+    loadPodcastFeed('episodes-container', 'error-message', 10, 'article');
   });
 </script>
 {{ end }}

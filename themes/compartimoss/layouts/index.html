@@ -17,38 +17,13 @@
     </a>
   </div>
 
-  {{ $feedURL := "https://feeds.ivoox.com/feed_fg_f11376815_filtro_1.xml" }}
-  {{ $feed := resources.GetRemote $feedURL }}
-  {{ if $feed }}
-    {{ $xml := $feed.Content | transform.Unmarshal }}
-    <div class="grid grid-cols-1 md-grid-cols-3 gap-6">
-      {{ range first 3 $xml.channel.item }}
-        <a href="{{ .link }}" target="_blank" rel="noopener" class="article-card podcast-card" style="display: flex; gap: 1rem; align-items: flex-start; text-decoration: none; color: inherit;">
-          <div class="play-button" style="flex-shrink: 0; width: 3rem; height: 3rem; margin-left: 6px; margin-top: 6px; margin-bottom: 6px;">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="width: 1.5rem; height: 1.5rem;"><polygon points="5 3 19 12 5 21 5 3"/></svg>
-          </div>
-          <div class="article-card-content" style="flex: 1; padding: 0;">
-            <h3 class="article-card-title">{{ .title }}</h3>
-            <p class="article-card-excerpt line-clamp-2">{{ .description | htmlUnescape | safeHTML }}</p>
-            <div class="article-card-meta">
-              <div class="article-card-meta-item">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
-                <span>{{ time .pubDate | time.Format "2 January 2006" }}</span>
-              </div>
-              {{ if index . "itunes:duration" }}
-              <div class="article-card-meta-item">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
-                <span>{{ index . "itunes:duration" }}</span>
-              </div>
-              {{ end }}
-            </div>
-          </div>
-        </a>
-      {{ end }}
+  <div class="grid grid-cols-1 md-grid-cols-3 gap-6" id="home-episodes-container">
+    <div class="flex justify-center items-center py-8 col-span-full">
+      <p class="text-gray-600">Cargando episodios...</p>
     </div>
-  {{ else }}
-    <p class="text-gray-600">No se pudo cargar el feed del podcast en este momento.</p>
-  {{ end }}
+  </div>
+
+  <p class="text-gray-600 hidden" id="home-error-message">No se pudo cargar el feed del podcast en este momento.</p>
 </section>
 
 <!-- Latest Articles Section -->
@@ -85,5 +60,12 @@
     {{ end }}
   </div>
 </section>
+
+<script src="{{ "/js/podcast-loader.js" | relURL }}"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    loadPodcastFeed('home-episodes-container', 'home-error-message', 3, 'card');
+  });
+</script>
 
 {{ end }}
