@@ -1,7 +1,7 @@
 ---
 title: "Introducción a Azure Data Factory"
 date: 2025-09-18
-excerpt: "Cómo evaluar sistemas de IA, en particular arquitecturas basadas en RAG, usando el ecosistema .NET y la biblioteca Microsoft.Extensions.AI.Evaluation."
+excerpt: "Dentro del mundo de los datos muchas veces nos encontramos situaciones donde nuestra aplicación ha de trabajar con una o varias fuentes de datos heterogéneas en cuanto a su formato, origen, esquema, periodos de refresco, carga… Es en esas situaciones donde surgen los procesos de ETL (Extract, Transform, Load) como un mecanismo de integración de esos datos que nos permite cargar, combinar y homogeneizar esos datos y almacenarlos típicamente en un dataware house o data lake."
 author: "Alberto Escola Fiz"
 authorSlug: "alberto-escola-fiz"
 image: "../images/into-azure-data-factory/picture1.png"
