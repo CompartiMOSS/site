@@ -26,7 +26,7 @@ En la capa activa, cada cliente de la institución dispondrá de su propia **col
 
 Dentro de cada colección de sitios, la estructura se organiza en dos elementos: el **Expediente del Cliente**, que concentra la documentación de identidad e información general de la persona, y una **biblioteca de documentos por cada tipo de producto** que el cliente tenga contratado. Cada biblioteca tiene sus propios tipos de contenido, columnas de metadatos y políticas de retención, lo que garantiza que las reglas de cumplimiento sean exactamente las correctas para cada producto sin interferencias entre ellos.
 
-![Arquitectura del gestor documental](img/diagram_arquitectura.png)
+![Arquitectura del gestor documental](images/diagram_arquitectura.png)
 
 *Imagen 1.- Arquitectura del gestor documental: colecciones de sitios por cliente en SharePoint Online, con archivado en SharePoint Embedded (Tier 1) y Microsoft 365 Archive (Tier 2).*
 
@@ -40,7 +40,7 @@ El **Expediente del Cliente** concentra toda la documentación que identifica a 
 
 Por su parte, el **Expediente del Producto** existe en una instancia separada para cada tipo de producto contratado, alojado en la biblioteca de documentos correspondiente dentro del mismo sitio del cliente. Un mismo cliente puede tener simultáneamente un expediente de tarjeta de crédito, uno de cuenta corriente y uno de préstamo hipotecario, cada uno en su propia biblioteca, con su propia documentación, sus propios metadatos y sus propias políticas de retención.
 
-![Modelo de expedientes](img/diagram_expedientes.png)
+![Modelo de expedientes](images/diagram_expedientes.png)
 
 *Imagen 2.- Modelo de expedientes: el sitio del cliente alberga el Expediente del Cliente y una biblioteca de documentos por cada tipo de producto contratado.*
 
