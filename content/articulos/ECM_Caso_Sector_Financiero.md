@@ -1,5 +1,5 @@
 ---
-title: "Gestión Documental Empresarial con Microsoft 365: un caso de uso en el sector financiero"
+title: "Gestión Documental Empresarial con Microsoft 365: un caso de uso que aplica a cualquier sector, con foco en el financiero"
 date: 2026-06-08
 excerpt: "En este artículo les presento la arquitectura de un gestor documental empresarial sobre Microsoft 365 y SharePoint Online, pensado para organizaciones que administran múltiples productos por cliente. Vamos a recorrer la estructura de expedientes, los tipos de contenido, el modelo de metadatos, el ciclo de vida documental, el archivado inteligente y las capacidades de búsqueda. Este escenario es el hilo conductor de la serie sobre ECM que vamos a ir desarrollando en los próximos números de la revista."
 author: "Fabian Iman"
@@ -13,6 +13,10 @@ En estos últimos años vengo viendo cómo Microsoft 365 se metió en prácticam
 Después de tantos años metido en proyectos de SharePoint y ECM, me crucé con más de una institución financiera que tenía la documentación repartida entre carpetas de red, escáneres aislados y vaya uno a saber cuántos sistemas más. Y siempre termina pasando lo mismo: nadie encuentra nada cuando lo necesita, y cuando aparece una auditoría regulatoria, es un dolor de cabeza. De ese tipo de problemas reales nace el caso que vamos a usar como hilo conductor de toda esta serie.
 
 A lo largo de esta serie les voy a ir mostrando, capa por capa, cómo armamos un gestor documental empresarial sobre Microsoft 365, SharePoint Online, SharePoint Embedded y Azure. En este primer artículo arranco por el caso de uso que va a ordenar todo lo demás: una institución financiera que necesita gestionar expedientes digitales por cliente y por producto, con ciclo de vida documental controlado, seguridad basada en roles y búsqueda sobre metadatos. Ese escenario nos va a servir de referencia concreta para todos los conceptos técnicos que vayamos viendo en los artículos siguientes.
+
+---
+
+Vale la pena aclarar algo antes de seguir: si bien vamos a desarrollar todo el caso pensando en una institución financiera —porque es uno de los escenarios más exigentes que conozco en cuanto a volumen, regulación y variedad de procesos—, la arquitectura que vamos a construir es perfectamente trasladable a cualquier organización que necesite ordenar su documentación. Una aseguradora, una empresa de salud, un organismo público o una compañía de servicios van a encontrar en este mismo modelo una base sólida para resolver su propio caso, simplemente cambiando «cliente» y «producto» por las entidades que correspondan a su negocio.
 
 ---
 
