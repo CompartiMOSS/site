@@ -1,7 +1,11 @@
-# Gestión Documental Empresarial con Microsoft 365: un caso de uso en el sector financiero
-
-**Resumen:** En este artículo les presento la arquitectura de un gestor documental empresarial sobre Microsoft 365 y SharePoint Online, pensado para organizaciones que administran múltiples productos por cliente. Vamos a recorrer la estructura de expedientes, los tipos de contenido, el modelo de metadatos, el ciclo de vida documental, el archivado inteligente y las capacidades de búsqueda. Este escenario es el hilo conductor de la serie sobre ECM que vamos a ir desarrollando en los próximos números de la revista.
-
+---
+title: "Gestión Documental Empresarial con Microsoft 365: un caso de uso en el sector financiero"
+date: 2026-06-08
+excerpt: "En este artículo les presento la arquitectura de un gestor documental empresarial sobre Microsoft 365 y SharePoint Online, pensado para organizaciones que administran múltiples productos por cliente. Vamos a recorrer la estructura de expedientes, los tipos de contenido, el modelo de metadatos, el ciclo de vida documental, el archivado inteligente y las capacidades de búsqueda. Este escenario es el hilo conductor de la serie sobre ECM que vamos a ir desarrollando en los próximos números de la revista."
+author: "Fabian Iman"
+authorSlug: "fabian-imaz"
+image: "../images/evaluacion-sistemas-ai-rag/diagram_arquitectura.png"
+category: "ECM"
 ---
 
 En estos últimos años vengo viendo cómo Microsoft 365 se metió en prácticamente todas las organizaciones con las que trabajamos, y el sector financiero no es la excepción. Bancos, aseguradoras, entidades de crédito… todos tienen hoy una oportunidad concreta delante: dejar atrás los repositorios desparramados, las carpetas en red y los sistemas de escaneo aislados, y pasarse a una plataforma unificada de gestión documental en la nube. La pregunta que aparece enseguida es: ¿cómo se diseña esa plataforma para que sea robusta, auditable y escale de verdad, en un escenario donde un mismo cliente puede tener al mismo tiempo una cuenta corriente, una tarjeta de crédito, una caja de ahorro y un préstamo hipotecario?
@@ -24,7 +28,7 @@ El gestor documental que vamos a diseñar sobre Microsoft 365 tiene que resolver
 
 La arquitectura se apoya en tres capas: SharePoint Online como plataforma de almacenamiento y colaboración activa; SharePoint Embedded como primera instancia de archivado, por cliente; y Microsoft 365 Archive como almacenamiento frío de largo plazo. Separarlo en capas nos permite escalar cada parte por su cuenta y controlar los costos de almacenamiento según el ciclo de vida de cada expediente. En la Imagen 1 les dejo la arquitectura completa.
 
-![Arquitectura del gestor documental](images/diagram_arquitectura.png)
+![Arquitectura del gestor documental](../images/diagram_arquitectura.png)
 
 *Imagen 1.- Arquitectura del gestor documental: colecciones de sitios por cliente en SharePoint Online, con archivado en SharePoint Embedded (Tier 1) y Microsoft 365 Archive (Tier 2).*
 
@@ -38,7 +42,7 @@ Dentro de cada colección de sitios la cosa se organiza en dos piezas: el Expedi
 
 El concepto de expediente es el eje que ordena toda la información del gestor. Acá distingo dos niveles bien diferentes, tal como van a ver en la Imagen 2.
 
-![Modelo de expedientes](images/diagram_expedientes.png)
+![Modelo de expedientes](../images/diagram_expedientes.png)
 
 *Imagen 2.- Modelo de expedientes: el sitio del cliente alberga el Expediente del Cliente y una biblioteca de documentos por cada tipo de producto contratado.*
 
