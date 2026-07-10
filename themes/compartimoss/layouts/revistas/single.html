@@ -56,6 +56,9 @@
   <div class="content">
     {{ .Content | markdownify}}
   </div>
+  {{ if in .Params.keywords "Entrevista" }}
+  <p><strong>Entrevista realizada por Alberto Díaz Martín</strong><br>Director de CompartiMOSS</p>
+  {{ end }}
 
   <!-- Magazine Info -->
   <div class="magazine-box">
