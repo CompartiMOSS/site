@@ -56,6 +56,18 @@
   <div class="content">
     {{ .Content | markdownify}}
   </div>
+  {{ $isInterview := false }}
+  {{ range .Params.keywords }}
+    {{ if eq (lower .) "entrevista" }}
+      {{ $isInterview = true }}
+    {{ end }}
+  {{ end }}
+  {{ if $isInterview }}
+  <footer class="interview-signature" aria-label="Créditos de la entrevista">
+    <p><strong>Entrevista realizada por <a href="https://www.compartimoss.com/autores/alberto-diaz-martin/">Alberto Díaz Martín</a></strong></p>
+    <p>Director de CompartiMOSS</p>
+  </footer>
+  {{ end }}
 
   <!-- Magazine Info -->
   <div class="magazine-box">
