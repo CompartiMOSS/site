@@ -57,10 +57,10 @@
     {{ .Content | markdownify}}
   </div>
   {{ if in .Params.keywords "Entrevista" }}
-  <div>
-    <strong>Entrevista realizada por Alberto Díaz Martín</strong>
-    <div>Director de CompartiMOSS</div>
-  </div>
+  <footer class="interview-signature" aria-label="Créditos de la entrevista">
+    <p><strong>Entrevista realizada por Alberto Díaz Martín</strong></p>
+    <p>Director de CompartiMOSS</p>
+  </footer>
   {{ end }}
 
   <!-- Magazine Info -->
