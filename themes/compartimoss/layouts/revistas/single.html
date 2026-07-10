@@ -56,7 +56,13 @@
   <div class="content">
     {{ .Content | markdownify}}
   </div>
-  {{ if in (apply .Params.keywords "lower" ".") "entrevista" }}
+  {{ $isInterview := false }}
+  {{ range .Params.keywords }}
+    {{ if eq (lower .) "entrevista" }}
+      {{ $isInterview = true }}
+    {{ end }}
+  {{ end }}
+  {{ if $isInterview }}
   <footer class="interview-signature" aria-label="Créditos de la entrevista">
     <p><strong>Entrevista realizada por Alberto Díaz Martín</strong></p>
     <p>Director de CompartiMOSS</p>
