@@ -2,7 +2,7 @@
 title: "Gestión Documental Empresarial con Microsoft 365: un caso de uso que aplica a cualquier sector, con foco en el financiero"
 date: 2026-06-08
 excerpt: "En este artículo les presento la arquitectura de un gestor documental empresarial sobre Microsoft 365 y SharePoint Online, pensado para organizaciones que administran múltiples productos por cliente. Vamos a recorrer la estructura de expedientes, los tipos de contenido, el modelo de metadatos, el ciclo de vida documental, el archivado inteligente y las capacidades de búsqueda. Este escenario es el hilo conductor de la serie sobre ECM que vamos a ir desarrollando en los próximos números de la revista."
-author: "Fabian Iman"
+author: "Fabian Imaz"
 authorSlug: "fabian-imaz"
 image: "../images/diagram_arquitectura.png"
 category: "ECM"
