@@ -2,7 +2,7 @@
 title: "Licencias para ECM en Microsoft 365: cómo elegir sin gastar de más"
 date: 2026-07-31
 excerpt: "El modelo de licencias de Microsoft 365 es uno de los primeros temas que hay que resolver antes de diseñar cualquier arquitectura ECM. En este artículo recorro el mapa completo: planes Enterprise (E3, E5, E7), planes Business, licencias Frontline y los servicios de pago por uso como SharePoint Embedded, Microsoft 365 Archive y Purview. Aunque uso el sector financiero como referencia —por ser uno de los más exigentes en cumplimiento y volumen—, la guía aplica a cualquier organización que necesite ordenar su gestión documental, sea cual sea su rubro."
-author: "Fabian Iman"
+author: "Fabian Imaz"
 authorSlug: "fabian-imaz"
 image: "../images/diagram_decision_licencias.png"
 category: "ECM"
