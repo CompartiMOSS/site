@@ -1,3 +1,12 @@
+---
+title: "Estructura Documental en SharePoint Online: la base sobre la que se sostiene todo lo demás"
+date: 2026-06-08
+excerpt: "En este artículo les presento la arquitectura de contenido que da sustento al gestor documental empresarial que vamos construyendo en la serie. Cubrimos la jerarquía de sitios modernos en SharePoint Online —Communication Sites vs. Team Sites, hub sites como concentradores, colecciones de sitios como unidad de aislamiento—, el rol del Content Type Hub en la herencia de tipos de contenido, y el cambio de paradigma más importante: organizar con metadatos en lugar de carpetas. Aunque el escenario de referencia es el sector financiero, todo lo que vemos acá aplica a cualquier organización que quiera construir una base documental que escale y se pueda gobernar."
+author: "Fabian Imaz"
+authorSlug: "fabian-imaz"
+image: "../images/diagram_jerarquia_sitios.png"
+category: "ECM"
+---
 # Estructura Documental en SharePoint Online: la base sobre la que se sostiene todo lo demás
 
 **Resumen:** En este artículo les presento la arquitectura de contenido que da sustento al gestor documental empresarial que vamos construyendo en la serie. Cubrimos la jerarquía de sitios modernos en SharePoint Online —Communication Sites vs. Team Sites, hub sites como concentradores, colecciones de sitios como unidad de aislamiento—, el rol del Content Type Hub en la herencia de tipos de contenido, y el cambio de paradigma más importante: organizar con metadatos en lugar de carpetas. Aunque el escenario de referencia es el sector financiero, todo lo que vemos acá aplica a cualquier organización que quiera construir una base documental que escale y se pueda gobernar.
